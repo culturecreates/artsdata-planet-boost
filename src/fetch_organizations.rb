@@ -40,8 +40,15 @@ data = rows.map do |row|
   }
 end
 
-data = data[0..255] # Limit to first 256 rows for testing
+batch_size = 50
+batches = data.each_slice(batch_size).to_a
 
-File.write("wikidata_orgs.json", JSON.pretty_generate(data))
+batches.each_with_index do |batch, i|
+  file_index = i + 1
+  file_name = "wikidata_orgs_#{file_index}.json"
+  File.write(file_name, JSON.pretty_generate(batch))
+  puts "Saved #{batch.size} rows to #{file_name}"
+end
 
-puts "Saved #{data.size} rows to wikidata_orgs.json"
+puts "Total records: #{data.size}"
+puts "Total batch files created: #{batches.size}"

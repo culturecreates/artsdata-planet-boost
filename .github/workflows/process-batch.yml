@@ -1,0 +1,39 @@
+name: Process Organization Batch
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_file:
+        required: true
+        type: string
+        description: 'The batch JSON file to process'   
+
+jobs:
+  load_json:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.load.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: load
+        run: |
+          echo "Loading file ${{ github.event.inputs.batch_file }}"
+          MATRIX=$(cat "${{ github.event.inputs.batch_file }}" | jq -c .)
+          echo "matrix=${MATRIX}" >> $GITHUB_OUTPUT
+
+  run_matrix:
+    needs: load_json
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 20
+      matrix:
+        org: ${{ fromJson(needs.load_json.outputs.matrix) }}
+
+    steps:
+      - name: Process organization
+        run: |
+          sleep 10
+          echo "Processing organization:"
+          echo "- URL: ${{ matrix.org.url }}"
+          echo "- ID:  ${{ matrix.org.artifact }}"

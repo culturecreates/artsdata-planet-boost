@@ -1,0 +1,28 @@
+name: Controller - Dispatch Org Batches
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dispatch_batches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Find batch files
+        id: batches
+        run: |
+          FILES=$(ls wikidata_orgs_*.json)
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Dispatch Batch Processor workflows
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for f in ${{ steps.batches.outputs.files }}; do
+            echo "Dispatching batch for $f"
+            gh workflow run process-batch.yml -f batch_file="$f"
+          done
