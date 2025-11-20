@@ -1,0 +1,202 @@
+[
+  {
+    "@id": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-rankings",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Queen's Gazette"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-rankings"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Queen’s places seventh in Maclean’s rankings | Queen's Gazette"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "The university ranks highly in student retention, graduation rates, innovation, and national reputation."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://www.queensu.ca/gazette/sites/gazettewww/files/2024-10/WEB%20Macleans%2020221006%20FallColours%20060.JPG"
+      }
+    ],
+    "https://ogp.me/ns#image:url": [
+      {
+        "@language": "en",
+        "@value": "https://www.queensu.ca/gazette/sites/gazettewww/files/2024-10/WEB%20Macleans%2020221006%20FallColours%20060.JPG"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-rankings"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469640",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.queensu.ca/gazette/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Queen's Gazette"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.queensu.ca/temporary/ce5fcf58-6b00-4dca-9923-6c7ee4631934",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.queensu.ca/gazette/sites/gazettewww/files/styles/medium_teaser/public/2024-10/WEB%20Macleans%2020221006%20FallColours%20060.JPG?itok=fXPSuFsF"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g469640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-rankings"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Queen’s places seventh in Maclean’s rankings"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-2026-rankings",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Queen's Gazette"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-2026-rankings"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Queen’s places seventh in Maclean’s 2026 rankings | Queen's Gazette"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "The university maintains its position in the list, and several of its programs are named nationwide standouts."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://www.queensu.ca/gazette/sites/gazettewww/files/2025-10/DJI_20241016172659_0717_D-HDR.png"
+      }
+    ],
+    "https://ogp.me/ns#image:url": [
+      {
+        "@language": "en",
+        "@value": "https://www.queensu.ca/gazette/sites/gazettewww/files/2025-10/DJI_20241016172659_0717_D-HDR.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-2026-rankings"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478380",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.queensu.ca/gazette/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Queen's Gazette"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.queensu.ca/temporary/3eb0db3c-a5de-4978-9ff3-7374d30583e3",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.queensu.ca/gazette/sites/gazettewww/files/styles/medium_teaser/public/2025-10/DJI_20241016172659_0717_D-HDR.png?itok=SMqkr1sY"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g478380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.queensu.ca/gazette/stories/queen-s-places-seventh-maclean-s-2026-rankings"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Queen’s places seventh in Maclean’s 2026 rankings"
+      }
+    ]
+  }
+]
