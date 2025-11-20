@@ -1,0 +1,5426 @@
+[
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/un-mois-davril-tout-en-spectacle/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un mois d'avril tout en spectacle"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Marcus Quirion, Marie Onile, James Forest, café-concert Dominique Quesnel dans un hommage à Leonard Cohen et le conte jeunesse « Le Petit Poucet »."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/un-mois-davril-tout-en-spectacle/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-03-14T00:33:39+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-05-17T14:02:54+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g487080"
+      },
+      {
+        "@id": "_:g498320"
+      },
+      {
+        "@id": "_:g509500"
+      },
+      {
+        "@id": "_:g520600"
+      },
+      {
+        "@id": "_:g531680"
+      },
+      {
+        "@id": "_:g654040"
+      },
+      {
+        "@id": "_:g708220"
+      },
+      {
+        "@id": "_:g719540"
+      },
+      {
+        "@id": "_:g730760"
+      },
+      {
+        "@id": "_:g741940"
+      },
+      {
+        "@id": "_:g753280"
+      },
+      {
+        "@id": "_:g764700"
+      },
+      {
+        "@id": "_:g884120"
+      },
+      {
+        "@id": "_:g980080"
+      },
+      {
+        "@id": "_:g991280"
+      },
+      {
+        "@id": "_:g1002480"
+      },
+      {
+        "@id": "_:g1013640"
+      },
+      {
+        "@id": "_:g1024780"
+      },
+      {
+        "@id": "_:g1035880"
+      },
+      {
+        "@id": "_:g1047220"
+      },
+      {
+        "@id": "_:g1058360"
+      },
+      {
+        "@id": "_:g1069500"
+      },
+      {
+        "@id": "_:g1080620"
+      },
+      {
+        "@id": "_:g1092100"
+      },
+      {
+        "@id": "_:g1103620"
+      },
+      {
+        "@id": "_:g1114740"
+      },
+      {
+        "@id": "_:g1125800"
+      },
+      {
+        "@id": "_:g1136920"
+      },
+      {
+        "@id": "_:g1148100"
+      },
+      {
+        "@id": "_:g1159180"
+      },
+      {
+        "@id": "_:g1170200"
+      },
+      {
+        "@id": "_:g1181880"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Chanson, Country, Café-Concert, Humour, Ateliers."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498320",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520600",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g531680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g654040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g708220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g730760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g741940",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g753280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884120",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g980080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g991280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1002480",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1013640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1024780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1035880",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1058360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1069500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1080620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1092100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1103620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1114740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1125800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1136920",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1148100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1159180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1170200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1181880",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/un-mois-davril-tout-en-spectacle/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/un-mois-davril-tout-en-spectacle/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-03-14T00:33:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-17T14:02:54+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/c37abec5c2a558d6412f054dfab081a8"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/un-mois-davril-tout-en-spectacle/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g487100"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un mois d'avril tout en spectacle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Marcus Quirion, Marie Onile, James Forest, café-concert Dominique Quesnel dans un hommage à Leonard Cohen et le conte jeunesse « Le Petit Poucet »."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/#/schema/person/c37abec5c2a558d6412f054dfab081a8",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ProjexMedia"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/un-mois-davril-tout-en-spectacle/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/des-spectacles-pour-tout-le-monde-a-noel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Des spectacles pour tout le monde à Noel ! - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La saison des Fêtes arrive à grands pas et vous manquez d’idées-cadeaux pour les bas de Noel ? Pas de problème ! Il y a des spectacles pour tout le monde. C’est parfait pour sortir vos parents, gâter votre conjoint(e), faire rire vos amis ou partager des moments en famille. […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/des-spectacles-pour-tout-le-monde-a-noel/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-12-01T14:41:12+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-11-12T14:42:15+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/des-spectacles-pour-tout-le-monde-a-noel/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/des-spectacles-pour-tout-le-monde-a-noel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-12-01T14:41:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-11-12T14:42:15+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/des-spectacles-pour-tout-le-monde-a-noel/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g498340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Des spectacles pour tout le monde à Noel ! - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "PavillonCoaticook"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/des-spectacles-pour-tout-le-monde-a-noel/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/covid-19-pas-dannulation-de-spectacles-pour-linstant/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "COVID-19 - pas d'annulation de spectacles pour l'instant - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "COVID-19 – Mise à jour du 12 mars 2020 Les spectacles programmés au Pavillon des arts sont maintenus. Le Gouvernement du Québec a annoncé ce matin que les rassemblements de 250 personnes ou plus étaient désormais interdits. Le Pavillon n’est pas touché par cette mesure et poursuit donc ses activités […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/covid-19-pas-dannulation-de-spectacles-pour-linstant/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-03-12T19:02:07+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/covid-19-pas-dannulation-de-spectacles-pour-linstant/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/covid-19-pas-dannulation-de-spectacles-pour-linstant/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-12T19:02:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-12T19:02:07+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/covid-19-pas-dannulation-de-spectacles-pour-linstant/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g509520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "COVID-19 - pas d'annulation de spectacles pour l'instant - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/covid-19-pas-dannulation-de-spectacles-pour-linstant/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/les-spectacles-de-14-et-15-mars-sont-maintenus-au-pavillon/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les spectacles de 14 et 15 mars sont maintenus au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Coaticook, le 13 mars 2020. La sécurité du public, des artistes et des employés est une priorité pour le Pavillon des arts de Coaticook.  Nous restons à l’affût de l’évolution de la situation et nous suivons les instructions de l’Agence de la santé publique du Canada et du Gouvernement du […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/les-spectacles-de-14-et-15-mars-sont-maintenus-au-pavillon/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-03-13T15:29:23+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/les-spectacles-de-14-et-15-mars-sont-maintenus-au-pavillon/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/les-spectacles-de-14-et-15-mars-sont-maintenus-au-pavillon/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-13T15:29:23+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-13T15:29:23+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/les-spectacles-de-14-et-15-mars-sont-maintenus-au-pavillon/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g520620"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les spectacles de 14 et 15 mars sont maintenus au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520620",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/les-spectacles-de-14-et-15-mars-sont-maintenus-au-pavillon/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/annulation-des-spectacles-au-pavillon/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Annulation des spectacles au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Coaticook, le 14 mars 2020. Le premier ministre du Québec, lors d’une conférence de presse tenue à 13 h aujourd’hui, a décrété l’état d’urgence sanitaire. Le ministère de la Culture et des Communications vient également d’émettre un communiqué de presse dans lequel il demande à tous les gestionnaires de salles […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/annulation-des-spectacles-au-pavillon/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-03-14T21:01:34+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/annulation-des-spectacles-au-pavillon/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/annulation-des-spectacles-au-pavillon/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-14T21:01:34+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-14T21:01:34+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/annulation-des-spectacles-au-pavillon/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g531700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annulation des spectacles au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g531700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/annulation-des-spectacles-au-pavillon/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/offre-demploi-agent-e-accueil-et-billetterie/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Offre d'emploi : agent.e accueil et billetterie - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Vous êtes reconnu(e) pour votre service à la clientèle irréprochable et votre sourire inoubliable? Vous avez envie de vivre une expérience de travail unique? On a l’emploi qu’il vous faut! Ce que vous ferez : Accueillir les clients Suggérer des spectacles et répondre aux questions Opérer le système informatique Tuxedo […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/offre-demploi-agent-e-accueil-et-billetterie/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-03-09T17:09:31+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/offre-demploi-agent-e-accueil-et-billetterie/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/offre-demploi-agent-e-accueil-et-billetterie/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-03-09T17:09:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-03-09T17:09:31+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/offre-demploi-agent-e-accueil-et-billetterie/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g654060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Offre d'emploi : agent.e accueil et billetterie - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g654060",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/offre-demploi-agent-e-accueil-et-billetterie/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/musique-humour-et-spectacle-jeunesse/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Musique, humour et spectacle jeunesse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Avec le printemps qui approche, c’est le temps de faire le plein de découverte musicale ou humoristique. Pop, rock, jazz, trad irlandais, une programmation musicale des plus variée."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/musique-humour-et-spectacle-jeunesse/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-02-15T20:06:06+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-23T18:10:59+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/musique-humour-et-spectacle-jeunesse/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/musique-humour-et-spectacle-jeunesse/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-02-15T20:06:06+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-23T18:10:59+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/musique-humour-et-spectacle-jeunesse/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g708240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Musique, humour et spectacle jeunesse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec le printemps qui approche, c’est le temps de faire le plein de découverte musicale ou humoristique. Pop, rock, jazz, trad irlandais, une programmation musicale des plus variée."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Projex Media"
+      }
+    ]
+  },
+  {
+    "@id": "_:g708240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/musique-humour-et-spectacle-jeunesse/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/une-programmation-variee-pour-fevrier/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Une programmation variée pour février"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le reggae de Soran nous rappelle le soleil de la Jamaïque tandis que la musique poétique de Mehdi Cayenne rend les tâches du quotidien beaucoup plus agréable."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/une-programmation-variee-pour-fevrier/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-01-23T20:07:35+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-05-14T19:21:46+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/une-programmation-variee-pour-fevrier/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/une-programmation-variee-pour-fevrier/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-01-23T20:07:35+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-14T19:21:46+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/une-programmation-variee-pour-fevrier/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g719560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Une programmation variée pour février"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le reggae de Soran nous rappelle le soleil de la Jamaïque tandis que la musique poétique de Mehdi Cayenne rend les tâches du quotidien beaucoup plus agréable."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719560",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/une-programmation-variee-pour-fevrier/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-jerome-50-est-annule/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le spectacle de Jérôme 50 est annulé - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le prolongement de la période de confinement a amené le Pavillon à annuler le spectacle de Jérôme 50. Les détenteurs de billets seront remboursés lorsque le Gouvernement donnera l’autorisation d’ouvrir de nouveau les bureaux. Ceux qui le désirent pourront obtenir une carte cadeau utilisable pour l’ensemble des spectacles prévus jusqu’au […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-jerome-50-est-annule/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-04-16T18:26:21+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-04-16T18:36:26+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-jerome-50-est-annule/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-jerome-50-est-annule/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-16T18:26:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-16T18:36:26+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-jerome-50-est-annule/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g730780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le spectacle de Jérôme 50 est annulé - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g730780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-jerome-50-est-annule/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-guy-nantel-trouve-une-nouvelle-date/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le spectacle de Guy Nantel trouve une nouvelle date - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "En raison de la pandémie de la COVID-19, le spectacle de Guy Nantel, prévu le 27 mars 2020, n’a pas pu avoir lieu. Grâce à la collaboration de l’équipe de Guy Nantel, il a été possible de reporter le spectacle au 27 février 2021 à 20h. Les billets déjà achetés […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-guy-nantel-trouve-une-nouvelle-date/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-06-02T19:43:41+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-guy-nantel-trouve-une-nouvelle-date/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-guy-nantel-trouve-une-nouvelle-date/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-02T19:43:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-02T19:43:41+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-guy-nantel-trouve-une-nouvelle-date/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g741960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le spectacle de Guy Nantel trouve une nouvelle date - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g741960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-spectacle-de-guy-nantel-trouve-une-nouvelle-date/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/gowan-en-spectacle-virtuel-le-16-juillet/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Gowan en spectacle virtuel le 16 juillet - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le deuxième spectacle de la série Meilleur en SALLE sera diffusé le 16 juillet à 20 h 30 et mettra en vedette l’artiste canadien Gowan. Très populaire au Québec et ailleurs dans le monde dans les années 80 et 90, Gowan est le claviériste et le chanteur principal du légendaire […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/gowan-en-spectacle-virtuel-le-16-juillet/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-14T12:33:17+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-21T19:23:45+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/gowan-en-spectacle-virtuel-le-16-juillet/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/gowan-en-spectacle-virtuel-le-16-juillet/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-14T12:33:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-21T19:23:45+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/gowan-en-spectacle-virtuel-le-16-juillet/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g753300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Gowan en spectacle virtuel le 16 juillet - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g753300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/gowan-en-spectacle-virtuel-le-16-juillet/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/assistez-a-notre-5e-spectacle-virtuel-avec-sara-dufour/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Assistez à notre 5e spectacle virtuel avec Sara Dufour - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le 5e spectacle de cette série virtuelle aura lieu le 12 septembre à 20 h 30. Cet événement mettra en vedette la chanteuse originaire du Lac-Saint-Jean Sara Dufour. La prestation sera filmée en direct de la salle Méchatigan (Ovascène) à Sainte-Marie-de-Beauce. L’humoriste Pierre-Yves Roy-Desmarais assurera l’animation. Lors d’un spectacle de […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/assistez-a-notre-5e-spectacle-virtuel-avec-sara-dufour/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-09-01T15:54:37+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-09-01T15:56:12+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2020/09/Sarah-Dufour.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "795"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "500"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/assistez-a-notre-5e-spectacle-virtuel-avec-sara-dufour/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/assistez-a-notre-5e-spectacle-virtuel-avec-sara-dufour/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-09-01T15:54:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-09-01T15:56:12+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/assistez-a-notre-5e-spectacle-virtuel-avec-sara-dufour/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g764720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Assistez à notre 5e spectacle virtuel avec Sara Dufour - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/assistez-a-notre-5e-spectacle-virtuel-avec-sara-dufour/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un bilan de l'année 2020 positif malgré tout - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "L’assemblée générale annuelle du Pavillon des arts de Coaticook a été l’occasion de faire le bilan d’une année 2020 pour le moins rocambolesque. Après avoir fermé ses portes une première fois en mars puis en novembre 2020, le Pavillon a tout de même réussi à finir l’année en beauté. Malgré […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-06-23T15:06:27+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2021/06/Administrateurs-du-Pavillon-2021-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "2560"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2021/06/Administrateurs-du-Pavillon-2021-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2021/06/Administrateurs-du-Pavillon-2021-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/#primaryimage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-23T15:06:27+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-23T15:06:27+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g884140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un bilan de l'année 2020 positif malgré tout - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884140",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/un-bilan-de-lannee-2020-positif-malgre-tout/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1874/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1874 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1874/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1874-06-05T19:33:47+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:37:42+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1874/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1874/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1874-06-05T19:33:47+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:37:42+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1874/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g980100"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1874 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g980100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1874/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1997-1998/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1997 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1997-1998/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1998-10-15T18:37:50+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:40:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1997-1998/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1997-1998/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1998-10-15T18:37:50+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:40:30+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1997-1998/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g991300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1997 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g991300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1997-1998/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/2013-2014/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "2013 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/2013-2014/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2014-12-10T19:39:12+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:43:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/2013-2014/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/2013-2014/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-12-10T19:39:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:43:04+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/2013-2014/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1002500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "2013 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1002500",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/2013-2014/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1996/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1996 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1996/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1996-02-21T19:36:59+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:43:10+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1996/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1996/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1996-02-21T19:36:59+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:43:10+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1996/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1013660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1996 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1013660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1996/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1993/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1993 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1993/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1993-09-08T18:35:27+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:43:18+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1993/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1993/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1993-09-08T18:35:27+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:43:18+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1993/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1024800"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1993 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1024800",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1993/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/2017-2018/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "2017 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/2017-2018/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2018-11-01T18:39:43+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:43:35+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/2017-2018/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/2017-2018/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-11-01T18:39:43+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:43:35+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/2017-2018/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1035900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "2017 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1035900",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/2017-2018/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1998/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1998 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1998/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1998-07-12T18:38:33+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:43:57+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1998/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1998/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1998-07-12T18:38:33+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:43:57+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1998/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1047240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1998 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1998/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1995/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1995 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1995/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1995-04-26T18:36:08+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:44:27+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1995/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1995/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1995-04-26T18:36:08+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:44:27+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1995/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1058380"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1995 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1058380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1995/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1923/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "1923 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/1923/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "1923-03-11T19:34:44+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-04-26T20:44:38+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/1923/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1923/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1923-03-11T19:34:44+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-26T20:44:38+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/f15f4d580eadfec307164a68cb019911"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/1923/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1069520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "1923 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1069520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/1923/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/enfantastiques/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les Enfantastiques - Spectacle de jeunes talents"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Si tu chante, danses, joues d’un instrument de musique, composes des textes que tu es bon comédien ou encore que tu peux faire rire une foule alors, inscris-toi pour avoir la chance de faire partie du spectacle."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/enfantastiques/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-02-20T18:20:02+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-05-17T14:04:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/enfantastiques.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/enfantastiques/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/enfantastiques.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/enfantastiques.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "776"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/enfantastiques/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/enfantastiques/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/enfantastiques/#primaryimage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-02-20T18:20:02+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-17T14:04:09+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/c37abec5c2a558d6412f054dfab081a8"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/enfantastiques/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1080640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Enfantastiques - Spectacle de jeunes talents"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Si tu chante, danses, joues d’un instrument de musique, composes des textes que tu es bon comédien ou encore que tu peux faire rire une foule alors, inscris-toi pour avoir la chance de faire partie du spectacle."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1080640",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/enfantastiques/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Salon des artisans de Coaticook : des idées-cadeaux pour Noel - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pour une 19e année consécutive, les habitants de Coaticook et de la région pourront débuter leur magasinage des Fêtes au Salon des artisans du Pavillon des arts et de la culture de Coaticook. Cette année, ce sont plus de 35 artisans qui seront sur place afin de vous proposer des […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-11-12T14:40:01+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://d255t58ly9od3f.cloudfront.net/wp-content/uploads/2019/11/Pub-salon-noel-epure.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "3808"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "2188"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2019/11/Pub-salon-noel-epure.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2019/11/Pub-salon-noel-epure.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3808"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2188"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/#primaryimage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-11-12T14:40:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-11-12T14:40:01+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1092120"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salon des artisans de Coaticook : des idées-cadeaux pour Noel - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1092120",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/salon-des-artisans-de-coaticook-des-idees-cadeaux-pour-noel/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-est-temporairement-ferme-au-public/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Pavillon des arts est temporairement fermé au public - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Coaticook, le 16 mars 2020. Le premier ministre du Québec, François Legault, a annoncé hier, le 15 mars, que le gouvernement du Québec exige la fermeture de plusieurs commerces, endroits publics et lieux de rassemblement, et ce, jusqu’au 30 mars prochain. Les salles de spectacle font partie des institutions touchées […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-est-temporairement-ferme-au-public/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-03-16T14:05:35+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-03-16T15:26:29+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-est-temporairement-ferme-au-public/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-est-temporairement-ferme-au-public/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-16T14:05:35+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-16T15:26:29+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-est-temporairement-ferme-au-public/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1103640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Pavillon des arts est temporairement fermé au public - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1103640",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-est-temporairement-ferme-au-public/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-demeure-ferme-jusquau-4-mai/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Pavillon des arts demeure fermé jusqu'au 4 mai - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-demeure-ferme-jusquau-4-mai/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-04-07T19:33:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-demeure-ferme-jusquau-4-mai/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-demeure-ferme-jusquau-4-mai/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-07T19:33:09+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-07T19:33:09+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-demeure-ferme-jusquau-4-mai/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1114760"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Pavillon des arts demeure fermé jusqu'au 4 mai - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1114760",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-demeure-ferme-jusquau-4-mai/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/les-arts-vivants-le-coeur-du-quebec-se-remet-a-battre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les arts vivants : le cœur du Québec se remet à battre - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "En raison des circonstances actuelles, le milieu des arts vivants a été mis sur pause. En attendant la relance du secteur culturel, 17 diffuseurs de Réseau Centre, dont le Pavillon des arts et de la culture de Coaticook, ont décidé d’unir leurs forces afin d’offrir aux spectateurs une série de […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/les-arts-vivants-le-coeur-du-quebec-se-remet-a-battre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-06-10T13:25:03+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/les-arts-vivants-le-coeur-du-quebec-se-remet-a-battre/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/les-arts-vivants-le-coeur-du-quebec-se-remet-a-battre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-10T13:25:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-10T13:25:03+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/les-arts-vivants-le-coeur-du-quebec-se-remet-a-battre/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1125820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les arts vivants : le cœur du Québec se remet à battre - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1125820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/les-arts-vivants-le-coeur-du-quebec-se-remet-a-battre/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/faites-carriere-au-pavillon-des-arts-de-coaticook/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Faites carrière au Pavillon des arts de Coaticook - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Pavillon des arts de Coaticook est à la recherche d’un(e ) coordonnateur(trice) de l’accueil et du bar. Résumé des fonctions Sous l’autorité de la direction générale, le (la) coordonnateur(trice) de l’accueil et du bar est en charge de l’accueil, de la gestion du bar, du vestiaire, des bénévoles et […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/faites-carriere-au-pavillon-des-arts-de-coaticook/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-22T15:21:56+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-22T20:39:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/faites-carriere-au-pavillon-des-arts-de-coaticook/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/faites-carriere-au-pavillon-des-arts-de-coaticook/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-22T15:21:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-22T20:39:09+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/faites-carriere-au-pavillon-des-arts-de-coaticook/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1136940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Faites carrière au Pavillon des arts de Coaticook - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1136940",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/faites-carriere-au-pavillon-des-arts-de-coaticook/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-recrute/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Pavillon des arts recrute - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Pavillon des arts de Coaticook est à la recherche d’un.e adjoint.e administratif.ve Sous la responsabilité de la directrice générale, l’adjoint.e apporte un soutien administratif pour l’ensemble des activités du Pavillon. Dynamique et professionnelle, cette personne fait preuve d’esprit d’équipe et possède de solides connaissances en administration. Elle assure également […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-recrute/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-31T16:32:17+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-31T16:36:26+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-recrute/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-recrute/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-31T16:32:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-31T16:36:26+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-recrute/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1148120"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Pavillon des arts recrute - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1148120",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/le-pavillon-des-arts-recrute/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/une-assemblee-generale-en-personne-au-pavillon/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Une assemblée générale en personne au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Après plusieurs mois de fermeture, le conseil d’administration du Pavillon a décidé de tenir la prochaine assemblée générale annuelle en personne! En raison de la pandémie, le Pavillon des arts a dû reporter son assemblée générale annuelle. Celle-ci aura lieu le mercredi 16 septembre à 19h au Pavillon des arts. Ce […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/une-assemblee-generale-en-personne-au-pavillon/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-08-27T18:33:56+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/une-assemblee-generale-en-personne-au-pavillon/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/une-assemblee-generale-en-personne-au-pavillon/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-08-27T18:33:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-08-27T18:33:56+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/une-assemblee-generale-en-personne-au-pavillon/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1159200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Une assemblée générale en personne au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1159200",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/une-assemblee-generale-en-personne-au-pavillon/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Tim Brink fera deux représentations au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Tim Brink offrira deux représentations le 12 septembre prochain. Son spectacle avait été déplacé en raison de la pandémie de la COVID 19.  Avec la distanciation sociale exigée dans les salles de spectacle, la capacité d’accueil du Pavillon est passée de 200 à 60 places. Comme plus de 80 personnes […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-08-31T11:58:17+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Tim-Brink-2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "910"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Tim-Brink-2.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Tim-Brink-2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "910"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/#primaryimage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-08-31T11:58:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-08-31T11:58:17+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1170220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Tim Brink fera deux représentations au Pavillon - Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1170220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/nouvelles/tim-brink-fera-deux-representations-au-pavillon/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/2020-2022/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "2017 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/historique/2020-2022/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-04-26T13:28:10+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-07-28T13:29:44+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://pavilloncoaticook.com/wp-content/uploads/2019/04/Facebook-PACC.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://pavilloncoaticook.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://pavilloncoaticook.com/historique/2020-2022/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/2020-2022/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://pavilloncoaticook.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-26T13:28:10+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-28T13:29:44+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://pavilloncoaticook.com/#/schema/person/9942e3f610e50c6a9ccb10c3d0eca568"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://pavilloncoaticook.com/historique/2020-2022/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1181900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Historique du Pavillon des arts et de la culture de Coaticook"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "2017 - Historique du Pavillon des arts et de la culture de Coaticook, de 1923 à aujourd'hui."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1181900",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://pavilloncoaticook.com/historique/2020-2022/"
+      }
+    ]
+  }
+]
