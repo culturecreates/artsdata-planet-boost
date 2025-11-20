@@ -1,0 +1,3682 @@
+[
+  {
+    "@id": "http://www.savoytheatre.com/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464460",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464480",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464840",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464860",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465080",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465100",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/d8645db9-f4bf-45a3-8d1b-1657e5991ac0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464460"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464480"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/7464caa6-84f6-4830-8c0c-e9f49d88c492",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464840"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464860"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/68dc0a9a-da32-45cb-847b-59c45eb53aa9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465060"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465080"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465100"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/06/MOTD-December-Coal-box-office-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;This Christmas, the jolly miners return to the Savoy Theatre with a brand-new holiday concert —&nbsp;&lt;strong&gt;December Coal&lt;/strong&gt;. Join&nbsp;&lt;strong&gt;The Men of the Deeps&lt;/strong&gt;&nbsp;as they serve up a heartwarming blend of festive favourites and original songs from their latest recording.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;This year’s show marks a historic moment: a fond farewell to founding member&nbsp;&lt;strong&gt;Jim MacLellan&lt;/strong&gt;, who will take the stage one final time after six decades with the group.&lt;/p&gt; &lt;p&gt;Also featuring special guest&nbsp;&lt;strong&gt;Jenn Sheppard&lt;/strong&gt;, bringing her dynamic vocals and her hilariously unfiltered alter ego&nbsp;&lt;em&gt;Ellsa&lt;/em&gt;&nbsp;to the holiday stage.&lt;/p&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Men of the Deeps: December Coal Concert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/51b8cf5e-83b8-4fa8-b53d-7c0cc5f89d6a",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://www.savoytheatre.com/#startDate": [
+      {
+        "@value": "20 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/a02701da-5ef5-4fd3-8a48-7ba1e0507e3f",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://www.savoytheatre.com/#startDate": [
+      {
+        "@value": "21 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/ec380a47-31d6-4c34-8f24-dbb5939a6b03",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://www.savoytheatre.com/#startDate": [
+      {
+        "@value": "22 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/events/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g478160",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g478180",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g478480",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g478500",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g478680",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g478700",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479060",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479080",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479260",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479280",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479460",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479480",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479660",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479680",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479860",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g479880",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480180",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480200",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-03T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480420",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480440",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480620",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480640",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g480840",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/cicb2025/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$54.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/9f93f383-4b7b-4327-8adf-360d3e4e5d17",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g478140"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g478160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g478180"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/f5f3de3d-2a6f-4f78-8828-c97620c74264",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g478460"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g478480"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g478500"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/ba7549d8-4e34-40fd-bc9a-8714483416c5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g478660"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g478680"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g478700"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/06/MOTD-December-Coal-box-office-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;This Christmas, the jolly miners return to the Savoy Theatre with a brand-new holiday concert —&nbsp;&lt;strong&gt;December Coal&lt;/strong&gt;. Join&nbsp;&lt;strong&gt;The Men of the Deeps&lt;/strong&gt;&nbsp;as they serve up a heartwarming blend of festive favourites and original songs from their latest recording.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;This year’s show marks a historic moment: a fond farewell to founding member&nbsp;&lt;strong&gt;Jim MacLellan&lt;/strong&gt;, who will take the stage one final time after six decades with the group.&lt;/p&gt; &lt;p&gt;Also featuring special guest&nbsp;&lt;strong&gt;Jenn Sheppard&lt;/strong&gt;, bringing her dynamic vocals and her hilariously unfiltered alter ego&nbsp;&lt;em&gt;Ellsa&lt;/em&gt;&nbsp;to the holiday stage.&lt;/p&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Men of the Deeps: December Coal Concert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/0777e92a-bd31-419b-92aa-21de6ca473d6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479040"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g479060"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479080"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/2b86f0a2-75b3-4f9a-931c-5132b5e21b7a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g479260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/70e858d4-daf8-4834-8098-a3518d41d237",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g479460"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479480"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/54e2fd8c-12de-4aac-90a7-ad188b3b56d1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479640"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g479660"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479680"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/ca236a1e-964e-4bdc-ac42-1ecebed7d99a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g479860"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479880"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/e7f54a2f-af65-4a55-b95e-d63dd648f37a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-03"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-03"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g480160"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g480180"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g480200"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/f7e8b948-2f85-4368-a956-4fd9bf8876c7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g480400"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g480420"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g480440"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/3e83cf87-7110-48df-8978-b4d3b8c4be8f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g480600"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g480620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g480640"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/1f8da2d9-c9ab-4de2-81a3-89e4e47d15a2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g480800"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g480820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g480840"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/07/thumbnail_2025-CICB-200x250-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/cicb2025/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;Following last year’s completely sold-out tour of Nova Scotia and Prince Edward Island in,&nbsp;&lt;b&gt;Christmas in Cape Breton&lt;/b&gt;&nbsp;returns with a new show guaranteed to cause laughter! The show, starring&nbsp;&lt;b&gt;Bette MacDonald&lt;/b&gt;&nbsp;– who Rick Mercer has called “the funniest woman on earth” – and&nbsp;&lt;b&gt;Maynard Morrison&lt;/b&gt;&nbsp;and a premier cast of multi-talented performers including Celtic stars and&nbsp;&lt;i&gt;Beolach&lt;/i&gt;&nbsp;members,&nbsp;&lt;b&gt;Mac Morin&lt;/b&gt;&nbsp;and&nbsp;&lt;b&gt;Wendy MacIsaac&lt;/b&gt;&nbsp;and long-time cast member,&nbsp;&lt;b&gt;Jordan Musycsyn&lt;/b&gt;.&nbsp; The five have been putting their musical and comedic talents to work throughout the year to create a riotous new version of the show for the upcoming Christmas season.&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot; aria-hidden=&quot;true&quot;&gt;&nbsp;&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot;&gt;The five versatile performers bring to the stage belly laughs and stunning musicianship which have won them fiercely loyal fans.&nbsp; Beloved characters, Mary Morrison, Beulah Claxton, Martin MacKinnon, Wayne Tomko and their island friends will be decking the halls with all performers showing off their abundant musical and comedic chops.&nbsp;&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot; aria-hidden=&quot;true&quot;&gt;&nbsp;&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot;&gt;Audiences should be warned that uncontrollable laughter may cause painful “side” effects!&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot; aria-hidden=&quot;true&quot;&gt;&nbsp;&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot;&gt;The tour is presented by Brookes Diamond Productions.&nbsp;&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas In Cape Breton &#8217;25"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/b95169d7-53c6-4f21-8159-f8983f0ddadf",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "20 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/e0fcfc91-d9b8-4acf-994b-96c94a6f4936",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "21 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/d6a3d53a-7124-4d7d-a9f6-15548f487588",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "22 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/ac7d3e5e-b0b2-4600-8cd6-b16459e8bd9b",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "22 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/af7692b4-2015-4434-a581-514bd1054e51",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "27 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/d4a714ba-3334-4451-9a7c-9024fce33eb4",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "28 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/2f054e84-23ac-4b6c-83f8-7c4dac0406bc",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "29 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/43d57663-e9b8-448a-ad5e-9a4eaa4ff20b",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "30 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/600f8f38-7809-46df-ba3f-9168457ae02c",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "03 Dec"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/d1462b0a-ba4b-48ee-a28c-68e117375604",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "04 Dec"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/63ce8aa3-1589-4eb6-8329-de1aa945d4c4",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "05 Dec"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/6e17eb44-5f50-4eda-af6a-008788af5bd8",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/events/"
+      }
+    ],
+    "http://www.savoytheatre.com/events/#startDate": [
+      {
+        "@value": "06 Dec"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/javascript:void(0)",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508120",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508140",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508500",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508520",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508740",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508760",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/4921499f-cf2e-45c2-b1f2-b8a0deabaf2e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g508120"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/93f4ddd7-5b1b-4b55-8df4-ac132b9a0c90",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g508500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508520"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/71b2badc-61ec-4d99-8054-dfe56c41ac0a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g508740"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508760"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/06/MOTD-December-Coal-box-office-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;This Christmas, the jolly miners return to the Savoy Theatre with a brand-new holiday concert —&nbsp;&lt;strong&gt;December Coal&lt;/strong&gt;. Join&nbsp;&lt;strong&gt;The Men of the Deeps&lt;/strong&gt;&nbsp;as they serve up a heartwarming blend of festive favourites and original songs from their latest recording.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;This year’s show marks a historic moment: a fond farewell to founding member&nbsp;&lt;strong&gt;Jim MacLellan&lt;/strong&gt;, who will take the stage one final time after six decades with the group.&lt;/p&gt; &lt;p&gt;Also featuring special guest&nbsp;&lt;strong&gt;Jenn Sheppard&lt;/strong&gt;, bringing her dynamic vocals and her hilariously unfiltered alter ego&nbsp;&lt;em&gt;Ellsa&lt;/em&gt;&nbsp;to the holiday stage.&lt;/p&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Men of the Deeps: December Coal Concert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/71a04cfc-6cef-4ca8-9e40-cd681347e72f",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://www.savoytheatre.com/javascript:void(0)#startDate": [
+      {
+        "@value": "20 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/5367d7bd-a1fd-46fc-b3b3-3ac3a5050f56",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://www.savoytheatre.com/javascript:void(0)#startDate": [
+      {
+        "@value": "21 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/7cc9dee9-c958-4639-a884-723fd232c2e4",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/javascript:void(0)"
+      }
+    ],
+    "http://www.savoytheatre.com/javascript:void(0)#startDate": [
+      {
+        "@value": "22 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g523140",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g523160",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g523520",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g523540",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g523760",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g523780",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/32e13f76-cfef-42e3-a423-693726bbcc1a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g523140"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g523160"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/#"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/a46acb8a-88bb-4e19-ada1-46a0805694b3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523500"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g523520"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g523540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/#"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/2c16cc49-4525-4b64-a48f-b8030b4ebd6a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523740"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g523760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g523780"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/06/MOTD-December-Coal-box-office-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/#"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;This Christmas, the jolly miners return to the Savoy Theatre with a brand-new holiday concert —&nbsp;&lt;strong&gt;December Coal&lt;/strong&gt;. Join&nbsp;&lt;strong&gt;The Men of the Deeps&lt;/strong&gt;&nbsp;as they serve up a heartwarming blend of festive favourites and original songs from their latest recording.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;This year’s show marks a historic moment: a fond farewell to founding member&nbsp;&lt;strong&gt;Jim MacLellan&lt;/strong&gt;, who will take the stage one final time after six decades with the group.&lt;/p&gt; &lt;p&gt;Also featuring special guest&nbsp;&lt;strong&gt;Jenn Sheppard&lt;/strong&gt;, bringing her dynamic vocals and her hilariously unfiltered alter ego&nbsp;&lt;em&gt;Ellsa&lt;/em&gt;&nbsp;to the holiday stage.&lt;/p&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Men of the Deeps: December Coal Concert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/2ba9f44b-2e84-46f0-b1fc-42f2a442b1ac",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/#"
+      }
+    ],
+    "http://www.savoytheatre.com/#startDate": [
+      {
+        "@value": "20 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/68a93fdd-43c0-4b7d-aadb-a164e21e008e",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/#"
+      }
+    ],
+    "http://www.savoytheatre.com/#startDate": [
+      {
+        "@value": "21 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/8c5464d0-5144-45bd-b5bb-91ee03414de1",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/#"
+      }
+    ],
+    "http://www.savoytheatre.com/#startDate": [
+      {
+        "@value": "22 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/newsletter-subscription",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g538120",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g538140",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g538500",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g538520",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$75.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g538740",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g538760",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/2777bc51-34ad-44d9-b291-9e02c238cdab",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g538100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g538120"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g538140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/1e2a5fd2-db35-4cd0-80e9-d6f668a07335",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g538480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g538500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g538520"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/08/christmas-dinner-theatre-box-office-copy-4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/christmaschaosatthehome/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;div class=&quot;x_elementToProof&quot; data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;When Provincial budget cuts pose a threat on the Christmas Season at the local Glace Bay Seniors’ Facility, residents have no choice but to take matters into their own hands. “Well, us ladies will take it on because we know them men won’t know how” says resident Margaret-Anne MacDonald. Join Margaret-Anne, Sadie, and da boyz as they not only try to save Christmas at the Home, but also Nurse André’s music career!&lt;/span&gt;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&lt;b data-olk-copy-source=&quot;MessageBody&quot;&gt;Please Note:&nbsp;&lt;/b&gt;Seating is assigned in advance based on accessibility needs and&nbsp;availability. Please include any seating preferences in the order notes to help ensure we can accommodate needs when possible.&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;*Performances are at the Glace Bay Miners Forum*&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Doors open at 6PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Show begins at 7PM&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;&nbsp;&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Appetizer/Salad&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Turkey Dinner/Vegetarian Option&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Dessert&lt;/div&gt; &lt;div data-olk-copy-source=&quot;MessageBody&quot;&gt;Tea/Coffee&lt;/div&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas Chaos at &#8220;The Home&#8221;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/081b7a99-05bf-4d77-9d97-9794df40e155",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g538720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g538740"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g538760"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.savoytheatre.com/wp-content/uploads/2025/06/MOTD-December-Coal-box-office-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savoytheatre.com/events/decembercoal/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;This Christmas, the jolly miners return to the Savoy Theatre with a brand-new holiday concert —&nbsp;&lt;strong&gt;December Coal&lt;/strong&gt;. Join&nbsp;&lt;strong&gt;The Men of the Deeps&lt;/strong&gt;&nbsp;as they serve up a heartwarming blend of festive favourites and original songs from their latest recording.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;This year’s show marks a historic moment: a fond farewell to founding member&nbsp;&lt;strong&gt;Jim MacLellan&lt;/strong&gt;, who will take the stage one final time after six decades with the group.&lt;/p&gt; &lt;p&gt;Also featuring special guest&nbsp;&lt;strong&gt;Jenn Sheppard&lt;/strong&gt;, bringing her dynamic vocals and her hilariously unfiltered alter ego&nbsp;&lt;em&gt;Ellsa&lt;/em&gt;&nbsp;to the holiday stage.&lt;/p&gt; "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Men of the Deeps: December Coal Concert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/2fbe6088-4b65-4dcb-9ce8-dae9a774c4f2",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://www.savoytheatre.com/newsletter-subscription#startDate": [
+      {
+        "@value": "20 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/8d52d835-1894-495d-8a00-dcc1a5fea331",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://www.savoytheatre.com/newsletter-subscription#startDate": [
+      {
+        "@value": "21 Nov"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.savoytheatre.com/temporary/dc94503c-ef04-499d-af16-e068d4df8b4f",
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.savoytheatre.com/newsletter-subscription"
+      }
+    ],
+    "http://www.savoytheatre.com/newsletter-subscription#startDate": [
+      {
+        "@value": "22 Nov"
+      }
+    ]
+  }
+]
