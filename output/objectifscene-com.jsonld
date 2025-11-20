@@ -1,0 +1,359 @@
+[
+  {
+    "@id": "https://www.objectifscene.com",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Objectif Scène"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Objectif Scène"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "fr-fr",
+        "@value": "293387970674568"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Organisme à but non lucratif qui regroupe les diffuseurs professionnels des arts de la scène reconnus dans la région de Saguenay-Lac-Saint-Jean pour représenter et défendre leurs intérêts, promouvoir la diffusion des arts de la scène et offrir des services aux diffuseurs membres."
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/77587cc1-9385-406a-8bdf-e86d1c7884a3",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/objectifsceneSLSJ/"
+      },
+      {
+        "@id": "https://twitter.com/ObjectifScene"
+      },
+      {
+        "@id": "https://www.instagram.com/objectifscene/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Objectif Scène"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/fa643d78-5da5-4a96-96a0-d676ffac2492",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://i0.wp.com/www.objectifscene.com/slsj/wp-content/uploads/2018/02/cropped-logo-Objectif-Scène2.png?fit=910%2C300&ssl=1"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/slsj/",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Objectif Scène"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Objectif Scène"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "fr-fr",
+        "@value": "293387970674568"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Organisme à but non lucratif qui regroupe les diffuseurs professionnels des arts de la scène reconnus dans la région de Saguenay-Lac-Saint-Jean pour représenter et défendre leurs intérêts, promouvoir la diffusion des arts de la scène et offrir des services aux diffuseurs membres."
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Objectif Scène"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Objectif Scène"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "fr-fr",
+        "@value": "293387970674568"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Organisme à but non lucratif qui regroupe les diffuseurs professionnels des arts de la scène reconnus dans la région de Saguenay-Lac-Saint-Jean pour représenter et défendre leurs intérêts, promouvoir la diffusion des arts de la scène et offrir des services aux diffuseurs membres."
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/#main"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/6215386a-d053-45fc-a9ab-d3031b03c41d",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/objectifsceneSLSJ/"
+      },
+      {
+        "@id": "https://twitter.com/ObjectifScene"
+      },
+      {
+        "@id": "https://www.instagram.com/objectifscene/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/#main"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Objectif Scène"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/5e6c4673-a96e-424e-adbf-304ec36c86a0",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://i0.wp.com/www.objectifscene.com/slsj/wp-content/uploads/2018/02/cropped-logo-Objectif-Scène2.png?fit=910%2C300&ssl=1"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/#main"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/d2967d72-0a48-4e3d-80a6-d72efba2ef23",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/objectifsceneSLSJ/"
+      },
+      {
+        "@id": "https://twitter.com/ObjectifScene"
+      },
+      {
+        "@id": "https://www.instagram.com/objectifscene/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Objectif Scène"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/6e6705cc-5d61-4da9-b862-544d1601b342",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://i0.wp.com/www.objectifscene.com/slsj/wp-content/uploads/2018/02/cropped-logo-Objectif-Scène2.png?fit=910%2C300&ssl=1"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ]
+  }
+]
