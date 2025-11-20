@@ -1,0 +1,5778 @@
+[
+  {
+    "@id": "https://www.macleodempress.com/events/2025/11/14/movie-now-you-see-me-now-you-dont-nov-14-20-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: Now You See Me Now You Don't - Nov. 14 - 20, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/11/14/movie-now-you-see-me-now-you-dont-nov-14-20-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Now You See Me: Now You Don't is a 2025 crime thriller where the Four Horsemen illusionists reunite with a new generation of performers for a high-stakes, globe-trotting heist. Their mission is to expose a powerful diamond heiress who is secretly linked to arms dealers and other criminals. The film"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/690ee88d1507dd771f82e06e/1762585148184/now_you_see_me_now_you_dont_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1013"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/14/movie-now-you-see-me-now-you-dont-nov-14-20-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/ebbfdb65-d98c-4c5e-ae05-2aaa8d9f369b",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/14/movie-now-you-see-me-now-you-dont-nov-14-20-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/ccae9c97-bb06-4cd3-bee4-77e4ea384ad1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/690ee88d1507dd771f82e06e/1762585148184/now_you_see_me_now_you_dont_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g480460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/14/movie-now-you-see-me-now-you-dont-nov-14-20-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: Now You See Me Now You Don't - Nov. 14 - 20, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/11/22/movie-good-fortune-nov-22-27-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: Good Fortune - Nov. 22-27, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/11/22/movie-good-fortune-nov-22-27-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "The movie  Good Fortune  is a comedy about a struggling gig worker and a wealthy venture capitalist who swap lives due to the intervention of an inept angel.&nbsp;( Dark Night - Nov 21 One Act Play Festival)"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/690eea45de63106f616c70f7/1762585616588/good_fortune_ver3_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/22/movie-good-fortune-nov-22-27-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/f3b00e1e-903c-4a01-97b5-07590c1cd621",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/22/movie-good-fortune-nov-22-27-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/9ef9fd3b-441e-4e2d-b7c4-e0c28d2945d0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/690eea45de63106f616c70f7/1762585616588/good_fortune_ver3_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g487240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/22/movie-good-fortune-nov-22-27-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: Good Fortune - Nov. 22-27, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T14:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/11/29/movie-best-christmas-pageant-ever-nov-29-200-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: Best Christmas Pageant Ever - Nov. 29, 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/11/29/movie-best-christmas-pageant-ever-nov-29-200-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "The Herdmans are six siblings who have a reputation for being the worst kids in the world. However, when they take over the local church pageant during the holidays, they just might teach a shocked community the true meaning of Christmas."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/690eeda437b02e2d5c67f502/1762586341708/best_christmas_pageant_ever_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/29/movie-best-christmas-pageant-ever-nov-29-200-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/2e1f814d-c592-42eb-b46d-b60ed1a73d8d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/29/movie-best-christmas-pageant-ever-nov-29-200-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/1d20d0e3-e38b-47d4-acfb-3ff3a9013c15",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/690eeda437b02e2d5c67f502/1762586341708/best_christmas_pageant_ever_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g494280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/29/movie-best-christmas-pageant-ever-nov-29-200-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: Best Christmas Pageant Ever - Nov. 29, 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T14:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T14:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/12/2/dec-2-2025-the-mcdades-celtic-christmas-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "The McDades Celtic Christmas - Dec. 2, 2025 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "49.7314104"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-113.2644537"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-gb",
+        "@value": "235 Main St"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": "Fort Macleod"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-gb",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/12/2/dec-2-2025-the-mcdades-celtic-christmas-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "The long running and celebrated McDade Family Christmas show is coming to the Empress Theatre! Alberta’s first family of Celtic music invite you to join them in celebration. Bringing you a Celtic Christmas, The McDades offer you and yours their heartfelt comfort and joy of the season."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68c1933348d18c7c38707236/1757717055400/McDades+Celtic+Xmas+Image.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "2240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/12/2/dec-2-2025-the-mcdades-celtic-christmas-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "235 Main St\nFort Macleod\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/71b71948-9b10-41dd-a961-296350d45d9e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/12/2/dec-2-2025-the-mcdades-celtic-christmas-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/a5dd6159-f938-48e0-8030-4c87108880c8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68c1933348d18c7c38707236/1757717055400/McDades+Celtic+Xmas+Image.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g501240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/12/2/dec-2-2025-the-mcdades-celtic-christmas-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The McDades Celtic Christmas - Dec. 2, 2025 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T22:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/12/20/christmas-readers-theatre-dec-20-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Miracle on 34th Street – Readers Theatre - Dec. 20 - 7:00 PM Doors at 6:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/12/20/christmas-readers-theatre-dec-20-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "A real Christmas classic,&nbsp; Miracle of 34th Street &nbsp;opens with one of New York’s most prolific department stores on the brink of collapse, with their only hope of survival being their upcoming Christmas season. When the Santa they’ve hired quits at the last minute, they’re left with"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db97d3336e6548c646da4/1761282231305/Miracle+in+Fort+Macleod.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "2000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/12/20/christmas-readers-theatre-dec-20-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/94889eac-dddf-49b1-aeb6-fecc1d1cc461",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/12/20/christmas-readers-theatre-dec-20-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/757ad7ea-15fa-4c7d-897c-64b7dd03fe63",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db97d3336e6548c646da4/1761282231305/Miracle+in+Fort+Macleod.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/12/20/christmas-readers-theatre-dec-20-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Miracle on 34th Street – Readers Theatre - Dec. 20 - 7:00 PM Doors at 6:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-20T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-20T21:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/1/29/tamar-ilana-amp-ventanas-jan-29-2026-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Tamar Ilana & Ventanas - Jan. 29, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/1/29/tamar-ilana-amp-ventanas-jan-29-2026-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "PART OF THE 2025-26 CENTRE STAGE SERIES - Women-led Flamenco Mediterranean Fusion. Tamar Ilana &amp; Ventanas is a 6-piece global music and flamenco band based in Toronto, Canada. Founded in 2011 by \"powerhouse vocalist\" (Downbeat Magazine) and Jewish-Indigenous artist Tamar Ilana, the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685d9f70a08028393e5ff585/1757530298798/Screen+Shot+2025-06-03+at+8.58.46+AM.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "690"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1032"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/1/29/tamar-ilana-amp-ventanas-jan-29-2026-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/ce2fc71e-bd29-4c02-8c40-adead03fa1df",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/1/29/tamar-ilana-amp-ventanas-jan-29-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/0ddb4353-cf15-4363-8d86-201e878fa4a1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685d9f70a08028393e5ff585/1757530298798/Screen+Shot+2025-06-03+at+8.58.46+AM.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/1/29/tamar-ilana-amp-ventanas-jan-29-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Tamar Ilana &amp; Ventanas - Jan. 29, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-29T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-29T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/2/5/lennie-gallant-feb-5-2026-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Lennie Gallant - Feb. 5, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/2/5/lennie-gallant-feb-5-2026-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "PART OF THE 2025-26 CENTRE STAGE SERIES - Lennie Gallant is an acclaimed East Coast songwriter with sixteen albums of original material to his name and a long list of awards recognizing his work. His iconic song&nbsp; Peter’s Dream &nbsp;was inducted into the Canadian Songwriters Hall of&"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db79ab1fe426094c4e879/1757530362031/Lennie-Gallant-Press-Photo-Main-Dave-Brosha-Photography.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "750"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/2/5/lennie-gallant-feb-5-2026-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/c46637a1-ac46-4361-8b0a-5b946c5d4aef",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/2/5/lennie-gallant-feb-5-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/722e007c-2dec-4ec5-b480-6087da8a4dc8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db79ab1fe426094c4e879/1757530362031/Lennie-Gallant-Press-Photo-Main-Dave-Brosha-Photography.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g522400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/2/5/lennie-gallant-feb-5-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lennie Gallant - Feb. 5, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-05T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-05T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/3/7/valdy-mar-7-2026-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Valdy - Mar. 7, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/3/7/valdy-mar-7-2026-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Valdy, is a Canadian folk and country music legend who has toured for forty-six years. HIs solo career began in the early 1970s. He is most known for \"Rock and Roll Song\", his first mainstream single but Valdy has a treasure trove of songs and stories.  He is the winner of two JUNO awards"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db81924e8e32ae5179e76/1757530442268/470186668_10170631853320207_5424142558708487213_n.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "535"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/3/7/valdy-mar-7-2026-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/ab381dfe-1a7d-480d-8b45-7e3b5dd2827d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/3/7/valdy-mar-7-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/db0bff33-a267-46a4-b1a8-d94c4a5fddbb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db81924e8e32ae5179e76/1757530442268/470186668_10170631853320207_5424142558708487213_n.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g529400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/3/7/valdy-mar-7-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Valdy - Mar. 7, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-07T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-07T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/4/11/barbra-lica-april-11-2026-730-pm-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Barbra Lica - April 11, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/4/11/barbra-lica-april-11-2026-730-pm-1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Called one of Canada’s Top 5 Female Jazz Singers and Top 35 under 35 Jazz Artists by CBC Radio 2, Lica’s deep passion for the music of classic American vocalists like Doris Day, Ella Fitzgerald, Peggy Lee, Nat King Cole, and Betty Hutton led her to pursue a degree in Jazz Voice Performance at the Un"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68e7dfce779dea31babe7201/1760027051783/barbra-lica-pressphoto+low+res.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "532"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "798"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/11/barbra-lica-april-11-2026-730-pm-1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/4526a41a-0f36-4f61-9284-652ba83ed1b1",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/11/barbra-lica-april-11-2026-730-pm-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/c9c058bd-722c-4e79-a607-0ad2e2417d99",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68e7dfce779dea31babe7201/1760027051783/barbra-lica-pressphoto+low+res.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g536440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/11/barbra-lica-april-11-2026-730-pm-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Barbra Lica - April 11, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T22:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/4/23/the-comic-strippers-apr-23-2026-730-pm-18-only",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "The Comic Strippers - Apr. 23, 2026 - 7:30 PM (18+ Only) — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/4/23/the-comic-strippers-apr-23-2026-730-pm-18-only"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "(18+ Only) A fictitious male stripper troupe (played by some of Canada’s best improv comedians) perform sexylarious comedy. Semi undressed and completely unscripted, they take off their shirts and take on your suggestions to create a whole new genre of comedy. They try to be sexy… it just comes out"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68e7e1cae07c4c30244999b9/1760027869331/Screen+Shot+2025-10-09+at+10.26.52+AM.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "840"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "848"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/23/the-comic-strippers-apr-23-2026-730-pm-18-only"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/1130ec25-0ed9-48bc-8565-2f3fcb15ec9c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/23/the-comic-strippers-apr-23-2026-730-pm-18-only"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/a4b17203-cd35-4585-8038-032965c9d90c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68e7e1cae07c4c30244999b9/1760027869331/Screen+Shot+2025-10-09+at+10.26.52+AM.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g543440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/23/the-comic-strippers-apr-23-2026-730-pm-18-only"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Comic Strippers - Apr. 23, 2026 - 7:30 PM (18+ Only) — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-23T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-23T22:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/4/24/chris-ronald-duo-apr-24-2026-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Chris Ronald Duo - Apr. 24, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/4/24/chris-ronald-duo-apr-24-2026-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Since emigrating to Canada in 2002, Chris Ronald has been recognized as a highly skilled singer, storyteller and musician.&nbsp; His fusion of folk, roots, and Americana music are steeped in his British background and poetic lyrics. One of these early works caught the attention of&nbsp; The"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68c196f55303c71f693b8398/1757520565408/chris-ronald-promo4.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/24/chris-ronald-duo-apr-24-2026-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/8237f7f8-3684-485a-aae7-f83fed35c3ad",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/24/chris-ronald-duo-apr-24-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/88c9954b-92bc-4516-9032-eb377e73da2d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68c196f55303c71f693b8398/1757520565408/chris-ronald-promo4.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g550400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/24/chris-ronald-duo-apr-24-2026-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chris Ronald Duo - Apr. 24, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-24T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-24T22:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/4/29/delhi-2-dublin-apr-29-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Delhi 2 Dublin - Apr. 29, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/4/29/delhi-2-dublin-apr-29-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "PART OF THE 2025-26 CENTRE STAGE SERIES - For nearly two decades, Delhi 2 Dublin has been at the forefront of South Asian fusion music, pioneering a global bass sound they call “Subcontinental Pop”—a high-energy blend of Bhangra, electronic, hip-hop, reggae, and Celtic influences that defies genre a"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db86449dffd6ce44094dd/1757530563629/20190226-192551-025685.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "454"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "382"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/29/delhi-2-dublin-apr-29-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/d9c250c8-15bd-4233-bfca-ff7de22c263a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/29/delhi-2-dublin-apr-29-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/9b8f1e4f-133b-4edc-8934-24ca9a682c06",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685db86449dffd6ce44094dd/1757530563629/20190226-192551-025685.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g557600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/4/29/delhi-2-dublin-apr-29-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Delhi 2 Dublin - Apr. 29, 2026 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-29T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-29T22:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2026/7/11/ikons-the-kiss-experience-july-11-2026",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "IKONS: The KISS Experience - July 11, 2026 — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2026/7/11/ikons-the-kiss-experience-july-11-2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Back by popular demand, Ikons: the Kiss Experience will rock Fort Macleod’s Empress Theatre once again. This authentic concert experience is guaranteed to satisfy even the most diehard Kiss fans.&nbsp;Beginning in the 1970s, with chart-toppers including “Rock and Roll All Nite,” “I Was Made for"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68c1b482f3ee5854e991a6db/1757530628930/511951300_1252196886885786_3115080838768216315_n.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1031"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1234"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/7/11/ikons-the-kiss-experience-july-11-2026"
+      }
+    ]
+  },
+  {
+    "@id": "_:g564620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/02278e02-5999-4190-8635-ce4e07d54610",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/7/11/ikons-the-kiss-experience-july-11-2026"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/2fbe1ce1-4a4b-4945-9015-7dfd4482f3a1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/68c1b482f3ee5854e991a6db/1757530628930/511951300_1252196886885786_3115080838768216315_n.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g564620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2026/7/11/ikons-the-kiss-experience-july-11-2026"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "IKONS: The KISS Experience - July 11, 2026 — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-11T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-11T22:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/8ycoy4iuh0dq9a6xogf4w74jhtvg32",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "SUMMER CAMP - THEATRE ON THE MOVE - A SUMMER CAMP IN MOTION: July 13-17 10:00 AM - 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/summer-camp-events/2025/10/3/8ycoy4iuh0dq9a6xogf4w74jhtvg32"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "REGISTER HERE    Join us for a week for young creators who are ready to move, express, and make an impact.  Theatre on the Move  introduces kids to the dynamic world where movement speaks louder than words and every gesture tells a story. Through playful exploration of mime, puppetry, clowning, and"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/68dffc9f58272e6e09ea9619/68e000571f9e26786cf3329e/1759512130218/Theatre+on+the+Move+Camp+Lo.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/8ycoy4iuh0dq9a6xogf4w74jhtvg32"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/c8254f24-cce9-466f-b215-5abdfa71cde0",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/8ycoy4iuh0dq9a6xogf4w74jhtvg32"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/d734234f-378a-48ae-b558-2c47222a4aa8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/68dffc9f58272e6e09ea9619/68e000571f9e26786cf3329e/1759512130218/Theatre+on+the+Move+Camp+Lo.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g571660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/8ycoy4iuh0dq9a6xogf4w74jhtvg32"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SUMMER CAMP - THEATRE ON THE MOVE - A SUMMER CAMP IN MOTION: July 13-17 10:00 AM - 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-13T10:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-17T02:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/r5aimnqosp0r2soujvhn505e1xakwy",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "SUMMER CAMP - GOLD FOR GOOD, IT’S ROBIN HOOD!: Aug. 10-14, 10:00 AM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/summer-camp-events/2025/10/3/r5aimnqosp0r2soujvhn505e1xakwy"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "REGISTER HERE   Want to rob from the rich to give to the poor? While the King is away, the people of England suffer under the oppressive rule of his tax-happy brother, Prince John. Only a straight arrow like Robin Hood, the best archer in the land, can save England! By stealing from the rich and giv"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/68dffc9f58272e6e09ea9619/68e003387c5a9600e3048301/1759512285015/Robin+Hood+Camp+Lo.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/r5aimnqosp0r2soujvhn505e1xakwy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/2b0fae40-e069-4a10-98c1-4148db70fba2",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/r5aimnqosp0r2soujvhn505e1xakwy"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/8bdd7ba6-3b92-4578-9b2f-1fd16449aeb0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/68dffc9f58272e6e09ea9619/68e003387c5a9600e3048301/1759512285015/Robin+Hood+Camp+Lo.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g578600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/r5aimnqosp0r2soujvhn505e1xakwy"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SUMMER CAMP - GOLD FOR GOOD, IT’S ROBIN HOOD!: Aug. 10-14, 10:00 AM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-10T10:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-14T14:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/ny5268fbng5ur9cm0zvcuxu3m95rk3",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "SUMMER CAMP - ROMEO AND JULIET - LOVE AND DAGGER WEEK!: Aug. 17-21 10:00 AM - 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/summer-camp-events/2025/10/3/ny5268fbng5ur9cm0zvcuxu3m95rk3"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "REGISTER HERE   What happens when Shakespeare’s most famous love story gets a comedic twist? In this high-energy, one-week theatre program, teens will reimagine  Romeo and Juliet  as a hilarious, modern-day parody—complete with awkward love confessions, over-the-top sword fights (pool noodles, anyon"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/68dffc9f58272e6e09ea9619/68e002506be422703a78591a/1759782557045/R%26J+Camp+Lo.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/ny5268fbng5ur9cm0zvcuxu3m95rk3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g585600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/707e69ac-d839-4c9b-8103-f43065ec4900",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/ny5268fbng5ur9cm0zvcuxu3m95rk3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/e9df0e78-6c99-48ac-93e4-11eb26662e1d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/68dffc9f58272e6e09ea9619/68e002506be422703a78591a/1759782557045/R%26J+Camp+Lo.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g585600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/summer-camp-events/2025/10/3/ny5268fbng5ur9cm0zvcuxu3m95rk3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SUMMER CAMP - ROMEO AND JULIET - LOVE AND DAGGER WEEK!: Aug. 17-21 10:00 AM - 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-17T10:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-21T14:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/11/7/madison-violet-nov-7-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Madison Violet - Nov. 7, 2025 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "49.7314104"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-113.2644537"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-gb",
+        "@value": "235 Main St"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": "Fort Macleod"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-gb",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/11/7/madison-violet-nov-7-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Madison Violet is a Canadian Juno-nominated female musical duo, consisting of Lisa MacIsaac and Brenley MacEachern. 2025 marks the 25th anniversary of Madison Violet. A rare and impressive feat that they are both proud of and grateful for. The pair, who both have roots in rural Cape Breton, came tog"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685d9f34302f6304fd25455a/1757717175760/Screen+Shot+2025-06-26+at+4.30.29+PM.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/7/madison-violet-nov-7-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g593180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "235 Main St\nFort Macleod\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/27f5fbe4-8797-40da-a5db-b506e962136d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/7/madison-violet-nov-7-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/d9ff943d-bc04-4f3f-9b7d-af3edf78c472",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685d9f34302f6304fd25455a/1757717175760/Screen+Shot+2025-06-26+at+4.30.29+PM.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g593180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/11/7/madison-violet-nov-7-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Madison Violet - Nov. 7, 2025 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/10/11/jeffery-straker-oct-11-2025-730-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Jeffery Straker - Oct. 11, 2025 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "49.7314104"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-113.2644537"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-gb",
+        "@value": "235 Main St"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": "Fort Macleod"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-gb",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/10/11/jeffery-straker-oct-11-2025-730-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Singer-songwriter pianist Jeffery Straker serves up a rootsy-storytelling brand of song that has been said to transport listeners - out onto a northern Canadian Lake or to the main street of a prairie town.  With critical comparisons to the likes of Kris Kristofferson, Jackson Browne and Murray McLa"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685d9eebf8c11a588f18696f/1757716894307/Screen+Shot+2025-06-26+at+4.25.55+PM.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1028"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "942"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/10/11/jeffery-straker-oct-11-2025-730-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g600400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "235 Main St\nFort Macleod\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/4fdca11b-83f9-4253-a245-692aa25eee05",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/10/11/jeffery-straker-oct-11-2025-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/f07538f6-ecc3-4509-acd4-e01a063fa47b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/685d9eebf8c11a588f18696f/1757716894307/Screen+Shot+2025-06-26+at+4.25.55+PM.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g600400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/10/11/jeffery-straker-oct-11-2025-730-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jeffery Straker - Oct. 11, 2025 - 7:30 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-11T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-11T22:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/7/28/hamlet-a-comedy-summer-drama-camp-july-28-aug-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Hamlet - A Comedy - Summer Drama Camp - July 28 - Aug. 1 — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/7/28/hamlet-a-comedy-summer-drama-camp-july-28-aug-1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "This summer, we’re flipping Shakespeare on his head – literally.&nbsp; Welcome to ‘HAMLET…A Comedy”, a one-of-a-kind environmental comedy drama camp where the world’s most dramatic prince becomes the star of his very own remix.&nbsp; Existential dead?&nbsp; Sure.&nbsp; Ghost dads?&am"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/682dfdf68f70eb7abfa6ccb8/1749083417245/Hamlet...A+Comedy+%28Poster+%28US%29%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "2000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/28/hamlet-a-comedy-summer-drama-camp-july-28-aug-1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/7fd3d1bb-d50e-4e28-b1ad-2adfedb6bc40",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/28/hamlet-a-comedy-summer-drama-camp-july-28-aug-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/88a01913-e1ae-4568-aa2a-6a943bfb747e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/682dfdf68f70eb7abfa6ccb8/1749083417245/Hamlet...A+Comedy+%28Poster+%28US%29%29.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g607640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/28/hamlet-a-comedy-summer-drama-camp-july-28-aug-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hamlet - A Comedy - Summer Drama Camp - July 28 - Aug. 1 — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-28T08:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-01T12:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/7/21/z-chaos-summer-drama-camp-july-21-25",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Z-Chaos - Summer Drama Camp - July 21-25 — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/7/21/z-chaos-summer-drama-camp-july-21-25"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Ready to rewrite the classics with TikTok energy and mem-worthy moments?&nbsp; ZChaos!, is a fast-paced theatre camp where we flip the script on some iconic stories and perform them like never before. This summer we’re diving into ‘Frankenstein’ and ‘A Christmas Carol’ – think monster science wi"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/682dfda9c511d50388d5834b/1749082147263/ZChaos%21+camp+2025+%28Poster+%28US%29%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "2000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/21/z-chaos-summer-drama-camp-july-21-25"
+      }
+    ]
+  },
+  {
+    "@id": "_:g614660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/cf36e0ac-ec22-446b-bb1e-c4b6022be53f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/21/z-chaos-summer-drama-camp-july-21-25"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/eed576fc-17ce-400f-9ef7-cdf70ae92f97",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/682dfda9c511d50388d5834b/1749082147263/ZChaos%21+camp+2025+%28Poster+%28US%29%29.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g614660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/21/z-chaos-summer-drama-camp-july-21-25"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Z-Chaos - Summer Drama Camp - July 21-25 — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-21T08:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-21T12:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/7/14/alice-in-wonderland-summer-drama-camp-july-14-18",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "Alice in Wonderland - Summer Drama Camp - July 14-18 — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/7/14/alice-in-wonderland-summer-drama-camp-july-14-18"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Campers will explore the topsy-turvy world of Wonderland.&nbsp; The weeklong day camp is full of theatre games, character building, silly scenes and costuming – all leading up to a delightful showcase for family, friends and the community of Fort MacLeod. Whether your child is bold and dramatic"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/682dfd52abfc646a2621df60/1749081207610/Alice+in+Wonderland+Camp+%28Poster+%28US%29%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "2000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/14/alice-in-wonderland-summer-drama-camp-july-14-18"
+      }
+    ]
+  },
+  {
+    "@id": "_:g621760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/3d8c2f9f-f694-414d-aa20-eb034ff72c5f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/14/alice-in-wonderland-summer-drama-camp-july-14-18"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/f47d9dc8-f55b-42bb-8d20-c64535f31f55",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/682dfd52abfc646a2621df60/1749081207610/Alice+in+Wonderland+Camp+%28Poster+%28US%29%29.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g621760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/7/14/alice-in-wonderland-summer-drama-camp-july-14-18"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Alice in Wonderland - Summer Drama Camp - July 14-18 — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-14T08:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-14T12:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/4/25/movie-snow-white-apr-25-30",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE:  SNOW WHITE - Apr. 25 - 30 — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/4/25/movie-snow-white-apr-25-30"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Fleeing from the Evil Queen, Snow White finds refuge with Dopey, Bashful, Grumpy, Sneezy, Happy, Doc and Sleepy. When the palace guards embark on a mission to bring her back, a commoner and his group of woodland bandits band together to protect her."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67fe8fc91d4f5b2ee557f9d4/1744736689353/snow_white_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1013"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/25/movie-snow-white-apr-25-30"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/758615b6-20b8-4a53-a0d0-da4dab1a9a84",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/25/movie-snow-white-apr-25-30"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/eace6665-2481-4756-a23d-a45ea963200b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67fe8fc91d4f5b2ee557f9d4/1744736689353/snow_white_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g628800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/25/movie-snow-white-apr-25-30"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE:  SNOW WHITE - Apr. 25 - 30 — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-25T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-30T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/4/18/movie-a-working-man-apr-18-24",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: A WORKING MAN - Apr. 18-24 — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/4/18/movie-a-working-man-apr-18-24"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Levon Cade left behind a decorated military career in the black ops to live a simple life of working construction. However, when human traffickers kidnap his boss's daughter, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67fe92434476fd6ca48e1962/1744737280331/working_man_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1012"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/18/movie-a-working-man-apr-18-24"
+      }
+    ]
+  },
+  {
+    "@id": "_:g635880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/e7f3a454-a8bd-4941-a74c-bdabb3ede7ba",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/18/movie-a-working-man-apr-18-24"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/9c37df27-17ae-42e0-85ab-ea5a9213f1c7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67fe92434476fd6ca48e1962/1744737280331/working_man_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g635880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/18/movie-a-working-man-apr-18-24"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: A WORKING MAN - Apr. 18-24 — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-18T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-24T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/4/4/movie-death-of-a-unicorn-apr-4-10-dark-night-apr-9",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: DEATH OF A UNICORN - Apr. 4-10 [Dark Night Apr. 9] — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/4/4/movie-death-of-a-unicorn-apr-4-10-dark-night-apr-9"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "When a man and his daughter accidentally hit and kill a unicorn with their car, his boss tries to exploit the creature's miraculous curative properties -- with horrific results."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67d1b32ce1b5db38d3e064d4/1741796484805/death_of_a_unicorn_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1013"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/4/movie-death-of-a-unicorn-apr-4-10-dark-night-apr-9"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/63bb9700-2aa4-494b-b31c-d6037a9e2188",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/4/movie-death-of-a-unicorn-apr-4-10-dark-night-apr-9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/2d8efe6a-b79d-4168-a607-d6d6acaa4d9a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67d1b32ce1b5db38d3e064d4/1741796484805/death_of_a_unicorn_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g642940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/4/4/movie-death-of-a-unicorn-apr-4-10-dark-night-apr-9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: DEATH OF A UNICORN - Apr. 4-10 [Dark Night Apr. 9] — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-04T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-10T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/3/22/movie-main-ers-and-if-walls-could-talk-mar-22-200-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: MAIN-ERS and IF WALLS COULD TALK - Mar. 22, 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/3/22/movie-main-ers-and-if-walls-could-talk-mar-22-200-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "It’s a typical small town Friday evening in 1997 and Ashley and Monica are looking for the goods and the party. What else do you do in a small town? Spend endless hours cruising up and down main street, river parties and possibly illegal but harmless shenanigans? Maybe finally talk to your crush? Al"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8ccd6c68f8828218dce2b/1740164740710/Main-ers%2BLR.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "497"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "812"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/3/22/movie-main-ers-and-if-walls-could-talk-mar-22-200-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g649940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/46895677-d0f5-45e9-b551-6b954bdafdaf",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/3/22/movie-main-ers-and-if-walls-could-talk-mar-22-200-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/2e112c47-de4f-4b28-ba80-3f8d2ce3fde4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8ccd6c68f8828218dce2b/1740164740710/Main-ers%2BLR.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g649940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/3/22/movie-main-ers-and-if-walls-could-talk-mar-22-200-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: MAIN-ERS and IF WALLS COULD TALK - Mar. 22, 2:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-22T14:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-22T14:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/21/ubu9hcqa4m83pjia0s3rootstfe8ih",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: NOVOCAINE - Mar. 21 - 27, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/21/ubu9hcqa4m83pjia0s3rootstfe8ih"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "When the girl of his dreams gets kidnapped, a man turns his inability to feel pain into an unexpected advantage as he fights a bunch of thugs to get her back."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bf96ec5c85065ca6be17/1740162762262/novocaine.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "510"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "755"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/ubu9hcqa4m83pjia0s3rootstfe8ih"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/9d1456fb-27f2-427b-b5d4-4aac15682d92",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/ubu9hcqa4m83pjia0s3rootstfe8ih"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/736032ee-cabd-412c-81fc-71e78296eb74",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bf96ec5c85065ca6be17/1740162762262/novocaine.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g656960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/ubu9hcqa4m83pjia0s3rootstfe8ih"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: NOVOCAINE - Mar. 21 - 27, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-21T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-27T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/3/20/concert-becoming-the-beatles-unplugged",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "CONCERT:  BECOMING THE BEATLES: UNPLUGGED — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/3/20/concert-becoming-the-beatles-unplugged"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "This might not be your traditional tribute show, but trust me,  you’re gonna get your fill of live Beatles music.  Becoming The Beatles:  Unplugged is a theatrical event weaves together over 300 stunning projections, 20 live songs and fascinating behind the scenes stories. Musician/story-teller Hale"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8ae23790b3e0f92c40a88/1740156760626/Becoming+The+Beatles+UP+Social+Media+Image.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/3/20/concert-becoming-the-beatles-unplugged"
+      }
+    ]
+  },
+  {
+    "@id": "_:g664020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/b43f6a5f-855b-4826-99d3-1526475c7cf6",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/3/20/concert-becoming-the-beatles-unplugged"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/89a9886c-05d6-4b9f-a360-83376a2c9aac",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8ae23790b3e0f92c40a88/1740156760626/Becoming+The+Beatles+UP+Social+Media+Image.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g664020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/3/20/concert-becoming-the-beatles-unplugged"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "CONCERT:  BECOMING THE BEATLES: UNPLUGGED — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-20T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-20T23:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/21/oqz5si74m1uttp22cv7d5bubxb9rbd",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: NIGHT OF THE ZOOPOCALYPSE [Dark Night Mar. 20] — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/21/oqz5si74m1uttp22cv7d5bubxb9rbd"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "When a meteor unleashes a virus that turns zoo animals into zombies, a mountain lion and a wolf lead a team of survivors to save the day."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bfa07beaba4bbde3fdf5/1740162752356/night_of_the_zoopocalypse_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "980"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1430"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/oqz5si74m1uttp22cv7d5bubxb9rbd"
+      }
+    ]
+  },
+  {
+    "@id": "_:g671120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/9e72dd2d-ee6c-49ef-a139-32fb6eb763d3",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/oqz5si74m1uttp22cv7d5bubxb9rbd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/43288608-2df2-4d3b-97dd-e16bdc055485",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bfa07beaba4bbde3fdf5/1740162752356/night_of_the_zoopocalypse_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g671120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/oqz5si74m1uttp22cv7d5bubxb9rbd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: NIGHT OF THE ZOOPOCALYPSE [Dark Night Mar. 20] — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-14T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-20T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/21/hbe1j7decfe7sx47cn5ntq5kf7pwk1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: THE UNBREAKABLE BOY - Mar. 7 - 13, 7:00 PM  [Dark Night: March 8] — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/21/hbe1j7decfe7sx47cn5ntq5kf7pwk1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "When Scott and Teresa learn that their son, Austin, is autistic and has brittle bone disease, they initially worry about his future. However, with Scott's growing faith and Austin's incredible spirit, they become unbreakable as they find joy, gratitude and courage in the most trying times."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bfa52544047e56d95c7d/1740162741416/unbreakable_boy_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/hbe1j7decfe7sx47cn5ntq5kf7pwk1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g678180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/c35ff484-8546-4322-9a32-73c217ec9cba",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/hbe1j7decfe7sx47cn5ntq5kf7pwk1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/312ad58c-f47b-49d1-85e7-4f47e2cde49c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bfa52544047e56d95c7d/1740162741416/unbreakable_boy_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g678180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/hbe1j7decfe7sx47cn5ntq5kf7pwk1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: THE UNBREAKABLE BOY - Mar. 7 - 13, 7:00 PM &nbsp;[Dark Night: March 8] — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-07T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-13T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/21/yhuexuupeajzjtlbulvxbk6by87446",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: LOVE HURTS - Feb. 28 - Mar. 6, 7:00 PM [Dark Night Mar. 1] — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/21/yhuexuupeajzjtlbulvxbk6by87446"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Marvin is a Milwaukee realtor who receives a crimson envelope from Rose, a former partner-in-crime whom he left for dead. He now finds himself thrust back into a world of ruthless hit men and double-crosses that turn his open houses into deadly war zones. Hunted by his brother, a volatile crime lord"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bfacf5e5de6bb8fd5913/1740161735764/love_hurts_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "947"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/yhuexuupeajzjtlbulvxbk6by87446"
+      }
+    ]
+  },
+  {
+    "@id": "_:g685280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/0cb06d84-6376-466c-bc6f-aa0b63565682",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/yhuexuupeajzjtlbulvxbk6by87446"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/3d9e7bb4-a520-4a9b-aea4-615f5ffa1f8e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67b8bfacf5e5de6bb8fd5913/1740161735764/love_hurts_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g685280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/yhuexuupeajzjtlbulvxbk6by87446"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: LOVE HURTS - Feb. 28 - Mar. 6, 7:00 PM [Dark Night Mar. 1] — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-28T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-06T19:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/21/movie-paddington-in-peru-feb-21-27-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: PADDINGTON IN PERU - Feb. 21-27, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/21/movie-paddington-in-peru-feb-21-27-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "When Paddington discovers his beloved aunt has gone missing from the Home for Retired Bears, he and the Brown family head to the jungles of Peru to find her. Determined to solve the mystery, they soon stumble across a legendary treasure as they make their way through the rainforests of the Amazon."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/679a6c29a18e0d5518cbd217/1738173741549/paddington_in_peru_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1013"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/movie-paddington-in-peru-feb-21-27-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g692340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/3fd3e24b-4dd9-48d7-a1a3-e36060e4381e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/movie-paddington-in-peru-feb-21-27-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/9a7803a9-a30a-41a9-a45e-c2df80efc7c7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/679a6c29a18e0d5518cbd217/1738173741549/paddington_in_peru_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g692340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/21/movie-paddington-in-peru-feb-21-27-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: PADDINGTON IN PERU - Feb. 21-27, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-21T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-27T19:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/14/movie-dog-man-feb-14-20-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: DOG MAN - Feb. 14-20, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/14/movie-dog-man-feb-14-20-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "When a police officer and his faithful police dog get injured in the line of duty, a harebrained but life-saving surgery fuses the two of them together -- and Dog Man is born. As Dog Man learns to embrace his new identity, he must stop feline supervillain Petey the Cat from cloning himself and going"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/679a6af190fc003c6b0bb2dc/1738173442585/dog_man_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "947"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/14/movie-dog-man-feb-14-20-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g699320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/d900b418-540a-49cc-acbb-31267704f323",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/14/movie-dog-man-feb-14-20-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/84d07eed-5227-4c94-b62c-d20394998d29",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/679a6af190fc003c6b0bb2dc/1738173442585/dog_man_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g699320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/14/movie-dog-man-feb-14-20-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: DOG MAN - Feb. 14-20, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-14T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-20T19:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/2/7/movie-mufasa-the-lion-king-feb-7-13-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: MUFASA: THE LION KING - Feb. 7-13, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/2/7/movie-mufasa-the-lion-king-feb-7-13-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Lost and alone, orphaned cub Mufasa meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destinies."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/679a68fdf68bd912ecb7f26d/1738173768529/mufasa_the_lion_king_ver4_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1013"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/7/movie-mufasa-the-lion-king-feb-7-13-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g706360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/31c82797-c560-42b9-83aa-c3e5074ed024",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/7/movie-mufasa-the-lion-king-feb-7-13-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/ee4c6123-d9d2-4550-9c7e-b2b4edb390a1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/679a68fdf68bd912ecb7f26d/1738173768529/mufasa_the_lion_king_ver4_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g706360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/2/7/movie-mufasa-the-lion-king-feb-7-13-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: MUFASA: THE LION KING - Feb. 7-13, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-07T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-13T19:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/1/24/movie-kraven-the-hunter-jan-24-30-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: KRAVEN THE HUNTER - Jan. 24-30, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/1/24/movie-kraven-the-hunter-jan-24-30-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "Kraven's complex relationship with his ruthless father starts him down a path of vengeance, motivating him to become not only the greatest hunter in the world, but also one of its most feared."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67872c7e4c3afd1f6252ad35/1736912375728/kraven_the_hunter_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1012"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/1/24/movie-kraven-the-hunter-jan-24-30-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g713360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/3f98e98e-931b-4670-8c27-f81b77e648c6",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/1/24/movie-kraven-the-hunter-jan-24-30-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/98b64756-ad4a-4098-a1c3-beee83f83f99",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67872c7e4c3afd1f6252ad35/1736912375728/kraven_the_hunter_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g713360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/1/24/movie-kraven-the-hunter-jan-24-30-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: KRAVEN THE HUNTER - Jan. 24-30, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-24T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-30T19:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/events/2025/1/18/movie-nosferatu-jan-18-23-700-pm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-gb",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "MOVIE: NOSFERATU - Jan. 18 - 23, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-gb",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-gb",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-gb",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.macleodempress.com/events/2025/1/18/movie-nosferatu-jan-18-23-700-pm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "In the 1830s, estate agent Thomas Hutter travels to Transylvania for a fateful meeting with Count Orlok, a prospective client. In his absence, Hutter's new bride, Ellen, is left under the care of their friends, Friedrich and Anna Harding. Plagued by horrific visions and an increasing sense of dread,"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67872b2fa512e51c928b14a1/1736912286846/nosferatu_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-gb",
+        "@value": "1013"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-gb",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/1/18/movie-nosferatu-jan-18-23-700-pm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g720440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/2764d2da-95c7-47d9-b5e8-9a137500a169",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.macleodempress.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/553139d9e4b06c86f2504101/1532552498835-OBY1ACPNKV5OMU6UQ8U4/Empress+Theatre+white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/1/18/movie-nosferatu-jan-18-23-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Empress Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Welcome to the Empress Theatre in historic Fort Macleod, Alberta, Canada.&nbsp; Built in 1912, this facility has continuously provided a range of arts and cultural opportunities to the region for more than a hundred years.&nbsp; Opportunities for participation and inclusion, and opportunities to be entertained, enlightened and educated.&nbsp; We hope you'll join us as we lay the foundations for another hundred years.</p>"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.macleodempress.com/temporary/69d38fd2-61c6-4ef0-9b67-4d7ba23546e7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/553139d9e4b06c86f2504101/5ded33815e5ce97f94e1a912/67872b2fa512e51c928b14a1/1736912286846/nosferatu_ver2_xlg.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g720440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.macleodempress.com/events/2025/1/18/movie-nosferatu-jan-18-23-700-pm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MOVIE: NOSFERATU - Jan. 18 - 23, 7:00 PM — Empress Theatre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-18T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-23T19:00:00-07:00"
+      }
+    ]
+  }
+]
