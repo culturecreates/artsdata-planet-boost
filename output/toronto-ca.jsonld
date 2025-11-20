@@ -1,0 +1,395 @@
+[
+  {
+    "@id": "https://www.toronto.ca/explore-enjoy/festivals-events/winter-holiday-events/thm-holiday-retail/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums Shop"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cityoftoronto.myshopify.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums Shop | City of Toronto"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums Shop carries a variety of products perfect for the home, school or gift ideas. Find Indigenous crafts, artisan jewellery, books, games, local and handmade goods as well as unique items inspired by the City’s artifact collection and historic sites such as stationery, cookbooks and reproductions."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/festivals-events/winter-holiday-events/thm-holiday-retail/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/13d42d6a-11d2-448f-b63c-463e993fbfb5",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.toronto.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://cityoftoronto.myshopify.com/cdn/shop/files/Toronto_WhiteLogo_160x.png?v=1613697965"
+      },
+      {
+        "@id": "https://cityoftoronto.myshopify.com/cdn/shop/files/logo-cot_112x.png?v=1613699324"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/festivals-events/winter-holiday-events/thm-holiday-retail/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.toronto.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "City of Toronto"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Colborne Lodge"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Creativity and innovation inspired the original owners of Colborne Lodge, John and Jemima Howard, to leave High Park as a legacy that all Torontonians benefit from today. Built by John Howard and Jemima, two painters, one also an architect and engineer, this Regency-era lakeside summer cottage still holds original collections of their art, architectural drawings, […]"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.toronto.ca/wp-content/uploads/2020/12/930f-Social_banner_CL.jpg"
+      }
+    ],
+    "article:tag": [
+      {
+        "@language": "en-ca",
+        "@value": "colborne lodge,high park,historic site,history,museum,things to do in high park,toronto history museums,what to do in high park"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-18T16:04:30-05:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2017-11-23T11:59:19-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2299860",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://find.toronto.ca/webui/search.html?query={srch_str}&cname=www1&"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=srch_str"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2299900",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g2299920"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Colborne Lodge"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2299920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "416-392-6916"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "clodge@toronto.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/d6604fcc-3348-4c18-9a4a-ec00da5586fb",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://toronto.ca"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/cityofto/"
+      },
+      {
+        "@id": "https://twitter.com/TorontoComms"
+      },
+      {
+        "@id": "https://youtube.com/thecityoftoronto"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g2299860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/5d9a7ee0-7d74-4cd5-9849-8681bddcf7a4",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "_:g2299900"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "architecture"
+      },
+      {
+        "@language": "en",
+        "@value": "properties (real estate)"
+      },
+      {
+        "@language": "en",
+        "@value": "land"
+      },
+      {
+        "@language": "en",
+        "@value": "horticulture"
+      },
+      {
+        "@language": "en",
+        "@value": "gardens"
+      },
+      {
+        "@language": "en",
+        "@value": "architects"
+      },
+      {
+        "@language": "en",
+        "@value": "design cluster"
+      },
+      {
+        "@language": "en",
+        "@value": "buildings"
+      },
+      {
+        "@language": "en",
+        "@value": "structures"
+      },
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/aa933433-bcb6-4e16-ac4b-802e2840ab84",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/deee6930-e58a-438f-9e6a-5f470988266d",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "City of Toronto"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/5ce9aac5-a8a0-4000-aa0b-d2ab586e3fc7",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Explore & Enjoy"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/88884862-8ff3-4908-bca5-11ad4d12dc5a",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "History, Art & Culture"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/9fd901db-ef37-44d7-b03f-047e9b513261",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/museums-shop/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums Shop"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cityoftoronto.myshopify.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums Shop | City of Toronto"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Toronto History Museums Shop carries a variety of products perfect for the home, school or gift ideas. Find Indigenous crafts, artisan jewellery, books, games, local and handmade goods as well as unique items inspired by the City’s artifact collection and historic sites such as stationery, cookbooks and reproductions."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/museums-shop/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.toronto.ca/temporary/d0f11ef8-03c6-4a3f-bad1-8560ddfe181f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.toronto.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://cityoftoronto.myshopify.com/cdn/shop/files/Toronto_WhiteLogo_160x.png?v=1613697965"
+      },
+      {
+        "@id": "https://cityoftoronto.myshopify.com/cdn/shop/files/logo-cot_112x.png?v=1613699324"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/museums-shop/"
+      }
+    ]
+  }
+]
