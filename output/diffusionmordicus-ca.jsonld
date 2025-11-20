@@ -1,0 +1,1159 @@
+[
+  {
+    "@id": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Des spectacles complétement culture - Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "    Des spectacles complétement culture.     Amqui, le 27 janvier 2025. – Diffusion Mordicus lance sa nouvelle programmation d’automne le 10 juin prochain. Le lancement est ouvert à tous et aura lieu à la salle Jean-Cossette dès 17h. Diffusion Mordicus dévoilera plusieurs nouveaux spectacles pour la saison automne 2025. Danse, théâtre, humour, chanson, […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Mordicus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-01-27T19:39:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-01-27T19:54:07+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "608"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionmordicus.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T19:39:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T19:54:07+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://diffusionmordicus.ca/#/schema/person/07d24051b01ff4188725168d7efb1a3b"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1108820"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Des spectacles complétement culture - Mordicus"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1108880"
+      },
+      {
+        "@id": "_:g1118180"
+      },
+      {
+        "@id": "_:g1168260"
+      },
+      {
+        "@id": "_:g1184240"
+      },
+      {
+        "@id": "_:g1191860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mordicus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Créateur de souvenirs"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "608"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/#/schema/person/07d24051b01ff4188725168d7efb1a3b",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/#/schema/person/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://diffusionmordicus.ca"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "joliadmin"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1108820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/des-spectacles-qui-vous-feront-voyager-en-toute-securite/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1108880",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g1108900"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1118180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g1118200"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1168260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g1168280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1184240",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g1184260"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1191860",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g1191880"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/#/schema/person/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/d65d805ae8334ec892b3a68b853d40f2?s=96&d=mm&r=g"
+      },
+      {
+        "@id": "https://secure.gravatar.com/avatar/66018867f797a0238c0d737d70fac611?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/d65d805ae8334ec892b3a68b853d40f2?s=96&d=mm&r=g"
+      },
+      {
+        "@id": "https://secure.gravatar.com/avatar/66018867f797a0238c0d737d70fac611?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "joliadmin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Michel Coutu"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/author/joliadmin/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "profile"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "joliadmin, auteur/autrice sur Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/author/joliadmin/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://secure.gravatar.com/avatar/d65d805ae8334ec892b3a68b853d40f2?s=500&d=mm&r=g"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ProfilePage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionmordicus.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/joliadmin/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1191800"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "joliadmin, auteur/autrice sur Mordicus"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1108900",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Programmation Automne 2024 - Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "  Pour ne rien manquer des dernières nouvelles et découvrir toute la programmation de Diffusion Mordicus, rendez-vous sur le www.diffusionmordicus.ca et abonnez-vous à l’infolettre. Directeur général et artistique Diffusion Mordicus 418-631-1788/ 418-631-3441 cellulaire        direction@diffusionmordicus.ca"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Mordicus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-31T14:13:55+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-31T20:07:16+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/wp-content/uploads/2023/11/poster-automne.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "699"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionmordicus.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/11/poster-automne.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-31T14:13:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-31T20:07:16+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://diffusionmordicus.ca/#/schema/person/cb18e1f6c94886702bc52de14542f9ba"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1118120"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Programmation Automne 2024 - Mordicus"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/11/poster-automne.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/11/poster-automne.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "699"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/#/schema/person/cb18e1f6c94886702bc52de14542f9ba",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/#/schema/person/image/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Michel Coutu"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1118120",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/lancement-de-la-programmation-hiver-printemps-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/author/michel-coutu/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "profile"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Michel Coutu, auteur/autrice sur Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/author/michel-coutu/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://secure.gravatar.com/avatar/66018867f797a0238c0d737d70fac611?s=500&d=mm&r=g"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ProfilePage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionmordicus.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/02/sans-titre-1.jpg"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionmordicus.ca/author/michel-coutu/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1184180"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Michel Coutu, auteur/autrice sur Mordicus"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1118200",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/aga-2023/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "AGA 2024 - Mordicus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Lors de la dernière assemblée générale annuelle le conseil d’administration 2024-2025 à été élu. Siège # 1 Mme Mélanie Fournier                                          Siège # 6 Mme Nancy Dompierre Siège # 2 Mme Nathalie Paradis                                           Siège # 7  Vacant Siège # 3 Mme Chantale Desrosiers                                     Siège # 8 M. Jocelyn Ross Siège # 4 Mme Hélène […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/aga-2023/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Mordicus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-31T14:03:04+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-31T20:07:45+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionmordicus.ca/wp-content/uploads/2022/11/sjc-800x550-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "598"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "581"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/aga-2023/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionmordicus.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://diffusionmordicus.ca/aga-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionmordicus.ca/aga-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2022/11/sjc-800x550-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-31T14:03:04+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-31T20:07:45+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://diffusionmordicus.ca/#/schema/person/cb18e1f6c94886702bc52de14542f9ba"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionmordicus.ca/aga-2023/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1168200"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGA 2024 - Mordicus"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/aga-2023/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2022/11/sjc-800x550-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2022/11/sjc-800x550-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "598"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "581"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1168200",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/aga-2023/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1168280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/author/michel-coutu/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/02/sans-titre-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/02/sans-titre-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "598"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "581"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1184180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/author/michel-coutu/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1184260",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionmordicus.ca/author/joliadmin/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://diffusionmordicus.ca/wp-content/uploads/2023/01/279171947-10159991026721798-1331609451346935267-n.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "608"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1191800",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/author/joliadmin/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1191880",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionmordicus.ca/?s={search_term_string}"
+      }
+    ]
+  }
+]
