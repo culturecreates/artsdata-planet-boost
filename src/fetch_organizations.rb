@@ -39,9 +39,9 @@ data = rows.map do |row|
     "artifact" => artifact_from_url(url)
   }
 end
-data = data[0..19] # Limit to first 20 for testing
+data = data[0..9] # Limit to first 20 for testing
 
-batch_size = 10
+batch_size = 5
 batches = data.each_slice(batch_size).to_a
 
 batches.each_with_index do |batch, i|
