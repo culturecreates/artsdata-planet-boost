@@ -1,0 +1,255 @@
+[
+  {
+    "@id": "https://mundialmontreal.com/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Mundial Montréal - Avec des artistes sélectionnés représentant une quarantaine de cultures et de communautés différentes, Mundial Montréal a pour mission d’offrir une tribune aux artistes proposant des musiques issues de la diversité culturelle."
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Accueil - Mundial Montréal"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.mundialmontreal.com/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.mundialmontreal.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mundialmontreal.com/"
+      },
+      {
+        "@id": "https://mundialmontreal.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mundialmontreal.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.mundialmontreal.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.mundialmontreal.com/#organizationLogo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.mundialmontreal.com/#organizationLogo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Première Expo"
+      },
+      {
+        "@value": "Première Expo"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mundialmontreal.com/#organizationLogo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://expolaval.wpengine.com/wp-content/uploads/2022/03/Group-2.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mundialmontreal.com/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.mundialmontreal.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.mundialmontreal.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.mundialmontreal.com/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-04-12T19:33:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-17T21:48:58+00:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mundialmontreal.com/"
+      },
+      {
+        "@id": "https://mundialmontreal.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil - Mundial Montréal"
+      },
+      {
+        "@value": "Accueil - Mundial Montréal"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mundialmontreal.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.mundialmontreal.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.mundialmontreal.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461020"
+      },
+      {
+        "@id": "_:g471760"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mundial Montréal"
+      },
+      {
+        "@value": "Mundial Montréal"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec des artistes sélectionnés représentant une quarantaine de cultures et de communautés différentes, Mundial Montréal a pour mission d’offrir une tribune aux artistes proposant des musiques issues de la diversité culturelle."
+      },
+      {
+        "@value": "Avec des artistes sélectionnés représentant une quarantaine de cultures et de communautés différentes, Mundial Montréal a pour mission d’offrir une tribune aux artistes proposant des musiques issues de la diversité culturelle."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461020",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g461040"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g471780"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461040",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.mundialmontreal.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471780",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.mundialmontreal.com/?s={search_term_string}"
+      }
+    ]
+  }
+]
