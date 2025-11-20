@@ -1,0 +1,1292 @@
+[
+  {
+    "@id": "http://www.calgaryphil.com",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra | Calgary, AB"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Home"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Orchestral music is for everyone! This season, you can choose from brilliant guest artists, classical giants, new discoveries, pop favourites, family fun, and much more."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/calgaryphil/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-18T22:56:09+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://calgaryphil.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.calgaryphil.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://calgaryphil.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://calgaryphil.com/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-19T18:48:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T22:56:09+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://calgaryphil.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460600"
+      },
+      {
+        "@id": "_:g519000"
+      },
+      {
+        "@id": "_:g533180"
+      },
+      {
+        "@id": "_:g571220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Calgary Philharmonic Orchestra | Calgary, AB"
+      },
+      {
+        "@value": "Calgary Philharmonic Orchestra | Calgary, AB"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Orchestral music is for everyone! This season, you can choose from brilliant guest artists, classical giants, new discoveries, pop favourites, family fun, and much more."
+      },
+      {
+        "@value": "Orchestral music is for everyone! This season, you can choose from brilliant guest artists, classical giants, new discoveries, pop favourites, family fun, and much more."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://calgaryphil.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460640"
+      },
+      {
+        "@id": "_:g474380"
+      },
+      {
+        "@id": "_:g495500"
+      },
+      {
+        "@id": "_:g519040"
+      },
+      {
+        "@id": "_:g533220"
+      },
+      {
+        "@id": "_:g547060"
+      },
+      {
+        "@id": "_:g559160"
+      },
+      {
+        "@id": "_:g571260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Calgary Philharmonic Orchestra"
+      },
+      {
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Calgary Philharmonic Orchestra. Explore upcoming concerts and events from classical standards, pop favourites, collaborations, and new works."
+      },
+      {
+        "@value": "Calgary Philharmonic Orchestra. Explore upcoming concerts and events from classical standards, pop favourites, collaborations, and new works."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://calgaryphil.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://calgaryphil.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/calgaryphil/"
+      },
+      {
+        "@id": "https://x.com/calgaryphil"
+      },
+      {
+        "@id": "https://www.instagram.com/calgaryphil/"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/80734"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCZcO3rwqnbOGB8LhlOFx8CA"
+      },
+      {
+        "@id": "https://en.wikipedia.org/wiki/Calgary_Philharmonic_Orchestra"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Calgary Philharmonic Orchestra"
+      },
+      {
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519000",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://calgaryphil.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://calgaryphil.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460660"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460680"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g474400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g474420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g495520"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g495540"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g519060"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g519080"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g533240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g533260"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547060",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g547080"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g547100"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559160",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g559180"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g559200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g571280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g571300"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/wp-content/uploads/2025/06/CalgaryPhil_Logo_Inverse_TranspBG.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://calgaryphil.com/wp-content/uploads/2025/06/CalgaryPhil_Logo_Inverse_TranspBG.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "352"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "110"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Calgary Philharmonic Orchestra"
+      },
+      {
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460660",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460680",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.calgaryphil.com/events",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Events"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/calgaryphil/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-07-15T23:38:29+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://calgaryphil.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.calgaryphil.com/events"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/events/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/events/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://calgaryphil.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-27T16:20:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-15T23:38:29+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://calgaryphil.com/events/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g474320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Events - Calgary Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/events/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474400",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474420",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.calgaryphil.com/sitemap",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Sitemap - Calgary Philharmonic Orchestra"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Sitemap"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/sitemap/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/calgaryphil/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-08-29T22:38:49+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://calgaryphil.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.calgaryphil.com/sitemap"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/sitemap/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/sitemap/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://calgaryphil.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-27T17:22:46+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-29T22:38:49+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://calgaryphil.com/sitemap/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g495440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sitemap - Calgary Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495440",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/sitemap/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495520",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495540",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.calgaryphil.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra | Calgary, AB"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Home"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Orchestral music is for everyone! This season, you can choose from brilliant guest artists, classical giants, new discoveries, pop favourites, family fun, and much more."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/calgaryphil/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-18T22:56:09+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://calgaryphil.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.calgaryphil.com/#brx-content"
+      },
+      {
+        "@id": "http://www.calgaryphil.com/#brx-footer"
+      },
+      {
+        "@id": "http://www.calgaryphil.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519060",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519080",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533260",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.calgaryphil.com/account",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra - My Account"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Account"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/account"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/account/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/calgaryphil/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://calgaryphil.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.calgaryphil.com/account"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/account/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/account/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://calgaryphil.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-27T18:29:15+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://calgaryphil.com/account/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g547000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Account - Calgary Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547000",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/account/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547080",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547100",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.calgaryphil.com/privacy-policy",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Privacy Policy - Calgary Philharmonic Orchestra"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Privacy Policy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://calgaryphil.com/privacy-policy/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Calgary Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/calgaryphil/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-08-27T17:27:38+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://calgaryphil.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.calgaryphil.com/privacy-policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://calgaryphil.com/privacy-policy/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://calgaryphil.com/privacy-policy/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://calgaryphil.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-23T19:14:50+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-27T17:27:38+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://calgaryphil.com/privacy-policy/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g559100"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy - Calgary Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559180",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559200",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://calgaryphil.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571300",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
