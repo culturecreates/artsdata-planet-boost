@@ -1,0 +1,506 @@
+[
+  {
+    "@id": "https://www.ville.lasarre.qc.ca",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez La Sarre, située en l'Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.lasarre.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville de La Sarre"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-04-29T18:11:50-04:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2022-08-18T19:34:38-04:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-04-29T18:11:50-04:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.lasarre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ville.lasarre.qc.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.lasarre.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.lasarre.ca/#logo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de La Sarre"
+      },
+      {
+        "@value": "Ville de La Sarre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.lasarre.ca/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lasarre.ca/wp-content/uploads/2023/06/logo-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lasarre.ca/wp-content/uploads/2023/06/logo-1.png"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Ville de La Sarre"
+      },
+      {
+        "@value": "Ville de La Sarre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.lasarre.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.lasarre.ca"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.lasarre.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460980"
+      },
+      {
+        "@id": "_:g478220"
+      },
+      {
+        "@id": "_:g495240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de La Sarre"
+      },
+      {
+        "@value": "Ville de La Sarre"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Ville de La Sarre"
+      },
+      {
+        "@value": "Ville de La Sarre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460980",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.lasarre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.lasarre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495240",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.lasarre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.lasarre.ca/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.lasarre.ca/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-18T19:34:38-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-29T18:11:50-04:00"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://www.lasarre.ca/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.lasarre.ca/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      },
+      {
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.lasarre.ca/author/vortexf/",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.lasarre.ca/author/vortexf/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/23590c744a3b7c47c9ac42238b245df984cebf357111e4952aa03b011375b788?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://lasarre.ca"
+      }
+    ],
+    "http://schema.org/worksFor": [
+      {
+        "@id": "https://www.lasarre.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "vortexf"
+      },
+      {
+        "@value": "vortexf"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure.gravatar.com/avatar/23590c744a3b7c47c9ac42238b245df984cebf357111e4952aa03b011375b788?s=96&amp;d=mm&amp;r=g",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/23590c744a3b7c47c9ac42238b245df984cebf357111e4952aa03b011375b788?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "vortexf"
+      },
+      {
+        "@value": "vortexf"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.lasarre.ca/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-18T19:34:38-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-29T18:11:50-04:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.lasarre.ca/author/vortexf/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.lasarre.ca/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.lasarre.ca/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.lasarre.ca/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ville.lasarre.qc.ca"
+      },
+      {
+        "@id": "https://www.ville.lasarre.qc.ca/#main-content"
+      },
+      {
+        "@id": "https://www.ville.lasarre.qc.ca/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      },
+      {
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "Ville de la Sarre,services en ligne,carte interactive,un monde de possibilité"
+      },
+      {
+        "@value": "Ville de la Sarre,services en ligne,carte interactive,un monde de possibilité"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez La Sarre, située en l&#039;Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
+      },
+      {
+        "@value": "Découvrez La Sarre, située en l&#039;Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      },
+      {
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ville.lasarre.qc.ca/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez La Sarre, située en l'Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.lasarre.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville de La Sarre"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-04-29T18:11:50-04:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2022-08-18T19:34:38-04:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-04-29T18:11:50-04:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.lasarre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ville.lasarre.qc.ca/#main-content"
+      },
+      {
+        "@id": "https://www.ville.lasarre.qc.ca/#"
+      }
+    ]
+  }
+]
