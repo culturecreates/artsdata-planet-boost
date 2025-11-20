@@ -1,0 +1,348 @@
+[
+  {
+    "@id": "https://www.matagami.com",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Accueil - Ville de Matagami"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Actualités Événements Matagami en chiffre 680Km2 de lacs 1963Année de fondation 1396Population 912 500Tonnes de minerai traité Inscrivez-vous à notre liste d’envoi Restez à l’affût des dernières nouvelles et recevez les alertes."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VilledeMatagami/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-06-04T20:08:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/wp-content/uploads/2023/08/IMG_0319-scaled.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://matagami.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.matagami.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://matagami.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://matagami.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://matagami.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://matagami.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2023/08/IMG_0319-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-26T19:59:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-04T20:08:21+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://matagami.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil - Ville de Matagami"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://matagami.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Just another WordPress site"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://matagami.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://matagami.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/VilledeMatagami/"
+      },
+      {
+        "@id": "https://x.com/VilleMatagami"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC0h55wGhbHVk7gVe41eP-iQ"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Matagami"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2023/08/IMG_0319-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2023/08/IMG_0319-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460780"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/06/Matagami-Cursive.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/06/Matagami-Cursive.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "958"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1100"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Matagami"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
