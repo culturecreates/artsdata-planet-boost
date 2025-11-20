@@ -1,0 +1,8278 @@
+[
+  {
+    "@id": "http://astortheatre.ns.ca/events/category/events/list/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481800"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g481800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g481860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481920"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g481920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g481980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/category/events/list/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/category/events/list/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/abcec7ee-a007-4a2f-9194-0991e02d7dc9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/guydavis.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/guy-davis/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g481780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Guy Davis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When Guy Davis plays the blues, he doesn\\'t want you to notice how much art is involved. &quot;It takes work making a song that\\'s simple, and playful, and easy to do,&quot; he says. &quot;And I don\\'t want people to see that. I want to uplift and create something that causes delight. And I want some little eight-year-old kid in the front row to have big eyes and say, \\'Hey, I want to do that!\\'.&quot;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/fcbb0815-d0fb-439e-867d-3169242aa57d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/ennis2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-with-the-ennis-sisters/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g481840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas with the Ennis Sisters"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c7343028-8606-4b65-bbce-f7283b116200",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/christmas.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/queens-holiday-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g481900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Queens Holiday Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;David James and Big River are often described as one of the most authentic Outlaw Country tribute shows. The extensive catalogue of songs from Cash, such as Folson Prison, Boy Named Sue and Ring of Fire and Waylon\\'s mega hits.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c725f8b9-1a25-4ace-aca0-22ad0b226896",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/pirate.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/a-proper-privateer-panto/2025-12-12/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g481960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Proper Privateer Panto"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Join us this Christmas for A Proper Privateer Panto that will take you on an adventure following the historical events of The Liverpool Privateers with our creative spin. This original Astor Theatre production is the perfect family holiday tradition.&lt;/p&gt;\\n&lt;p&gt;Our Panto is full of action, comedy, drama, a gameshow sheep, raccoons and a classic Pantomime Dame!&lt;/p&gt;\\n&lt;p&gt;Whynot, a First Mate on a ship called The Rover, longs for a life away from the sea. He discovers that the seaside town of Liverpool has an Evil Mayor who has a nefarious plan. Can Whynot and Sister Clarice confront the Evil Mayor and save Liverpool from the French? Find out on December 12th-14th.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/65d184dd-9130-4e44-9831-96af308c4bf4",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/62b89af8-562e-43e8-b459-e5ba4afc81c6",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/6ad8bca3-09ef-4622-8437-0d1c6e3db057",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/month/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g951900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g951920"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g951920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g951960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g951980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g951980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952040"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952040",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952080",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952100"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952160"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952220"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952280"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952400"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952460"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952580"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952700"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952700",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952820"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952860",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952880"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952880",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g952940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g952940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g952980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g953000"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g953000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g953040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g953060"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g953060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g953100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g953120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g953120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/month/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/month/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/8a41373e-6bd0-4fd0-91a1-14c18f2e2b78",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/wolf.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/the-art-of-maya-smith/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-04T00:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T23:59:59-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g951900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Art of Maya Smith"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Maya Smith of Red Feather Studio creates art that celebrates the natural world. The Astor is pleased to present her exhibition. “The Art of Maya Smith,” through November 2025.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/ec74e0ff-2f6f-4542-93ad-40dd54443cd8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/ronjames.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/ron-james/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g951960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ron James"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canada\\'s #1 stand-up road warrior Ron James, is in the driver\\'s seat once again and bound full throttle for the \\'big wide open\\' with his new show, \\'The Noise Between Our Ears\\'.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/dd3ab3eb-66a5-4a59-adeb-d51b3d43c38c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/sadie2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/sadie-flynn-come-to-big-oak/2025-11-14/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sadie Flynn Come to Big Oak"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;In this wonderfully humorous two-act play, the small town of Big Oak is a place where nothing exciting ever happens…and some people like it that way.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/1bdd96c5-44a6-4adf-871f-82d6273f6dad",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/sadie2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/sadie-flynn-come-to-big-oak/2025-11-15/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sadie Flynn Come to Big Oak"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;In this wonderfully humorous two-act play, the small town of Big Oak is a place where nothing exciting ever happens…and some people like it that way.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a12b8988-8e3f-4c5f-89ab-0df3ef7fc09e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/sadie2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/sadie-flynn-come-to-big-oak/2025-11-16/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sadie Flynn Come to Big Oak"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;In this wonderfully humorous two-act play, the small town of Big Oak is a place where nothing exciting ever happens…and some people like it that way.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/3555334f-1567-4188-9aa4-437c7509698a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/collingjames.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/colin-james/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Colin James"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Chasing the Sun, finds the blues-rock singer-songwriter\\'s electrifying new album featuring the kind of towering musical guests typically found on the other side of velvet ropes.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/211f9020-f4b2-454f-a36e-56c373d11840",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/11/thecourageous.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/lcfs-the-courageous/2025-11-19/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "LCFS: The Courageous"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;As part of our partnership with Lunenburg County Film Series, we are bringing the TIFF-selected film The Courageous.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a3158614-6ea7-4c8d-9895-d9db034a2a93",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/11/thecourageous.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/lcfs-the-courageous/2025-11-19/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "LCFS: The Courageous"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;As part of our partnership with Lunenburg County Film Series, we are bringing the TIFF-selected film The Courageous.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/731cce15-1241-471a-93eb-881b2a109cbe",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/04906e5d-51dd-4849-bee1-2d85cceca330",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/f829960c-6852-44b7-8ae9-e84e32b835c1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-21/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a5c6ac09-9162-4740-8c51-490c3ab0c341",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-21/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/b7d6be73-c34f-4e6d-9b72-9c3e6989f4e2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/guydavis.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/guy-davis/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Guy Davis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When Guy Davis plays the blues, he doesn\\'t want you to notice how much art is involved. &quot;It takes work making a song that\\'s simple, and playful, and easy to do,&quot; he says. &quot;And I don\\'t want people to see that. I want to uplift and create something that causes delight. And I want some little eight-year-old kid in the front row to have big eyes and say, \\'Hey, I want to do that!\\'.&quot;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/6400403f-16b1-4ea3-8014-ebe695ca9b16",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/ennis2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-with-the-ennis-sisters/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas with the Ennis Sisters"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/5760c66f-02c4-4209-bf37-1f831716f594",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-26/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/937f378b-1f5c-4bb7-b41f-1eee9ff8d7ad",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-26/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/607c1450-dbed-44dc-9aac-55e20afac31b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-27/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a18e815d-b5fe-4ea6-ac59-443ba249d37e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-27/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/980746e3-deac-4479-a4bf-6b69da140ec6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/christmas.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/queens-holiday-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g952980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Queens Holiday Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;David James and Big River are often described as one of the most authentic Outlaw Country tribute shows. The extensive catalogue of songs from Cash, such as Folson Prison, Boy Named Sue and Ring of Fire and Waylon\\'s mega hits.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/b3ec73e8-7040-441d-af70-8502df9fbe06",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmascapebreton.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-in-cape-breton/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g953040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas in Cape Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/2768b60e-8773-48b7-aad5-bd548bbcce5f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmas3.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/feels-like-christmas-tour/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g953100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Feels Like Christmas Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;An uplifting, family-friendly festive concert featuring one of Atlantic Canada\\'s top recording artists Jon Mullane (with full band), and Liverpool\\'s own talented songstress Amy Grant.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/31ada1c8-82e4-4206-aff8-b4dab7f14055",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/171b8162-051c-4e1a-91d8-f2754338daec",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c3406faa-121e-44bd-bbac-a4c67718611f",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/month",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010040"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010040",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010080",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010100"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010160"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010220"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010280"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010400"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010460"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010580"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010700"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010700",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010820"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010860",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010880"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010880",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1010940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1010980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1011000"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1011060"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1011120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1011180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1011240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1011240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/month#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/month#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a1ab2732-f4bb-44eb-a37c-5119f82a8276",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/wolf.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/the-art-of-maya-smith/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-04T00:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T23:59:59-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Art of Maya Smith"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Maya Smith of Red Feather Studio creates art that celebrates the natural world. The Astor is pleased to present her exhibition. “The Art of Maya Smith,” through November 2025.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/5d111d38-59f6-4f92-8cfc-702d2e74de62",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/ronjames.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/ron-james/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ron James"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canada\\'s #1 stand-up road warrior Ron James, is in the driver\\'s seat once again and bound full throttle for the \\'big wide open\\' with his new show, \\'The Noise Between Our Ears\\'.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/3e514f61-dfc1-4c03-b7ef-ee35ac459686",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/sadie2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/sadie-flynn-come-to-big-oak/2025-11-14/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sadie Flynn Come to Big Oak"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;In this wonderfully humorous two-act play, the small town of Big Oak is a place where nothing exciting ever happens…and some people like it that way.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/04284131-7900-45a6-86d7-daf4968c316d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/sadie2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/sadie-flynn-come-to-big-oak/2025-11-15/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sadie Flynn Come to Big Oak"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;In this wonderfully humorous two-act play, the small town of Big Oak is a place where nothing exciting ever happens…and some people like it that way.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a7907188-4971-4519-9814-62f1650d46b9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/sadie2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/sadie-flynn-come-to-big-oak/2025-11-16/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sadie Flynn Come to Big Oak"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;In this wonderfully humorous two-act play, the small town of Big Oak is a place where nothing exciting ever happens…and some people like it that way.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/fdecac33-09e2-435d-a553-2e5dddbc25a0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/collingjames.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/colin-james/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Colin James"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Chasing the Sun, finds the blues-rock singer-songwriter\\'s electrifying new album featuring the kind of towering musical guests typically found on the other side of velvet ropes.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/62939556-1d0d-42b9-a84b-414cc7450ab7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/11/thecourageous.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/lcfs-the-courageous/2025-11-19/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "LCFS: The Courageous"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;As part of our partnership with Lunenburg County Film Series, we are bringing the TIFF-selected film The Courageous.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/e18af365-cc53-4af1-906f-919cf837bd2d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/11/thecourageous.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/lcfs-the-courageous/2025-11-19/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "LCFS: The Courageous"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;As part of our partnership with Lunenburg County Film Series, we are bringing the TIFF-selected film The Courageous.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/d28065ec-f349-4d73-aeb0-ba722bd7ea2a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/9f7d26a0-911e-4525-81c7-bda475ffc229",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/4f4e19c6-5e45-4621-87f7-e7630365a518",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-21/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/19a43aa8-cacd-42c1-a040-7930731d0eaa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-21/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/523f14d9-920d-47ac-9487-0e8d06fd262d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/guydavis.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/guy-davis/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Guy Davis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When Guy Davis plays the blues, he doesn\\'t want you to notice how much art is involved. &quot;It takes work making a song that\\'s simple, and playful, and easy to do,&quot; he says. &quot;And I don\\'t want people to see that. I want to uplift and create something that causes delight. And I want some little eight-year-old kid in the front row to have big eyes and say, \\'Hey, I want to do that!\\'.&quot;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/183c39b4-d639-47ad-875b-ff15d42007a6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/ennis2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-with-the-ennis-sisters/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas with the Ennis Sisters"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/07c85a31-aa15-47d6-9335-fc8c29d4412b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-26/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/fab071cf-e7de-4f5f-9e2f-27de9dcc5637",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-26/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/3bebfc4d-21e6-4bb6-bf41-6c67e73db03e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-27/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1010980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c31375b7-af38-4a76-9f06-22d8bcea64d6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-27/2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1011040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/4a8dfbb6-c25a-4e95-adeb-be2db582a03a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/christmas.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/queens-holiday-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1011100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Queens Holiday Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;David James and Big River are often described as one of the most authentic Outlaw Country tribute shows. The extensive catalogue of songs from Cash, such as Folson Prison, Boy Named Sue and Ring of Fire and Waylon\\'s mega hits.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/67580fc2-69d2-4465-8127-dfbef59038a5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmascapebreton.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-in-cape-breton/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1011160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas in Cape Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/76735f14-76f0-461b-9904-53ec8099c207",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmas3.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/feels-like-christmas-tour/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1011220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Feels Like Christmas Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;An uplifting, family-friendly festive concert featuring one of Atlantic Canada\\'s top recording artists Jon Mullane (with full band), and Liverpool\\'s own talented songstress Amy Grant.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/8d15ae0e-cc76-4db4-bd2d-245d961e4b51",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/f013c616-4ffc-4978-8c23-e4bc420288c9",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/03b6a713-8299-40b7-994f-c27793bbc893",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/month"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/list/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1059760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1059820"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059860",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1059880"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059880",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1059940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1060000"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1060060"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1060120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1060180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1060240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1060300"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1060300",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/list/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/list/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/7c86b46f-1e26-4831-9de2-d048ad4e1d21",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/wolf.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/the-art-of-maya-smith/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-04T00:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T23:59:59-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1059740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Art of Maya Smith"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Maya Smith of Red Feather Studio creates art that celebrates the natural world. The Astor is pleased to present her exhibition. “The Art of Maya Smith,” through November 2025.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/4635a0d1-fd1e-4e33-bd0e-36e966f5afd2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1059800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/13b67768-e760-4368-ae92-484a2c8da04c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/guydavis.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/guy-davis/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1059860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Guy Davis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;When Guy Davis plays the blues, he doesn\\'t want you to notice how much art is involved. &quot;It takes work making a song that\\'s simple, and playful, and easy to do,&quot; he says. &quot;And I don\\'t want people to see that. I want to uplift and create something that causes delight. And I want some little eight-year-old kid in the front row to have big eyes and say, \\'Hey, I want to do that!\\'.&quot;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/04962b88-4b98-44df-bea3-e7b6ec049d42",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/ennis2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-with-the-ennis-sisters/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1059920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas with the Ennis Sisters"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/2cf5c1aa-dcae-4847-8328-a21daab1db08",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-26/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1059980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c54cd9cb-74c1-4b48-9803-800d6d947d35",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/christmas.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/queens-holiday-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1060040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Queens Holiday Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;David James and Big River are often described as one of the most authentic Outlaw Country tribute shows. The extensive catalogue of songs from Cash, such as Folson Prison, Boy Named Sue and Ring of Fire and Waylon\\'s mega hits.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/00f3de77-1390-4a24-91bb-c9400e017006",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmascapebreton.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/christmas-in-cape-breton/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-02T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1060100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Christmas in Cape Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/ecd7707f-a7ea-44b7-931b-1791b3926875",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmas3.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/feels-like-christmas-tour/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1060160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Feels Like Christmas Tour"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;An uplifting, family-friendly festive concert featuring one of Atlantic Canada\\'s top recording artists Jon Mullane (with full band), and Liverpool\\'s own talented songstress Amy Grant.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/5018993f-762a-45aa-8296-62a4946cc016",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/christmas4.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/kiwanis-christmas-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1060220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kiwanis Christmas Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;With a mix of original songs, holiday classics, humorous recitations and a little Irish step-dancing, Christmas with The Ennis Sisters is sure to ignite your holiday spirit. Don’t miss the chance to delight in a tradition cherished by so many!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c2e672ef-7893-456d-9538-8947c213cd20",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/pirate.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/a-proper-privateer-panto/2025-12-12/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T22:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1060280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Proper Privateer Panto"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Join us this Christmas for A Proper Privateer Panto that will take you on an adventure following the historical events of The Liverpool Privateers with our creative spin. This original Astor Theatre production is the perfect family holiday tradition.&lt;/p&gt;\\n&lt;p&gt;Our Panto is full of action, comedy, drama, a gameshow sheep, raccoons and a classic Pantomime Dame!&lt;/p&gt;\\n&lt;p&gt;Whynot, a First Mate on a ship called The Rover, longs for a life away from the sea. He discovers that the seaside town of Liverpool has an Evil Mayor who has a nefarious plan. Can Whynot and Sister Clarice confront the Evil Mayor and save Liverpool from the French? Find out on December 12th-14th.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/09979589-f951-4248-bdac-99190cca3b44",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/322bcc03-97f4-41b4-bef9-71e0312351aa",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/6e4bc646-a9b4-4f10-a8d3-1fd72bac121f",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/category/movies/list/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1097080",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1097100"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1097100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1097140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1097160"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1097160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/category/movies/list/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/events/category/movies/list/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/7af9fc8f-441f-4bbc-85f2-64a21113e4eb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/tron.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1097080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tron: Ares"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Tron: Ares is a 2025 American science fiction action film. It is the third installment in the Tron series and a sequel to Tron: Legacy (2010).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/78f5e4a5-f514-4809-aedf-4688a4afe4dd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/08/springsteen.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/springsteen-deliver-me-from-nowher/2025-11-26/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1097140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springsteen: Deliver Me from Nowhere"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&quot;Deliver Me from Nowhere&quot; chronicles the making of Bruce Springsteen\\'s 1982 &quot;Nebraska&quot; album.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/c63761aa-c243-4ebf-b40a-7649f77358fd",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/01c9a440-e0c9-4475-adee-7880c1a98709",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/458ed16d-24b3-4d07-874f-713a48d5e193",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/movies/list/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1120960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1120980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1120980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/fcd9c709-fc64-4821-935f-d55330c912da",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/pirate.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1120960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Proper Privateer Panto"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Join us this Christmas for A Proper Privateer Panto that will take you on an adventure following the historical events of The Liverpool Privateers with our creative spin. This original Astor Theatre production is the perfect family holiday tradition.&lt;/p&gt;\\n&lt;p&gt;Our Panto is full of action, comedy, drama, a gameshow sheep, raccoons and a classic Pantomime Dame!&lt;/p&gt;\\n&lt;p&gt;Whynot, a First Mate on a ship called The Rover, longs for a life away from the sea. He discovers that the seaside town of Liverpool has an Evil Mayor who has a nefarious plan. Can Whynot and Sister Clarice confront the Evil Mayor and save Liverpool from the French? Find out on December 12th-14th.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/a24226a5-9d1c-48fc-812e-aa1818081abe",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/8373bc33-99c5-4098-ab66-e87189a1ae19",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/5ce88955-32c7-418b-bfb5-91842af5f9b3",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/a-proper-privateer-panto/2025-12-13/1/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://astortheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1136040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1136060"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1136060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/#masthead",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/#colophon",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/510caf3d-1f9b-46a0-8643-dd66a7a10c02",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/10/wolf.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/the-art-of-maya-smith/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-04T00:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T23:59:59-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1136040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Art of Maya Smith"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Maya Smith of Red Feather Studio creates art that celebrates the natural world. The Astor is pleased to present her exhibition. “The Art of Maya Smith,” through November 2025.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/cb67e28f-382e-43b0-b239-1e994ffd4660",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/74099ece-e65f-4599-a1f9-ef5815cb0154",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/34a0ed3f-8403-40e0-9497-18c1134ae84a",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/event/the-art-of-maya-smith/"
+      }
+    ]
+  }
+]
