@@ -1,0 +1,494 @@
+[
+  {
+    "@id": "http://soundstreams.ca/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "charity.musical.performance"
+      },
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://soundstreams.ca"
+      },
+      {
+        "@language": "en",
+        "@value": "https://soundstreams.ca/"
+      }
+    ],
+    "business:contact_data:locality": [
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "business:contact_data:region": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "business:contact_data:country_name": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Home - Soundstreams"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Soundstreams"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/soundstreams"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-13T18:39:49+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://soundstreams.ca/wp-content/uploads/soundstreams-sharing.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://soundstreams.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://soundstreams.ca/"
+      },
+      {
+        "@id": "http://soundstreams.ca/#soundstreams-page"
+      },
+      {
+        "@id": "http://soundstreams.ca/#"
+      },
+      {
+        "@id": "http://soundstreams.ca/#soundstreams-body"
+      }
+    ]
+  },
+  {
+    "@id": "https://soundstreams.ca/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://soundstreams.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://soundstreams.ca/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://soundstreams.ca/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-05-12T14:33:25+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T18:39:49+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://soundstreams.ca/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461040"
+      },
+      {
+        "@id": "_:g473100"
+      },
+      {
+        "@id": "_:g485100"
+      },
+      {
+        "@id": "_:g497000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home - Soundstreams"
+      },
+      {
+        "@value": "Home - Soundstreams"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://soundstreams.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://soundstreams.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://soundstreams.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461080"
+      },
+      {
+        "@id": "_:g473140"
+      },
+      {
+        "@id": "_:g485140"
+      },
+      {
+        "@id": "_:g497040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Soundstreams"
+      },
+      {
+        "@value": "Soundstreams"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Contemporary Classical Music Concerts in Toronto"
+      },
+      {
+        "@value": "Contemporary Classical Music Concerts in Toronto"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://soundstreams.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://soundstreams.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://soundstreams.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://soundstreams.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/soundstreams"
+      },
+      {
+        "@id": "https://twitter.com/soundstreams"
+      },
+      {
+        "@id": "https://www.instagram.com/soundstreams/"
+      },
+      {
+        "@id": "https://www.vimeo.com/soundstreams"
+      },
+      {
+        "@id": "https://www.youtube.com/soundstreams"
+      },
+      {
+        "@id": "https://www.soundcloud.com/soundstreams"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Soundstreams"
+      },
+      {
+        "@value": "Soundstreams"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461040",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://soundstreams.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://soundstreams.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://soundstreams.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497000",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://soundstreams.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g461100"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g473160"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g485160"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g497060"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://soundstreams.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://soundstreams.ca/wp-content/uploads/soundstreams-logo-social.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://soundstreams.ca/wp-content/uploads/soundstreams-logo-social.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Soundstreams"
+      },
+      {
+        "@value": "Soundstreams"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461100",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://soundstreams.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473160",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://soundstreams.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485160",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://soundstreams.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497060",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://soundstreams.ca/?s={search_term_string}"
+      }
+    ]
+  }
+]
