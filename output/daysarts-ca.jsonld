@@ -1,0 +1,2006 @@
+[
+  {
+    "@id": "https://www.daysarts.ca",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Daysland and District Cultural Arts Society | Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Enjoy movies, concerts, and dance classes at theatre, celebrating art and culture."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Daysland and District Cultural Arts Society | Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Enjoy movies, concerts, and dance classes at theatre, celebrating art and culture."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/aeeee79f-db14-40e0-8716-f43708c93f9a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g462720"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/past-events",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/past-events/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Past events"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Browse past events at Daysland Palace Theatre. Explore the highlights and history of performances, films, and community gatherings in Daysland, Alberta."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/past-events/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Past events"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Browse past events at Daysland Palace Theatre. Explore the highlights and history of performances, films, and community gatherings in Daysland, Alberta."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/past-events"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/8f68a9a6-e10f-4579-bce5-92a6cad15ef2",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g468500"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/past-events"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Upcoming shows & events"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Find information about upcoming events at Daysland Palace Theatre, including schedules, details, and ticket options."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Upcoming shows & events"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Find information about upcoming events at Daysland Palace Theatre, including schedules, details, and ticket options."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/0909074a-d137-49a4-a51c-fcd411d39d5b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g474940"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event/03-john-wort-hannam",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/03-john-wort-hannam/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "JOHN WORT HANNAM | Event"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/03-john-wort-hannam/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "JOHN WORT HANNAM | Event"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/03-john-wort-hannam"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/98476470-c294-471e-80dc-29ad3f1d93e9",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481100"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/03-john-wort-hannam"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event/04-buzz-brass",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/04-buzz-brass/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "BUZZ BRASS | Event"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/04-buzz-brass/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "BUZZ BRASS | Event"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/04-buzz-brass"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/733922f8-00bf-437b-997a-abe9a14ee46b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g487500"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/04-buzz-brass"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event/05-6-minute-warning",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/05-6-minute-warning/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "6 MINUTE WARNING | Event"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/05-6-minute-warning/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "6 MINUTE WARNING | Event"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/05-6-minute-warning"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/7c1f73f9-f043-4f1a-b7c0-d91c7660e2a4",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g493920"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/05-6-minute-warning"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event/06-ventastic",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/06-ventastic/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "VENTASTIC | Event"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/06-ventastic/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "VENTASTIC | Event"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/06-ventastic"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/0f317a0f-2f05-41e1-8fb4-dfce1d03ed04",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g500420"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/06-ventastic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event/07-twilight-time",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/07-twilight-time/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "TWILIGHT TIME | Event"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/07-twilight-time/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "TWILIGHT TIME | Event"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/07-twilight-time"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/f1e94cb4-20d9-432a-8a70-4ecf93013c43",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g506920"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/07-twilight-time"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/event/daysarts-agm",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/daysarts-agm/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Daysarts AGM | Event"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/event/daysarts-agm/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Daysarts AGM | Event"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "undefined"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/daysarts-agm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g513380",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/0cd87c58-1a39-4445-8cf7-cbf318b7c6dd",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g513380"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/event/daysarts-agm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Daysland and District Cultural Arts Society | Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Enjoy movies, concerts, and dance classes at theatre, celebrating art and culture."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Daysland and District Cultural Arts Society | Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Enjoy movies, concerts, and dance classes at theatre, celebrating art and culture."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/371498af-2ed5-49ab-a9d7-2daf9577022c",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520640"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/now-playing",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/now-playing"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Now playing at Daysland Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Explore the latest movies, and events happening in Daysland, Alberta. Check showtimes and plan your visit."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/now-playing"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Now playing at Daysland Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Explore the latest movies, and events happening in Daysland, Alberta. Check showtimes and plan your visit."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/now-playing"
+      },
+      {
+        "@id": "https://www.daysarts.ca/now-playing#Good-Fortune"
+      },
+      {
+        "@id": "https://www.daysarts.ca/now-playing#Soul-on-Fire"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/8b7af539-41cd-4f34-900e-e7aaf9b96717",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g527020"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/now-playing"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/reel-alternative-film",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/reel-alternative-film"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Reel Alternative Film"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Discover unique, thought-provoking films that inspire and entertain. Check out our lineup and plan your next movie night."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/reel-alternative-film"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Reel Alternative Film"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Discover unique, thought-provoking films that inspire and entertain. Check out our lineup and plan your next movie night."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/reel-alternative-film"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/646211eb-abf9-486f-a444-b827b9d9558a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g533340"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/reel-alternative-film"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/about",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/about"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "About DaysArts"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Learn about Daysland Palace Theatre, its history, mission, and role in supporting arts and culture in Daysland, Alberta."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/about"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "About DaysArts"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Learn about Daysland Palace Theatre, its history, mission, and role in supporting arts and culture in Daysland, Alberta."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/about"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/2e848811-945d-4d1b-b8c1-604b08d07566",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g539540"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/about"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/kamotion-dance",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/kamotion-dance"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "DaysArts volunteer benefits"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Discover Kamotion Dance. Learn about our dance programs, classes, and performances designed for all ages and skill levels."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/kamotion-dance"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "DaysArts volunteer benefits"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Discover Kamotion Dance. Learn about our dance programs, classes, and performances designed for all ages and skill levels."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/kamotion-dance"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/72cbfb1b-8c03-4a0f-888d-6bc41e873d63",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g545920"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/kamotion-dance"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/volunteer",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/volunteer"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "DaysArts volunteer benefits"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Get involved with Daysland Theatre by volunteering. Support local arts and culture while making a difference in the community."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/volunteer"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "DaysArts volunteer benefits"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Get involved with Daysland Theatre by volunteering. Support local arts and culture while making a difference in the community."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/volunteer"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/8b80adae-f83f-4596-81dd-30496f1b8251",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g552340"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/volunteer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/rental",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/rental"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Rent the Daysland Palace theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Explore rental opportunities at Daysland Palace Theatre. Host your next event, meeting, or gathering in our versatile venue located in Daysland, Alberta."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/rental"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en",
+        "@value": "Rent the Daysland Palace theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en",
+        "@value": "Explore rental opportunities at Daysland Palace Theatre. Host your next event, meeting, or gathering in our versatile venue located in Daysland, Alberta."
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en",
+        "@value": "https://daysarts.ca/social-image.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/rental"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/00811fcd-2154-4c64-afb3-92825199a61d",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g559000"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/rental"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g565360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/f3a5dcb9-eca2-4968-92da-8b02f77c3a23",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g565360"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/now-playing#Good-Fortune"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Palace Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g570940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "5012-50 Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Daysland"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Alberta"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.daysarts.ca/temporary/aca9855a-7e6b-45f9-8cc9-fdeda570d58b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g570940"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@id": "tel:+17806731325"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.daysarts.ca/now-playing#Soul-on-Fire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Palace Theatre"
+      }
+    ]
+  }
+]
