@@ -1,0 +1,6554 @@
+[
+  {
+    "@id": "https://centredesarts.ca",
+    "fb:app_id": [
+      {
+        "@language": "fr",
+        "@value": "966242223397117"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Salle de spectacle | Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/template/logo-CAJL-700-570.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "570"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Le Centre des arts Juliette-Lassonde, situé au centre-ville de Saint-Hyacinthe, présente des spectacles dans toutes les disciplines des arts de la scène."
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468720",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g468780"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g468840"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468780",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468840",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468960",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469020",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2024-11-05"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/abbamania-251121/20251121200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469160",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Abbamania"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469500",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g469560"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Zaricot"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g469560",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1460 rue Des Cascades"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 3H5"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469680",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469740",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.lezaricot.com/spectacle/emile-bourgault"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469880",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q134007180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470260",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g470320"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g470380"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470320",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470380",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470500",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470560",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "0000-00-00"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "44.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/sam-breton-251122/20251122200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470700",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Breton"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471060",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g471120"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g471180"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471120",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471180",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471300",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471360",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-02-10"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "50.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/mike-ward-251127/20251127200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471500",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mike Ward"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471860",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g471920"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g471980"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471920",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471980",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472100",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472160",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-04-30"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "56.25"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/dave-fenley-251128/20251128200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472300",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dave Fenley"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472660",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g472720"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g472780"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472720",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472780",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472900",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472960",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-07"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/match-dimpro-de-gigue-251129/20251129193000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473100",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473460",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g473540"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g473580"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473580",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473700",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473760",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "48.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/les-charbonniers-de-lenfer-251204"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473900",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q129888"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/4c8f8c69-7672-477b-84da-9d8bf270bf52",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g468720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g468960"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g469020"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g469160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Abbamania"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/abbamania"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/abbamania-canada-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/eb9ddf01-eea6-431f-b882-b6acc9732fd3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469500"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g469680"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g469740"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g469880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Tourbillonnant et sensible, canalisé, effleurant la scène avec un émouvant abandon, Émile Bourgault est un moderne et un classique à la fois; il est bien de son époque, mais il sait d’où il vient et s’installe à sa place dans une lignée qui va de Ferland à Philippe B. Après quelques années d’écriture, des collaborations de marque et plusieurs expériences de scène enrichissantes, Émile Bourgault est fin prêt à se dévoiler! C’est avec une musique pop-alternative aux teintes folk et rock que l’auteur-compositeur-interprète nous présente son premier album : Tant mieux. Entouré de ses fidèles complices, il lance son premier long-jeu avec un spectacle rempli de surprises, voguant entre moments touchants, ambiance festive et amitié sincère."
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/emile-bourgault"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/emile-bourgault-zaricot-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/a94ba142-0cca-4104-b665-c910fb504cb1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g470260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g470500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g470560"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g470700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Ga-lé aller"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/sam-breton"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/sam-breton-ga-le-aller-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/5a123d72-12e4-43db-929d-3947cd1bbd38",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g471060"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g471300"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g471360"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g471500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mike Ward"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Modeste"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/mike-ward-modeste"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/mike-ward-derniere-chance-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/41f80671-376b-4327-a0b8-0adde79fa469",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g471860"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g472100"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g472160"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g472300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dave Fenley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "TRIO"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/dave-fenley"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/dave-fenley-trio-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/1dd514b9-8405-47e7-bd33-9c17d4543314",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g472660"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g472900"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g472960"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g473100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T21:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "12"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/bigico-match-d-impro-de-gigue"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/bigico-match-d-impro-de-gigue-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/a9d39b90-7ca4-4eef-89eb-75a5b377e989",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g473460"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g473700"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g473760"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g473900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04T20:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04T22:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le temps passe et il y met le temps » disait une chanson. Et le temps a passé… après plus de trente années à charbonner joyeusement ici comme ailleurs sur les braises ardentes du répertoire traditionnel québécois: 30 ans de rapaillages et de partage; 30 ans à chanter sans jamais déchanter sur l’accord du pied; 30 ans de camaraderie à l’unisson ou en harmonie; et 30 ans à bien s’entendre et des fois à s’attendre. Après tous ces temps de joie et une grosse peine marquée par le deuil de leur grand Jean-Claude Rossignolet des bois, pourquoi ne pas se faire plaisir et du même coup faire plaisir? C’est ainsi que Michel Bordeleau, Michel Faubert, André Marchand et Normand Miron reprennent les grands chemins qu’ils ont tant parcourus. Un ultime tour de leur monde, question de pouvoir offrir une dernière occasion de voir sur les planches, dans un spectacle mis en scène par le regard brillant d'Émile Proulx-Cloutier, 4 charbonniers chanter… Les Charbonniers de l’enfer!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/les-charbonniers-de-l-enfer"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/charbonniers-de-l-enfer-f-i-fi-n-i-ni-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/",
+    "fb:app_id": [
+      {
+        "@language": "fr",
+        "@value": "966242223397117"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Salle de spectacle | Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/template/logo-CAJL-700-570.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "570"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Le Centre des arts Juliette-Lassonde, situé au centre-ville de Saint-Hyacinthe, présente des spectacles dans toutes les disciplines des arts de la scène."
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496280",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g496340"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g496400"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496340",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496400",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496520",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496580",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "2024-11-05"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "57"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://centredesarts.tuxedobillet.com/main/abbamania-251121/20251121200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496720",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Abbamania"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497060",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g497120"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Le Zaricot"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g497120",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1460 rue Des Cascades"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 3H5"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497240",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497300",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "30.00"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.lezaricot.com/spectacle/emile-bourgault"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497440",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q134007180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497820",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g497880"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g497940"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497880",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497940",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498060",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498120",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "0000-00-00"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-11-22"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "44.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://centredesarts.tuxedobillet.com/main/sam-breton-251122/20251122200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498260",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Sam Breton"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498620",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g498680"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g498740"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498680",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498740",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498860",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498920",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "2025-02-10"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-11-27"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "50.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://centredesarts.tuxedobillet.com/main/mike-ward-251127/20251127200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499060",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Mike Ward"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499420",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g499480"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g499540"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499480",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499540",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499660",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499720",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "2025-04-30"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-11-28"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "56.25"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://centredesarts.tuxedobillet.com/main/dave-fenley-251128/20251128200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499860",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Dave Fenley"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500220",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g500280"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g500340"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500280",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500340",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500460",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500520",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "2025-05-07"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-11-29"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "29"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://centredesarts.tuxedobillet.com/main/match-dimpro-de-gigue-251129/20251129193000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500660",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501020",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g501100"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g501140"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501140",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501260",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501320",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@value": "2025-12-04"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@value": "48.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://centredesarts.tuxedobillet.com/main/les-charbonniers-de-lenfer-251204"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501460",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q129888"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/fefe407b-49e1-44b1-8549-afe1784b0236",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g496280"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g496520"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g496580"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g496720"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2025-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Abbamania"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/abbamania"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/abbamania-canada-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/952ff0a8-2569-400d-b02e-eda4d369a647",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g497060"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g497240"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g497300"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g497440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2026-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Tourbillonnant et sensible, canalisé, effleurant la scène avec un émouvant abandon, Émile Bourgault est un moderne et un classique à la fois; il est bien de son époque, mais il sait d’où il vient et s’installe à sa place dans une lignée qui va de Ferland à Philippe B. Après quelques années d’écriture, des collaborations de marque et plusieurs expériences de scène enrichissantes, Émile Bourgault est fin prêt à se dévoiler! C’est avec une musique pop-alternative aux teintes folk et rock que l’auteur-compositeur-interprète nous présente son premier album : Tant mieux. Entouré de ses fidèles complices, il lance son premier long-jeu avec un spectacle rempli de surprises, voguant entre moments touchants, ambiance festive et amitié sincère."
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/emile-bourgault"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/emile-bourgault-zaricot-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/7787c67a-aec8-43b0-a24a-0f4b88d9b93e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g497820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g498060"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g498120"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g498260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-11-22T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2025-11-22T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sam Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Ga-lé aller"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/sam-breton"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/sam-breton-ga-le-aller-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/668a0abc-26d3-4787-b8ef-e44385e7f9f9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g498620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g498860"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g498920"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g499060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-11-27T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2025-11-27T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mike Ward"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Modeste"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/mike-ward-modeste"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/mike-ward-derniere-chance-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/d4e321ab-dbe1-4d7f-b705-1d33b55be9c2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g499420"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g499660"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g499720"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g499860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-11-28T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2025-11-28T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dave Fenley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "TRIO"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/dave-fenley"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/dave-fenley-trio-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/25497f28-d584-49c9-a295-713d54456a03",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g500220"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g500460"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g500520"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g500660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-11-29T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2025-11-29T21:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "12"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/bigico-match-d-impro-de-gigue"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/bigico-match-d-impro-de-gigue-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/97ce28a2-1c68-43b1-9d79-433763e9995f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g501020"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g501260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g501320"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g501460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/#"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-12-04T20:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@value": "2025-12-04T22:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Le temps passe et il y met le temps » disait une chanson. Et le temps a passé… après plus de trente années à charbonner joyeusement ici comme ailleurs sur les braises ardentes du répertoire traditionnel québécois: 30 ans de rapaillages et de partage; 30 ans à chanter sans jamais déchanter sur l’accord du pied; 30 ans de camaraderie à l’unisson ou en harmonie; et 30 ans à bien s’entendre et des fois à s’attendre. Après tous ces temps de joie et une grosse peine marquée par le deuil de leur grand Jean-Claude Rossignolet des bois, pourquoi ne pas se faire plaisir et du même coup faire plaisir? C’est ainsi que Michel Bordeleau, Michel Faubert, André Marchand et Normand Miron reprennent les grands chemins qu’ils ont tant parcourus. Un ultime tour de leur monde, question de pouvoir offrir une dernière occasion de voir sur les planches, dans un spectacle mis en scène par le regard brillant d'Émile Proulx-Cloutier, 4 charbonniers chanter… Les Charbonniers de l’enfer!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.centredesarts.ca/spectacle/les-charbonniers-de-l-enfer"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://www.centredesarts.ca/img-activites/charbonniers-de-l-enfer-f-i-fi-n-i-ni-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/tel:4507783388",
+    "fb:app_id": [
+      {
+        "@language": "fr",
+        "@value": "966242223397117"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Salle de spectacle | Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/template/logo-CAJL-700-570.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "570"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Le Centre des arts Juliette-Lassonde, situé au centre-ville de Saint-Hyacinthe, présente des spectacles dans toutes les disciplines des arts de la scène."
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523820",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g523880"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g523940"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523880",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523940",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524060",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524120",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2024-11-05"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/abbamania-251121/20251121200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524260",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Abbamania"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524600",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g524660"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Zaricot"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g524660",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1460 rue Des Cascades"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 3H5"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524780",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524840",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.lezaricot.com/spectacle/emile-bourgault"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524980",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q134007180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525360",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g525420"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g525480"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525420",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525480",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525600",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525660",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "0000-00-00"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "44.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/sam-breton-251122/20251122200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525800",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Breton"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526160",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g526220"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g526280"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526220",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526280",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526400",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526460",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-02-10"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "50.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/mike-ward-251127/20251127200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526600",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mike Ward"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526960",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g527020"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g527080"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527020",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527080",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527200",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527260",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-04-30"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "56.25"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/dave-fenley-251128/20251128200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527400",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dave Fenley"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527760",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g527820"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g527880"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527820",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527880",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528000",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528060",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-07"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/match-dimpro-de-gigue-251129/20251129193000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528200",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528560",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g528640"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g528680"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528680",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528800",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528860",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "48.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/les-charbonniers-de-lenfer-251204"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529000",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q129888"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/ebeef1b8-59a6-4ad8-889a-a508eb5b6ca5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g524060"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524120"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g524260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Abbamania"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/abbamania"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/abbamania-canada-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/d41740ac-ef60-4f9e-a686-7599edf4be83",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524600"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g524780"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524840"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g524980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Tourbillonnant et sensible, canalisé, effleurant la scène avec un émouvant abandon, Émile Bourgault est un moderne et un classique à la fois; il est bien de son époque, mais il sait d’où il vient et s’installe à sa place dans une lignée qui va de Ferland à Philippe B. Après quelques années d’écriture, des collaborations de marque et plusieurs expériences de scène enrichissantes, Émile Bourgault est fin prêt à se dévoiler! C’est avec une musique pop-alternative aux teintes folk et rock que l’auteur-compositeur-interprète nous présente son premier album : Tant mieux. Entouré de ses fidèles complices, il lance son premier long-jeu avec un spectacle rempli de surprises, voguant entre moments touchants, ambiance festive et amitié sincère."
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/emile-bourgault"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/emile-bourgault-zaricot-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/25c031bc-7098-42e1-b62d-09bb63ecb838",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g525360"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g525600"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g525660"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g525800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Ga-lé aller"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/sam-breton"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/sam-breton-ga-le-aller-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/d07cc198-351a-478b-ab6d-596cb3cbf9b6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g526160"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g526400"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g526460"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g526600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mike Ward"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Modeste"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/mike-ward-modeste"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/mike-ward-derniere-chance-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/179cc068-06ff-4087-822a-9a601f98e64b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g526960"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g527200"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g527260"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g527400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dave Fenley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "TRIO"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/dave-fenley"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/dave-fenley-trio-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/5f8bbcf2-86ac-4a81-bbdb-767285f7fccc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g527760"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g528000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g528060"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g528200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T21:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "12"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/bigico-match-d-impro-de-gigue"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/bigico-match-d-impro-de-gigue-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/f98f6cb1-d1a1-4eb0-b5cb-87aef85a584f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g528560"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g528800"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g528860"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g529000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:4507783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04T20:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04T22:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le temps passe et il y met le temps » disait une chanson. Et le temps a passé… après plus de trente années à charbonner joyeusement ici comme ailleurs sur les braises ardentes du répertoire traditionnel québécois: 30 ans de rapaillages et de partage; 30 ans à chanter sans jamais déchanter sur l’accord du pied; 30 ans de camaraderie à l’unisson ou en harmonie; et 30 ans à bien s’entendre et des fois à s’attendre. Après tous ces temps de joie et une grosse peine marquée par le deuil de leur grand Jean-Claude Rossignolet des bois, pourquoi ne pas se faire plaisir et du même coup faire plaisir? C’est ainsi que Michel Bordeleau, Michel Faubert, André Marchand et Normand Miron reprennent les grands chemins qu’ils ont tant parcourus. Un ultime tour de leur monde, question de pouvoir offrir une dernière occasion de voir sur les planches, dans un spectacle mis en scène par le regard brillant d'Émile Proulx-Cloutier, 4 charbonniers chanter… Les Charbonniers de l’enfer!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/les-charbonniers-de-l-enfer"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/charbonniers-de-l-enfer-f-i-fi-n-i-ni-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/tel:+18557783388",
+    "fb:app_id": [
+      {
+        "@language": "fr",
+        "@value": "966242223397117"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Salle de spectacle | Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/template/logo-CAJL-700-570.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "570"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Le Centre des arts Juliette-Lassonde, situé au centre-ville de Saint-Hyacinthe, présente des spectacles dans toutes les disciplines des arts de la scène."
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe | Salle de spectacle"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552380",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g552440"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g552500"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552440",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552500",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552620",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552680",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2024-11-05"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/abbamania-251121/20251121200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552820",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Abbamania"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553160",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g553220"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Zaricot"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g553220",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1460 rue Des Cascades"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 3H5"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553340",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553400",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.lezaricot.com/spectacle/emile-bourgault"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553540",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q134007180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553920",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g553980"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g554040"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553980",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554040",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554160",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554220",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "0000-00-00"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "44.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/sam-breton-251122/20251122200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554360",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Breton"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554720",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g554780"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g554840"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554780",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554840",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554960",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555020",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-02-10"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "50.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/mike-ward-251127/20251127200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555160",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mike Ward"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555520",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g555580"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g555640"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Desjardins"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q111668872"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555580",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555640",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555760",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555820",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-04-30"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "56.25"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/dave-fenley-251128/20251128200000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555960",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dave Fenley"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556320",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g556380"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g556440"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556380",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556440",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556560",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556620",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-07"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/match-dimpro-de-gigue-251129/20251129193000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556760",
+    "@type": [
+      "https://schema.org/Person"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557120",
+    "@type": [
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/containedInPlace": [
+      {
+        "@id": "_:g557200"
+      }
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "_:g557240"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret André-H.-Gagnon"
+      }
+    ],
+    "https://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q110990930"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557240",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1705 rue Saint-Antoine"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "https://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J2S 9E2"
+      }
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557360",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre des arts Juliette-Lassonde de Saint-Hyacinthe"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557420",
+    "@type": [
+      "https://schema.org/Offer"
+    ],
+    "https://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "https://schema.org/validFrom": [
+      {
+        "@language": "fr",
+        "@value": "2025-05-15"
+      }
+    ],
+    "https://schema.org/validThrough": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04"
+      }
+    ],
+    "https://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "48.50"
+      }
+    ],
+    "https://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://centredesarts.tuxedobillet.com/main/les-charbonniers-de-lenfer-251204"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557560",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "https://schema.org/sameAs": [
+      {
+        "@language": "fr",
+        "@value": "http://www.wikidata.org/entity/Q129888"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/ae82abfd-e687-4cf6-99a7-f418ea75e77e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g552380"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g552620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g552680"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g552820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Abbamania"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/abbamania"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/abbamania-canada-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/3aa8de5f-4250-4e85-9ec1-9d30c3d011d6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g553160"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g553340"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g553400"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g553540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-11-21T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Bourgault"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Tourbillonnant et sensible, canalisé, effleurant la scène avec un émouvant abandon, Émile Bourgault est un moderne et un classique à la fois; il est bien de son époque, mais il sait d’où il vient et s’installe à sa place dans une lignée qui va de Ferland à Philippe B. Après quelques années d’écriture, des collaborations de marque et plusieurs expériences de scène enrichissantes, Émile Bourgault est fin prêt à se dévoiler! C’est avec une musique pop-alternative aux teintes folk et rock que l’auteur-compositeur-interprète nous présente son premier album : Tant mieux. Entouré de ses fidèles complices, il lance son premier long-jeu avec un spectacle rempli de surprises, voguant entre moments touchants, ambiance festive et amitié sincère."
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/emile-bourgault"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/emile-bourgault-zaricot-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/4c7fed5c-1b29-4d9d-8e03-69cb966652a9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g553920"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g554160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g554220"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g554360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-22T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sam Breton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Ga-lé aller"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/sam-breton"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/sam-breton-ga-le-aller-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/53835b35-cf01-42b7-bbbe-2a750d1396aa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g554720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g554960"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g555020"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g555160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-27T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mike Ward"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Modeste"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/mike-ward-modeste"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/mike-ward-derniere-chance-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/f07ab3ae-53d8-4ce6-843b-a7cb3cfa87cf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g555520"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g555760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g555820"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g555960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-28T22:00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dave Fenley"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "TRIO"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/dave-fenley"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/dave-fenley-trio-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/492ff283-962c-4fe3-858e-65788ea6e512",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g556320"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g556560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g556620"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g556760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T21:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "BIGICO - Match d’impro de gigue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "12"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/bigico-match-d-impro-de-gigue"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/bigico-match-d-impro-de-gigue-1280x720-MD.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredesarts.ca/temporary/d20205df-8805-4637-ab9f-d533b31c4ce7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g557120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g557360"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g557420"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g557560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredesarts.ca/tel:+18557783388"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04T20:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-04T22:30:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Charbonniers de l'enfer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le temps passe et il y met le temps » disait une chanson. Et le temps a passé… après plus de trente années à charbonner joyeusement ici comme ailleurs sur les braises ardentes du répertoire traditionnel québécois: 30 ans de rapaillages et de partage; 30 ans à chanter sans jamais déchanter sur l’accord du pied; 30 ans de camaraderie à l’unisson ou en harmonie; et 30 ans à bien s’entendre et des fois à s’attendre. Après tous ces temps de joie et une grosse peine marquée par le deuil de leur grand Jean-Claude Rossignolet des bois, pourquoi ne pas se faire plaisir et du même coup faire plaisir? C’est ainsi que Michel Bordeleau, Michel Faubert, André Marchand et Normand Miron reprennent les grands chemins qu’ils ont tant parcourus. Un ultime tour de leur monde, question de pouvoir offrir une dernière occasion de voir sur les planches, dans un spectacle mis en scène par le regard brillant d'Émile Proulx-Cloutier, 4 charbonniers chanter… Les Charbonniers de l’enfer!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/spectacle/les-charbonniers-de-l-enfer"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.centredesarts.ca/img-activites/charbonniers-de-l-enfer-f-i-fi-n-i-ni-1280x720.webp"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
