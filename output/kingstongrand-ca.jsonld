@@ -1,0 +1,5284 @@
+[
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/mistatim-red-sky-performance",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "\"Mistatim\" by Red Sky Performance"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "TICKET REQUEST FORM Mistatim - Red Sky Performance Red Sky Performance is a leading company of contemporary Indigenous performance in Canada and worldwide."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/Mistatim-Red-Sky-1.jpg_-600x338.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/mistatim-red-sky-performance"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g474120"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-24T17:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g474140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "\"Mistatim\" by Red Sky Performance"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "TICKET REQUEST FORM\n\n \n\nMistatim - Red Sky Performance \n\nRed Sky Performance is a leading company of contemporary Indigenous performance in Canada and worldwide.  "
+      }
+    ]
+  },
+  {
+    "@id": "_:g474120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/Mistatim-Red-Sky-1.jpg_-600x338.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g474160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/",
+    "@type": [
+      "http://schema.org/Corporation"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/EntertainmentBusiness"
+      },
+      {
+        "@id": "http://www.kingstongrand.ca/events/EntertainmentBusiness"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/kingstongrandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/kingston_grand"
+      },
+      {
+        "@id": "https://www.instagram.com/kingstongrandtheatre/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g474180"
+      },
+      {
+        "@id": "_:g474200"
+      },
+      {
+        "@id": "_:g863760"
+      },
+      {
+        "@id": "_:g863780"
+      },
+      {
+        "@id": "_:g874080"
+      },
+      {
+        "@id": "_:g874100"
+      },
+      {
+        "@id": "_:g884480"
+      },
+      {
+        "@id": "_:g884500"
+      },
+      {
+        "@id": "_:g895020"
+      },
+      {
+        "@id": "_:g895040"
+      },
+      {
+        "@id": "_:g905280"
+      },
+      {
+        "@id": "_:g905300"
+      },
+      {
+        "@id": "_:g915580"
+      },
+      {
+        "@id": "_:g915600"
+      },
+      {
+        "@id": "_:g925880"
+      },
+      {
+        "@id": "_:g925900"
+      },
+      {
+        "@id": "_:g935880"
+      },
+      {
+        "@id": "_:g935900"
+      },
+      {
+        "@id": "_:g946100"
+      },
+      {
+        "@id": "_:g946120"
+      },
+      {
+        "@id": "_:g956340"
+      },
+      {
+        "@id": "_:g956360"
+      },
+      {
+        "@id": "_:g966580"
+      },
+      {
+        "@id": "_:g966600"
+      },
+      {
+        "@id": "_:g976880"
+      },
+      {
+        "@id": "_:g976900"
+      },
+      {
+        "@id": "_:g987200"
+      },
+      {
+        "@id": "_:g987220"
+      },
+      {
+        "@id": "_:g997560"
+      },
+      {
+        "@id": "_:g997580"
+      },
+      {
+        "@id": "_:g1008040"
+      },
+      {
+        "@id": "_:g1008060"
+      },
+      {
+        "@id": "_:g1018340"
+      },
+      {
+        "@id": "_:g1018360"
+      },
+      {
+        "@id": "_:g1028660"
+      },
+      {
+        "@id": "_:g1028680"
+      },
+      {
+        "@id": "_:g1039000"
+      },
+      {
+        "@id": "_:g1039020"
+      },
+      {
+        "@id": "_:g1109780"
+      },
+      {
+        "@id": "_:g1109800"
+      },
+      {
+        "@id": "_:g1119480"
+      },
+      {
+        "@id": "_:g1119500"
+      },
+      {
+        "@id": "_:g1129780"
+      },
+      {
+        "@id": "_:g1129800"
+      },
+      {
+        "@id": "_:g1139540"
+      },
+      {
+        "@id": "_:g1139560"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g474220"
+      },
+      {
+        "@id": "_:g863800"
+      },
+      {
+        "@id": "_:g874120"
+      },
+      {
+        "@id": "_:g884520"
+      },
+      {
+        "@id": "_:g895060"
+      },
+      {
+        "@id": "_:g905320"
+      },
+      {
+        "@id": "_:g915620"
+      },
+      {
+        "@id": "_:g925920"
+      },
+      {
+        "@id": "_:g935920"
+      },
+      {
+        "@id": "_:g946140"
+      },
+      {
+        "@id": "_:g956380"
+      },
+      {
+        "@id": "_:g966620"
+      },
+      {
+        "@id": "_:g976920"
+      },
+      {
+        "@id": "_:g987240"
+      },
+      {
+        "@id": "_:g997600"
+      },
+      {
+        "@id": "_:g1008080"
+      },
+      {
+        "@id": "_:g1018380"
+      },
+      {
+        "@id": "_:g1028700"
+      },
+      {
+        "@id": "_:g1039040"
+      },
+      {
+        "@id": "_:g1109820"
+      },
+      {
+        "@id": "_:g1119520"
+      },
+      {
+        "@id": "_:g1129820"
+      },
+      {
+        "@id": "_:g1139580"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g474240"
+      },
+      {
+        "@id": "_:g863820"
+      },
+      {
+        "@id": "_:g874140"
+      },
+      {
+        "@id": "_:g884540"
+      },
+      {
+        "@id": "_:g895080"
+      },
+      {
+        "@id": "_:g905340"
+      },
+      {
+        "@id": "_:g915640"
+      },
+      {
+        "@id": "_:g925940"
+      },
+      {
+        "@id": "_:g935940"
+      },
+      {
+        "@id": "_:g946160"
+      },
+      {
+        "@id": "_:g956400"
+      },
+      {
+        "@id": "_:g966640"
+      },
+      {
+        "@id": "_:g976940"
+      },
+      {
+        "@id": "_:g987260"
+      },
+      {
+        "@id": "_:g997620"
+      },
+      {
+        "@id": "_:g1008100"
+      },
+      {
+        "@id": "_:g1018400"
+      },
+      {
+        "@id": "_:g1028720"
+      },
+      {
+        "@id": "_:g1039060"
+      },
+      {
+        "@id": "_:g1109840"
+      },
+      {
+        "@id": "_:g1119540"
+      },
+      {
+        "@id": "_:g1129840"
+      },
+      {
+        "@id": "_:g1139600"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474180",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474200",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ]
+  },
+  {
+    "@id": "_:g863760",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g863780",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874080",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874100",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884480",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884500",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g895020",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g895040",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905280",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905300",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g915580",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g915600",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g925880",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g925900",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g935880",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g935900",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g946100",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g946120",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g956340",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g956360",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g966580",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g966600",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g976880",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g976900",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g987200",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g987220",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g997560",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g997580",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1008040",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1008060",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018340",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018360",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028660",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028680",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1039000",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1039020",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1109780",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1109800",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1119480",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1119500",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1129780",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1129800",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1139540",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1139560",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-613-530-2050"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "sales"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "grandtheatre2@cityofkingston.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474220",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g863800",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g895060",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g915620",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g925920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g935920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g946140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g956380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g966620",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g976920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g987240",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g997600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1008080",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1039040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1109820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1119520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1129820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1139580",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.kingstongrand.ca/sites/kingstongrand.ca/themes/kingstongrand/logo.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g863820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g895080",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g915640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g925940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g935940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g946160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g956400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g966640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g976940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g987260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g997620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1008100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1039060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1109840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1119540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1129840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1139600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/bboyizm-school-performance-and-masterclass",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Bboyizm – School Performance and Masterclass"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Even with their extraordinary street dance moves, Bboyizm stands by their motto, \"Dance to express! Not to impress\". With performers named Melly Mel, Crazy Smooth, and Chilly, Bboyizm epitomizes this cool form of dancing to a tee. Through street dancing the company promotes the ideals of individualism, respect and creativity both in dance and in everyday life. Students will have the opportunity to experience their amazing moves and heavy beats while embracing their values outside of the dancing realm."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/show_izm_104.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/bboyizm-school-performance-and-masterclass"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g863700"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2012-04-11T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g863720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bboyizm – School Performance and Masterclass"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Even with their extraordinary street dance moves, Bboyizm stands by their motto, \"Dance to express! Not to impress\". With performers named Melly Mel, Crazy Smooth, and Chilly, Bboyizm epitomizes this cool form of dancing to a tee. Through street dancing the company promotes the ideals of individualism, respect and creativity both in dance and in everyday life. Students will have the opportunity to experience their amazing moves and heavy beats while embracing their values outside of the dancing realm."
+      }
+    ]
+  },
+  {
+    "@id": "_:g863700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/show_izm_104.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g863720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g863740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g863740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-bouge-de-la-presents-the-studio",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Bouge de là presents The Studio"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "In this performance by the acclaimed dance company dedicated to young audiences, a paint-splattered artist’s studio is the setting for a thrilling exploration by four dancers who use their bodies, objects, lighting and projections to bring visual art to life. The dancers treat the studio as a magical treasure chest, playing with everything they find: fabric, frames, paintings and props. The only rule is to have fun! DOWNLOAD A TEACHER'S GUIDE FOR THIS PERFORMANCE"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_bougedela.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-bouge-de-la-presents-the-studio"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g874020"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2012-10-22T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g874040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Bouge de là presents The Studio"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In this performance by the acclaimed dance company dedicated to young audiences, a paint-splattered artist’s studio is the setting for a thrilling exploration by four dancers who use their bodies, objects, lighting and projections to bring visual art to life. The dancers treat the studio as a magical treasure chest, playing with everything they find: fabric, frames, paintings and props. The only rule is to have fun!\n\nDOWNLOAD A TEACHER'S GUIDE FOR THIS PERFORMANCE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874020",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_bougedela.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g874060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g874060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-scrapartsmusic",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: ScrapArtsMusic"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "ScrapArtsMusic stars five extraordinary drummers who excite the senses with intricate rhythms, raw energy, athletic choreography and the hottest, most creative reuse of materials on stage today. Using 145 invented instruments, all hand-crafted by leader and composer Gregory Kozak, ScrapArtsMusic’s performances have been enthusiastically embraced by audiences the world over. Discovered while busking in Vancouver, and then invited to perform at an NBA half-time show, ScrapArtsMusic has travelled the world over and were part of the closing ceremonies at the 2010 Olympic Games."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_scraparts.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-scrapartsmusic"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g884420"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-03-05T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g884440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: ScrapArtsMusic"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "ScrapArtsMusic stars five extraordinary drummers who excite the senses with intricate rhythms, raw energy, athletic choreography and the hottest, most creative reuse of materials on stage today. Using 145 invented instruments, all hand-crafted by leader and composer Gregory Kozak, ScrapArtsMusic’s performances have been enthusiastically embraced by audiences the world over.\n\nDiscovered while busking in Vancouver, and then invited to perform at an NBA half-time show, ScrapArtsMusic has travelled the world over and were part of the closing ceremonies at the 2010 Olympic Games."
+      }
+    ]
+  },
+  {
+    "@id": "_:g884420",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_scraparts.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g884460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g884460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-the-cashore-marionettes",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: The Cashore Marionettes"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Unmatched in artistry, grace and refinement of movement, the internationally acclaimed Cashore Marionettes redefine the art of puppetry. In the performance, Joseph Cashore presents his collection of marionette masterworks. A series of scenes taken from everyday life and set to beautiful music by composers such as Beethoven, Vivaldi, Strauss, and Copland, The Cashore Marionettes take you on a journey that celebrates the richness of life. A treat for adults and kids alike."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_cashore.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-the-cashore-marionettes"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g894960"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-01-21T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g894980"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: The Cashore Marionettes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Unmatched in artistry, grace and refinement of movement, the internationally acclaimed Cashore Marionettes redefine the art of puppetry. In the performance, Joseph Cashore presents his collection of marionette masterworks.  A series of scenes taken from everyday life and set to beautiful music by composers such as Beethoven, Vivaldi, Strauss, and Copland, The Cashore Marionettes take you on a journey that celebrates the richness of life.  A treat for adults and kids alike."
+      }
+    ]
+  },
+  {
+    "@id": "_:g894960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_cashore.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g894980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g895000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g895000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-the-gruffalo",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: The Gruffalo"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Join Mouse on an adventurous journey through the deep, dark wood in this magical, musical adaptation of the Blue Peter award-winning picture book by Julia Donaldson and Axel Scheffler. Silly old fox/owl/snake, doesn't he know?there's no such thing as a Gruffalo! Mouse can scare hungry animals away with tall stories of the terrifying Gruffalo, but what happens when he comes face to face with the very creature he imagined? “Tall Stories have transformed a well-loved story into an exuberant, funny show.” - Time Out"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_gruffalo.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-the-gruffalo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g905220"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-04-08T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g905240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: The Gruffalo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join Mouse on an adventurous journey through the deep, dark wood in this magical, musical adaptation of the Blue Peter award-winning picture book by Julia Donaldson and Axel Scheffler.\n\nSilly old fox/owl/snake, doesn't he know?there's no such thing as a Gruffalo!\n\nMouse can scare hungry animals away with tall stories of the terrifying Gruffalo, but what happens when he comes face to face with the very creature he imagined?\n\n“Tall Stories have transformed a well-loved story into an exuberant, funny show.” - Time Out"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905220",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_gruffalo.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g905260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g905260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-mermaid-theatre-treasured-stories",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Mermaid Theatre - Treasured Stories"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Mermaid Theatre has performed annually at the Grand to hundreds of families entranced by their charming puppetry and poetic storytelling. In their tradition of bringing classic children’s books alive on stage, Treasured Stories features The Very Hungry Caterpillar, Brown Bear, Brown Bear, What Do You See? and Papa, Please Get the Moon For Me. Featuring evocative music, stunning visual effects and innovative puppetry, the triple-bill celebrates three of Eric Carle's most beloved tales."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_mermaid.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-mermaid-theatre-treasured-stories"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g915520"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2012-11-26T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g915540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Mermaid Theatre - Treasured Stories"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Mermaid Theatre has performed annually at the Grand to hundreds of families entranced by their charming puppetry and poetic storytelling. In their tradition of bringing classic children’s books alive on stage, Treasured Stories features The Very Hungry Caterpillar,  Brown Bear, Brown Bear, What Do You See? and Papa, Please Get the Moon For Me. Featuring evocative music, stunning visual effects and innovative puppetry, the triple-bill celebrates three of Eric Carle's most beloved tales."
+      }
+    ]
+  },
+  {
+    "@id": "_:g915520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_mermaid.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g915540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g915560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g915560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-out-in-the-open",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Out in the Open"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Adam convinces Stephen, his best friend, to go on a camping trip for the long weekend, even though Stephen can think of nothing worse than being cold, dirty and bored (not to mention the lack of indoor plumbing!) When the two boys get lost in the woods their light-hearted banter turns serious and Adam reveals a secret he has been hiding from Stephen. How will Stephen react to Adam's news? What will this mean for their friendship? How do we deal with our own fears and issues when faced with a shift in what we thought we knew?"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-out-in-the-open"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2012-11-27T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g925840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Out in the Open"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Adam convinces Stephen, his best friend, to go on a camping trip for the long weekend, even though Stephen can think of nothing worse than being cold, dirty and bored (not to mention the lack of indoor plumbing!) When the two boys get lost in the woods their light-hearted banter turns serious and Adam reveals a secret he has been hiding from Stephen. How will Stephen react to Adam's news? What will this mean for their friendship? How do we deal with our own fears and issues when faced with a shift in what we thought we knew?"
+      }
+    ]
+  },
+  {
+    "@id": "_:g925840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g925860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g925860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-boo",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Boo!"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "In a captivating 60-minute performance, Boo! explores a series of dance, mime, clown and circus vignettes that brings forth wonder and smiles in a world where the poetry of the body is at the forefront. Meet two of Boo!s amusing and enchanting characters: Cyril and Penelope TopsyTurvy. Cyril is gifted with a natural talent for movement - for the stage. In this dreamlike presentation, we are witness to the unfolding of this precious treasure. Penelope TopsyTurvy is polite, beautiful and sweet - so like a princess on the outside."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_boo.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-boo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g935820"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-10-21T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g935840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Boo!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In a captivating 60-minute performance, Boo! explores a series of dance, mime, clown and circus vignettes that brings forth wonder and smiles in a world where the poetry of the body is at the forefront. Meet two of Boo!s amusing and enchanting characters: Cyril and Penelope TopsyTurvy. Cyril is gifted with a natural talent for movement - for the stage. In this dreamlike presentation, we are witness to the unfolding of this precious treasure. Penelope TopsyTurvy is polite, beautiful and sweet - so like a princess on the outside."
+      }
+    ]
+  },
+  {
+    "@id": "_:g935820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_boo.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g935840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g935860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g935860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-oneun",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: One/Un"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "A man, almost alone on stage, searches, finds, loses, forgets, rejects and ignores what he thought he always wanted to be. In this autobiographical script, Mani Soleymanlou traces his own journey from his birthplace in Iran to his current residence in Montreal, passing through Paris, Toronto and Ottawa. This journey leads the author to question the authenticity of his own Persian origins, which seem small and insignificant compared to the Persian youth currently living in Iran, who must fight daily for their liberty, their freedom of speech, their country and their lives."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_one_1.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-oneun"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g946040"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-10-31T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g946060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: One/Un"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A man, almost alone on stage, searches, finds, loses, forgets, rejects and ignores what he thought he always wanted to be. In this autobiographical script, Mani Soleymanlou traces his own journey from his birthplace in Iran to his current residence in Montreal, passing through Paris, Toronto and Ottawa. This journey leads the author to question the authenticity of his own Persian origins, which seem small and insignificant compared to the Persian youth currently living in Iran, who must fight daily for their liberty, their freedom of speech, their country and their lives."
+      }
+    ]
+  },
+  {
+    "@id": "_:g946040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_one_1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g946060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g946080"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g946080",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-hungarian-state-folk-ensemble",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Hungarian State Folk Ensemble"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "The Hungarian State Folk Ensemble, regarded as one of the greatest folkloric dance ensembles in the world, was established in 1951. Its aims were to collect and play authentic folk music, and to preserve the folk dances and traditional costumes of Hungary and Hungarian-inhabited areas by putting them on stage before the public."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_hungarian.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-hungarian-state-folk-ensemble"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g956280"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-11-29T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g956300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Hungarian State Folk Ensemble"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Hungarian State Folk Ensemble, regarded as one of the greatest folkloric dance ensembles in the world, was established in 1951. Its aims were to collect and play authentic folk music, and to preserve the folk dances and traditional costumes of Hungary and Hungarian-inhabited areas by putting them on stage before the public."
+      }
+    ]
+  },
+  {
+    "@id": "_:g956280",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_hungarian.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g956300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g956320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g956320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-kahawi-presents-medicine-bear",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Kaha:wi presents Medicine Bear"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "CURRENTLY NO SEATS AVAILABLE. Through whimsical music, dance and storytelling, Medicine Bear weaves into one magical narrative traditional Iroquoian stories: how the Bear Clan came to be known as the “Keeper of the Medicines” and the hunter who discovered the gift of healing. Following oral tradition practices, Medicine Bear teaches virtues of compassion, thankfulness and respect for nature in a way that is playful and though provoking for young and family audiences."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/Medicine%20Bear%202012-2jpg_0.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-kahawi-presents-medicine-bear"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g966520"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-11-19T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g966540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Kaha:wi presents Medicine Bear"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "CURRENTLY NO SEATS AVAILABLE.\n\nThrough whimsical music, dance and storytelling, Medicine Bear weaves into one magical narrative traditional Iroquoian stories: how the Bear Clan came to be known as the “Keeper of the Medicines” and the hunter who discovered the gift of healing.  Following oral tradition practices, Medicine Bear teaches virtues of compassion, thankfulness and respect for nature in a way that is playful and though provoking for young and family audiences."
+      }
+    ]
+  },
+  {
+    "@id": "_:g966520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/Medicine%20Bear%202012-2jpg_0.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g966540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g966560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g966560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-green-thumb-presents-tagged",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Green Thumb presents Tagged"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "THIS SHOW IS SOLD OUT. WAITING LIST ONLY. Online. Out of line."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/tagged-photo-small-300x300.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-green-thumb-presents-tagged"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g976820"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-01-20T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g976840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Green Thumb presents Tagged"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "THIS SHOW IS SOLD OUT. WAITING LIST ONLY.\n\nOnline. Out of line."
+      }
+    ]
+  },
+  {
+    "@id": "_:g976820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/tagged-photo-small-300x300.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g976840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g976860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g976860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-the-snail-the-whale",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: The Snail & the Whale"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "LIMITED SEATS REMAIN. Great News! Tall Stories is coming back to the Grand Theatre following last year's hilariously funny sold-out show, The Gruffalo, with another side-splitting family production, The Snail & the Whale. Tall Stories unique brand of physical theatre has toured from London, England, to London, Ontario. The Snail & the Whale was a huge success at this years Edinburgh Fringe Festival and just sailed off to the Far East for a sold-out two-week tour in Singapore and Hong Kong."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_snail.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-the-snail-the-whale"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g987140"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-02-24T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g987160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: The Snail & the Whale"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "LIMITED SEATS REMAIN.\n\nGreat News! Tall Stories is coming back to the Grand Theatre following last year's hilariously funny sold-out show, The Gruffalo, with another side-splitting family production, The Snail & the Whale.\n\nTall Stories unique brand of physical theatre has toured from London, England, to London, Ontario. The Snail & the Whale was a huge success at this years Edinburgh Fringe Festival and just sailed off to the Far East for a sold-out two-week tour in Singapore and Hong Kong."
+      }
+    ]
+  },
+  {
+    "@id": "_:g987140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_snail.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g987160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g987180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g987180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-black-violin",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Black Violin"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "LIMITED SEATS REMAIN. Virtuoso violinists Kev and Wil B are back once again at the Grand to raise the roof sky-high with their funky fusion of classical, jazz, hip-hop, blues and R&B. Joining Kev and Wil B are DJ TK on the turntables, Beatdown on Drums and Joe Cello on Cello. They have inspired kids from all over North America to get fired up about classical music - proving that their hearts are as big and soulful as their sound."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_blackviolin.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-black-violin"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g997500"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-02-06T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g997520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Black Violin"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "LIMITED SEATS REMAIN.\n\nVirtuoso violinists Kev and Wil B are back once again at the Grand to raise the roof sky-high with their funky fusion of classical, jazz, hip-hop, blues and R&B. Joining Kev and Wil B are DJ TK on the turntables, Beatdown on Drums and Joe Cello on Cello. They have inspired kids from all over North America to get fired up about classical music - proving that their hearts are as big and soulful as their sound."
+      }
+    ]
+  },
+  {
+    "@id": "_:g997500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_blackviolin.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g997520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g997540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g997540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-one-noble-journey",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: One Noble Journey"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Book Your Classroom - Complete this reservation form and return it to the box office by fax or email."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/THEATRE_one2.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-one-noble-journey"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1007980"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-02-27T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1008000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: One Noble Journey"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Book Your Classroom - Complete this reservation form and return it to the box office by fax or email. "
+      }
+    ]
+  },
+  {
+    "@id": "_:g1007980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/THEATRE_one2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1008000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1008020"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1008020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-theater-terra-presents-spot-the-dog",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Theater Terra presents SPOT, THE DOG"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "CANCELLED - Please contact the box office for more information. Theatre Terra - Spot, The Dog Together with Spot, toddlers and their parents will have a new adventure in the theatre. Spot will take the audience to the farm of his father, Sam, where all the animals are lost! Spot and his friend Helen are going to need the help of the audience to find all the animals and bring them back to the farm. Can everybody recognize the sounds of the animals and help Spot and Helen to find them?"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/spot_theater_terra_12_0.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-theater-terra-presents-spot-the-dog"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1018280"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2015-01-19T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1018300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance:  Theater Terra presents SPOT, THE DOG"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "CANCELLED - Please contact the box office for more information.\n\nTheatre Terra - Spot, The Dog\n\nTogether with Spot, toddlers and their parents will have a new adventure in the theatre. Spot will take the audience to the farm of his father, Sam, where all the animals are lost! Spot and his friend Helen are going to need the help of the audience to find all the animals and bring them back to the farm. Can everybody recognize the sounds of the animals and help Spot and Helen to find them?"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018280",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/spot_theater_terra_12_0.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1018320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1018320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/education/events/school-performance-mermaid-theatre",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Mermaid Theatre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "CURRENTLY NO SEATS AVAILABLE. Mermaid Theatre of Nova Scotia makes a triumphant return to the Grand Theatre with The Very Hungry Caterpillar, Little Cloud and The Mixed-up Chameleon by award-winning childrens book illustrator and writer Eric Carle, retold on stage in black light. The Very Hungry Caterpillar follows the wonderful adventures of a very tiny and very hungry caterpillar that progresses through an amazing variety of foods towards his eventual metamorphosis into a beautiful butterfly."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_mermaid_1.jpg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/EducationEvent"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/education/events/school-performance-mermaid-theatre"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1028600"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-12-16T10:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1028620"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Performance: Mermaid Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "CURRENTLY NO SEATS AVAILABLE.\n\nMermaid Theatre of Nova Scotia makes a triumphant return to the Grand Theatre with The Very Hungry Caterpillar, Little Cloud and The Mixed-up Chameleon by award-winning childrens book illustrator and writer Eric Carle, retold on stage in black light. The Very Hungry Caterpillar follows the wonderful adventures of a very tiny and very hungry caterpillar that progresses through an amazing variety of foods towards his eventual metamorphosis into a beautiful butterfly."
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/education-event/hero/web_mermaid_1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1028640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1028640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "218 Princess St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Kingston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "K7L1B2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/tk-season-pass",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Theatre Kingston 2025/2026 Season Pass"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Theatre Kingston has an amazing 35th Season Lined up for you!"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/New%20Banner%20%282526%29%20%281080%20x%201920%20px%29%20locaiton%20TBD.png"
+      },
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.cacamp programs"
+      },
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.caand TK Fringe festival dates\" />"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/tk-season-pass#2894",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/tk-season-pass"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1038980"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:00:00+00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=4083"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/tk-season-pass"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Theatre Kingston 2025/2026 Season Pass"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Theatre Kingston has an amazing 35th Season Lined up for you!"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1038980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/New%20Banner%20%282526%29%20%281080%20x%201920%20px%29%20locaiton%20TBD.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=4083",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=4083"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "All in price - $169.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAN"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/bouge-de-la-presents-the-studio",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Bouge de là presents The Studio"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "In this performance by the acclaimed dance company dedicated to young audiences, a paint-splattered artist’s studio is the setting for a thrilling exploration by four dancers who use their bodies, objects, lighting and projections to bring visual art to life. The dancers treat the studio as a magical treasure chest, playing with everything they find: fabric, frames, paintings and props. The only rule is to have fun!"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_bougedela.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/bouge-de-la-presents-the-studio#259",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/bouge-de-la-presents-the-studio"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1109760"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2012-10-21T18:30:00+00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/bouge-de-la-presents-the-studio"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bouge de là presents The Studio"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In this performance by the acclaimed dance company dedicated to young audiences, a paint-splattered artist’s studio is the setting for a thrilling exploration by four dancers who use their bodies, objects, lighting and projections to bring visual art to life. The dancers treat the studio as a magical treasure chest, playing with everything they find: fabric, frames, paintings and props. The only rule is to have fun!"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1109760",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_bougedela.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=640",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=640"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAN"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/scrapartsmusic",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "ScrapArtsMusic"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "ScrapArtsMusic stars five extraordinary drummers who excite the senses with intricate rhythms, raw energy, athletic choreography and the hottest, most creative reuse of materials on stage today. Using 145 invented instruments, all hand-crafted by leader and composer Gregory Kozak, ScrapArtsMusic’s performances have been enthusiastically embraced by audiences the world over. Discovered while busking in Vancouver, and then invited to perform at an NBA half-time show, ScrapArtsMusic has travelled the world over and were part of the closing ceremonies at the 2010 Olympic Games."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_scraparts.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/scrapartsmusic#838",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/scrapartsmusic"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1119460"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-03-05T00:30:00+00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=667"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/scrapartsmusic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ScrapArtsMusic"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "ScrapArtsMusic stars five extraordinary drummers who excite the senses with intricate rhythms, raw energy, athletic choreography and the hottest, most creative reuse of materials on stage today. Using 145 invented instruments, all hand-crafted by leader and composer Gregory Kozak, ScrapArtsMusic’s performances have been enthusiastically embraced by audiences the world over.\n\nDiscovered while busking in Vancouver, and then invited to perform at an NBA half-time show, ScrapArtsMusic has travelled the world over and were part of the closing ceremonies at the 2010 Olympic Games."
+      }
+    ]
+  },
+  {
+    "@id": "_:g1119460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_scraparts.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=667",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=667"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAN"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/the-cashore-marionettes-present-simple-gifts",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Cashore Marionettes present Simple Gifts"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Unmatched in artistry, grace and refinement of movement, the internationally acclaimed Cashore Marionettes redefine the art of puppetry. In the performance, Joseph Cashore presents his collection of marionette masterworks. A series of scenes taken from everyday life and set to beautiful music by composers such as Beethoven, Vivaldi, Strauss, and Copland, The Cashore Marionettes take you on a journey that celebrates the richness of life. A treat for adults and kids alike."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_cashore.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/the-cashore-marionettes-present-simple-gifts#264",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/the-cashore-marionettes-present-simple-gifts"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1129760"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-01-20T19:30:00+00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=655"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/the-cashore-marionettes-present-simple-gifts"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Cashore Marionettes present Simple Gifts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Unmatched in artistry, grace and refinement of movement, the internationally acclaimed Cashore Marionettes redefine the art of puppetry.  In the performance, Joseph Cashore presents his collection of marionette masterworks.  A series of scenes taken from everyday life and set to beautiful music by composers such as Beethoven, Vivaldi, Strauss, and Copland, The Cashore Marionettes take you on a journey that celebrates the richness of life.  A treat for adults and kids alike."
+      }
+    ]
+  },
+  {
+    "@id": "_:g1129760",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_cashore.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=655",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=655"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAN"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/the-gruffalo",
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Kingston Grand Theatre"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Gruffalo"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Following the international success of “Room on the Broom” and “Twinkle Twonkle”, England's Tall Stories Theatre Company returns to the US with this beloved story of the mythical Gruffalo and a very brave mouse."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_gruffalo.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingstongrand.ca/events/the-gruffalo#321",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/the-gruffalo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g1139520"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-04-07T18:30:00+00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=671"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingstongrand.ca/events/the-gruffalo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Gruffalo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Following the international success of “Room on the Broom” and “Twinkle Twonkle”, England's Tall Stories Theatre Company returns to the US with this beloved story of the mythical Gruffalo and a very brave mouse."
+      }
+    ]
+  },
+  {
+    "@id": "_:g1139520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.kingstongrand.ca/sites/kingstongrand.ca/files/img/event/hero/web_gruffalo.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=671",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure1.tixhub.com/kingston/Procurement/lindexfmk.asp?cboEvent=671"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAN"
+      }
+    ]
+  }
+]
