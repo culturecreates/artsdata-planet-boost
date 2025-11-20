@@ -1,0 +1,635 @@
+[
+  {
+    "@id": "https://www.ficg.qc.ca",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Festival international de la chanson de Granby ✨"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrir, développer et promouvoir la relève de la musique francophone."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://ficg.qc.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "FICG"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr",
+        "@value": "https://www.facebook.com/festival.granby/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-05T19:32:53+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ficg.qc.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://ficg.qc.ca/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ficg.qc.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ficg.qc.ca/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://ficg.qc.ca/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ficg.qc.ca/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ficg.qc.ca/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-04-12T23:46:10+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T19:32:53+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ficg.qc.ca/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460720"
+      },
+      {
+        "@id": "_:g484620"
+      },
+      {
+        "@id": "_:g508520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil - FICG"
+      },
+      {
+        "@value": "Accueil - FICG"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Assistez à des performances en direct, découvrez de nouveaux talents et vivez une expérience inoubliable du 8 au 18 août 2024."
+      },
+      {
+        "@value": "Assistez à des performances en direct, découvrez de nouveaux talents et vivez une expérience inoubliable du 8 au 18 août 2024."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://ficg.qc.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ficg.qc.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://ficg.qc.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460760"
+      },
+      {
+        "@id": "_:g484660"
+      },
+      {
+        "@id": "_:g508560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "FICG"
+      },
+      {
+        "@value": "FICG"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Festival international de la chanson de Granby"
+      },
+      {
+        "@value": "Festival international de la chanson de Granby"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Festival international de la chanson de Granby"
+      },
+      {
+        "@value": "Festival international de la chanson de Granby"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://ficg.qc.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ficg.qc.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ficg.qc.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ficg.qc.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/festival.granby/"
+      },
+      {
+        "@id": "https://x.com/FestivalGranby"
+      },
+      {
+        "@id": "https://www.instagram.com/festival.chanson.granby/"
+      },
+      {
+        "@id": "https://www.youtube.com/@ChansonGranby"
+      },
+      {
+        "@id": "https://www.tiktok.com/@festivalchansongranby?lang=fr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Festival international de la chanson de Granby"
+      },
+      {
+        "@value": "Festival international de la chanson de Granby"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "FICG"
+      },
+      {
+        "@value": "FICG"
+      }
+    ]
+  },
+  {
+    "@id": "https://ficg.qc.ca/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "630"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Image de partage"
+      },
+      {
+        "@value": "Image de partage"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ficg.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484620",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ficg.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ficg.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460780"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460800"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484660",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g484680"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g484700"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508560",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g508580"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g508600"
+      }
+    ]
+  },
+  {
+    "@id": "https://ficg.qc.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "630"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Festival international de la chanson de Granby"
+      },
+      {
+        "@value": "Festival international de la chanson de Granby"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ficg.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460800",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ficg.qc.ca/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Festival international de la chanson de Granby ✨"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrir, développer et promouvoir la relève de la musique francophone."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://ficg.qc.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "FICG"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr",
+        "@value": "https://www.facebook.com/festival.granby/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-05T19:32:53+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://ficg.qc.ca/wp-content/uploads/2024/06/image-share.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ficg.qc.ca/#"
+      },
+      {
+        "@id": "https://www.ficg.qc.ca/#main"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484680",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ficg.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484700",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508580",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ficg.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508600",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
