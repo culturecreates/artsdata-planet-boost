@@ -1,0 +1,6092 @@
+[
+  {
+    "@id": "https://longueuil.quebec/fr",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g4621740",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "+1-450-463-7311"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "fr",
+        "@value": "customer support"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "311@longueuil.quebec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g4621760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g4621780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g4621780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "4250, chemin de la Savane"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J3Y 9G4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g4621800",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Catherine Fournier"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@language": "fr",
+        "@value": "Mairesse"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/cc5d711b-dcba-416a-b5a6-f5f1aff5869b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/fr"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/villedelongueuil"
+      },
+      {
+        "@id": "https://x.com/villelongueuil"
+      },
+      {
+        "@id": "https://www.instagram.com/ville_longueuil"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/ville-de-longueuil"
+      },
+      {
+        "@id": "https://www.youtube.com/user/VilledeLongueuil"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g4621760"
+      }
+    ],
+    "http://schema.org/member": [
+      {
+        "@id": "_:g4621800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Site officiel de la Ville de Longueuil. Retrouvez toute l'information municipale : services aux citoyens, activités, urbanisme, développement économique et plus encore."
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g4621740"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-lance-la-semaine-virtuelle-du-souvenir",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles",
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5295680",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5295700",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5295720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5295720",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5295740",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-11/20longueuillancelasemainevirtuelledusouvenir_0.jpg?itok=A4XFGKZf"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/c73cdd10-e99b-4cf6-b4de-228bbf460880",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-11-04T19:03:49.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:54:34.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-lance-la-semaine-virtuelle-du-souvenir"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5295680"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5295700"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5295740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-lance-la-semaine-virtuelle-du-souvenir"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil lance la Semaine virtuelle du Souvenir"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "À l'aube du jour du Souvenir, la Ville de Longueuil lance aujourd'hui la Semaine virtuelle du Souvenir sous le thème « Longueuil se souvient – Le temps des grandes guerres du XXe siècle »."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/cabinet-de-la-mairesse-declaration-de-la-mairesse-de-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5306900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5306920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5306940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5306940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5306960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique-2_0.jpg?itok=IcYNVmO_"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/5fd6109e-4882-4ec0-acc6-63a66b108c81",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-11-23T21:05:24.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:54:48.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/cabinet-de-la-mairesse-declaration-de-la-mairesse-de-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5306900"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5306920"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5306960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/cabinet-de-la-mairesse-declaration-de-la-mairesse-de-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Cabinet de la mairesse - Déclaration de la mairesse de Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La mairesse de Longueuil, madame Sylvie Parent, a fait aujourd'hui la déclaration suivante :"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-met-en-ligne-son-nouveau-site-web-longueuilquebec",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5318340",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5318360",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5318380"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5318380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5318400",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique_2.jpg?itok=NVxsd0Im"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/5c0499bd-a6d3-4cbf-a0a0-34ac100315e1",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-12-02T20:57:43.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:54:41.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-met-en-ligne-son-nouveau-site-web-longueuilquebec"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5318340"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5318360"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5318400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-met-en-ligne-son-nouveau-site-web-longueuilquebec"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil met en ligne son nouveau site Web longueuil.quebec "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil lance aujourd’hui une nouvelle version de son site Web longueuil.quebec."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/sondage-dopinion-au-sujet-des-operations-de-deneigement",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5329640",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5329660",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5329680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5329680",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5329700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/images/2021-01/sondagedeneigement_0.jpg?itok=YCccOtk8"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/9baf1168-d6ee-4a54-9691-e4e2c3be936a",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-01-20T15:09:08.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-01-26T21:42:39.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/sondage-dopinion-au-sujet-des-operations-de-deneigement"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5329640"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5329660"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5329700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/sondage-dopinion-au-sujet-des-operations-de-deneigement"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Sondage d’opinion au sujet des opérations de déneigement"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Sondage d'opinion auprès de la population au sujet des opérations de déneigement La présente étude a été réalisée auprès de 1 000 résidents de la Ville de Longueuil âgés de 18 ans et plus. &gt;&gt;..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/sondage-dopinion-sur-les-surfaces-glacees",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5340920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5340940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5340960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5340960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5340980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-01/sondagesurfaceglacees_0.jpg?itok=91d3pp3Q"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/14f59cf1-726e-48b5-904a-1db74d6d9ef9",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-18T17:25:12.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-01-25T18:35:11.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/sondage-dopinion-sur-les-surfaces-glacees"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5340920"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5340940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5340980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/sondage-dopinion-sur-les-surfaces-glacees"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Sondage d’opinion sur les surfaces glacées"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La présente étude a été réalisée auprès de 1000 résidents de la Ville de Longueuil âgés de 18 ans et plus. La collecte de données s’est déroulée du 26 mars au 7 avril 2019 par le biais d’un sondage..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/sondage-foyers-exterieurs-au-bois",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5352260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5352280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5352300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5352300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5352320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/images/2021-01/sondage-foyers-exterieurs-au-bois_0.jpg?itok=FZFcGm8C"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/38381778-cb8a-46b0-abeb-4b06df3f4e93",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-01-25T18:58:16.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-01-25T19:29:04.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/sondage-foyers-exterieurs-au-bois"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5352260"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5352280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5352320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/sondage-foyers-exterieurs-au-bois"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Sondage foyers extérieurs au bois"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil évalue actuellement la possibilité d’interdire les feux extérieurs au bois sur l’ensemble de son territoire, en vue de préserver la santé de sa population grandissante et de p..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-rend-hommage-un-grand-homme-raymond-levesque-0",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5363560",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5363580",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5363600"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5363600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5363620",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique-2_0.jpg?itok=IcYNVmO_"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/fcbba947-5bc0-4dac-87d0-64f2e4dafa18",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-02-16T18:00:54.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:48:53.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-rend-hommage-un-grand-homme-raymond-levesque-0"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5363560"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5363580"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5363620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-rend-hommage-un-grand-homme-raymond-levesque-0"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil rend hommage à un grand homme, Raymond Lévesque"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "C'est avec beaucoup de tristesse que nous avons appris le départ du poète, chansonnier et auteur-compositeur de renommée internationale, monsieur Raymond Lévesque, décédé de la COVID-19 à l'âge de ..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/limportance-dune-canopee-urbaine-en-sante",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5374900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5374920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5374940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5374940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5374960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-04/nouvelles16-9longueuildurable2021_0.jpg?itok=Nj1tXsxC"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/918fb809-1d69-4f0e-8f96-4c4a6d045660",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-19T18:51:00.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-19T19:28:56.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/limportance-dune-canopee-urbaine-en-sante"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5374900"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5374920"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5374960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/limportance-dune-canopee-urbaine-en-sante"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "L’importance d’une canopée urbaine en santé "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les arbres sont responsables d’une multitude de bienfaits, tant sur l’humain que sur l’environnement. La plantation et la préservation des arbres, tant en milieu urbain que naturel, sont plus impor..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/leconomie-deau-cest-important",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5386260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5386280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5386300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5386300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5386320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-04/nouvelles16-9longueuildurable2021_0.jpg?itok=Nj1tXsxC"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/d9415b1e-b79a-4c67-83bd-6241b380b020",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-20T19:19:08.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-23T13:16:26.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/leconomie-deau-cest-important"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5386260"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5386280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5386320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/leconomie-deau-cest-important"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "L’économie d’eau c’est important !"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le saviez-vous… 30% de notre consommation d’eau potable à la maison est utilisée pour l’entretien extérieur. Privilégier le balai au boyau d’arrosage pour nettoyer son entrée, c’est économiser chaq..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/controle-biologique-des-insectes-piqueurs-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5397540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5397560",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5397580"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5397580",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5397600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique-2_0.jpg?itok=IcYNVmO_"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/a353bc5e-c796-45cc-bb7f-9bd63c9a2da5",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-22T12:24:32.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-22T12:27:12.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/controle-biologique-des-insectes-piqueurs-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5397540"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5397560"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5397600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/controle-biologique-des-insectes-piqueurs-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Contrôle biologique des insectes piqueurs à Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Afin de contrôler les populations de moustiques sur son territoire, la Ville de Longueuil procèdera à l’épandage de biopesticides dans certains secteurs ciblés. Effectués depuis plus de 10 ans, ces..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/investissement-de-pres-de-500-m-au-centre-ville-de-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5408800",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5408820",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5408840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5408840",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5408860",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique-2_0.jpg?itok=IcYNVmO_"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/72428107-542a-4645-8c85-1d0f19faa007",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-05-21T17:14:03.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-14T17:16:43.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/investissement-de-pres-de-500-m-au-centre-ville-de-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5408800"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5408820"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5408860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/investissement-de-pres-de-500-m-au-centre-ville-de-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Investissement de près de 500 M$ au centre-ville de Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La mairesse de Longueuil Sylvie Parent a présenté aujourd’hui en compagnie du président de Devimco Immobilier, Serge Goulet, un projet majeur de développement immobilier dans le secteur du centre-v..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/rapport-financier-2020-longueuil-degage-un-excedent-de-513-m",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5420080",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5420100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5420120"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5420120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5420140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique-2_0.jpg?itok=IcYNVmO_"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/3109191c-6bc0-464c-92b5-a5c69483a2f5",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-21T14:42:39.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:48:58.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/rapport-financier-2020-longueuil-degage-un-excedent-de-513-m"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5420080"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5420100"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5420140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/rapport-financier-2020-longueuil-degage-un-excedent-de-513-m"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Rapport financier 2020 : Longueuil dégage un excédent de 51,3 M$"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil présente un rapport financier positif pour la période qui s'étend du 1er janvier au 31 décembre 2020, un bilan financier qui fait état d’une année toute particulière, marquée ..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/navette-fluviale-mise-au-point-de-la-mairesse-de-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5436840",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5436860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5436880"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5436880",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5436900",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-01/communiquecabinetmairesse_0.jpg?itok=AgDLa-QB"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/cb0b4e25-f830-4d90-9f16-d5a3fe50476c",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-28T13:37:59.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-28T13:44:54.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/navette-fluviale-mise-au-point-de-la-mairesse-de-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5436840"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5436860"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5436900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/navette-fluviale-mise-au-point-de-la-mairesse-de-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Navette fluviale : mise au point de la mairesse de Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La mairesse de Longueuil, madame Sylvie Parent, a tenu à faire aujourd’hui la mise au point suivante :"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/le-ssial-devoile-son-rapport-des-activites-pour-lannee-2020",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5448120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5448140",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5448160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5448160",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5448180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-01/16-9image-communique-4_0.jpg?itok=TyzZBOCr"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/2db35915-bb76-4f69-81e1-4071f7d1f7c2",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-18T15:30:59.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:49:00.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/le-ssial-devoile-son-rapport-des-activites-pour-lannee-2020"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5448120"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5448140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5448180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/le-ssial-devoile-son-rapport-des-activites-pour-lannee-2020"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Le SSIAL dévoile son rapport des activités pour l’année 2020"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les activités réalisées par le Service de sécurité incendie de l’agglomération de Longueuil (SSIAL) en 2020 ont grandement été teintées par la pandémie, comme en témoigne le Rapport des activités 2..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-rend-hommage-au-heros-militaire-canadien-leo-major",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5459480",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5459500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5459520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5459520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5459540",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-09/maj020921-03h_0.jpg?itok=7xOIz8pr"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/96679252-abc0-4ac7-8d27-9c9f838ef63d",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-02T17:36:18.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-02T20:54:27.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-rend-hommage-au-heros-militaire-canadien-leo-major"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5459480"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5459500"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5459540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-rend-hommage-au-heros-militaire-canadien-leo-major"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil rend hommage au héros militaire canadien Léo Major"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "En présence de plusieurs invités, la Ville de Longueuil a tenu cet après-midi un événement de commémoration en l’honneur du soldat canadien d’exception Léo Major, à la place du Souvenir, au parc po..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/systemes-informatiques-temporairement-indisponibles",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5470860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5470880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5470900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5470900",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5470920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-12/electronique_0.jpg?itok=Fskm6-JL"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/e811f15f-182c-4ded-aaea-7128f134674c",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-14T20:53:03.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-26T20:04:57.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/systemes-informatiques-temporairement-indisponibles"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5470860"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5470880"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5470920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/systemes-informatiques-temporairement-indisponibles"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Systèmes informatiques temporairement indisponibles"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Par mesure préventive, prenez note que certains outils numériques sur le site web de la Ville de Longueuil sont présentement désactivés pour nous assurer qu'ils ne sont pas vulnérables à une faille..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/retour-au-teletravail-pour-les-elus-de-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5482120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5482140",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5482160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5482160",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5482180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2021-01/communiquecabinetmairesse_0.jpg?itok=AgDLa-QB"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/911fa956-02b2-47a7-b6f2-3b8b2f105c22",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-17T20:50:41.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:49:06.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/retour-au-teletravail-pour-les-elus-de-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5482120"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5482140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5482180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/retour-au-teletravail-pour-les-elus-de-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Retour au télétravail pour les élus de Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Dans un contexte de continuité de la lutte contre la COVID-19 et pour protéger les employés de l’arrivée du variant Omicron, les élus se placeront aussi en mode télétravail dès ce soir. Ils partici..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/deneigement-et-intelligence-artificielle-un-duo-gagnant",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5493460",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5493480",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5493500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5493500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5493520",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2020-12/16-9imagecommunique-2_0.jpg?itok=IcYNVmO_"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/2bf4218f-b2dc-4d45-a44b-f4cbcd195775",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-02-03T19:43:12.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-02-04T01:54:26.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/deneigement-et-intelligence-artificielle-un-duo-gagnant"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5493460"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5493480"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5493520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/deneigement-et-intelligence-artificielle-un-duo-gagnant"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Déneigement et intelligence artificielle : un duo gagnant!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les activités de déneigement qui ont cours sur le territoire longueuillois se déroulent avec l’appui de l’intelligence artificielle. La Ville poursuit son projet pilote qui met au banc d’essais Mét..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5504780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5504800",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5504820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5504820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5504840",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-03/microsoftteams-image9_0.png?itok=IKMKUhgP"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/c758a3e8-3248-431c-9821-1807d6a39bd7",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-29T14:43:13.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-29T15:00:06.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5504780"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5504800"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5504840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Jonathan Tabarah nommé à titre de maire suppléant"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Lors de la séance du 22 mars 2022, le conseil de ville a nommé Jonathan Tabarah à titre de maire suppléant, et ce, pour la période du 1er avril au 31 juillet 2022."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/cabinet-de-la-mairesse-une-promenade-en-hommage-rene-levesque",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5516100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5516120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5516140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5516140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5516160",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-08/photorenelevesque_0.jpg?itok=kpK71360"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/b85f255c-9c37-478a-b7de-bde79e931f9d",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-24T13:32:03.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-24T14:31:31.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/cabinet-de-la-mairesse-une-promenade-en-hommage-rene-levesque"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5516100"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5516120"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5516160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/cabinet-de-la-mairesse-une-promenade-en-hommage-rene-levesque"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Cabinet de la mairesse - Une promenade en hommage à René Lévesque"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "À l’occasion des célébrations entourant le 100e anniversaire de naissance de René Lévesque, premier ministre et député de Taillon de 1976 à 1985, le conseil municipal de la Ville de Longueuil a ado..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-des-travaux-de-foresterie-dans-les-parcs-nature",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5527560",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5527580",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5527600"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5527600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5527620",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-11/boisedutremblay11_0.jpg?itok=D3N45UPm"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/a5cb1051-7632-407e-ba86-bfd7ce288202",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-11-24T15:14:37.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-11-24T15:22:01.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-des-travaux-de-foresterie-dans-les-parcs-nature"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5527560"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5527580"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5527620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-des-travaux-de-foresterie-dans-les-parcs-nature"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Mise à jour des travaux de foresterie dans les parcs-nature"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Grâce à la progression des travaux de coupe d’arbres morts en raison de l’agrile du frêne, la Ville a procédé, au cours du mois de novembre, à l’ouverture complète de tous les sentiers de marche du..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-0",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_medium_16_9/public/inline-images/004-JONATHAN_TABARAH-BR_1.jpg?itok=p2QD1M4t",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5549720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5549740",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5549760"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5549760",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5549780",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-07/microsoftteams-image11_0.png?itok=_XTt1t2g"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/a51db1d2-3dcb-44e8-9d9a-8fd26db6d5a3",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T20:04:18.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T20:12:38.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-0"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5549720"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5549740"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5549780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-0"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Jonathan Tabarah nommé à titre de maire suppléant"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Lors de la séance du 15 novembre 2022, le conseil de ville a nommé Jonathan Tabarah à titre de maire suppléant, et ce, pour la période du 1er décembre 2022 au 31 mars 2023."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/avis-statut-linguistique-arrondissement-de-greenfield-park",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5561120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5561140",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5561160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5561160",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5561180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-07/microsoftteams-image11_0.png?itok=_XTt1t2g"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/3a201c66-49c4-4ce6-af3c-989ee4b11d48",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-21T21:26:45.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:49:17.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/avis-statut-linguistique-arrondissement-de-greenfield-park"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5561120"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5561140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5561180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/avis-statut-linguistique-arrondissement-de-greenfield-park"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Avis statut linguistique – Arrondissement de Greenfield Park"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil prend acte d’un avis de l’Office québécois de la langue française (OQLF) déposé le 12 décembre dernier l’informant que l’arrondissement de Greenfield Park ne remplit pas les c..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-verglas-et-pannes-delectricite",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5572620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5572640",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5572660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5572660",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5572680",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/images/2023-04/verglas-2023_0.png?itok=iW6ZfJh3"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/2a3ab599-e5ab-45e7-b471-c843966c2b70",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-08T14:00:00.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-08T19:39:57.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-verglas-et-pannes-delectricite"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5572620"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5572640"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5572680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-verglas-et-pannes-delectricite"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Mise à jour - verglas et pannes d'électricité"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Depuis mercredi, la Ville et ses équipes déploient les actions nécessaires et veillent aux services de première ligne pour les citoyens. Bien que la situation du territoire s’améliore d’heure en he..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-1",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5583920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5583940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5583960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5583960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5583980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-07/microsoftteams-image11_0.png?itok=_XTt1t2g"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/0228fd90-3bcb-40d5-92e8-df16c1e2f891",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-14T19:28:15.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-14T19:31:57.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-1"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5583920"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5583940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5583980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/jonathan-tabarah-nomme-titre-de-maire-suppleant-1"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Jonathan Tabarah nommé à titre de maire suppléant"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Lors de la séance du 21 mars 2023, le conseil de ville a nommé Jonathan Tabarah à titre de maire suppléant, et ce, pour la période du 1er avril 2023 au 31 juillet 2023."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/une-nouvelle-station-de-reparation-de-velos-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5595380",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5595400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5595420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5595420",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5595440",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-07/microsoftteams-image11_0.png?itok=_XTt1t2g"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/ddead669-ac77-465e-859a-af8f24045804",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-20T19:45:55.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-20T19:51:46.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/une-nouvelle-station-de-reparation-de-velos-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5595380"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5595400"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5595440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/une-nouvelle-station-de-reparation-de-velos-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Une nouvelle station de réparation de vélos à Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une station de réparation de vélos sera installée vers la fin de l’été sur le territoire de la ville, grâce à un don du Collège Notre-Dame-de-Lourdes, par le biais de l’achat d’une borne Bicicorne...."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/controle-des-especes-vegetales-exotiques-envahissantes",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5606700",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5606720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5606740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5606740",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5606760",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2023-06/nerprun_0.jpg?itok=qVpd0A7k"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/fed833c1-8564-4f15-bddd-aaa2f4a63033",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-21T18:56:43.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-21T19:00:58.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/controle-des-especes-vegetales-exotiques-envahissantes"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5606700"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5606720"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5606760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/controle-des-especes-vegetales-exotiques-envahissantes"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Contrôle des espèces végétales exotiques envahissantes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Au cours des prochaines semaines et jusqu’à la fin de l’automne, une première phase de contrôle des espèces végétales exotiques envahissantes comme le phragmite, la renouée du Japon et le nerprun, ..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/fete-de-la-rentree-2023",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5618000",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5618020",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5618040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5618040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5618060",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2023-07/evenement1080x720fetedelarentree2023_0.jpg?itok=1Vf9JoFL"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/76c72bce-9a0d-482a-b1fe-bdd1c0e91989",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-28T12:30:51.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-08-07T13:26:57.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/fete-de-la-rentree-2023"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5618000"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5618020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5618060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/fete-de-la-rentree-2023"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Fête de la rentrée 2023 "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les 19 et 20 août, rejoignez-nous au Parc de la Cité pour la Fête de la rentrée, un événement rassembleur qui vise à clore la saison estivale de manière festive en famille, en plus de faire le plei..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/plus-dun-millier-nouveaux-arbres-plantes-longueuil",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5629320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5629340",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5629360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5629360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5629380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2023-10/gilles-latulipe1_0.jpg?itok=VrsqzrcP"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/708d83fa-5ba6-4480-8ea1-9178d6bbfe35",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-02T17:25:11.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-02T17:30:16.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/plus-dun-millier-nouveaux-arbres-plantes-longueuil"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5629320"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5629340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5629380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/plus-dun-millier-nouveaux-arbres-plantes-longueuil"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Plus d’un millier nouveaux arbres plantés à Longueuil!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec son partenaire Desjardins, plus précisément avec les caisses Desjardins Pierre-Boucher, du Vieux-Longueuil et Charles-Lemoyne, la Ville de Longueuil a procédé à trois projets de verdissement h..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/residus-verts-sacs-en-papier-bientot-obligatoires",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5640600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5640620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5640640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5640640",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5640660",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2023-10/rv_0.jpg?itok=jVJqbJZk"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/72244554-42d2-441e-b04b-a25fa05cda00",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-18T16:52:44.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-18T16:59:35.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/residus-verts-sacs-en-papier-bientot-obligatoires"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5640600"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5640620"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5640660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/residus-verts-sacs-en-papier-bientot-obligatoires"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Résidus verts : sacs en papier bientôt obligatoires "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "À partir du 15 avril 2024, la population de Longueuil devra utiliser exclusivement des sacs en papier pour le ramassage des feuilles et des autres résidus verts. De ce fait, les sacs en plastique t..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-protegera-21-de-son-territoire-perpetuite",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5657420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5657440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5657460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5657460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5657480",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2023-10/photo-officielle_0.jpg?itok=gb-X9PTn"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/3d1f7975-b1aa-4120-a5fc-e72611b95bc9",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-23T12:57:53.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-24T16:01:01.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-protegera-21-de-son-territoire-perpetuite"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5657420"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5657440"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5657480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-protegera-21-de-son-territoire-perpetuite"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil protégera 21 % de son territoire à perpétuité "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "C’est au cœur de l’un de ses grands parcs-nature, le parc de la Cité, que la Ville a annoncé qu’elle protégera à perpétuité plus d’un cinquième de son territoire d’ici 2030 en ajoutant au moins 1 5..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/la-ville-bonifie-et-securise-plusieurs-liens-cyclables",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5668660",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5668680",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5668700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5668700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5668720",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2023-05/pistes-cyclablesville-de-longueuil_0.jpg?itok=v1MbylMn"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/21294bcf-8392-4193-b755-db6233d058bd",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T13:33:33.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:47:37.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/la-ville-bonifie-et-securise-plusieurs-liens-cyclables"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5668660"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5668680"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5668720"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/la-ville-bonifie-et-securise-plusieurs-liens-cyclables"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "La Ville bonifie et sécurise plusieurs liens cyclables "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Planifiés lors de l’exercice du Programme triennal d’immobilisations de l’année dernière, plusieurs travaux liés aux pistes cyclables ont récemment été finalisés à travers la ville. Deux nouvelles ..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/avis-debullition-deau-en-vigueur-mercredi-17-avril",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5685520",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5685540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5685560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5685560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5685580",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/images/2024-04/leve-avis-ebullition-shsb-arr_0.jpg?itok=yv78_Vea"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/77c98925-71a5-49a9-894f-c9e774ac9954",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-19T11:00:00.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-19T18:22:27.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/avis-debullition-deau-en-vigueur-mercredi-17-avril"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5685520"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5685540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5685580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/avis-debullition-deau-en-vigueur-mercredi-17-avril"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "MISE À JOUR - 19 AVRIL 14H: LEVÉE DE L'AVIS D'ÉBULLITION D'EAU | Updated – April 19 – 2 p.m.  Boil water advisory is LIFTED"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Mise à jour - Vendredi 19 avril, 14 h LEVÉE de l’avis d’ébullition pour l’arrondissement de Saint-Hubert et la ville de Saint-Bruno-de-Montarville. Les résultats des récentes analyses prélevées sur..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/publication-du-rapport-des-activites-2023-du-spal",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5696780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5696800",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5696820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5696820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5696840",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2024-01/16-9imagecommunique-20_1.jpg?itok=miU_U5Ao"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/9a24f9c1-09ca-44b8-9730-15ebe4b054c3",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-05T12:57:10.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-16T13:31:03.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/publication-du-rapport-des-activites-2023-du-spal"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5696780"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5696800"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5696840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/publication-du-rapport-des-activites-2023-du-spal"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Publication du Rapport des activités 2023 du SPAL"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Service de police de l’agglomération de Longueuil (SPAL) dresse aujourd’hui le bilan de ses activités pour la dernière année, c’est-à-dire la période comprise entre le 1er et le 31 décembre 2023..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-levee-totale-de-lavis-de-confinement",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5708160",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5708180",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5708200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5708200",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5708220",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/images/2024-11/carte-secteur-spal_0.jpg?itok=zbmFwwOJ"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/844b6873-40d7-44e4-824b-cc8c2f8d997d",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-15T09:30:00.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-15T09:34:59.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-levee-totale-de-lavis-de-confinement"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5708160"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5708180"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5708220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/mise-jour-levee-totale-de-lavis-de-confinement"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "MISE À JOUR - LEVÉE TOTALE DE L’AVIS DE CONFINEMENT "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "MISE À JOUR, vendredi 15 novembre, 4 h 30 - LEVÉE TOTALE de l’avis de confinement autour de la gare de triage du CN, pour tout le secteur touché Levée totale de l’avis de confinement qui était en c..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/fin-de-la-saga-des-cerfs-du-parc-michel-chartrand",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5719500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5719520",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5719540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5719540",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5719560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2024-01/16-9imagecommunique-20_1.jpg?itok=miU_U5Ao"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/6f4d07f0-b11e-4576-a217-853392201f47",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-12T16:19:27.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-12T18:59:48.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/fin-de-la-saga-des-cerfs-du-parc-michel-chartrand"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5719500"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5719520"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5719560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/fin-de-la-saga-des-cerfs-du-parc-michel-chartrand"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Fin de la saga des cerfs du parc Michel-Chartrand "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil a terminé la seconde phase de l’opération de contrôle de surpopulation de cerfs de Virginie qui vise à restaurer l’équilibre écologique du parc Michel-Chartrand dont la capaci..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-adopte-la-charte-de-transition-socioecologique",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5736220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5736240",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5736260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5736260",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5736280",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2024-01/16-9imagecommunique-20_1.jpg?itok=miU_U5Ao"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/b0040fc9-f699-49aa-b8ad-1bf3307791dd",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-22T16:13:42.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-22T16:04:51.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-adopte-la-charte-de-transition-socioecologique"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5736220"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5736240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5736280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-adopte-la-charte-de-transition-socioecologique"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil adopte la Charte de transition socioécologique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Dans un effort pour répondre aux enjeux environnementaux et sociaux actuels et afin de souligner le Jour de la Terre 2025, la Ville de Longueuil présente aujourd’hui sa Charte de transition socioéc..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/une-vision-davenir-longueuil-devoile-son-plan-climat",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5751680",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5751700",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5751720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5751720",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5751740",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-03/microsoftteams-image9_0.png?itok=IKMKUhgP"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/624d159f-8cfc-4680-8cfc-6464de8100aa",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-16T17:10:02.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-17T14:13:10.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/une-vision-davenir-longueuil-devoile-son-plan-climat"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5751680"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5751700"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5751740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/une-vision-davenir-longueuil-devoile-son-plan-climat"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Une vision d’avenir : Longueuil dévoile son Plan climat"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil présente aujourd’hui son Plan climat, une feuille de route ambitieuse issue de son engagement envers la transition socioécologique. Ce plan s’inscrit dans la continuité des ac..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-adopte-sa-toute-premiere-politique-deconomie-sociale",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5762780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5762800",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5762820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5762820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5762840",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2024-01/16-9imagecommunique-20_1.jpg?itok=miU_U5Ao"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/16d8f472-92a5-4f15-9ace-829c19ae166a",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-14T13:29:30.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-14T13:30:26.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-adopte-sa-toute-premiere-politique-deconomie-sociale"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5762780"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5762800"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5762840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/longueuil-adopte-sa-toute-premiere-politique-deconomie-sociale"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil adopte sa toute première Politique d’économie sociale "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Ville de Longueuil adopte sa toute première Politique d’économie sociale, une initiative structurante visant à reconnaître, soutenir et favoriser l’émergence, la croissance et la pérennité de l’..."
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/fr/nouvelles/transport-collectif-gratuit-pour-faciliter-lexercice-du-vote",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g5773880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5773900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g5773920"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5773920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Logo de la Ville de Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5773940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cms.longueuil.quebec/sites/default/files/styles/front_large_21_9/public/medias/2022-03/microsoftteams-image9_0.png?itok=IKMKUhgP"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/daa3f70d-211d-45e6-9526-d18c8c1874bc",
+    "@type": [
+      "http://schema.org/NewsArticle"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-27T18:05:20.000Z"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-27T18:08:42.000Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/transport-collectif-gratuit-pour-faciliter-lexercice-du-vote"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g5773880"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g5773900"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g5773940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://longueuil.quebec/fr/nouvelles/transport-collectif-gratuit-pour-faciliter-lexercice-du-vote"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Transport collectif gratuit pour faciliter l’exercice du vote"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le dimanche 2 novembre, l’ensemble des services de transport du RTL seront offerts gratuitement sur tout le territoire de l’agglomération de Longueuil, grâce à la collaboration de l’Autorité région..."
+      }
+    ]
+  }
+]
