@@ -1,0 +1,325 @@
+[
+  {
+    "@id": "http://camroselive.ca",
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre - Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre - Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca/wp-content/uploads/2024/06/10th-anniversary-withlogo-whitetext-v3.png"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca/wp-content/uploads/2024/06/10th-anniversary-withlogo-whitetext-v3.png"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "630"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-ca",
+        "@value": "description_of_site"
+      }
+    ],
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://camroselive.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://camroselive.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://camroselive.ca/#collectionpage",
+    "@type": [
+      "http://schema.org/CollectionPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://camroselive.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://camroselive.ca/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://camroselive.ca/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://camroselive.ca/#organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://camroselive.ca"
+      },
+      {
+        "@id": "http://camroselive.ca/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre - Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      },
+      {
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre - Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      },
+      {
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://camroselive.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://camroselive.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://camroselive.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      },
+      {
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      },
+      {
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://camroselive.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://camroselive.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      },
+      {
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      },
+      {
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ]
+  },
+  {
+    "@id": "http://camroselive.ca/",
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre - Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Jeanne & Peter Lougheed Performing Arts Centre - Jeanne & Peter Lougheed Performing Arts Centre is a unique performing arts venue located on the beautiful, historic University of Alberta’s’ Augustana Campus in the heart of the province."
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca/wp-content/uploads/2024/06/10th-anniversary-withlogo-whitetext-v3.png"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://camroselive.ca/wp-content/uploads/2024/06/10th-anniversary-withlogo-whitetext-v3.png"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "630"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-ca",
+        "@value": "description_of_site"
+      }
+    ],
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://camroselive.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://camroselive.ca/#"
+      }
+    ]
+  }
+]
