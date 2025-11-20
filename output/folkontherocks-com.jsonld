@@ -1,0 +1,4572 @@
+[
+  {
+    "@id": "https://www.folkontherocks.com/news/early-bird-ticket-sale-begins",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Early Bird Ticket Sale Begins! — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/early-bird-ticket-sale-begins"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "OWL Passes are the ultimate way to experience Folk On The Rocks!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f45d3dea17a13614fd2780/1744069529700/DSC07581.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "803"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g463440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463440",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/1b21ce67-1f23-43e7-8216-7f5e2bdbefa2",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/early-bird-ticket-sale-begins"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/72dacf51-162c-4899-9d7d-9b26059c1d80",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/early-bird-ticket-sale-begins"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/befeaa9a-1113-473c-afb5-6e3c30ef48c3",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/early-bird-ticket-sale-begins"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g463420"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f45d3dea17a13614fd2780/1744069529700/DSC07581.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/early-bird-ticket-sale-begins"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Early Bird Ticket Sale Begins! — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Early Bird Ticket Sale Begins!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-29T20:18:00-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-07T20:45:29-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/fotr-round-3-2025-flash-ticket-sale",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "FOTR ROUND 3: 2025 Flash Ticket Sale! — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/fotr-round-3-2025-flash-ticket-sale"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Yellowknife –&nbsp;We are back for the third and final of the 2025 Flash Ticket Sale!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f45decc18a9462ff3f03a1/1744069554524/Flash+Bird+Sale+web.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "741"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g471420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471420",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/10784641-441d-4ed7-a97d-459a45f69a56",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-round-3-2025-flash-ticket-sale"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/3db9cc0f-061a-40fd-b5e8-abc9040df33f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-round-3-2025-flash-ticket-sale"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/c9a41e5c-bad6-4ea1-be8d-9dbb3c80fbf4",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-round-3-2025-flash-ticket-sale"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g471400"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f45decc18a9462ff3f03a1/1744069554524/Flash+Bird+Sale+web.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-round-3-2025-flash-ticket-sale"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOTR ROUND 3: 2025 Flash Ticket Sale! — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "FOTR ROUND 3: 2025 Flash Ticket Sale!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-18T20:21:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-07T20:45:54-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/submit-your-design-concepts-for-our-2026-merchandise",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Merch Design Proposals — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/submit-your-design-concepts-for-our-2026-merchandise"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Proposal Deadline:  January 9, 2026   Issued by:  Folk On The Rocks&nbsp;   Representative:  Carly McFadden- carly@folkontherocks.com     Purpose&nbsp;&nbsp;   Folk On The Rocks Music Festival (FOTR)   needs a new design concept to adorn the majority of our merchandise and marketing camp"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/69091b24a255b2055e5255b7/1762204903998/DSC05129.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490460",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g490480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490480",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/c1e8a56f-c020-4bb2-a40e-a4a7a97a5ba0",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/submit-your-design-concepts-for-our-2026-merchandise"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/7c46344a-d3c5-4a17-94af-e30ca3bad58f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/submit-your-design-concepts-for-our-2026-merchandise"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/68711a35-91c8-44fe-83e7-2cf46f77001e",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/submit-your-design-concepts-for-our-2026-merchandise"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g490460"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/69091b24a255b2055e5255b7/1762204903998/DSC05129.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/submit-your-design-concepts-for-our-2026-merchandise"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Merch Design Proposals — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Submit Your Design Concepts for our 2026 Merchandise!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T17:17:55-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T17:21:43-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/our-artist-in-residence-program-is-back-and-bringing-the-magic",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Artist In Residence — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/our-artist-in-residence-program-is-back-and-bringing-the-magic"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks is thrilled to welcome  Justine Giles  as our 2025 Artist in Residence! She’ll be collaborating with our amazing local mentee artists,  R.A.S.K.L.  and  small TALK , for two unforgettable shows at Makerspace YK:  📅  Saturday, Nov 15 @ 7PM  – Justine + R.A.S.K.L. 📅  Saturday, Nov"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68e8d3516aef5f6d5796f30e/1760089435187/DSC04908+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "2250"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502480",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g502500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/32dc2e1f-6804-4d65-9fd1-c8d43ca7a853",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/our-artist-in-residence-program-is-back-and-bringing-the-magic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/feaaf8e8-c862-4f63-b1ff-6630d4a58a3a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/our-artist-in-residence-program-is-back-and-bringing-the-magic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/3b6cd4e4-c9dd-42cd-b3cb-30114cf89d60",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/our-artist-in-residence-program-is-back-and-bringing-the-magic"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g502480"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68e8d3516aef5f6d5796f30e/1760089435187/DSC04908+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/our-artist-in-residence-program-is-back-and-bringing-the-magic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Artist In Residence — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Our Artist in Residence program is BACK and bringing the magic!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-10T06:42:39-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-10T06:43:55-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/join-the-202525-selections-committee",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "selections committee — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/join-the-202525-selections-committee"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks has three community positions available for our 2025/26 Selections Committee.    APPLY HERE    FOTR is looking for forward-thinking, solution-oriented and dynamic Selections Committee Members. FOTR encourages representation that reflects the diversity of our community.  Self-nomina"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68a5bc6d7d1bb50289bcb222/1755692482679/Screen+Shot+2025-06-13+at+2.15.40+PM.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1108"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1110"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510240",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g510260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510260",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/72b0c545-45c4-455a-bb4e-c07acb82ae92",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-the-202525-selections-committee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/8e304731-ad99-4f8f-b3fb-e0289aa3f064",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-the-202525-selections-committee"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/9bc0530d-2b03-4c44-ba9e-b3ca948327cf",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-the-202525-selections-committee"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g510240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68a5bc6d7d1bb50289bcb222/1755692482679/Screen+Shot+2025-06-13+at+2.15.40+PM.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-the-202525-selections-committee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "selections committee — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Join the 2026 Selections Committee"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-20T09:18:37-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-20T09:21:22-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/apply-now-202526-artist-in-residence-program",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "artist in residence — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/apply-now-202526-artist-in-residence-program"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks is proud to re-launch its  Artist Mentor in Residence Program , designed to foster collaboration between established Canadian musicians and emerging Yellowknife-based artists. This unique initiative helps overcome location-based barriers, supports professional development, and crea"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68a3116bfce5136813d71ba7/1756309328038/MVF-50.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g518460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/d0104539-6c1e-4570-81ce-039dba1f5cc6",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/apply-now-202526-artist-in-residence-program"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/410fcc0b-5c72-4646-9657-92849811f7ed",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/apply-now-202526-artist-in-residence-program"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/d7d77429-c6eb-4683-b908-eecb22781c9b",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/apply-now-202526-artist-in-residence-program"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g518440"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68a3116bfce5136813d71ba7/1756309328038/MVF-50.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/apply-now-202526-artist-in-residence-program"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "artist in residence — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Apply Now! 2025/26 Artist In Residence Program"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-18T08:48:03-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-27T12:42:08-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/2025-folk-rocks-site-map",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "2025 Folk On The Rocks Site Map  — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/2025-folk-rocks-site-map"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "If you need help getting around the festival this year, check out our site map!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/6876eac427c70b71e8f846ac/1752624026294/Instagram+FOTR+2024+Site+Map+FINAL+%281%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g526560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/b3a87e40-195c-46de-9670-3519ecc11b27",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/ff4cc1b5-8a57-4789-a590-648402339f68",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/f0c65ab9-7477-4949-aa87-e18080e5a387",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g526540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/6876eac427c70b71e8f846ac/1752624026294/Instagram+FOTR+2024+Site+Map+FINAL+%281%29.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2025 Folk On The Rocks Site Map  — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "2025 Folk On The Rocks Site Map "
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Comms FOTR"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-15T21:00:26-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-15T21:00:26-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/fotrs-raffle-is-back",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "2025 Raffel — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/fotrs-raffle-is-back"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Enter to win some incredible prizes!  Click here to get your tickets!!    GRAND PRIZE   -Certificate for two (2) Economy Class round-trip promotional tickets for travel within North America, the Caribbean, or Hawaii (excluding Mexico City) on Air Canada's flights, valid for travel on Air Canada, Air"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68377b43d9c3771d1012b62b/1752866671032/Full+Campaign+Design+.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1164"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1228"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537380",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g537400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537400",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/1cb8ae73-f2fd-47b1-ac6e-86508ee71838",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotrs-raffle-is-back"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/70647120-fa78-4376-b9b4-615393f4037e",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotrs-raffle-is-back"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/3bba6101-54b5-4db6-b055-6634d3fbd44c",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotrs-raffle-is-back"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g537380"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/68377b43d9c3771d1012b62b/1752866671032/Full+Campaign+Design+.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotrs-raffle-is-back"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2025 Raffel — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "FOTR’s Raffle is back…"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-28T18:19:18-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-18T16:24:31-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists-cd9x7",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Art and Animation — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists-cd9x7"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks is now accepting proposals for Art and Animation projects! We want to collaborate with creative members of our community to bring unique and memorable moments to the festival site. The deadline to apply is  May 31, 2025 .  We will notify successful applicants by June 9, 2025.&n"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/6830df3d456f943d1e0bdfc1/1748033724584/96.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "2250"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g545300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/49d161f6-6083-498e-9b22-5b8e3644d58e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists-cd9x7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/d0c673fd-8161-4400-90a8-8b8176b7d6ad",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists-cd9x7"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/fb6b27a1-b33c-452e-ae9c-0fcbb52d1260",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists-cd9x7"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g545280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/6830df3d456f943d1e0bdfc1/1748033724584/96.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists-cd9x7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Art and Animation — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "We are now accepting proposals for Art and Animation projects! "
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-23T17:55:24-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-23T17:55:24-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Wave 3 — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "The third and final wave of artists for 2025’s Folk On The Rocks Music Festival, July 18-20, is here!  We’ve saved our biggest and baddest for last!  To give them all a listen click here for a    link to our 2025 Spotify playlist.    T﻿he third wave is:     Al Qahwa     Billie's Eyelash     Empress"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/682611d6caf1700231838661/1748033341381/Wave_Three_Announcement_+.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1878"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g553300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/fef661e4-50e9-47a5-a977-5da7ce419f5d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/1b36ff16-d4f0-49ae-9d83-1c1080440082",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/bcf63725-93aa-4f71-95d7-41ee39197db6",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g553280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/682611d6caf1700231838661/1748033341381/Wave_Three_Announcement_+.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/its-here-our-3rd-amp-final-wave-of-artists"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Wave 3 — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "It’s here! Our 3rd &amp; final Wave of Artists…"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-15T13:13:41-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-23T17:49:01-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/june-7th-2025-join-us-for-our-annual-general-meeting",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "June 5th, 2025: Join us for our Annual General Meeting — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/june-7th-2025-join-us-for-our-annual-general-meeting"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/6821c3e7996dce3eaafac1ed/1748395472897/DSC09099.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g561960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/92a8dea2-589e-49d1-83a0-ec8bf348c9c0",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/june-7th-2025-join-us-for-our-annual-general-meeting"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/c602f377-b984-414f-983f-4bae0fb21bee",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/june-7th-2025-join-us-for-our-annual-general-meeting"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/96f73624-c505-4e52-a0df-26a05f490b95",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/june-7th-2025-join-us-for-our-annual-general-meeting"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g561940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/6821c3e7996dce3eaafac1ed/1748395472897/DSC09099.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/june-7th-2025-join-us-for-our-annual-general-meeting"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "June 5th, 2025: Join us for our Annual General Meeting — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "June 5th, 2025: Join us for our Annual General Meeting"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Carly McFadden"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-12T06:55:11-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-27T22:24:32-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/first-wave-of-artists-announced-for-2025-festival-lineup",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "First Wave of Artists Announced for 2025 Festival Lineup! — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/first-wave-of-artists-announced-for-2025-festival-lineup"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Yellowknife – We’re thrilled to announce the first wave of artists for this year’s Folk on the Rocks (FOTR) music festival, July 18-20, 2025."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb04/1744067225977/VincentRetDSC_7923+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "682"
+      }
+    ]
+  },
+  {
+    "@id": "_:g569940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g569960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g569960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/1b6fcd96-ddb6-4240-9c6a-640d66f60410",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/first-wave-of-artists-announced-for-2025-festival-lineup"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/59f2087c-cbc6-48ae-b8a1-55add52f6418",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/first-wave-of-artists-announced-for-2025-festival-lineup"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/79038947-f4be-44fc-a5e9-d0756ea0461d",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/first-wave-of-artists-announced-for-2025-festival-lineup"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g569940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb04/1744067225977/VincentRetDSC_7923+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/first-wave-of-artists-announced-for-2025-festival-lineup"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "First Wave of Artists Announced for 2025 Festival Lineup! — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "First Wave of Artists Announced for 2025 Festival Lineup!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-26T14:15:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-07T20:07:05-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/main-stage-showdown-2025-submissions",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Main Stage Showdown 2025 Submissions — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/main-stage-showdown-2025-submissions"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Submissions for the main stage showdown 2025 are now closed! Thank you to everyone who applied."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb06/1744067444295/DSC_7802+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1074"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g577920"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/01623353-33d1-4878-9d06-a7193eb4298d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/main-stage-showdown-2025-submissions"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/aa79e366-1227-4844-915f-bfb1e0465de4",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/main-stage-showdown-2025-submissions"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/cfb2be0a-05ca-4ca2-a0d9-c5c5ffd93b4b",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/main-stage-showdown-2025-submissions"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g577900"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb06/1744067444295/DSC_7802+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/main-stage-showdown-2025-submissions"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Main Stage Showdown 2025 Submissions — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Main Stage Showdown 2025 Submissions"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-14T14:07:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-07T20:10:44-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/request-proposal-festival-merchandise-production",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Request for Proposal - Festival Merchandise Production — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/request-proposal-festival-merchandise-production"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks (FOTR) is requesting proposals for the production of Festival merchandise for upcoming Festival(s)."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb08/1744069505282/DSC06951.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "950"
+      }
+    ]
+  },
+  {
+    "@id": "_:g585860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g585880"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g585880",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/d5181e45-a394-4ba4-b58b-80ae9debb6cd",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/request-proposal-festival-merchandise-production"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/635520b0-0dcd-410b-a72d-b2aef67426ff",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/request-proposal-festival-merchandise-production"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/c987991e-066e-42d5-bcf1-f1ca188f42dc",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/request-proposal-festival-merchandise-production"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g585860"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb08/1744069505282/DSC06951.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/request-proposal-festival-merchandise-production"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Request for Proposal - Festival Merchandise Production — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Request for Proposal - Festival Merchandise Production"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-12T14:05:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-07T20:45:05-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/invitation-bid-beer-garden-stage-renovation-tender",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Invitation to Bid - Beer Garden Stage Renovation Tender — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/invitation-bid-beer-garden-stage-renovation-tender"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks (FOTR) invites qualified contractors to submit their tender for the Beer Garden Stage Renovation Project on the Folk On The Rocks Site to take place over the course of 2025 and 2026."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb0a/1744070369950/Beer+Garden+.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "977"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "650"
+      }
+    ]
+  },
+  {
+    "@id": "_:g594100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g594120"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g594120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/75fda614-68cc-498e-9332-6a5725e7a3d8",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/invitation-bid-beer-garden-stage-renovation-tender"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/afeb05c7-a35a-41ce-abf3-64af4072c3b9",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/invitation-bid-beer-garden-stage-renovation-tender"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/5a557da2-f610-4c14-be16-c9e26f475390",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/invitation-bid-beer-garden-stage-renovation-tender"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g594100"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f44173662b386fdf4feb0a/1744070369950/Beer+Garden+.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/invitation-bid-beer-garden-stage-renovation-tender"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Invitation to Bid - Beer Garden Stage Renovation Tender — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Invitation to Bid - Beer Garden Stage Renovation Tender"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-07T14:04:00-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-07T20:59:29-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/2025-artist-submissions",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "2025 Artist Submissions — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/2025-artist-submissions"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Applications to perform at the 45th Annual Folk On The Rocks Music Festival are now closed."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f515dd64b722333919f0ed/1744116033096/Banner.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g602140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/f526de83-4588-48e4-8369-eadf0683684b",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-artist-submissions"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/d7d04ba1-a560-4534-a5c9-433e968eacb2",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-artist-submissions"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/5b609456-f5fe-435b-8622-d4ad5c46f415",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-artist-submissions"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g602120"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f515dd64b722333919f0ed/1744116033096/Banner.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2025-artist-submissions"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2025 Artist Submissions — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "2025 Artist Submissions"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-08T09:26:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T09:40:33-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/7w3efzkpw92zutplloqbyaz8kti7cz",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "FOTR 2025 Flash Early Bird Ticket Sale Round 2! — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/7w3efzkpw92zutplloqbyaz8kti7cz"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Update: These are all sold out now! Thank you so much to everyone who took part.&nbsp;  Yellowknife – Round one went hot, so we are back for Round 2 of the 2025 Flash Ticket Sale!&nbsp;"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f516dbb442a563cde8be4e/1744115601531/Flash+early+bird+sale_0.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "741"
+      }
+    ]
+  },
+  {
+    "@id": "_:g610020",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g610040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g610040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/1a1561e3-5674-4ae7-aec5-5150b668c55c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/7w3efzkpw92zutplloqbyaz8kti7cz"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/876c0f9a-eda2-4445-b265-4020caa6e714",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/7w3efzkpw92zutplloqbyaz8kti7cz"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/1867ebbf-d972-40f6-947c-978d9ef780f2",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/7w3efzkpw92zutplloqbyaz8kti7cz"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g610020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f516dbb442a563cde8be4e/1744115601531/Flash+early+bird+sale_0.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/7w3efzkpw92zutplloqbyaz8kti7cz"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FOTR 2025 Flash Early Bird Ticket Sale Round 2! — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "FOTR 2025 Flash Early Bird Ticket Sale Round 2!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-13T09:30:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T09:33:21-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/join-bike-jam-folk-rocks",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Join a Bike Jam to Folk On The Rocks — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/join-bike-jam-folk-rocks"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "This year, for the first time, the highway coming from town to the Folk On The Rocks (FOTR) site will have a protected bike lane from Highway 3 and Old Airport Road on the North Side (the side that FOTR is on).&nbsp;"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f519808b59a5319d488a45/1744116450614/bike+jam.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g618120"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/beb8f95f-a388-475e-909b-da8cf2beb1af",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-bike-jam-folk-rocks"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/c2e7303f-03a9-4d6d-967e-31bc9feed263",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-bike-jam-folk-rocks"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/54225c39-4842-4f67-a2b1-b1dfe48bb1a7",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-bike-jam-folk-rocks"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g618100"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f519808b59a5319d488a45/1744116450614/bike+jam.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/join-bike-jam-folk-rocks"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Join a Bike Jam to Folk On The Rocks — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Join a Bike Jam to Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-17T09:41:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T09:47:30-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/cant-make-it-folk-read-these-tips-selling-your-pass",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Can't make it to Folk? Read these tips on selling your pass! — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/cant-make-it-folk-read-these-tips-selling-your-pass"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "We've been getting a lot of questions around the rules of selling your Folk tickets. If you can't make it to Folk On The Rocks this year and need to sell your ticket, here's some important info:"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f51ae6664465250b50bffc/1744116617235/DSC09861.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "2249"
+      }
+    ]
+  },
+  {
+    "@id": "_:g626060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g626080"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g626080",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/aee70dd7-e723-4faf-9933-d4e002fba974",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/cant-make-it-folk-read-these-tips-selling-your-pass"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/a977ee38-d3eb-425c-ad2f-29bef0ed2060",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/cant-make-it-folk-read-these-tips-selling-your-pass"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/4ab937ad-4689-460a-8fcd-e6a83007d458",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/cant-make-it-folk-read-these-tips-selling-your-pass"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g626060"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f51ae6664465250b50bffc/1744116617235/DSC09861.jpg?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/cant-make-it-folk-read-these-tips-selling-your-pass"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Can't make it to Folk? Read these tips on selling your pass! — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Can't make it to Folk? Read these tips on selling your pass!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-16T09:47:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T09:50:17-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/raffle2024",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Get Your FOTR 2024 Raffle Tickets! — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/raffle2024"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join our raffle for a chance to win big!  From now until 9 p.m. Sunday, July 21, you can purchase raffle tickets online for a chance to win:"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f51ddf32815a3df9e186a1/1744117468535/FOTR+2024+RAFFLE.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g634020",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g634040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g634040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/b54c24c9-bb4f-4fa0-805c-587d28cfa11f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/raffle2024"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/62a07035-1f46-4373-befb-7893b9e9ed3a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/raffle2024"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/e1bea3ec-f8fb-4e4c-a830-abf54577200b",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/raffle2024"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g634020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f51ddf32815a3df9e186a1/1744117468535/FOTR+2024+RAFFLE.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/raffle2024"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Get Your FOTR 2024 Raffle Tickets! — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Get Your FOTR 2024 Raffle Tickets!"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-05T10:00:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T10:04:28-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/2024-folk-rocks-site-map",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "2024 Folk On The Rocks Site Map — Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/2024-folk-rocks-site-map"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "If you need help getting around the festival this year, check out our site map!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f540001c252c4cec2d8ed5/1752620397990/Instagram+FOTR+2024+Site+Map+FINAL+%281%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g641980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g642000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/9d99ae81-0a38-4fb6-adcc-614bc4a94cfe",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2024-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/69ac8e5e-db80-458a-994b-4baf7db104e7",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2024-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/57eeaaba-a100-48b1-842a-f99e3579eea7",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2024-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g641980"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f540001c252c4cec2d8ed5/1752620397990/Instagram+FOTR+2024+Site+Map+FINAL+%281%29.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/2024-folk-rocks-site-map"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2024 Folk On The Rocks Site Map — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "2024 Folk On The Rocks Site Map"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-01T12:25:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-15T19:59:57-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/news/fotr-welcomes-teresa-horosko-new-executive-director",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "— Folk On The Rocks"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.folkontherocks.com/news/fotr-welcomes-teresa-horosko-new-executive-director"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Yellowknife – Folk On The Rocks (FOTR) is&nbsp;excited to introduce Teresa Horosko as the organization’s new Executive Director!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f54b73682d8102ae480263/1744129049530/Untitled+design+%2818%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "_:g650200",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g650220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "_:g650220",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/a7677a0b-0a6a-40ef-a621-c7103add6195",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67ed6077c93c053c1140a364/c0d9438b-630e-445b-9633-4c65d25da15a/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-welcomes-teresa-horosko-new-executive-director"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk On The Rocks"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/195f854c-0d7a-4a8f-b254-7c9150552c6f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67ed6077c93c053c1140a364/t/67eea3c4259a363f76308410/1759492563628/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-welcomes-teresa-horosko-new-executive-director"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkontherocks.com/temporary/8e402839-df18-4738-8589-6444ea1127db",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-welcomes-teresa-horosko-new-executive-director"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g650200"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67ed6077c93c053c1140a364/67f44173662b386fdf4feb03/67f54b73682d8102ae480263/1744129049530/Untitled+design+%2818%29.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkontherocks.com/news/fotr-welcomes-teresa-horosko-new-executive-director"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " — Folk On The Rocks"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Jen Hayward"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-24T13:14:00-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T13:17:29-03:00"
+      }
+    ]
+  }
+]
