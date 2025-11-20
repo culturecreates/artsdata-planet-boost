@@ -1,0 +1,2770 @@
+[
+  {
+    "@id": "_:g567660",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g567700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567700",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35001",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/mysteries-of-the-keyhole-house/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Mysteries of the Keyhole House"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "What happens when two of Canada’s master illusionists move into a century-old house, that’s rumoured to be haunted? Join Ted and Marion Outerbridge – fresh from mesmerizing audiences at Hollywood’s Magic Castle – as they blend their family friendly illusions…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/07/keyhole-website-1200x709.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/mysteries-of-the-keyhole-house/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/7fb84e9a-8724-48ef-af6a-8e34791ccc9b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/07/keyhole-website-1024x605.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g567660"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g567680"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35001"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/mysteries-of-the-keyhole-house/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mysteries of the Keyhole House"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "What happens when two of Canada’s master illusionists move into a century-old house, that’s rumoured to be haunted? Join Ted and Marion Outerbridge – fresh from mesmerizing audiences at Hollywood’s Magic Castle – as they blend their family friendly illusions…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g575820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/an-evening-of-conversation-with-waubeshig-rice-and-ivan-coyote/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "An Evening of Conversation with Waubgeshig Rice and Ivan Coyote"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Waubgeshig Rice grew up in Wasauksing First Nation on the shores of Georgian Bay, in the southeast of Robinson-Huron Treaty territory. He’s a writer, listener, speaker, language learner, and a martial artist, holding a black belt in Brazilian Jiu-Jitsu. He…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/07/active-voice-website-1200x776.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/an-evening-of-conversation-with-waubeshig-rice-and-ivan-coyote/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/de23f29f-3052-46f9-a5ab-71443b9a5505",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/07/active-voice-website-1024x663.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g575780"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g575800"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/an-evening-of-conversation-with-waubeshig-rice-and-ivan-coyote/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "An Evening of Conversation with Waubgeshig Rice and Ivan Coyote"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Waubgeshig Rice grew up in Wasauksing First Nation on the shores of Georgian Bay, in the southeast of Robinson-Huron Treaty territory. He’s a writer, listener, speaker, language learner, and a martial artist, holding a black belt in Brazilian Jiu-Jitsu. He…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g585000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g585020"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g585020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/36201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/jazz-on-the-wing-saxophonist-jon-bentley-quartet/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Jazz on the Wing – Saxophonist Jon Bentley Quartet"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "“Saxophonist Jon Bentley is one of Vancouver’s unsung musical talents, a gifted musician who never grandstands, but rather brings out the best in the musicians around him.” ~ Marke Andrews, Vancouver Sun"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/08/jazzbentley.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/jazz-on-the-wing-saxophonist-jon-bentley-quartet/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/ebc6493b-d004-4888-b335-007e59971c2b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/08/jazzbentley.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-11T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-11T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g584980"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g585000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/36201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/jazz-on-the-wing-saxophonist-jon-bentley-quartet/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jazz on the Wing – Saxophonist Jon Bentley Quartet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“Saxophonist Jon Bentley is one of Vancouver’s unsung musical talents, a gifted musician who never grandstands, but rather brings out the best in the musicians around him.” ~ Marke Andrews, Vancouver Sun &quot;Top drawer modern chamber jazz.&quot; ~ Ken Pickering,…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g595540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g595560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g595580"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g595580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=32401&ref=bookNow&scroll=timeAndDates",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/whitehorse-winter-classic/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Whitehorse Winter Classic with Melissa McClelland and Luke Doucet"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The Hamilton-based band Whitehorse will be joined by drummer John Steven Obercian for their special Christmas performance, Whitehorse Winter Classic. The folk-rock band formed in 2010 by husband-and-wife duo Melissa McClelland and Luke Doucet, who were both established solo artists in their own…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/09/whitehorse-revised-1200x892.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/whitehorse-winter-classic/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/0f6fc5c4-afb0-4179-8fd6-f766599e3066",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/09/whitehorse-revised-1024x761.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-16T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g595540"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g595560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=32401&ref=bookNow&scroll=timeAndDates"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/whitehorse-winter-classic/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse Winter Classic with Melissa McClelland and Luke Doucet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Hamilton-based band Whitehorse will be joined by drummer John Steven Obercian for their special Christmas performance, Whitehorse Winter Classic. The folk-rock band formed in 2010 by husband-and-wife duo Melissa McClelland and Luke Doucet, who were both established solo artists in their own…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g603760"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/43001",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/les-hay-babies-tintamarre/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Les Hay Babies – Tintamarre!"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Les Hay Babies – Tintamarre! (English version available below) Dans le cadre du Coup de cœur francophone 2025, l’Association franco-yukonnaise est fière de vous présenter le spectacle des Hay Babies, Tintamarre! La soirée débutera avec Will Pacaud en première partie.…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/10/haybabieswebsitev2.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/les-hay-babies-tintamarre/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/a2bddee1-bb13-4c93-aec9-64c93a25d8fc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/10/haybabieswebsitev2-1024x753.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T19:15:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g603720"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g603740"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/43001"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/les-hay-babies-tintamarre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Les Hay Babies – Tintamarre!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Les Hay Babies – Tintamarre! (English version available below) Dans le cadre du Coup de cœur francophone 2025, l’Association franco-yukonnaise est fière de vous présenter le spectacle des Hay Babies, Tintamarre! La soirée débutera avec Will Pacaud en première partie.…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612160",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g612200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44401",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/choir-choir-choir/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Choir! Choir! Choir! You: An EPIC Queen Sing-Along!"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "CHOIR! CHOIR! CHOIR!   “Why see a show when you can BE the show!?” Choir! Choir! Choir! is the fully interactive, participatory show that turns audience into performer! So get ready to laugh, dance and SING! your hearts out with…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/10/choirwebsite.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/choir-choir-choir/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/7c9bab38-6331-4f26-97a3-11c34448a0ca",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/10/choirwebsite-1024x748.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-16T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-16T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g612160"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g612180"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44401"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/choir-choir-choir/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Choir! Choir! Choir! You: An EPIC Queen Sing-Along!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "CHOIR! CHOIR! CHOIR!   “Why see a show when you can BE the show!?” Choir! Choir! Choir! is the fully interactive, participatory show that turns audience into performer! So get ready to laugh, dance and SING! your hearts out with…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g620220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g620240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g620260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g620260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/chris-funk-the-wonderist-redefining-wonder/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Chris Funk – The Wonderist Redefining Wonder"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Chris Funk’s REDEFINING WONDER is an engaging multimedia experience that has audiences talking and scratching their heads for years to come. Finally, a MAGIC SHOW WITH LIVE MUSIC! Chris has pioneered the use of instruments like the violin, guitar, sax…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/10/ChrisFunkWeb-1200x800.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/chris-funk-the-wonderist-redefining-wonder/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/15c6f21a-9495-46ab-93d9-27dcd4c3aaa7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/10/ChrisFunkWeb-1024x683.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-31T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-31T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g620220"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g620240"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/chris-funk-the-wonderist-redefining-wonder/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chris Funk – The Wonderist Redefining Wonder"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Chris Funk’s REDEFINING WONDER is an engaging multimedia experience that has audiences talking and scratching their heads for years to come. Finally, a MAGIC SHOW WITH LIVE MUSIC! Chris has pioneered the use of instruments like the violin, guitar, sax…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g628660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/frankenstein/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Frankenstein"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "If you see one Netflix release on the big screen this year, Frankenstein is the one... except, well, there's Train Dreams. We're presenting that in-cinema as well. Oscar-winning director Guillermo del Toro’s visually sumptuous adaptation of Mary Shelley’s gothic masterpiece…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/10/Frankenstein_horPoster-1200x675.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/frankenstein/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/8b1745a2-052f-425e-a1b3-171b1954e069",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/10/Frankenstein_horPoster-1024x576.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g628620"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g628640"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/frankenstein/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Frankenstein"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "If you see one Netflix release on the big screen this year, Frankenstein is the one... except, well, there&#039;s Train Dreams. We&#039;re presenting that in-cinema as well. Oscar-winning director Guillermo del Toro’s visually sumptuous adaptation of Mary Shelley’s gothic masterpiece…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636560",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g636600"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/43801",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/for-science-a-study-in-comedy/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "For Science! A Study in Comedy"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Suitable for ages 5 and over. Join The Professor and her Lab Assistant on a hilarious behavioural science adventure! Get ready to be captivated as they expertly navigate the audience through a captivating array of progressively intricate challenges, all done…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/For-Science-WEb-1200x958.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/for-science-a-study-in-comedy/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/29b3bd84-9705-4bf3-80ce-840537f55538",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/For-Science-WEb-1024x817.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-04T16:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-04T16:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g636560"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g636580"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/43801"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/for-science-a-study-in-comedy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "For Science! A Study in Comedy"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Suitable for ages 5 and over. Join The Professor and her Lab Assistant on a hilarious behavioural science adventure! Get ready to be captivated as they expertly navigate the audience through a captivating array of progressively intricate challenges, all done…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g644680",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g644700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g644720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g644720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44601",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/elisapie/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Elisapie"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Elisapie’s unconditional attachment to her territory and her language, Inuktitut, remains at the core of her creative journey. Born and raised in Salluit, a small village in Nunavik which is only accessible by plane, Elisapie is an emblematic Canadian Inuk…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/elisapie-webspek-1200x907.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/elisapie/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/0aee69ec-526c-42f7-96ed-ef0e76a26e02",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/elisapie-webspek-1024x774.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g644680"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g644700"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44601"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/elisapie/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Elisapie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Elisapie’s unconditional attachment to her territory and her language, Inuktitut, remains at the core of her creative journey. Born and raised in Salluit, a small village in Nunavik which is only accessible by plane, Elisapie is an emblematic Canadian Inuk…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g652620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g652640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g652660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g652660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44801",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/an-evening-with-mary-walsh/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "An Evening with Mary Walsh"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Canadian cultural icon, comedienne and social activist MARY WALSH will perform some of her best comedic bits and most popular characters from Dancing With Rage, CODCO and This Hour Has 22 Minutes, along with up-to-the-minute local political satire. Hailing from…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/mary-walsh-web-1200x1048.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/an-evening-with-mary-walsh/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/a06f5a61-7aed-4f29-b441-b5650e204346",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/mary-walsh-web-1024x894.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-23T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-23T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g652620"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g652640"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/44801"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/an-evening-with-mary-walsh/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "An Evening with Mary Walsh"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Canadian cultural icon, comedienne and social activist MARY WALSH will perform some of her best comedic bits and most popular characters from Dancing With Rage, CODCO and This Hour Has 22 Minutes, along with up-to-the-minute local political satire. Hailing from…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g660680",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g660700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g660720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g660720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45001",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/josh-ritter/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Josh Ritter"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Ritter is a renowned singer, songwriter, musician, artist and best-selling author. One of today’s most thoughtful and prolific voices, he has released eleven studio albums including 2019’s widely acclaimed, Fever Breaks, of which NPR Music praised, “He remains a hydrant…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/Josh-Ritter-web-1200x1104.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/josh-ritter/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/28a50055-fea2-4137-834d-44457df8ea5b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/Josh-Ritter-web-1024x942.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g660680"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g660700"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45001"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/josh-ritter/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Josh Ritter"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Ritter is a renowned singer, songwriter, musician, artist and best-selling author. One of today’s most thoughtful and prolific voices, he has released eleven studio albums including 2019’s widely acclaimed, Fever Breaks, of which NPR Music praised, “He remains a hydrant…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g668620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g668640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g668660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g668660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=35001&ref=bookNow&scroll=timeAndDates",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/ytyp-disneys-frozen/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "YTYP: Disney’s Frozen"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "For the first time in forever, experience the musical phenomenon that has taken the world by storm! Based on the Academy Award-winning animated feature film, Disney’s Frozen includes all the film’s beloved songs by Kristen Anderson-Lopez and Robert Lopez, along…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1200x633.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/ytyp-disneys-frozen/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/3901ba4f-f05f-4472-8313-ea57d08266e1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1024x540.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-08T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-10T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g668620"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g668640"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=35001&ref=bookNow&scroll=timeAndDates"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/ytyp-disneys-frozen/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "YTYP: Disney’s Frozen"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "For the first time in forever, experience the musical phenomenon that has taken the world by storm! Based on the Academy Award-winning animated feature film, Disney’s Frozen includes all the film’s beloved songs by Kristen Anderson-Lopez and Robert Lopez, along…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g676640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/46201",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/ytyp-gala-disneys-frozen/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "YTYP GALA: Disney’s Frozen"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us for the opening night gala performance of Disney’s Frozen, which will include a glamorous evening of frozen cocktails and treats and exclusive photos with the cast and a backstage tour. From “Arendelle Ice” cocktails to snowflake-shaped desserts dusted…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1200x633.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/ytyp-gala-disneys-frozen/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/f52f574c-345e-400d-8f81-8553bf17b962",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/frozen-1024x540.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-07T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-07T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g676600"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g676620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/46201"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/ytyp-gala-disneys-frozen/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "YTYP GALA: Disney’s Frozen"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us for the opening night gala performance of Disney’s Frozen, which will include a glamorous evening of frozen cocktails and treats and exclusive photos with the cast and a backstage tour. From “Arendelle Ice” cocktails to snowflake-shaped desserts dusted…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g684620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g684640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g684660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g684660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=35601",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/yukon-community-choirs-blue-spruce-winter-showcase/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Yukon Community Choirs: Blue Spruce Winter Showcase"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Blue Spruce Winter Showcase will feature three of our choirs: Confluence Chorus, Persephone Singers and The Neptunes with support from Alluvia Voices. Directors: Nick Turnbull, Maxime Crawford-Holland and Artistic Director C.D. Saint. We are featuring the world premier of Blue…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/choir-1200x532.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/yukon-community-choirs-blue-spruce-winter-showcase/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/2f893185-30c1-4ab2-853d-fdb4e608083e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/choir-1024x454.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g684620"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g684640"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=35601"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/yukon-community-choirs-blue-spruce-winter-showcase/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Community Choirs: Blue Spruce Winter Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Blue Spruce Winter Showcase will feature three of our choirs: Confluence Chorus, Persephone Singers and The Neptunes with support from Alluvia Voices. Directors: Nick Turnbull, Maxime Crawford-Holland and Artistic Director C.D. Saint. We are featuring the world premier of Blue…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g692960",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g692980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g693000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g693000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/48001",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/all-city-band-music-for-a-winters-eve/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "All City Band: Music for a Winter’s Eve"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Come out and warm your hearts and toes and join the All-City Band Society for our Music for a Winter's Eve Concert. You won't want to miss this delightful celebration of community music making with the students of Porter Creek,…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/all-city-band-1200x521.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/all-city-band-music-for-a-winters-eve/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/a316b536-8816-41cf-9a34-955692c96767",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/all-city-band-1024x445.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-15T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-15T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g692960"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g692980"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/48001"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/all-city-band-music-for-a-winters-eve/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "All City Band: Music for a Winter’s Eve"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Come out and warm your hearts and toes and join the All-City Band Society for our Music for a Winter&#039;s Eve Concert. You won&#039;t want to miss this delightful celebration of community music making with the students of Porter Creek,…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
