@@ -1,0 +1,1551 @@
+[
+  {
+    "@id": "https://www.prismaticfestival.com",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Home – Prismatic Festival"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative work by"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Prismatic Festival"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/prismaticfestival/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-05T16:39:23+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2-1024x1024.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://prismaticfestival.com/index.php/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://prismaticfestival.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://prismaticfestival.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://prismaticfestival.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://prismaticfestival.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-05T02:15:40+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-05T16:39:23+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://prismaticfestival.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460720"
+      },
+      {
+        "@id": "_:g477220"
+      },
+      {
+        "@id": "_:g493700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home &#8211; Prismatic Festival"
+      },
+      {
+        "@value": "Home &#8211; Prismatic Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative work by"
+      },
+      {
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative work by"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://prismaticfestival.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460760"
+      },
+      {
+        "@id": "_:g477260"
+      },
+      {
+        "@id": "_:g493740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Prismatic Arts Festival"
+      },
+      {
+        "@value": "Prismatic Arts Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Art for Everyone"
+      },
+      {
+        "@value": "Art for Everyone"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://prismaticfestival.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://prismaticfestival.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/prismaticfestival/"
+      },
+      {
+        "@id": "https://x.com/PrismaticArts"
+      },
+      {
+        "@id": "https://www.instagram.com/prismaticarts"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Prismatic"
+      },
+      {
+        "@value": "Prismatic"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://prismaticfestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://prismaticfestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://prismaticfestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460780"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460800"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g477280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g477300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g493760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g493780"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/wp-content/uploads/2019/08/prismatic_favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://prismaticfestival.com/wp-content/uploads/2019/08/prismatic_favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "38"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "38"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Prismatic"
+      },
+      {
+        "@value": "Prismatic"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://prismaticfestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460800",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g460920"
+      },
+      {
+        "@id": "_:g477420"
+      },
+      {
+        "@id": "_:g493900"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://prismaticfestival.com/#webpage"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-28 00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460940"
+      },
+      {
+        "@id": "_:g477440"
+      },
+      {
+        "@id": "_:g493920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.prismaticfestival.com"
+      },
+      {
+        "@id": "https://www.prismaticfestival.com/#content"
+      },
+      {
+        "@id": "https://www.prismaticfestival.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      },
+      {
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative... <a class=\"excerpt-read-more\" href=\"https://prismaticfestival.com/\"><span>Continue Reading</span></a>"
+      },
+      {
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative... <a class=\"excerpt-read-more\" href=\"https://prismaticfestival.com/\"><span>Continue Reading</span></a>"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477420",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493900",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "_:g460940",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "AUD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477440",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "AUD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493920",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "AUD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g460960"
+      },
+      {
+        "@id": "_:g477460"
+      },
+      {
+        "@id": "_:g493940"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://prismaticfestival.com/#webpage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-05T02:15:40+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-05T16:39:23+00:00"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-05T16:39:23+00:00"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-05T02:15:40+00:00"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://prismaticfestival.com#organization"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g460980"
+      },
+      {
+        "@id": "_:g477480"
+      },
+      {
+        "@id": "_:g493960"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "_:g461000"
+      },
+      {
+        "@id": "_:g477500"
+      },
+      {
+        "@id": "_:g493980"
+      }
+    ],
+    "http://schema.org/reviewedBy": [
+      {
+        "@id": "_:g461020"
+      },
+      {
+        "@id": "_:g477520"
+      },
+      {
+        "@id": "_:g494000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.prismaticfestival.com"
+      },
+      {
+        "@id": "https://www.prismaticfestival.com/#content"
+      },
+      {
+        "@id": "https://www.prismaticfestival.com/#"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative... <a class=\"excerpt-read-more\" href=\"https://prismaticfestival.com/\"><span>Continue Reading</span></a>"
+      },
+      {
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative... <a class=\"excerpt-read-more\" href=\"https://prismaticfestival.com/\"><span>Continue Reading</span></a>"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      },
+      {
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": ""
+      },
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g460960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://prismaticfestival.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://prismaticfestival.com#logo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://prismaticfestival.com#logo"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/prismaticfestival/"
+      },
+      {
+        "@id": "https://twitter.com/PrismaticArts"
+      },
+      {
+        "@id": "https://www.instagram.com/prismaticarts/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Prismatic Festival"
+      },
+      {
+        "@value": "Prismatic Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Art for Everyone"
+      },
+      {
+        "@value": "Art for Everyone"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460980",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ryan McKinney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477480",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ryan McKinney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493960",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ryan McKinney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://i0.wp.com/prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2.png?fit=1300%2C1300&ssl=1"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "prismatic-2025-final-graphic-2"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Prismatic 2025 Final Graphic 2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "image/png"
+      }
+    ],
+    "http://schema.org/uploadDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T17:16:23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461020",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ryan McKinney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477520",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ryan McKinney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494000",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ryan McKinney"
+      }
+    ]
+  },
+  {
+    "@id": "https://prismaticfestival.com#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.prismaticfestival.com"
+      },
+      {
+        "@id": "https://www.prismaticfestival.com/"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "60"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.prismaticfestival.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Home – Prismatic Festival"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Prismatic Arts Festival The Prismatic Arts Festival is a national, multidisciplinary arts festival that showcases and celebrates innovative work by"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://prismaticfestival.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Prismatic Festival"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/prismaticfestival/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-05T16:39:23+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://prismaticfestival.com/wp-content/uploads/2025/05/Prismatic-2025-Final-Graphic-2-1024x1024.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://prismaticfestival.com/index.php/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://prismaticfestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477300",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://prismaticfestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
