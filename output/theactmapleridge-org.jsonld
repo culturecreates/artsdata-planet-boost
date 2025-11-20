@@ -1,0 +1,4706 @@
+[
+  {
+    "@id": "https://theactmapleridge.org/community-events/event-one-tet7f",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Thursday Evening Piano Bar — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/event-one-tet7f"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Vibe. Imbibe. Come alive with the songs you love.  You don’t need to be in New York, New Orleans or Vegas to enjoy this classic casual live music experience. Make one Thursday night a month the unofficial start of a weekend at the  Thursday Evening Piano Bar .  Once a month, The ACT Lobby transforms"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68ae295936a50939beff145d/1758565358286/Piano%2BBar%2B2.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "667"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-one-tet7f"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre Maple Ridge Lobby"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/e392573e-d98b-42fc-a640-cdb881bd875d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-one-tet7f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/23382294-423e-4c13-9fcd-430e525b1844",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-one-tet7f"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/a857e0af-d485-4c94-a1e0-a18e5a47980a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68ae295936a50939beff145d/1758565358286/Piano%2BBar%2B2.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g485180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-one-tet7f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thursday Evening Piano Bar — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-18T18:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-18T20:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/event-five-p6bwp",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Community Stage Night — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/event-five-p6bwp"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68ae295936a50939beff1459/1756244413958/CSN_1200x1200.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-five-p6bwp"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/ce8e4e04-7dab-433c-9cb4-70caea289b4a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-five-p6bwp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/0db15fa4-a9b4-40d8-8487-55cf4d0dc2f1",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-five-p6bwp"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/99bb2a2b-f7d4-4d3d-b114-3b7048c56a49",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68ae295936a50939beff1459/1756244413958/CSN_1200x1200.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g495380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/event-five-p6bwp"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Community Stage Night — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-12T16:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-12T17:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/speaking-through-the-storm",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "STORM Presents Speaking Through the STORM — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/speaking-through-the-storm"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join Speaking Through the STORM in Maple Ridge: free event with keynote Joe Roberts, panel discussions, art, resources, and community connections."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f136a45824025fe3f00461/1762303995186/Picture2.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/speaking-through-the-storm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/7e5b1b9c-48a8-4d3e-8356-da866e7e3158",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/speaking-through-the-storm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/956d2b1f-a65b-4d7c-895f-6c3aaaf04b5d",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/speaking-through-the-storm"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/231d4203-94f7-4443-852a-cbab228b13f7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f136a45824025fe3f00461/1762303995186/Picture2.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g517100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/speaking-through-the-storm"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "STORM Presents Speaking Through the STORM — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T17:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T21:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/holly-jolly-christmas",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "A Holly Jolly Christmas — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/holly-jolly-christmas"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join us for Buddy’s Holly Jolly Christmas on December 4, 2025, at 7:30 PM. Enjoy 2 hours of festive rock and roll plus a 20-minute intermission, featuring Zachary Stevenson and The Lovettes, backed by the Legends All-Star Band."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eee2cb0a8c4d5807975493/1762304055013/Holly+Jolly.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/holly-jolly-christmas"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/bd4770aa-dbc3-4331-8590-c5112a820a1b",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/holly-jolly-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/5c9263ae-1f1b-4760-9eb9-9731b810971f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/holly-jolly-christmas"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/eecb0e2f-6514-4028-8e5f-e32e55adb942",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eee2cb0a8c4d5807975493/1762304055013/Holly+Jolly.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g537480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/holly-jolly-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "A Holly Jolly Christmas — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04T21:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1030",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-9-1030"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Follow the story of Matilda, a brilliant and brave young girl with special powers, as she overcomes neglectful parents and a tyrannical headmistress to inspire a rebellion among her fellow students. Packed with catchy songs, high-energy dance numbers, and unforgettable characters, Matilda JR. is the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f13e77ad708954a73a55c3/1762304109867/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1030"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/e9e7a66f-377c-4930-9b06-fda52878da92",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1030"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/bbe46d6b-78f6-490a-bf5b-47afa83f612f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1030"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/e9498045-6ae9-4205-95b9-4bd7921da1fc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f13e77ad708954a73a55c3/1762304109867/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g557160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1030"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T10:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T11:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1230",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-9-1230"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Follow the story of Matilda, a brilliant and brave young girl with special powers, as she overcomes neglectful parents and a tyrannical headmistress to inspire a rebellion among her fellow students. Packed with catchy songs, high-energy dance numbers, and unforgettable characters, Matilda JR. is the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14b9ab3933f64521c9b79/1762304134763/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1230"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/b01dc6bc-0c69-4228-b808-f520adee0d6a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1230"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/a947b1b3-1f61-4af0-83f9-458b08774817",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1230"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/3ad6cba6-1afa-4f2d-b734-634bfe1fe1ee",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14b9ab3933f64521c9b79/1762304134763/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g573120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-9-1230"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T12:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T13:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1030",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-10-1030"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Follow the story of Matilda, a brilliant and brave young girl with special powers, as she overcomes neglectful parents and a tyrannical headmistress to inspire a rebellion among her fellow students. Packed with catchy songs, high-energy dance numbers, and unforgettable characters, Matilda JR. is the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14c713a2a6d0e20236e69/1762304149750/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1030"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/001551e9-d6b7-4838-a1a3-b5bc0a962bba",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1030"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/7e1fb89a-5201-4b6c-8650-e913478f87e7",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1030"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/01e426d8-705a-4dd1-b0b2-00530b38ff68",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14c713a2a6d0e20236e69/1762304149750/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g582700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1030"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T10:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T11:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1230",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-10-1230"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Follow the story of Matilda, a brilliant and brave young girl with special powers, as she overcomes neglectful parents and a tyrannical headmistress to inspire a rebellion among her fellow students. Packed with catchy songs, high-energy dance numbers, and unforgettable characters, Matilda JR. is the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14dd9f240df0e1a09dc8b/1762304175662/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1230"
+      }
+    ]
+  },
+  {
+    "@id": "_:g592680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/736a098f-acfc-4f11-92bc-0e9881326f55",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1230"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/907982a0-a9e4-4456-a7aa-bd38f6c0c98c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1230"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/fa678f4f-ad87-410a-8856-55444bf94457",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14dd9f240df0e1a09dc8b/1762304175662/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g592680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-1230"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T12:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T13:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-7",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-10-7"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions    | Mainstage Theatre    Adults: $25.00 + Fees  |  Students: $20.00 + Fees   60 minutes (approx.)   All prices are subject to a $2.00 Capital Improvement Fund Fee and a $2.00 Processing Fee   About the Show  Rebellion is high in Matilda JR., a gleefully witty ode to the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/690901575af08b229f12e3ec/1762390623735/Matilda+Evg+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/eef84507-1f45-4519-89d4-371c904181b0",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/c87e8a65-21c0-4fe3-af65-c116b6373c99",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-7"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/33bbfb0b-1684-4407-8bc2-48653414e0aa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/690901575af08b229f12e3ec/1762390623735/Matilda+Evg+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g602560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-10-7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T20:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1030",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-11-1030"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Follow the story of Matilda, a brilliant and brave young girl with special powers, as she overcomes neglectful parents and a tyrannical headmistress to inspire a rebellion among her fellow students. Packed with catchy songs, high-energy dance numbers, and unforgettable characters, Matilda JR. is the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14e162330c702df4b383f/1762304222393/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1030"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/5533e936-1164-455d-9e76-30f9c0ce7d35",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1030"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/4db7ba51-5e67-499d-8844-83c7df4205bb",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1030"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/424bc8cb-e49f-4461-b656-04e2d7de24c5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14e162330c702df4b383f/1762304222393/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g612440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1030"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T10:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T11:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1230",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-11-1230"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Follow the story of Matilda, a brilliant and brave young girl with special powers, as she overcomes neglectful parents and a tyrannical headmistress to inspire a rebellion among her fellow students. Packed with catchy songs, high-energy dance numbers, and unforgettable characters, Matilda JR. is the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14e4c54ad0a164b1ada6b/1762304239174/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1230"
+      }
+    ]
+  },
+  {
+    "@id": "_:g622320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/e0652167-e8a8-4c40-bd6d-32c3047b55e5",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1230"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/68fc542d-92ea-422c-ac59-a6d8884a605e",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1230"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/a123f3a8-fb40-4eee-b528-7eb355806f99",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68f14e4c54ad0a164b1ada6b/1762304239174/Matilda+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g622320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-1230"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T12:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T13:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-7",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/matilda-jr-dec-11-7"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Pulse Productions    | Mainstage Theatre    Adults: $25.00 + Fees  |  Students: $20.00 + Fees   60 minutes (approx.)   All prices are subject to a $2.00 Capital Improvement Fund Fee and a $2.00 Processing Fee   About the Show  Rebellion is high in Matilda JR., a gleefully witty ode to the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/69090214a43f597757f11938/1762390647426/Matilda+Evg+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/7370833a-c6ce-46fb-83ac-ba707c3ec009",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/debfdd34-da3b-436b-9dc3-034e72bed407",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-7"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/47d83672-3ab1-4ef2-bdee-15b65babda49",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/69090214a43f597757f11938/1762390647426/Matilda+Evg+1080x1080.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g632200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/matilda-jr-dec-11-7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pulse Productions School Show: Matilda Jr. — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T20:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/comic-strippers",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Comic Strippers — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/comic-strippers"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "On  November 15, The Comic Strippers return with award‑winning Canadian improv comedians parodying a male stripper troupe. This 19+ show offers semi‑undressed, fully unscripted comedy with dance, song and live audience interaction—no nudity, just laughs."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eedd14be5dac7718a446fa/1762303974136/Square%2BRCP%2Btitle%2Bmid%2B2025.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/comic-strippers"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/a212dd93-9f7b-4bb2-954e-21dee6318eda",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/comic-strippers"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/999161bf-e2e7-46b9-ad6f-0f5d92924f0a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/comic-strippers"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/41d75068-78e5-4270-82b4-36d2f7cf6fa6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eedd14be5dac7718a446fa/1762303974136/Square%2BRCP%2Btitle%2Bmid%2B2025.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g642100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/comic-strippers"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Comic Strippers — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T22:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/fvwe-musical-life",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Fraser Valley Wind Ensemble Celebration of a Musical Life — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/fvwe-musical-life"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Fraser Valley Wind Ensemble celebrates the life and music of Dr. Wayne Jeffrey with a special concert and community remembrance."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eedab40b18ae31f247acdf/1763595480927/Wayne_1080x1080.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/fvwe-musical-life"
+      }
+    ]
+  },
+  {
+    "@id": "_:g659960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/df327752-e129-4905-8a78-fe6d8db8f5a4",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/fvwe-musical-life"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/7cabd53a-71a6-447b-82c5-8ab2d8cffc5c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/fvwe-musical-life"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/1a7d1293-fc7d-4eb5-920c-c5c1210e355e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eedab40b18ae31f247acdf/1763595480927/Wayne_1080x1080.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g659960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/fvwe-musical-life"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fraser Valley Wind Ensemble Celebration of a Musical Life — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T13:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T16:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/crossroads-cabaret-clueless",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crossroads Cabaret Clue-less — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/crossroads-cabaret-clueless"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Experience an immersive murder mystery in Maple Ridge! Crossroads Cabaret blends circus, burlesque, drag & dance with suspense and intrigue. Can you solve the crime?"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eed2a5bb66d54798d7d773/1762389372699/Clueless%2Bsquare.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/crossroads-cabaret-clueless"
+      }
+    ]
+  },
+  {
+    "@id": "_:g670180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/dd5ed425-1f28-4360-93c5-9261eb95ebb3",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/crossroads-cabaret-clueless"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/2eb6feeb-d0a6-405b-b582-3b82bc9f6c04",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/crossroads-cabaret-clueless"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/8c4b0f4e-3597-4d8f-bf94-4e88d7a28668",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eed2a5bb66d54798d7d773/1762389372699/Clueless%2Bsquare.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g670180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/crossroads-cabaret-clueless"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crossroads Cabaret Clue-less — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T22:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/piano-bar-nov-13",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "%p | %i  — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/piano-bar-nov-13"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Enjoy a free monthly piano bar night at The ACT Lobby with live favourites from the 1920s to today, led by Kerry O’Donovan. Cocktails, music, and good vibes."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eec65f3049ce34e95f1487/1763484223580/Piano+Bar+Tile_2025_Coloured+1200x1200.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-nov-13"
+      }
+    ]
+  },
+  {
+    "@id": "_:g684460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre Lobby"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/85e815ae-e013-4de7-93ba-82974aa5f14a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-nov-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/be89c84b-66c2-494e-9a45-2d27ed2a6044",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-nov-13"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/d6ef61f8-8458-48c9-b96e-caed5ffbabd3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eec65f3049ce34e95f1487/1763484223580/Piano+Bar+Tile_2025_Coloured+1200x1200.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g684460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-nov-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "%p | %i  — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T18:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T20:30:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/benise-and-pavlo-guitar-by-candlelight",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Benise & Pavlo Guitar By Candlelight — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/benise-and-pavlo-guitar-by-candlelight"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Experience an unforgettable night of Spanish guitar and Mediterranean music with world-renowned artists Benise and Pavlo. From fiery rhythms to romantic classics like “Hotel California” and “Moonlight Sonata,” this live concert blends Latin, flamenco, and global influences. Benise, the Emmy Award-wi"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eecffa52546e40386b30fa/1762303853417/Benise%2BPavlo%2B%28square%29%2B1080%2Bx%2B1080.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/benise-and-pavlo-guitar-by-candlelight"
+      }
+    ]
+  },
+  {
+    "@id": "_:g700160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/8f31e9e7-9f6f-4aaa-9a77-5b0bce676d23",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/benise-and-pavlo-guitar-by-candlelight"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/f20ebdc7-94ef-4cc7-bbd1-484fd76d099e",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/benise-and-pavlo-guitar-by-candlelight"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/1089f7ef-6d30-434e-8eba-c0cfcaa7d27c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eecffa52546e40386b30fa/1762303853417/Benise%2BPavlo%2B%28square%29%2B1080%2Bx%2B1080.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g700160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/benise-and-pavlo-guitar-by-candlelight"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Benise & Pavlo Guitar By Candlelight — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T16:50:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/dancing-in-the-ridge-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Dancing in the Ridge — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/dancing-in-the-ridge-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join us for Dancing in the Ridge on November 6, 2025, at 7:00 PM. Enjoy a 3-hour community dance competition hosted by the Maple Ridge Community Foundation, supporting the Community Chest Program."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eecbbdabfb2d2b267ef7af/1762303652799/DITR+1080x1080+2025.jpeg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/dancing-in-the-ridge-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g718460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/f07b7282-81c4-4f44-98cf-20ee619f0738",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/dancing-in-the-ridge-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/1313ee7c-13b3-469f-84a0-2488c64a5f17",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/dancing-in-the-ridge-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/6f57f089-a31a-43c2-80b0-6fda9b08d71e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eecbbdabfb2d2b267ef7af/1762303652799/DITR+1080x1080+2025.jpeg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g718460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/dancing-in-the-ridge-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dancing in the Ridge — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T22:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/beach-boys-tribute",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Let's Go Surfin'! Beach Boys Tribute — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/beach-boys-tribute"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "All tickets just $45! Enjoy the iconic hits of The Beach Boys live in concert with BACKBEAT, Canada’s top '60s tribute band."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eec693784d0077f1cc4d02/1761079085252/LGS%2B1920x1920.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "750"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/beach-boys-tribute"
+      }
+    ]
+  },
+  {
+    "@id": "_:g728280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/bb85700a-35f3-486f-9269-bd96476086d9",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/beach-boys-tribute"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/3342d2b8-b445-4828-af24-c400503ce908",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/beach-boys-tribute"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/9abc7d3c-58fc-415b-8425-d19fbf40272e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68eec693784d0077f1cc4d02/1761079085252/LGS%2B1920x1920.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g728280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/beach-boys-tribute"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Let's Go Surfin'! Beach Boys Tribute — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-24T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-24T21:20:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/piano-bar",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Thursday Evening Piano Bar — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/piano-bar"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Vibe. Imbibe. Come alive with the songs you love.  You don’t need to be in New York, New Orleans or Vegas to enjoy this classic casual live music experience. Make one Thursday night a month the unofficial start of a weekend at the  Thursday Evening Piano Bar .  Once a month, The ACT Lobby transforms"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68d193eebd86fa7969ac3744/1758565661849/Piano%2BBar%2B2.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "667"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar"
+      }
+    ]
+  },
+  {
+    "@id": "_:g738360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre Maple Ridge Lobby"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/dce86d7b-982c-4b45-8c53-71d28dee4591",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/6cd56b7c-8f82-417a-b3d4-939af6648c92",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/2205fd2e-8db4-405d-99ca-f82c737926f8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68d193eebd86fa7969ac3744/1758565661849/Piano%2BBar%2B2.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g738360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thursday Evening Piano Bar — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T18:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T20:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/piano-bar-november-13",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Thursday Evening Piano Bar — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "11944 Haney Place"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Maple Ridge"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "BC"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "V2X 0V2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/piano-bar-november-13"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Vibe. Imbibe. Come alive with the songs you love.  You don’t need to be in New York, New Orleans or Vegas to enjoy this classic casual live music experience. Make one Thursday night a month the unofficial start of a weekend at the  Thursday Evening Piano Bar .  Once a month, The ACT Lobby transforms"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68d194854955cb5c2e5ca9eb/1760104807844/Piano%2BBar%2B2.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "667"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-november-13"
+      }
+    ]
+  },
+  {
+    "@id": "_:g748700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The ACT Arts Centre Maple Ridge Lobby"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "11944 Haney Place\nMaple Ridge, BC, V2X 0V2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/89894544-2fb3-428a-adf7-5fb678b1cb3d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-november-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/76d10d19-3264-4bb8-a66e-853c727d1abd",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-november-13"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/d525de47-678a-4ea4-962e-b146f3838143",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68d194854955cb5c2e5ca9eb/1760104807844/Piano%2BBar%2B2.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g748700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/piano-bar-november-13"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thursday Evening Piano Bar — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T18:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T20:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/community-events/culture-days",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Culture Days — ArtsOn"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://arts-on.org/community-events/culture-days"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join multi-disciplinary artist,   Cindy Mochizuki  , for a hands-on workshop.&nbsp;Inspired by her current solo exhibition at The ACT Art Gallery,  Ichigo Ichie – The Fruit that Bears Secrets , Mochizuki will be leading visitors to create their own unique tree creatures using graphite and waterc"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68cc4eb165e95e1f1270fd65/1758235512587/1.+CUL25_Custom_Shapes_Static_1080x1080.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/culture-days"
+      }
+    ]
+  },
+  {
+    "@id": "_:g758980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/f6e9f890-b2a5-4c85-ba9f-5c2f68ca5b5d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://arts-on.org"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6881669d2baf937e902458e5/84f6b954-0aa1-4352-93f5-fbe38343ede1/Logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/culture-days"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtsOn"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/c0a4c9cf-3cd8-4504-bbfc-d05087d8384a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6881669d2baf937e902458e5/t/68c493e66126fc3b4f10185b/1763592114842/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/culture-days"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://theactmapleridge.org/temporary/845433cb-a90d-400e-9d52-8fdd50f03ed5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6881669d2baf937e902458e5/68ae295936a50939beff1458/68cc4eb165e95e1f1270fd65/1758235512587/1.+CUL25_Custom_Shapes_Static_1080x1080.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g758980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://theactmapleridge.org/community-events/culture-days"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Culture Days — ArtsOn"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-27T14:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-27T16:00:00-07:00"
+      }
+    ]
+  }
+]
