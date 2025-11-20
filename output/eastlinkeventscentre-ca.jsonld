@@ -1,0 +1,232 @@
+[
+  {
+    "@id": "https://eastlinkeventscentre.ca/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Clarenville Events Centre - Clarenville | CEC - Clarenville Events Centre Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville."
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Clarenville Events Centre - Clarenville | CEC"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The Clarenville Events Centre – Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville. Opened in October of 2009, the Clarenville Events Centre – Clarenville is a state-of-the-art multi-purpose facility featuring a 1247-seat arena (with an additional 1000-person standing room), a 200-metre indoor walking/running track, a 400+ soft-seat arts theatre, along with meeting facilities and concession areas."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://clarenvilleeventscentre.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://eastlinkeventscentre.ca/"
+      },
+      {
+        "@id": "https://eastlinkeventscentre.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://clarenvilleeventscentre.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/#organizationLogo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/#organizationLogo"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/clarenvilleeventscentre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Clarenville Events Centre | CEC"
+      },
+      {
+        "@value": "Clarenville Events Centre | CEC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Clarenville Events Centre Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville."
+      },
+      {
+        "@value": "Clarenville Events Centre Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville."
+      }
+    ]
+  },
+  {
+    "@id": "https://clarenvilleeventscentre.ca/#organizationLogo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/wp-content/uploads/2024/11/CEC-Logo-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3798"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1593"
+      }
+    ]
+  },
+  {
+    "@id": "https://clarenvilleeventscentre.ca/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-12-08T03:52:44+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-03T12:22:49+00:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://eastlinkeventscentre.ca/"
+      },
+      {
+        "@id": "https://eastlinkeventscentre.ca/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Clarenville Events Centre - Clarenville | CEC"
+      },
+      {
+        "@value": "Clarenville Events Centre - Clarenville | CEC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Clarenville Events Centre – Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville. Opened in October of 2009, the Clarenville Events Centre – Clarenville is a state-of-the-art multi-purpose facility featuring a 1247-seat arena (with an additional 1000-person standing room), a 200-metre indoor walking/running track, a 400+ soft-seat arts theatre, along with meeting facilities and concession areas."
+      },
+      {
+        "@value": "The Clarenville Events Centre – Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville. Opened in October of 2009, the Clarenville Events Centre – Clarenville is a state-of-the-art multi-purpose facility featuring a 1247-seat arena (with an additional 1000-person standing room), a 200-metre indoor walking/running track, a 400+ soft-seat arts theatre, along with meeting facilities and concession areas."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://clarenvilleeventscentre.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://clarenvilleeventscentre.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Clarenville Events Centre | CEC"
+      },
+      {
+        "@value": "Clarenville Events Centre | CEC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Clarenville Events Centre Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville."
+      },
+      {
+        "@value": "Clarenville Events Centre Clarenville features a 2250 capacity arena, as well as a 400+ capacity theatre in the heart of the town of Clarenville."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  }
+]
