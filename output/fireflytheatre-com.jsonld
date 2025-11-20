@@ -1,0 +1,362 @@
+[
+  {
+    "@id": "http://www.fireflytheatre.com",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/Spiegeltent.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.fireflytheatre.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre &amp; Circus"
+      },
+      {
+        "@value": "Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      },
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/#schema-website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461040"
+      },
+      {
+        "@id": "_:g467960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Firefly Fresh and Clean"
+      },
+      {
+        "@value": "Firefly Fresh and Clean"
+      }
+    ],
+    "http://schema.org/encoding": [
+      {
+        "@language": "en",
+        "@value": "UTF-8"
+      },
+      {
+        "@value": "UTF-8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "johnnyrains"
+      },
+      {
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/9547caf5-30ea-40c0-af7e-aa0539a7d029",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T12:28:35"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.fireflytheatre.com"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre & Circus - Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/Spiegeltent.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.fireflytheatre.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/13d8f81e-566a-4e38-8e9f-76754abdabf2",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T12:28:35"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.fireflytheatre.com/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Firefly Theatre & Circus - Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Home"
+      }
+    ]
+  }
+]
