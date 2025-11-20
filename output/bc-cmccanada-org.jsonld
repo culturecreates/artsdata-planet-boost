@@ -1,0 +1,4930 @@
+[
+  {
+    "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488040"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488060"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488040",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488060",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488080",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bcr&#101;g&#105;&#111;&#110;&#64;&#99;&#109;&#99;cana&#100;a.o&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-05-11/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-11-09T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/2018-05-11/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488160"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488180",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488200",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bcre&#103;&#105;on&#64;c&#109;&#99;ca&#110;&#97;&#100;a&#46;&#111;rg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488220",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488280"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488300"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488300",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488320",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "b&#99;regi&#111;&#110;&#64;cm&#99;&#99;an&#97;da&#46;or&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488340",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488400"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488420"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488420",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488440",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "b&#99;reg&#105;&#111;&#110;&#64;c&#109;&#99;can&#97;da.&#111;rg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488520"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488540"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488540",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488560",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bc&#114;&#101;&#103;io&#110;&#64;c&#109;ccan&#97;&#100;a.o&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488640"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488660"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488660",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488680",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;cr&#101;g&#105;o&#110;&#64;&#99;m&#99;c&#97;&#110;&#97;&#100;a.&#111;&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488740"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488760",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488780",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "b&#99;reg&#105;o&#110;&#64;&#99;&#109;ccana&#100;a&#46;&#111;&#114;&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vancouverchamberchoir.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://vancouverchamberchoir.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vancouver Chamber Choir"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/music-on-the-point-stephen-chatman-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-01-27T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/music-on-the-point-stephen-chatman-70th-birthday-celebration/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488880",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Redshift Music Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488940"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g488960"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488960",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/71b6bbd4-21c2-4728-bb76-aa4d4a400dcb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2017/11/barry-truax.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-05-11/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-11T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-11T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488020"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488080"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Barry Truax 70th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;A true pioneer in the field of electroacoustic composition, Barry Truax taught acoustic communication and electroacoustic music at Simon Fraser University.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/896cc4c4-981f-4500-a704-53dd45cba703",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-09-17T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-09-17T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488140"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488200"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Imant Raminsh: 75th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Imant Raminsh: 75th Birthday Celebration Monday, September 17, 2018 - 7:00 PM Murray Adaskin Salon Emerging Composer: Thomas Beckman Born in 1943 in Ventspils, Latvia, Imant Raminsh came to Canada in 1948. After completing his studies in violin, composition, and conducting in Toronto, he spent two years at the Akademie “Mozarteum” in Salzburg, Austria, studying  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/56960424-4893-4a8e-9d23-4a8bf78a20d1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-10-15T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-10-15T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488320"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Janet Danielson: Celebration of Women&#8217;s History Month"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Janet Danielson: Celebration of Women\\'s History Month Monday, October 15, 2018 - 7:00 PM Murray Adaskin Salon Emerging Composer: Maren Lisac October is Women’s History Month in Canada, a time for us to reflect upon and celebrate the achievements of women and girls throughout our history and recognize the trailblazing women who have shaped our  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/49f41d48-4cfc-40d6-8688-4c61a16960f1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-11-26T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-11-26T22:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488380"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488440"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Michael Conway Baker: Celebration of Lifetime Achievement"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Michael Conway Baker: Celebration of Lifetime Achievement Monday, November 26, 2018 - 7:00 PM Murray Adaskin Salon Michael Conway Baker is a very rare figure in Canadian music; he is a composer who has, over the course of an astonishing, pioneering, six-decade (and counting) career, achieved enormous success across all his triple passions of writing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/6d0cf009-fe58-473e-9da1-654272d2219a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-01-21T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-01-21T22:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488500"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Owen Underhill: 65th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Owen Underhill: 65th Birthday Celebration Monday, January 21, 2019 - 7:00 PM Murray Adaskin Salon There are very few artists who have made as great contributions to their fields and to their communities as Owen Underhill. A true Renaissance man, Owen lives in Vancouver, where he is highly active as a composer, conductor, artistic director,  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/8a9cf979-99e8-4064-951d-79d47bcda17d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2018/08/nd3_7113.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/alexina-louie-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-27T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-27T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Alexina Louie: 70th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Alexina Louie: 70th Birthday Celebration Monday, May 27, 2019 - 7:00 PM Murray Adaskin Salon One of Canada’s most highly regarded and performed composers, Alexina Louie was born in Vancouver in 1949, the daughter of second-generation Canadians of Chinese descent. At the age of seven, she began piano studies, and at seventeen, earned her ARCT  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/alexina-louie-70th-birthday-celebration/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/81cb45fc-3e86-4160-b82e-d0574cdba263",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2019/08/Screen-Shot-2019-08-27-at-5.52.19-PM.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/class-axe-vancouver-2019/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-01T17:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-01T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Class Axe Vancouver 2019"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The BC Region of the Canadian Music Centre hosts the fourth and final concert in the Class Axe 2019 series! The CMC has been working with a nation-wide group of composers and guitarists to present seven new works across Canada. On September 1, audiences in Vancouver will have the chance to experience these far-ranging pieces  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/class-axe-vancouver-2019/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/e20dfcc3-0b47-4458-8903-7f08fa50f33b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2022/01/2022.03.06_-MOP-Chatman-IG.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/music-on-the-point-stephen-chatman-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-06T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-06T16:00:00-08:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music on the Point: Stephen Chatman 70th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This special event in honours of Stephen Chatman’s contribution to Canadian music.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/053777d6-230f-402d-96bf-8db9bb3c6815",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2022/06/lightspace-1-scaled.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/light-space/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-07T17:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-07T17:00:00+00:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g488880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Light Space"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&nbsp; LightSpace:  A Spatialized Percussion Concert 5:00pm • Thursday, July 07, 2022 •Roundhouse Community Centre Exhibition Gallery Tickets: Free The Canadian Music Centre in BC, in partnership with the Redshift Music Society, is pleased to announce a free concert at the Roundhouse Exhibition Gallery on July 7th at 5pm. &nbsp; This show is the culmination  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/light-space/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/e034b1a4-6bcf-4f10-b087-4cdbab8bf5ff",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/max-wyman-book-launch/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-01T05:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-01T17:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Max Wyman Book Launch"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;5:30pm - 7:00pm • Wednesday, November 1th • Murra Adaskin Salon (837 Davie St) Tickets: RSVP to bcregion@cmccanada.org Please join us on Wednesday, Nov 1, 5:30 – 7pm, to celebrate the launch of Max Wyman’s new landmark book The Compassionate Imagination: How the Arts are Central to Democracy, co-presented by the Canadian Music Centre BC  [...]&lt;/p&gt;"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/max-wyman-book-launch/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/events/list/page/2/?eventDisplay=past",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g523700"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g523720"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/page/2/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523700",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523720",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523740",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "b&#99;re&#103;&#105;o&#110;&#64;&#99;m&#99;&#99;a&#110;&#97;d&#97;&#46;or&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523760",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-03-09/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-11-09T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/2018-03-09/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g523820"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g523840"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/page/2/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523840",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523860",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;&#99;&#114;e&#103;&#105;o&#110;&#64;cmccana&#100;a.org"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-04-06/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-11-09T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/event/2018-04-06/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/730b3613-29e0-466d-aa6c-2ef4501138d5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2017/11/leslie-uyeda.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-03-09/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-03-09T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-03-09T21:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523680"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g523740"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g523760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/page/2/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Leslie Uyeda Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Leslie Uyeda has spent her life crafting delicate, intimate masterworks inspired by her dual passions for poetry and the human voice.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/446afd01-8a20-4ea9-b7e5-b095670fd998",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2017/11/hildegard-westerkamp.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-04-06/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-04-06T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-04-06T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523800"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g523860"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g523880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/events/list/page/2/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Hildegard Westerkamp Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Join us for this very special event as we celebrate Hildegard’s birthday!&lt;/p&gt;"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g541300"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g541320"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-05-11/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541300",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541320",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541340",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;&#99;&#114;&#101;&#103;ion&#64;&#99;&#109;&#99;&#99;a&#110;&#97;da.&#111;r&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541360",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-05-11/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-11-09T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/9bf5b700-6d38-45dd-9053-16efe41667fc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2017/11/barry-truax.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-05-11/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-11T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-11T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g541280"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g541340"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g541360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-05-11/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Barry Truax 70th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;A true pioneer in the field of electroacoustic composition, Barry Truax taught acoustic communication and electroacoustic music at Simon Fraser University.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g551440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g551460"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g551480"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g551460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g551480",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g551500",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bc&#114;&#101;gi&#111;&#110;&#64;c&#109;&#99;&#99;&#97;&#110;&#97;&#100;a&#46;&#111;&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g551520",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/6610cfbe-e4c8-4c2a-a3fd-460e191a0082",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-09-17T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-09-17T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g551440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g551500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g551520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/imant-raminsh-75th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Imant Raminsh: 75th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Imant Raminsh: 75th Birthday Celebration Monday, September 17, 2018 - 7:00 PM Murray Adaskin Salon Emerging Composer: Thomas Beckman Born in 1943 in Ventspils, Latvia, Imant Raminsh came to Canada in 1948. After completing his studies in violin, composition, and conducting in Toronto, he spent two years at the Akademie “Mozarteum” in Salzburg, Austria, studying  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g561720"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g561740"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561740",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561760",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bc&#114;eg&#105;on&#64;&#99;&#109;&#99;ca&#110;&#97;&#100;&#97;&#46;&#111;&#114;&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561780",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/c8223196-ff08-4f9f-9133-499cc1944196",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-10-15T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-10-15T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g561700"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g561760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g561780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/janet-danielson-celebration-of-womens-history-month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Janet Danielson: Celebration of Women&#8217;s History Month"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Janet Danielson: Celebration of Women\\'s History Month Monday, October 15, 2018 - 7:00 PM Murray Adaskin Salon Emerging Composer: Maren Lisac October is Women’s History Month in Canada, a time for us to reflect upon and celebrate the achievements of women and girls throughout our history and recognize the trailblazing women who have shaped our  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g573220"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g573240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573240",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573260",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;&#99;reg&#105;on&#64;&#99;mc&#99;an&#97;d&#97;.o&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573280",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/d19b667a-0afa-46c1-9077-ab1561d69c02",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-11-26T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-11-26T22:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g573200"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g573260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g573280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/michael-conway-baker-celebration-of-lifetime-achievement/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Michael Conway Baker: Celebration of Lifetime Achievement"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Michael Conway Baker: Celebration of Lifetime Achievement Monday, November 26, 2018 - 7:00 PM Murray Adaskin Salon Michael Conway Baker is a very rare figure in Canadian music; he is a composer who has, over the course of an astonishing, pioneering, six-decade (and counting) career, achieved enormous success across all his triple passions of writing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g584720"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g584740"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584740",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584760",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;c&#114;&#101;g&#105;&#111;&#110;&#64;c&#109;&#99;ca&#110;&#97;d&#97;&#46;&#111;&#114;&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584780",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-17T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/7ab7918c-ecb5-485f-b1d8-1882a8527c21",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-01-21T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-01-21T22:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g584700"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g584760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g584780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/owen-underhill-65th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Owen Underhill: 65th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Owen Underhill: 65th Birthday Celebration Monday, January 21, 2019 - 7:00 PM Murray Adaskin Salon There are very few artists who have made as great contributions to their fields and to their communities as Owen Underhill. A true Renaissance man, Owen lives in Vancouver, where he is highly active as a composer, conductor, artistic director,  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g596320"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g596340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/alexina-louie-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596340",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596360",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bcregion&#64;&#99;&#109;&#99;can&#97;da.&#111;&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/20c59d56-5c2a-446c-ab21-a0c4816af35b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2018/08/nd3_7113.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/alexina-louie-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-27T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-05-27T22:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g596300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g596360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/alexina-louie-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Alexina Louie: 70th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Alexina Louie: 70th Birthday Celebration Monday, May 27, 2019 - 7:00 PM Murray Adaskin Salon One of Canada’s most highly regarded and performed composers, Alexina Louie was born in Vancouver in 1949, the daughter of second-generation Canadians of Chinese descent. At the age of seven, she began piano studies, and at seventeen, earned her ARCT  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g607540"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g607560"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/class-axe-vancouver-2019/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607560",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607580",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;cr&#101;gi&#111;&#110;&#64;&#99;m&#99;cana&#100;a.&#111;&#114;g"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/0e657217-ef93-4f65-8a1a-468b9b8f5ec4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2019/08/Screen-Shot-2019-08-27-at-5.52.19-PM.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/class-axe-vancouver-2019/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-01T17:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-01T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g607520"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g607580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/class-axe-vancouver-2019/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Class Axe Vancouver 2019"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The BC Region of the Canadian Music Centre hosts the fourth and final concert in the Class Axe 2019 series! The CMC has been working with a nation-wide group of composers and guitarists to present seven new works across Canada. On September 1, audiences in Vancouver will have the chance to experience these far-ranging pieces  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1047960"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g1047980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-03-09/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047980",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1048000",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "&#98;&#99;r&#101;gion&#64;c&#109;c&#99;a&#110;ada.&#111;rg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1048020",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-03-09/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-11-09T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/3f1ccccb-2b70-4010-947e-67b4efc0f022",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2017/11/leslie-uyeda.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-03-09/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-03-09T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-03-09T21:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1047940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1048000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1048020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-03-09/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Leslie Uyeda Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Leslie Uyeda has spent her life crafting delicate, intimate masterworks inspired by her dual passions for poetry and the human voice.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1059320"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g1059340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-04-06/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059340",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059360",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CMC BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Canadian Music Centre is the catalyst that connects you to the ever-evolving world of Canadian musical creation through performance, education, and promotion. The Canadian Music Centre has been supporting, preserving and celebrating the works of Canadian composers since 1959. As proud and passionate advocates, we offer innovative resources for discovering, exploring, listening to and playing  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "bc&#114;&#101;&#103;io&#110;&#64;cmcca&#110;a&#100;a&#46;&#111;r&#103;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1059380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-04-06/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-11-09T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/3d1b0b6c-13e6-4158-95c5-db031f17d009",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2017/11/hildegard-westerkamp.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-04-06/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-04-06T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-04-06T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1059300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1059360"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1059380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/2018-04-06/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Hildegard Westerkamp Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Join us for this very special event as we celebrate Hildegard’s birthday!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1113520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/venue/murray-adaskin-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1113540"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g1113560"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/max-wyman-book-launch/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Murray Adaskin Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This beautiful new performance space provides a uniquely intimate, affordable, completely-accessible, 40-seat black-box theatre in the heart of downtown Vancouver featuring Murray Adaskin’s completely rebuilt Heintzman 6’ Salon Grand Piano with adjustable piano chair or piano bench; a 110″ high-definition screen A/V projection system with MacMini, HDMI, and VGA inputs, and Stereo ADAM F7 studio  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "604-734-4622"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1113540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "837 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6Z 1B7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1113560",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "4.92783118E1"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": "-1.231276309E2"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/5ff75d0a-caae-41c1-8dbd-42cdfc3b1429",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/max-wyman-book-launch/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-01T05:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-01T17:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1113520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/max-wyman-book-launch/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Max Wyman Book Launch"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;5:30pm - 7:00pm • Wednesday, November 1th • Murra Adaskin Salon (837 Davie St) Tickets: RSVP to bcregion@cmccanada.org Please join us on Wednesday, Nov 1, 5:30 – 7pm, to celebrate the launch of Max Wyman’s new landmark book The Compassionate Imagination: How the Arts are Central to Democracy, co-presented by the Canadian Music Centre BC  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1124140",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/light-space/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://bc.cmccanada.org/event/light-space/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Redshift Music Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/11406905-67df-4685-8ee6-e38544537c03",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2022/06/lightspace-1-scaled.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/light-space/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-07T17:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-07T17:00:00+00:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1124140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/light-space/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Light Space"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&nbsp; LightSpace:  A Spatialized Percussion Concert 5:00pm • Thursday, July 07, 2022 •Roundhouse Community Centre Exhibition Gallery Tickets: Free The Canadian Music Centre in BC, in partnership with the Redshift Music Society, is pleased to announce a free concert at the Roundhouse Exhibition Gallery on July 7th at 5pm. &nbsp; This show is the culmination  [...]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1134440",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vancouverchamberchoir.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://vancouverchamberchoir.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vancouver Chamber Choir"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1134460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/music-on-the-point-stephen-chatman-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-01-27T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://bc.cmccanada.org/temporary/740f4082-9284-4775-ad69-edd4a6fc8bbc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bc.cmccanada.org/wp-content/uploads/sites/3/2022/01/2022.03.06_-MOP-Chatman-IG.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bc.cmccanada.org/event/music-on-the-point-stephen-chatman-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-06T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-06T16:00:00-08:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1134440"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1134460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bc.cmccanada.org/event/music-on-the-point-stephen-chatman-70th-birthday-celebration/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music on the Point: Stephen Chatman 70th Birthday Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;This special event in honours of Stephen Chatman’s contribution to Canadian music.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
