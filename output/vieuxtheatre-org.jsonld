@@ -1,0 +1,6824 @@
+[
+  {
+    "@id": "https://vieuxtheatre.org",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Accueil | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre de Saint-Fabien est un diffuseur et un lieu culturel situé à Saint-Fabien, au Bas-Saint-Laurent. C’est un point de rencontre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-05-06T14:25:14+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2025/05/Saison-2025-beige.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1269"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "762"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "http://vieuxtheatre.org/wp-content/uploads/2025/05/Saison-2025-beige-1024x615.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:00:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-06T14:25:14+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      },
+      {
+        "@id": "_:g483220"
+      },
+      {
+        "@id": "_:g495220"
+      },
+      {
+        "@id": "_:g515840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil | Vieux Théâtre de Saint-Fabien"
+      },
+      {
+        "@value": "Accueil | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Vieux Théâtre de Saint-Fabien est un diffuseur et un lieu culturel situé à Saint-Fabien, au Bas-Saint-Laurent. C’est un point de rencontre"
+      },
+      {
+        "@value": "Le Vieux Théâtre de Saint-Fabien est un diffuseur et un lieu culturel situé à Saint-Fabien, au Bas-Saint-Laurent. C’est un point de rencontre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Accueil | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre de Saint-Fabien est un diffuseur et un lieu culturel situé à Saint-Fabien, au Bas-Saint-Laurent. C’est un point de rencontre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-05-06T14:25:14+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2025/05/Saison-2025-beige.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1269"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "762"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460780"
+      },
+      {
+        "@id": "_:g473160"
+      },
+      {
+        "@id": "_:g483260"
+      },
+      {
+        "@id": "_:g495260"
+      },
+      {
+        "@id": "_:g506320"
+      },
+      {
+        "@id": "_:g515880"
+      },
+      {
+        "@id": "_:g528040"
+      },
+      {
+        "@id": "_:g537780"
+      },
+      {
+        "@id": "_:g547420"
+      },
+      {
+        "@id": "_:g557680"
+      },
+      {
+        "@id": "_:g567580"
+      },
+      {
+        "@id": "_:g577220"
+      },
+      {
+        "@id": "_:g588040"
+      },
+      {
+        "@id": "_:g602940"
+      },
+      {
+        "@id": "_:g612420"
+      },
+      {
+        "@id": "_:g623300"
+      },
+      {
+        "@id": "_:g633960"
+      },
+      {
+        "@id": "_:g645900"
+      },
+      {
+        "@id": "_:g657660"
+      },
+      {
+        "@id": "_:g669520"
+      },
+      {
+        "@id": "_:g681540"
+      },
+      {
+        "@id": "_:g691000"
+      },
+      {
+        "@id": "_:g700660"
+      },
+      {
+        "@id": "_:g710220"
+      },
+      {
+        "@id": "_:g719780"
+      },
+      {
+        "@id": "_:g729360"
+      },
+      {
+        "@id": "_:g739920"
+      },
+      {
+        "@id": "_:g752580"
+      },
+      {
+        "@id": "_:g764440"
+      },
+      {
+        "@id": "_:g776560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      },
+      {
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Plonger dans l’histoire"
+      },
+      {
+        "@value": "Plonger dans l’histoire"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre"
+      },
+      {
+        "@value": "Vieux Théâtre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      },
+      {
+        "@id": "https://www.instagram.com/vieuxtheatre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      },
+      {
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre"
+      },
+      {
+        "@value": "Vieux Théâtre"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/05/Saison-2025-beige.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/05/Saison-2025-beige.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1269"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "762"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://vieuxtheatre.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515840",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://vieuxtheatre.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460820"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473160",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g473180"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g473200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g483280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g483300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g495280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g495300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506320",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g506340"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g506360"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515880",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g515900"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g515920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g528060"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g528080"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g537800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g537820"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g547440"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g547460"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g557700"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g557720"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g567600"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g567620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g577240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g577260"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g588060"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g588080"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602940",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g602960"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g602980"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g612440"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g612460"
+      }
+    ]
+  },
+  {
+    "@id": "_:g623300",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g623320"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g623340"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g633980"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g634000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g645920"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g645940"
+      }
+    ]
+  },
+  {
+    "@id": "_:g657660",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g657680"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g657700"
+      }
+    ]
+  },
+  {
+    "@id": "_:g669520",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g669540"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g669560"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g681560"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g681580"
+      }
+    ]
+  },
+  {
+    "@id": "_:g691000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g691020"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g691040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g700660",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g700680"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g700700"
+      }
+    ]
+  },
+  {
+    "@id": "_:g710220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g710240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g710260"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g719800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g719820"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g729380"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g729400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g739920",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g739940"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g739960"
+      }
+    ]
+  },
+  {
+    "@id": "_:g752580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g752600"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g752620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g764460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g764480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g776560",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g776580"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g776600"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/6e5ea86b-b01d-4d6b-8730-c79786e5b479.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/6e5ea86b-b01d-4d6b-8730-c79786e5b479.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "612"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "446"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      },
+      {
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      },
+      {
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460820",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/billetterie/planifier-votre-visite/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Planifier votre visite | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre est situé dans le cœur du pittoresque village de St-Fabien, à 20 de minutes à l’ouest de Rimouski et à l’est de Trois-Pistoles."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/billetterie/planifier-votre-visite/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-05-06T14:49:23+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/billetterie/planifier-votre-visite/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:02:48+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-06T14:49:23+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/billetterie/planifier-votre-visite/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g473080"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Planifier votre visite | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Vieux Théâtre est situé dans le cœur du pittoresque village de St-Fabien, à 20 de minutes à l’ouest de Rimouski et à l’est de Trois-Pistoles."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473080",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/billetterie/planifier-votre-visite/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473180",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473200",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483300",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495300",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/saison/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Saison 2025 | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Explorez nos spectacles soigneusement sélectionnés, mettant en lumière des talents de partout, et préparez-vous à être transporté dans un univers magique."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/saison/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-05-13T12:20:04+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/saison/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:01:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-13T12:20:04+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/saison/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g506260"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Saison 2025 | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Explorez nos spectacles soigneusement sélectionnés, mettant en lumière des talents de partout, et préparez-vous à être transporté dans un univers magique."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/saison/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506340",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506360",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515900",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515920",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "À notre sujet | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Notre mission est de faire vibrer notre humanité, resserrer nos liens et contribuer au mieux vivre ensemble par la diffusion des arts vivants."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:59:27+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:04:18+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:59:27+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g527960"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "À notre sujet | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Notre mission est de faire vibrer notre humanité, resserrer nos liens et contribuer au mieux vivre ensemble par la diffusion des arts vivants."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528060",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528080",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/mot-du-directeur-artistique/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Mot du directeur artistique | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "La région regorge d’opportunités de sorties culturelles. Le Vieux Théâtre a su faire son chemin en harmonie avec ses pairs, tout en affirmant sa singularité."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/mot-du-directeur-artistique/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:54:39+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/mot-du-directeur-artistique/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:06:14+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:54:39+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/mot-du-directeur-artistique/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g537700"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Mot du directeur artistique | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La région regorge d’opportunités de sorties culturelles. Le Vieux Théâtre a su faire son chemin en harmonie avec ses pairs, tout en affirmant sa singularité."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/mot-du-directeur-artistique/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537820",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/les-gens/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Les gens | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez les visages passionnés des gens qui travaillent en coulisses et qui guident les destinées du Vieux Théâtre de Saint-Fabien."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/les-gens/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2024-10-02T15:20:54+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/les-gens/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:06:26+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T15:20:54+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/les-gens/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g547340"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les gens | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez les visages passionnés des gens qui travaillent en coulisses et qui guident les destinées du Vieux Théâtre de Saint-Fabien."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/les-gens/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547440",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547460",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/distinctions/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Distinctions | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez les distinctions et récompenses qui témoignent de l'excellence du Vieux Théâtre de Saint-Fabien."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/distinctions/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:51:28+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/distinctions/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:07:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:51:28+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/distinctions/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g557600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Distinctions | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez les distinctions et récompenses qui témoignent de l'excellence du Vieux Théâtre de Saint-Fabien."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/distinctions/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557700",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557720",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/louer-le-vieux-theatre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Louer le Vieux Théâtre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre est disponible pour location, pour vos concerts, représentations ou activités. Contactez-nous pour plus d'infos."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/louer-le-vieux-theatre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2024-05-31T13:52:47+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/louer-le-vieux-theatre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:07:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-31T13:52:47+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/louer-le-vieux-theatre/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g567500"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Louer le Vieux Théâtre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Vieux Théâtre est disponible pour location, pour vos concerts, représentations ou activités. Contactez-nous pour plus d'infos."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567500",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/louer-le-vieux-theatre/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567620",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/partenaires/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Partenaires | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Apprenez-en davantage sur les entreprises, organisations et individus qui soutiennent passionnément ce lieu culturel emblématique."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/partenaires/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-09-05T18:25:31+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2023/02/berger_logo_coul_seul.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1257"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1156"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/partenaires/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/partenaires/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/partenaires/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "http://vieuxtheatre.org/wp-content/uploads/2023/02/berger_logo_coul_seul.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:13:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-05T18:25:31+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/partenaires/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g577160"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Partenaires | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Apprenez-en davantage sur les entreprises, organisations et individus qui soutiennent passionnément ce lieu culturel emblématique."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/partenaires/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/berger_logo_coul_seul.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/berger_logo_coul_seul.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1257"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1156"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577160",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/partenaires/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577260",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/en-images/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "En images | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Plongez dans l’ambiance du Vieux Théâtre à travers ces images captées au fil des saisons : des instants de création, de rencontre et de fête à partager encore et encore."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/en-images/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-09-09T15:00:00+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/wp-content/uploads/2025/08/AmbianceInterieureFestive-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1706"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/en-images/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/en-images/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/en-images/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/08/AmbianceInterieureFestive-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-30T15:19:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-09T15:00:00+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/en-images/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g587960"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "En images | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Plongez dans l’ambiance du Vieux Théâtre à travers ces images captées au fil des saisons : des instants de création, de rencontre et de fête à partager encore et encore."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/en-images/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/08/AmbianceInterieureFestive-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/08/AmbianceInterieureFestive-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1706"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g587960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/en-images/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588060",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g588080",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/archives/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Archives | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/archives/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:49:21+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/archives/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:12:04+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:49:21+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/archives/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g602860"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Archives | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602860",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/archives/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602960",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g602980",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Nouvelles | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Restez informé des événements, des spectacles exceptionnels, des initiatives communautaires et des projets qui font revivre ce trésor culturel"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-08-01T19:34:32+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:13:26+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-01T19:34:32+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g612360"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelles | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Restez informé des événements, des spectacles exceptionnels, des initiatives communautaires et des projets qui font revivre ce trésor culturel"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612360",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612440",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612460",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nous-joindre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Nous joindre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vous avez une question ou un commentaire, n'hésitez pas à contacter notre équipe et nous vous répondre avec joie!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nous-joindre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2024-05-22T17:11:59+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/wp-content/uploads/2023/05/tuxedo-image-hiatus-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nous-joindre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nous-joindre/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nous-joindre/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/tuxedo-image-hiatus-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:15:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-22T17:11:59+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nous-joindre/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g623240"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Nous joindre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Vous avez une question ou un commentaire, n'hésitez pas à contacter notre équipe et nous vous répondre avec joie!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nous-joindre/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/tuxedo-image-hiatus-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/tuxedo-image-hiatus-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "700"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "700"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g623240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nous-joindre/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g623320",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g623340",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Partagez votre histoire du Vieux Théâtre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre, c’est bien plus qu’une salle de spectacle — c’est un lieu de rencontres, de souvenirs et d’émotions. Que vous y ayez vécu une première fois marquante, une soirée inoubliable, un fou rire imprévu ou simplement un moment doux, nous aimerions vous lire. Avez-vous une anecdote à raconter, une photo à partager ou […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-08-13T15:09:07+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-09-01T14:32:29+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/wp-content/uploads/2023/05/KNLO_220729_72dpi-21.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1333"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/KNLO_220729_72dpi-21.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-13T15:09:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-01T14:32:29+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g633900"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Partagez votre histoire du Vieux Théâtre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/KNLO_220729_72dpi-21.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/KNLO_220729_72dpi-21.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1333"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Moment mémorable au Vieux Théâtre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633900",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/a9e4fbc3a97a690ddcd7114c28a70b8c"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-13T15:09:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-01T14:32:29+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "116"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/05/KNLO_220729_72dpi-21.jpeg"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g633880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Partagez votre histoire du Vieux Théâtre"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelles"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#/schema/person/a9e4fbc3a97a690ddcd7114c28a70b8c",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/image/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/author/adminvt/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633880",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/partagez-votre-histoire-du-vieux-theatre/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#/schema/person/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/ee90b8d1dcff441c5c5d4d6a71945226ec738e41a8d9b1826b46a58fa1dae088?s=96&d=mm&r=g"
+      },
+      {
+        "@id": "https://secure.gravatar.com/avatar/8e5f859ce61852fe577232db118983a1ecdf99f5f02bb5f062e516c0f8eef9bc?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/ee90b8d1dcff441c5c5d4d6a71945226ec738e41a8d9b1826b46a58fa1dae088?s=96&d=mm&r=g"
+      },
+      {
+        "@id": "https://secure.gravatar.com/avatar/8e5f859ce61852fe577232db118983a1ecdf99f5f02bb5f062e516c0f8eef9bc?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Vieux Théâtre"
+      },
+      {
+        "@language": "fr",
+        "@value": "admincn"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633980",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g634000",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Offre d'emploi | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Un emploi au Vieux Théâtre de Saint-Fabien? C'est possible! Contribue à l'organisation de spectacles et au déploiement de la culture."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-02-28T21:14:50+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/wp-content/uploads/2025/02/Offre-emploi-VTSF.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2269"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "2256"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/02/Offre-emploi-VTSF.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-28T21:14:50+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g645840"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Offre d'emploi | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un emploi au Vieux Théâtre de Saint-Fabien? C'est possible! Contribue à l'organisation de spectacles et au déploiement de la culture."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/02/Offre-emploi-VTSF.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/02/Offre-emploi-VTSF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2269"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2256"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645840",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/a9e4fbc3a97a690ddcd7114c28a70b8c"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-28T21:14:50+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "187"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2025/02/Offre-emploi-VTSF.png"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g645820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Offre d&#8217;emploi"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Offres d'emploi"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645820",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/offres-demploi/offre-demploi-2/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645920",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g645940",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Un Vieux Théâtre en rénovations! | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Nous attendons depuis un moment déjà que le projet de rénovation se réalise concrètement et nous sommes plus qu’excités à l’idée que les travaux soient déjà commencés. Il serait facile d’oublier après une pandémie et plusieurs saisons en itinérance partielle ou complète, qu’à pleine capacité, il pouvait faire 1000°C dans le théâtre… Mais à part […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2024-10-02T19:00:39+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2024-10-02T19:20:00+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/wp-content/uploads/2024/10/455986862_1082442547215805_4406632037467442461_n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1260"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "774"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2024/10/455986862_1082442547215805_4406632037467442461_n.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T19:00:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T19:20:00+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g657600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un Vieux Théâtre en rénovations! | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2024/10/455986862_1082442547215805_4406632037467442461_n.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2024/10/455986862_1082442547215805_4406632037467442461_n.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1260"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "774"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g657600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/a9e4fbc3a97a690ddcd7114c28a70b8c"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T19:00:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T19:20:00+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "477"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2024/10/455986862_1082442547215805_4406632037467442461_n.jpg"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g657580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Un Vieux Théâtre en rénovations!"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelles"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g657580",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/un-vieux-theatre-en-renovations/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g657680",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g657700",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Guide du festivalier heureux - chez fabien 2023 | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "INFOS ET TRUCS POUR LES JOURNÉES À VENIR chez fabien, microfestival nomade 2023 Parce qu’on te veut heureux et bien équipé! BILLETS, PASSEPORTS ET INFOS POUR TOUT LE FESTIVAL! Vendredi 14 juillet MILLIMETRIK AU CANYON DES PORTES DE L’ENFER – à partir de 20h 1280 Chem. Duchénier, Saint-Narcisse-de-Rimouski, G0K 1S0 N’oublie pas: Ta lampe de […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-07-13T18:01:31+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-07-26T16:05:29+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/wp-content/uploads/2023/07/guide_web_festival_2023.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1250"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1250"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/07/guide_web_festival_2023.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-13T18:01:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-26T16:05:29+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g669460"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guide du festivalier heureux - chez fabien 2023 | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/07/guide_web_festival_2023.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/07/guide_web_festival_2023.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1250"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1250"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g669460",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/a9e4fbc3a97a690ddcd7114c28a70b8c"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-13T18:01:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-26T16:05:29+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "374"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/07/guide_web_festival_2023.jpg"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Chez Fabien"
+      },
+      {
+        "@language": "fr",
+        "@value": "Nouvelles"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g669440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Guide du festivalier heureux &#8211; chez fabien 2023"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g669440",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/guide-du-festivalier-heureux-chez-fabien-2023/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g669540",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g669560",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/chez-fabien/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "CHEZ FABIEN PASSEPORT 15 JUILLET 2023 | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://vieuxtheatre.org/spectacles/chez-fabien-passeport-15-juillet-2023/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/chez-fabien/"
+      }
+    ]
+  },
+  {
+    "@id": "http://vieuxtheatre.org/spectacles/chez-fabien-passeport-15-juillet-2023/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://vieuxtheatre.org/spectacles/chez-fabien-passeport-15-juillet-2023/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:22+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "http://vieuxtheatre.org/spectacles/chez-fabien-passeport-15-juillet-2023/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g681480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "CHEZ FABIEN PASSEPORT 15 JUILLET 2023 | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "http://vieuxtheatre.org/spectacles/chez-fabien-passeport-15-juillet-2023/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681560",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681580",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/devenez-benevole/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Devenez bénévole | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Les arts vivants vous passionnent et vous adorez la musique, la chanson, la danse, le cirque? Ça tombe bien!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/devenez-benevole/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:34:31+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/devenez-benevole/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:14:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:34:31+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/devenez-benevole/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g690940"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Devenez bénévole | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les arts vivants vous passionnent et vous adorez la musique, la chanson, la danse, le cirque? Ça tombe bien!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g690940",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/devenez-benevole/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g691020",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g691040",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/communaute/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Communauté | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre est bien présent dans sa communauté, tant par son ancrage en territoire rural que par ses initiatives sociales."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/communaute/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:35:07+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/communaute/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:14:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:35:07+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/communaute/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g700600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Communauté | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Vieux Théâtre est bien présent dans sa communauté, tant par son ancrage en territoire rural que par ses initiatives sociales."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g700600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/communaute/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g700680",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g700700",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/soutenez-le-vieux-theatre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Soutenez le Vieux Théâtre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Découvrez et soutenez le Vieux Théâtre de St-Fabien, un lieu de rassemblement pour les passionnés de l'art dramatique depuis des décennies."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/soutenez-le-vieux-theatre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T18:43:08+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/soutenez-le-vieux-theatre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:13:57+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T18:43:08+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/soutenez-le-vieux-theatre/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g710160"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Soutenez le Vieux Théâtre | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez et soutenez le Vieux Théâtre de St-Fabien, un lieu de rassemblement pour les passionnés de l'art dramatique depuis des décennies."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g710160",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/soutenez-le-vieux-theatre/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g710240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g710260",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/politique-de-confidentialite/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Politique de confidentialité | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Adoptée par notre Conseil d’administration le 12 décembre 2023. [1]       Le Vieux Théâtre de St-Fabien respecte votre vie privée. Nous nous engageons ainsi à protéger les informations personnelles que nous recueillons. Nous avons adopté cette politique de confidentialité (la « Politique ») afin d’être transparents quant aux renseignements personnels que nous recueillons, les raisons pour lesquelles […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/politique-de-confidentialite/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-07-03T14:31:12+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/politique-de-confidentialite/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-01-13T16:30:51+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-03T14:31:12+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/politique-de-confidentialite/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g719720"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Politique de confidentialité | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/politique-de-confidentialite/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719820",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/en-savoir-plus/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "En savoir plus | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Au Vieux Théâtre, nous tenons à encourager la création et l’émergence de talents en développant la curiosité, l’audace et l’ouverture de notre public."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/en-savoir-plus/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-18T19:00:42+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/en-savoir-plus/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-14T15:05:50+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-18T19:00:42+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/en-savoir-plus/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g729260"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "En savoir plus | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Au Vieux Théâtre, nous tenons à encourager la création et l’émergence de talents en développant la curiosité, l’audace et l’ouverture de notre public."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/le-vieux-theatre/a-notre-sujet/en-savoir-plus/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729380",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729400",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Création d’un nouveau micro-festival nomade : Chez Fabien | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Vieux Théâtre de Saint-Fabien annonce la création d’un nouveau micro-festival nomade, Chez Fabien, et tout le monde est bienvenu!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-08T14:33:19+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-12T15:22:55+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2023/03/vieuxtheatre_champ_jaune.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/03/vieuxtheatre_champ_jaune.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-08T14:33:19+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-12T15:22:55+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g739860"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Création d’un nouveau micro-festival nomade : Chez Fabien | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Vieux Théâtre de Saint-Fabien annonce la création d’un nouveau micro-festival nomade, Chez Fabien, et tout le monde est bienvenu!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/03/vieuxtheatre_champ_jaune.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/03/vieuxtheatre_champ_jaune.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1000"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g739860",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/f654142fe10f0fd2be188a3ce8671c5a"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-08T14:33:19+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-12T15:22:55+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "467"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/03/vieuxtheatre_champ_jaune.jpg"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Chez Fabien"
+      },
+      {
+        "@language": "fr",
+        "@value": "Nouvelles"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g739840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Création d’un nouveau micro-festival nomade : Chez Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/#/schema/person/f654142fe10f0fd2be188a3ce8671c5a",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://vieuxtheatre.org"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/author/admincn/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "admincn"
+      }
+    ]
+  },
+  {
+    "@id": "_:g739840",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/creation-dun-nouveau-micro-festival-nomade-chez-fabien/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g739940",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g739960",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Offre d'emploi (terminée) | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ça ne paraît pas encore, mais l’été s’en vient tranquillement pas vite. 🌻 Été rime avec Vieux-Théâtre de Saint-Fabien. Été rime avec besoin d’une personne pour compléter notre équipe. Ça veut dire passer l’été à contribuer à l’organisation de spectacles dans notre salle et dehors, de voir des performances emballantes, de contribuer à la culture […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/offres-demploi/offre-demploi/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-04-05T14:08:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-05-12T15:21:15+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2023/02/329591872_585015189838532_2711814520740915115_n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/329591872_585015189838532_2711814520740915115_n.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-05T14:08:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-12T15:21:15+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g752520"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Offre d'emploi (terminée) | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/329591872_585015189838532_2711814520740915115_n.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/329591872_585015189838532_2711814520740915115_n.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1800"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g752520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/offres-demploi/offre-demploi/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/f654142fe10f0fd2be188a3ce8671c5a"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-05T14:08:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-12T15:21:15+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "99"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/329591872_585015189838532_2711814520740915115_n.jpg"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g752500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/offres-demploi/offre-demploi/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Offre d&#8217;emploi (terminée)"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Offres d'emploi"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g752500",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/offres-demploi/offre-demploi/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g752600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g752620",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Merci à nos partenaires | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Nous tenons à remercier chaleureusement nos partenaires majeurs et publics pour leur support, leur soutien financier et leur implication."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2022-09-19T15:37:49+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-02-15T16:38:22+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2023/02/305020014_518710586922340_1897155954317207814_n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/305020014_518710586922340_1897155954317207814_n.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-19T15:37:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-15T16:38:22+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g764380"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Merci à nos partenaires | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Nous tenons à remercier chaleureusement nos partenaires majeurs et publics pour leur support, leur soutien financier et leur implication."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/305020014_518710586922340_1897155954317207814_n.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/305020014_518710586922340_1897155954317207814_n.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/f654142fe10f0fd2be188a3ce8671c5a"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-19T15:37:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-15T16:38:22+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "95"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/305020014_518710586922340_1897155954317207814_n.jpg"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g764360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Merci à nos partenaires"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelles"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764360",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/merci-a-nos-partenaires/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g764480",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Retour sur le 5 à 7 au Parc national du Bic | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vous avez été nombreux à participer à l'événement que nous avons organisé au Parc national du Bic en juillet dernier."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VieuxTheatreDeSaintFabien"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2022-09-07T15:38:32+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2023-02-15T16:42:47+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://vieuxtheatre.org/wp-content/uploads/2023/02/304858752_518606930266039_4087422472903992082_n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/304858752_518606930266039_4087422472903992082_n.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T15:38:32+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-15T16:42:47+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g776500"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Retour sur le 5 à 7 au Parc national du Bic | Vieux Théâtre de Saint-Fabien"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Vous avez été nombreux à participer à l'événement que nous avons organisé au Parc national du Bic en juillet dernier."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/304858752_518606930266039_4087422472903992082_n.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/304858752_518606930266039_4087422472903992082_n.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g776500",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/"
+      }
+    ]
+  },
+  {
+    "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://vieuxtheatre.org/#/schema/person/f654142fe10f0fd2be188a3ce8671c5a"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T15:38:32+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-15T16:42:47+00:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "170"
+      }
+    ],
+    "http://schema.org/commentCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://vieuxtheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://vieuxtheatre.org/wp-content/uploads/2023/02/304858752_518606930266039_4087422472903992082_n.jpg"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g776480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Retour sur le 5 à 7 au Parc national du Bic"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelles"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g776480",
+    "@type": [
+      "http://schema.org/CommentAction"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Comment"
+      }
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/nouvelles/retour-sur-le-5-a-7-au-parc-national-du-bic/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g776580",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://vieuxtheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g776600",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
