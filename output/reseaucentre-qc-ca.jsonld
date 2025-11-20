@@ -1,0 +1,1286 @@
+[
+  {
+    "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Guillaume Bordel : récipiendaire du prix Réseau Centre édition 2019 - Réseau Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "C’est l’original Guillaume Bordel qui a su se démarquer et ravir les diffuseurs de Réseau Centre cette année, dans le cadre du 51e Festival international de la chanson de Granby qui se déroulait du 14 au 24 août 2019."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Réseau Centre"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-09-12T14:02:46+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2019-09-25T12:17:06+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/09/Prix-Réseau-Centre-Guillaume-Bordel.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "597"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/09/Prix-Réseau-Centre-Guillaume-Bordel.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-12T14:02:46+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-25T12:17:06+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#/schema/person/619458e8a6b4569a5abf46268fb94100"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461020"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guillaume Bordel : récipiendaire du prix Réseau Centre édition 2019 - Réseau Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461080"
+      },
+      {
+        "@id": "_:g519720"
+      },
+      {
+        "@id": "_:g538740"
+      },
+      {
+        "@id": "_:g745440"
+      },
+      {
+        "@id": "_:g765200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Réseau Centre"
+      },
+      {
+        "@value": "Réseau Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "23 diffuseurs qui font vivre la culture dans votre région"
+      },
+      {
+        "@value": "23 diffuseurs qui font vivre la culture dans votre région"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/09/Prix-Réseau-Centre-Guillaume-Bordel.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/09/Prix-Réseau-Centre-Guillaume-Bordel.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "700"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "597"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "La directrice de Réseau Centre, Brigitte Messier, accompagnée du lauréat 2019 du prix Réseau Centre, Guillaume Bordel."
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/#/schema/person/619458e8a6b4569a5abf46268fb94100",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#/schema/person/image/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "rc-admin"
+      },
+      {
+        "@value": "rc-admin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461020",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g461100"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g461120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g519740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g519760"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g538760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g538780"
+      }
+    ]
+  },
+  {
+    "@id": "_:g745440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g745460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g745480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g765200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g765220"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g765240"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/#/schema/person/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/392425f9a15d7d584164849aa2dff0a6?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/392425f9a15d7d584164849aa2dff0a6?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "rc-admin"
+      },
+      {
+        "@value": "rc-admin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461100",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.reseaucentre.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461120",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/temporary/0c8087bb-9130-4e4b-9e15-42c7f12e0d43",
+    "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2021/09/reseau-centre_title-page-scaled.jpg"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO-123px.png"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO.png"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/"
+      },
+      {
+        "@id": "https://twitter.com/reseaucentre"
+      },
+      {
+        "@id": "https://www.facebook.com/reseaucentre/?fref=ts"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC5cWFpihMm9UvV7Kaq4Du2w"
+      },
+      {
+        "@id": "https://www.instagram.com/reseau_centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/tournee-randy-coleman-soulignons-le-flair-et-lexpertise-des-diffuseurs-du-reseau/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#respond"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/2019/09/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/author/rc-admin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#name": [
+      {
+        "@language": "fr",
+        "@value": "\n            Guillaume Bordel : récipiendaire du prix Réseau Centre édition 2019    "
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#dateCreated": [
+      {
+        "@language": "fr",
+        "@value": "\n\t\n            \n    \n        12 septembre 2019        \n    \n"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/guillaume-bordel-recipiendaire-du-prix-reseau-centre-edition-2019/#interactionCount": [
+      {
+        "@language": "fr",
+        "@value": "UserComments: 0"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Diffusion Avant-Scène remporte un prix au Gala RIDEAU - Réseau Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un membre-diffuseur de Réseau Centre a été honoré lors du Gala RIDEAU qui avait lieu le 20 février 2020 à Québec. Diffusion Avant-Scène, de Lévis, a reçu le prix du Soutien municipal, ex aequo avec Diffusion culturelle de Lévis. Ce […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Réseau Centre"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-02-21T15:12:54+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-04-05T18:34:12+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.reseaucentre.qc.ca/wp-content/uploads/2020/02/soutien2020-gallery-image.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "801"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-02-21T15:12:54+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-05T18:34:12+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#/schema/person/619458e8a6b4569a5abf46268fb94100"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g519660"
+      },
+      {
+        "@id": "_:g745380"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diffusion Avant-Scène remporte un prix au Gala RIDEAU - Réseau Centre"
+      },
+      {
+        "@value": "Diffusion Avant-Scène remporte un prix au Gala RIDEAU - Réseau Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g745380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519740",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.reseaucentre.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519760",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/temporary/fc827e29-aeec-481f-bd74-48d43fd84ac2",
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2021/09/reseau-centre_title-page-scaled.jpg"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO-123px.png"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO.png"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/"
+      },
+      {
+        "@id": "https://twitter.com/reseaucentre"
+      },
+      {
+        "@id": "https://www.facebook.com/reseaucentre/?fref=ts"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC5cWFpihMm9UvV7Kaq4Du2w"
+      },
+      {
+        "@id": "https://www.instagram.com/reseau_centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/tournee-reseau-2024-2025-place-a-la-releve-a-la-diversite-culturelle-et-aux-artistes-autochtones/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#respond"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/2020/02/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/author/rc-admin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#name": [
+      {
+        "@language": "fr",
+        "@value": "\n            Diffusion Avant-Scène remporte un prix au Gala RIDEAU    "
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#dateCreated": [
+      {
+        "@language": "fr",
+        "@value": "\n\t\n            \n    \n        21 février 2020        \n    \n"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#interactionCount": [
+      {
+        "@language": "fr",
+        "@value": "UserComments: 0"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Théâtre Lac-Brome se joint à Réseau Centre - Réseau Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Dans la foulée de ses projets de développement, l’organisme a choisi de rallier les rangs de Réseau Centre, organisme de regroupement de diffuseurs professionnels en arts de la scène comptant dorénavant 23 membres répartis dans les régions de l’Estrie, du […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Réseau Centre"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-02-06T20:29:10+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-04-05T18:54:25+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.reseaucentre.qc.ca/wp-content/uploads/2020/02/thumbnail_Theatre-LAC-BROME-.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "595"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2020/02/thumbnail_Theatre-LAC-BROME-.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-02-06T20:29:10+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-05T18:54:25+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/#/schema/person/619458e8a6b4569a5abf46268fb94100"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g538680"
+      },
+      {
+        "@id": "_:g765140"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Théâtre Lac-Brome se joint à Réseau Centre - Réseau Centre"
+      },
+      {
+        "@value": "Le Théâtre Lac-Brome se joint à Réseau Centre - Réseau Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2020/02/thumbnail_Theatre-LAC-BROME-.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2020/02/thumbnail_Theatre-LAC-BROME-.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "595"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "crédit : Jean-Guy Dupras"
+      },
+      {
+        "@value": "crédit : Jean-Guy Dupras"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538680",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g765140",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.reseaucentre.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/temporary/d387ae94-fa8d-44aa-bd71-30665d2b2331",
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2021/09/reseau-centre_title-page-scaled.jpg"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO-123px.png"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO.png"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/"
+      },
+      {
+        "@id": "https://twitter.com/reseaucentre"
+      },
+      {
+        "@id": "https://www.facebook.com/reseaucentre/?fref=ts"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC5cWFpihMm9UvV7Kaq4Du2w"
+      },
+      {
+        "@id": "https://www.instagram.com/reseau_centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/deux-membres-diffuseurs-de-reseau-centre-en-nomination-au-gala-rideau/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#respond"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/2020/02/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/author/rc-admin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#name": [
+      {
+        "@language": "fr",
+        "@value": "\n            Le Théâtre Lac-Brome se joint à Réseau Centre    "
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#dateCreated": [
+      {
+        "@language": "fr",
+        "@value": "\n\t\n            \n    \n        6 février 2020        \n    \n"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#interactionCount": [
+      {
+        "@language": "fr",
+        "@value": "UserComments: 0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g745460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.reseaucentre.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g745480",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/temporary/a97df453-33af-43cd-a8e3-48c97a8b7a5f",
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2021/09/reseau-centre_title-page-scaled.jpg"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO-123px.png"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO.png"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/"
+      },
+      {
+        "@id": "https://twitter.com/reseaucentre"
+      },
+      {
+        "@id": "https://www.facebook.com/reseaucentre/?fref=ts"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC5cWFpihMm9UvV7Kaq4Du2w"
+      },
+      {
+        "@id": "https://www.instagram.com/reseau_centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/tournee-reseau-2024-2025-place-a-la-releve-a-la-diversite-culturelle-et-aux-artistes-autochtones/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#respond"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/2020/02/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/author/rc-admin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#respond"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#name": [
+      {
+        "@value": "\n            Diffusion Avant-Scène remporte un prix au Gala RIDEAU    "
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#dateCreated": [
+      {
+        "@value": "\n\t\n            \n    \n        21 février 2020        \n    \n"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/#interactionCount": [
+      {
+        "@value": "UserComments: 0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g765220",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.reseaucentre.qc.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g765240",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.reseaucentre.qc.ca/temporary/f78a8761-7a61-4653-93ff-09986d5917e6",
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#image": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2021/09/reseau-centre_title-page-scaled.jpg"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO-123px.png"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/wp-content/uploads/2019/01/RC_LOGO.png"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#url": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/"
+      },
+      {
+        "@id": "https://twitter.com/reseaucentre"
+      },
+      {
+        "@id": "https://www.facebook.com/reseaucentre/?fref=ts"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UC5cWFpihMm9UvV7Kaq4Du2w"
+      },
+      {
+        "@id": "https://www.instagram.com/reseau_centre/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/deux-membres-diffuseurs-de-reseau-centre-en-nomination-au-gala-rideau/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/diffusion-avant-scene-remporte-un-prix-au-gala-rideau/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#respond"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/2020/02/"
+      },
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#author": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/author/rc-admin/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#respond"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#name": [
+      {
+        "@value": "\n            Le Théâtre Lac-Brome se joint à Réseau Centre    "
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#dateCreated": [
+      {
+        "@value": "\n\t\n            \n    \n        6 février 2020        \n    \n"
+      }
+    ],
+    "https://www.reseaucentre.qc.ca/le-theatre-lac-brome-se-joint-au-reseau-centre/#interactionCount": [
+      {
+        "@value": "UserComments: 0"
+      }
+    ]
+  }
+]
