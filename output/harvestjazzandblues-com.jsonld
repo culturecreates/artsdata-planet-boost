@@ -1,0 +1,297 @@
+[
+  {
+    "@id": "http://www.harvestjazzandblues.com/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Harvest Music Festival -"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "HOME - Harvest Music Festival"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Music festival September 9- 14, 2025 Fredericton, NB 2025 patron survey TIckets/passes Lineup LATEST NEWS VIEW ALL OUR PARTNERSBRING HARVEST TO LIFE SPONSORS Funding Partners Presenting SPONSORS Triple Platinum"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://harvestmusicfest.ca/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://harvestmusicfest.ca/wp-content/uploads/2025/02/Harvest-2025_Logo-Light_Feb-14.svg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://harvestmusicfest.ca/wp-content/uploads/2025/02/Harvest-2025_Logo-Light_Feb-14.svg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2021-06-30T14:38:41+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-18T13:15:32+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://harvestmusicfest.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.harvestjazzandblues.com/"
+      },
+      {
+        "@id": "http://www.harvestjazzandblues.com/#primary"
+      }
+    ]
+  },
+  {
+    "@id": "https://harvestmusicfest.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://harvestmusicfest.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://harvestmusicfest.ca/#organizationLogo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://harvestmusicfest.ca/#organizationLogo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Harvest Music Festival"
+      },
+      {
+        "@value": "Harvest Music Festival"
+      }
+    ]
+  },
+  {
+    "@id": "https://harvestmusicfest.ca/#organizationLogo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://harvestmusicfest.ca/wp-content/uploads/2025/02/Harvest-2025_Logo-Light_Feb-14.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "647"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "151"
+      }
+    ]
+  },
+  {
+    "@id": "https://harvestmusicfest.ca/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://harvestmusicfest.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://harvestmusicfest.ca/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://harvestmusicfest.ca/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-30T11:38:41-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T09:15:32-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.harvestjazzandblues.com/"
+      },
+      {
+        "@id": "http://www.harvestjazzandblues.com/#primary"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "HOME - Harvest Music Festival"
+      },
+      {
+        "@value": "HOME - Harvest Music Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Music festival September 9- 14, 2025 Fredericton, NB 2025 patron survey TIckets/passes Lineup LATEST NEWS VIEW ALL OUR PARTNERSBRING HARVEST TO LIFE SPONSORS Funding Partners Presenting SPONSORS Triple Platinum"
+      },
+      {
+        "@value": "Music festival September 9- 14, 2025 Fredericton, NB 2025 patron survey TIckets/passes Lineup LATEST NEWS VIEW ALL OUR PARTNERSBRING HARVEST TO LIFE SPONSORS Funding Partners Presenting SPONSORS Triple Platinum"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://harvestmusicfest.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://harvestmusicfest.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://harvestmusicfest.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g466100"
+      },
+      {
+        "@id": "_:g476720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Harvest Music Festival"
+      },
+      {
+        "@value": "Harvest Music Festival"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g466120"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g476740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466120",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://harvestmusicfest.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476740",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://harvestmusicfest.ca/?s={search_term_string}"
+      }
+    ]
+  }
+]
