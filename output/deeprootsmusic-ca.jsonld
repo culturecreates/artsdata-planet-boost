@@ -1,0 +1,1096 @@
+[
+  {
+    "@id": "https://deeprootsmusic.ca",
+    "https://api.w.org/": [
+      {
+        "@id": "https://deeprootsmusic.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/wp-content/uploads/2021/07/parade-about-us1920.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "863"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Deep Roots Music Cooperative"
+      },
+      {
+        "@value": "Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrating Our Musical and Cultural Heritage - Wolfville, Nova Scotia, Canada"
+      },
+      {
+        "@value": "Celebrating Our Musical and Cultural Heritage - Wolfville, Nova Scotia, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/#schema-website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461500"
+      },
+      {
+        "@id": "_:g474680"
+      },
+      {
+        "@id": "_:g487540"
+      },
+      {
+        "@id": "_:g501380"
+      },
+      {
+        "@id": "_:g515540"
+      },
+      {
+        "@id": "_:g527120"
+      },
+      {
+        "@id": "_:g539540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Deep Roots Music Cooperative"
+      },
+      {
+        "@value": "Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/encoding": [
+      {
+        "@language": "en",
+        "@value": "UTF-8"
+      },
+      {
+        "@value": "UTF-8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527120",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://deeprootsmusic.ca/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/author/drmfadmin/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmfadmin/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bruce Dienes"
+      },
+      {
+        "@value": "Bruce Dienes"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://deeprootsmusic.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/wp-content/uploads/2021/07/parade-about-us1920.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "863"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/0cb27581-28ec-4cf6-b780-6924b745cb63",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmfadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:07:13"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-04T10:51:49"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/122824f2-11aa-4484-be16-f167ac0ef855",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/534cbc04-1c6f-4396-aca3-3dc883e650f8",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/470193a8-826a-4401-855f-4e938f0fe6b2",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmfadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:07:13"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-04T10:51:49"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#main"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/2f0de3a2-28bb-44e4-976d-180bb0071e1e",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#main"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/6b9802aa-5622-473c-b589-a49942b20a48",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#main"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/ccbbd387-1e57-4a6c-81fc-ec9c4028a745",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmfadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:07:13"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-04T10:51:49"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/7afbf2cd-e283-4040-96b6-f07af33b549f",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/c1f64cd4-d8d4-41b1-b9bd-772aa03d10c6",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/festival-2025/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://deeprootsmusic.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/festival-2025/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Festival 2025 | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Deep Roots Music Festival 2025 - Click a photo for more info! Our festival is over for another year. We had a very good weekend. The music was terrific - an ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/wp-content/uploads/2025/01/WEB_HEADER_MAIN-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1801"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "900"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-02-12T17:15:29"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "Lisa Hammett Vaughan"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/author/lisa/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/lisa/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lisa Hammett Vaughan"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/festival-2025/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/festival-2025/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/festival-2025/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/wp-content/uploads/2025/01/WEB_HEADER_MAIN-1.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "900"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1801"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/0565c349-35a6-4682-b5d2-a629ab7f18d4",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/festival-2025/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/lisa/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:29:21"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-12T17:15:29"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://deeprootsmusic.ca/festival-2025/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://deeprootsmusic.ca/wp-content/uploads/2025/01/WEB_HEADER_MAIN-1.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/festival-2025/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Festival 2025 | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Deep Roots Music Festival 2025 - Click a photo for more info! Our festival is over for another year. We had a very good weekend. The music was terrific - an ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festival 2025"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/bb40f26a-f2e2-408a-aabc-ce831d68ee46",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/festival-2025/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/d4fcc185-a652-4953-bdb7-fac8b4607d00",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/festival-2025/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://deeprootsmusic.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://deeprootsmusic.ca/get-involved-old/for-artists/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Information for Artists | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Our festival line up includes folk, roots, blues and world music. Although we love to bring back favourite performers, in general we try to bring in new act ..."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2014-05-19T09:07:55"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-ca",
+        "@value": "DRMC Office"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/author/drmc/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmc/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "DRMC Office"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/e452c267-6b62-4c30-b2e3-19662b2b4310",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmc/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T13:16:40"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-05-19T09:07:55"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Information for Artists | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Our festival line up includes folk, roots, blues and world music. Although we love to bring back favourite performers, in general we try to bring in new act ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Information for Artists"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/09769699-e238-415b-a48a-919d4412df9f",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/06ef2b0e-11cd-47d6-8a31-381c990c7a48",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/get-involved-old/for-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/0323b48d-06ef-4631-ada0-f7f809ffd3cd",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmfadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:07:13"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-04T10:51:49"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#wrapper"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/bfa19bb7-866c-444a-aca3-8abeabeb9a9a",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#wrapper"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/c7064d41-2cb9-4acf-b260-aeba7e0d2406",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#wrapper"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/568b90c7-6242-4f81-84df-62ae4bec2d34",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://deeprootsmusic.ca/author/drmfadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://deeprootsmusic.ca/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:07:13"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-04T10:51:49"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home | Deep Roots Music Cooperative"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "About Us Festival Get Involved Donate Events Valley Arts Award YouTube Channel Sponsors"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/7748e9f2-58b3-4653-8606-ee7d765423e7",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://deeprootsmusic.ca/temporary/0f65bddc-27ea-402c-adf6-214a9b5c7c15",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://deeprootsmusic.ca/#"
+      }
+    ]
+  }
+]
