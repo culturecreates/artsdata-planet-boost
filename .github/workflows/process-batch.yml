@@ -37,9 +37,10 @@ jobs:
         org: ${{ fromJson(needs.load_json.outputs.matrix) }}
 
     steps:
-      - name: Process organization
-        run: |
-          sleep 10
-          echo "Processing organization:"
-          echo "- URL: ${{ matrix.org.url }}"
-          echo "- ID:  ${{ matrix.org.artifact }}"
+      - name: Crawl and push using pipeline-action
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: 'fetch'
+          artifact: '${{ matrix.org.artifact }}'
+          page-url: '${{ matrix.org.url }}'
+          token: "${{ secrets.GITHUB_TOKEN }}"
