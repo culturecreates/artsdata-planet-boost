@@ -1,0 +1,6140 @@
+[
+  {
+    "@id": "https://centredartderichmond.ca/cours/membership/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Devenir membre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/membership/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Devenir membre du Centre d’art de Richmond, c’est rejoindre une communauté passionnée qui favorise la vitalité culturelle de notre région! Votre adhésion concrétise un soutien qui nous …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-10-07T15:17:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T22:47:46+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/10/491073828_1621027162128190_6357683755695730247_n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Devenir membre"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/membership/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/membership/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/10/491073828_1621027162128190_6357683755695730247_n.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2695"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g529520"
+      },
+      {
+        "@id": "_:g543000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/membership/"
+      },
+      {
+        "@id": "https://centredartderichmond.ca/cours/membership"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Devenir membre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Devenir membre du Centre d'art de Richmond, c'est rejoindre une communauté passionnée qui favorise la vitalité culturelle de notre région!\r\n\r\nVotre adhésion concrétise un soutien qui nous permet de faire rayonner les arts de la scène, d'alimenter la flamme pour l'apprentissage de la musique chez une centaine d'élèves par saison et de réaliser une multitude de projets spéciaux visant l'accessibilité à l'art et à la culture pour tous et toutes. En tant que membre, vous contribuez à la pérennité de notre engagement et êtes invités à participer activement aux décisions qui concernent notre organisme.\r\n\r\nPour 10$, la carte de membre vous donnera un droit de vote à l’assemblée générale annuelle du Centre d’art de Richmond, qui aura lieu le 10 décembre 2025. (Limite d'une carte de membre par personne. Seules les cartes ayant été achetées avant le début de l'assemblée sont considérées valides.)"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529520",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g529540"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/membership/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g529560"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543000",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g543020"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/membership/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g543040"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/membership",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Devenir membre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/membership/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Devenir membre du Centre d’art de Richmond, c’est rejoindre une communauté passionnée qui favorise la vitalité culturelle de notre région! Votre adhésion concrétise un soutien qui nous …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-10-07T15:17:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T22:47:46+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/10/491073828_1621027162128190_6357683755695730247_n.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/membership"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529540",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "10.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529560",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/categorie-cours/non-classe/",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Non classé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543020",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "10.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543040",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-classique/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Chant classique avec Diane Duguay / Classical singing with Diane Duguay"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/chant-classique/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours de chant avec Diane Duguay. Chant classique ou populaire selon le désir de l’élève. Accompagnement au piano pendant la leçon. Cours offerts les mardis, mercredis ou jeudis. En français …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-05-26T19:39:57+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-19T03:50:49+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/chant.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique avec Diane Duguay / Classical singing with Diane Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-classique/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-classique/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/chant.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1616"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g572100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-classique/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique avec Diane Duguay / Classical singing with Diane Duguay"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours de chant avec Diane Duguay. Chant classique ou populaire selon le désir de l'élève. Accompagnement au piano pendant la leçon. Cours offerts les mardis, mercredis ou jeudis. En français et en anglais.\r\n\r\nPour la session d’automne 2025, les cours de chant avec Diane débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nSinging lessons with Diane Duguay. Classical or popular songs according to the student's desire. Piano accompaniment during the lesson. Classes are offered on Tuesdays, Wednesdays, and Thursdays. In French and English.\r\n\r\nThe singing fall semester 2025, will start the week of September 15th and conclude the week of December 8th, totaling 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g572100",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-classique/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g572120"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g572120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/categorie-cours/ecole-de-musique/",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Inscription école de musique"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/categorie-cours/ecole-de-musique/cours-pour-adultes/",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cours pour adultes"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/batterie/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Batterie / Drum"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/batterie/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de batterie avec Kevin Sullivan les jeudis, en français et en anglais et les mardis avec Josh Brown en anglais. Ce cours vise à apprendre et parfaire votre technique tout en jouan…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-06T19:36:26+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-04T02:45:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/batterie.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Batterie / Drum"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/batterie/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/batterie/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/batterie.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1686"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g614040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/batterie/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Batterie / Drum"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de batterie avec Kevin Sullivan les jeudis, en français et en anglais et les mardis avec Josh Brown en anglais. Ce cours vise à apprendre et parfaire votre technique tout en jouant sur des pièces de groupes de musique populaire, rock, pop, métal et jazz. Une approche technique et intuitive qui vous servira en contexte réel et vous aidera à développer une fluidité et une précision à votre instrument.\r\n\r\nPour la session d’automne, les cours de batterie débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual drum lessons with Kevin Sullivan on Thursdays, offered in English or French or with Josh Brown on Tuesdays in English.\r\n\r\nDrum lessons will start the week of September 15th and conclude the week of December 8th (13 classes.)\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g614040",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/batterie/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g614060"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g614060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/guitare/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Guitare / Guitar"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/guitare/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de guitare offerts les lundis (débutant seulement) par Olivier Saint-Jean ainsi que les mercredis et jeudis (tous niveaux) par Simon Godbout-Castonguay. En français ou en anglais.…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-17T08:07:05+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-08T15:58:10+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/guitare-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guitare / Guitar"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/guitare/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/guitare/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/guitare-1.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1707"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g626240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/guitare/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guitare / Guitar"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de guitare offerts les lundis (débutant seulement) par Olivier Saint-Jean ainsi que les mercredis et jeudis (tous niveaux) par Simon Godbout-Castonguay. En français ou en anglais.\r\n\r\nCours de guitare classique, acoustique ou électrique avec un répertoire varié et adapté au niveau de l’élève. Les cours sont structurés de manière à ce qu’il soit facile de savoir quoi pratiquer et pendant combien de temps, ce qui aide à créer une routine de pratique amusante et efficace.\r\n\r\nPour la session d’automne, les cours de guitare débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual guitar lessons are offered on Mondays (beginner only) by Olivier Saint-Jean, on Wednesdays and Thursdays and (all levels) by Simon Godbout-Castonguay. In French or English.\r\n\r\nClassical, acoustic, or electric guitar lessons with a varied repertoire tailored to the student's level. The lessons are structured to make it easy to know what to practice and for how long, helping to create an enjoyable and effective practice routine.\r\n\r\n.\r\n\r\nGuitar lessons will start the week of September 15th and conclude the week of December 8th (13 classes.)\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g626240",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/guitare/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g626260"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g626260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/piano-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Piano (18 ans et moins / 18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/piano-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de piano pop, classique et jazz avec Samuel Carrier ou Isabelle Gosselin les lundis, avec Evelyne Lambert les mardis, ainsi qu’avec Kevin Sullivan les jeudis. Découverte de …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-23T11:39:38+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T16:21:37+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/piano.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Piano (18 ans et moins / 18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/piano-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/piano-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/piano.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1848"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g639020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/piano-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Piano (18 ans et moins / 18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de piano pop, classique et jazz avec Samuel Carrier ou Isabelle Gosselin les lundis, avec Evelyne Lambert les mardis, ainsi qu'avec Kevin Sullivan les jeudis. Découverte de nouveau répertoire selon le choix de l’élève. Plusieurs styles possibles. Aborde l'accompagnement au piano, introduction à l’improvisation et notions théoriques adaptées aux besoins de l'élève.\r\n\r\nPour la session d'hiver, les cours de piano débuteront la semaine du 19 janvier et se termineront la semaine du 18 mai, pour un total de 17 cours.\r\n\r\n* À noter qu’il n’y aura pas de cours durant la semaine de relâche du 2 mars. De plus, pour les élèves inscrits aux cours du lundi, il y aura un congé le 6 avril pour le lundi de Pâques. Un cours sera remboursé en début de session aux élèves du lundi, totalisant une session de 16 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 24 mai 2026.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nPop, classic and jazz piano lessons with Samuel Carrier or Isabelle Gosselin on Mondays, with Evelyne Lambert on Tuesdays, and with Kevin Sullivan on Thursdays. Exploration of new repertoire according to student's choice. Several styles are possible. Piano accompaniment, introduction to improvisation, and theoretical notions adapted to the needs of the student.\r\n\r\nThe piano winter semester 2026, will start the week of January 19th and conclude the week of May 18th, totalling 17 classes.\r\n\r\n* Please note that there will be no classes during the spring break starting March 2rd. For students registered to Monday classes, there will be a break on April 6th, for Easter. One class will be refunded at the beginning of the session for Monday students, totalling a session of 17 classes.\r\n\r\nThe student’s concert will take place on May 24th, 2026.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nVeuillez prendre connaissance des politiques en vigueur en cliquant sur les liens suivants: politiques de l'école de musique et politique contre le harcèlement, puis cocher les cases suivantes en guise de signature d’acceptation du fonctionnement de l’école de musique."
+      }
+    ]
+  },
+  {
+    "@id": "_:g639020",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/piano-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g639040"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "425.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "578.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639040",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/categorie-cours/ecole-de-musique/cours-pour-enfants/",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cours pour enfants"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/guitare-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Guitare (18 ans et moins) / Guitar (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/guitare-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de guitare offerts les lundis (débutant seulement) par Olivier Saint-Jean ainsi que les mercredis (tous niveaux) par Simon Godbout-Castonguay. En français ou en anglais. Cours de …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-23T21:30:06+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-25T22:15:06+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/guitare-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guitare (18 ans et moins) / Guitar (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/guitare-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/guitare-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/guitare-1.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1935"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g650820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/guitare-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guitare (18 ans et moins) / Guitar (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de guitare offerts les lundis (débutant seulement) par Olivier Saint-Jean ainsi que les mercredis (tous niveaux) par Simon Godbout-Castonguay. En français ou en anglais.\r\n\r\nCours de guitare classique, acoustique ou électrique avec un répertoire varié et adapté au niveau de l’élève. Les cours sont structurés de manière à ce qu’il soit facile de savoir quoi pratiquer et pendant combien de temps, ce qui aide à créer une routine de pratique amusante et efficace.\r\n\r\nPour la session d’automne, les cours de guitare débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual guitar lessons are offered on Mondays (beginner only) by Olivier Saint-Jean, on Wednesdays (all levels) by Simon Godbout-Castonguay. In French or English.\r\n\r\nClassical, acoustic, or electric guitar lessons with a varied repertoire tailored to the student's level. The lessons are structured to make it easy to know what to practice and for how long, helping to create an enjoyable and effective practice routine.\r\n\r\n.\r\n\r\nDrum lessons will start the week of September 15th and conclude the week of December 8th (13 classes.)\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g650820",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/guitare-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g650840"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g650840",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/batterie-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Batterie (18 ans et moins) / Drum (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/batterie-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de batterie avec Kevin Sullivan les jeudis, en français et en anglais et les mardis avec Josh Brown en anglais. Ce cours vise à apprendre et parfaire votre technique tout en jouan…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-23T21:57:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-04T02:43:55+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/batterie.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Batterie (18 ans et moins) / Drum (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/batterie-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/batterie-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/batterie.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2021"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g660240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/batterie-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Batterie (18 ans et moins) / Drum (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de batterie avec Kevin Sullivan les jeudis, en français et en anglais et les mardis avec Josh Brown en anglais. Ce cours vise à apprendre et parfaire votre technique tout en jouant sur des pièces de groupes de musique populaire, rock, pop, métal et jazz. Une approche technique et intuitive qui vous servira en contexte réel et vous aidera à développer une fluidité et une précision à votre instrument.\r\n\r\nPour la session d'automne, les cours de batterie débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual drum lessons with Kevin Sullivan on Thursdays, offered in English or French or with Josh Brown on Tuesdays in English.\r\n\r\nDrum lessons will start the week of September 15th and conclude the week of December 8th (13 classes.)\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g660240",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/batterie-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g660260"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g660260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-classique-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Chant classique avec Diane Duguay (18 ans et moins) / Classical Singing with Diane Duguay (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/chant-classique-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours de chant avec Diane Duguay. Chant classique ou populaire selon le désir de l’élève. Accompagnement au piano pendant la leçon. Cours offerts les mardis, mercredis ou jeudis. En français …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-07-23T22:08:09+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-19T03:47:05+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/chant.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique avec Diane Duguay (18 ans et moins) / Classical Singing with Diane Duguay (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-classique-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-classique-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/chant.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2055"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g669940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-classique-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique avec Diane Duguay (18 ans et moins) / Classical Singing with Diane Duguay (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours de chant avec Diane Duguay. Chant classique ou populaire selon le désir de l'élève. Accompagnement au piano pendant la leçon. Cours offerts les mardis, mercredis ou jeudis. En français et en anglais.\r\n\r\nPour la session d'automne 2025, les cours de chant avec Diane débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nSinging lessons with Diane Duguay. Classical or popular songs according to the student's desire. Piano accompaniment during the lesson. Classes are offered on Tuesdays, Wednesdays, and Thursdays. In French and English.\r\n\r\nThe singing fall semester 2025, will start the week of September 15th and conclude the week of December 8th, totaling 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g669940",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-classique-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g669960"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g669960",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/accordeon/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Accordéon / Accordion"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/accordeon/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "S’adressant aux débutants comme aux musiciens expérimentés, le cours d’accordéon donné par Samuel Carrier, vise à transmettre les notions essentielles à la pratique de l’instrument ainsi qu’à une c…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2020-10-28T21:03:41+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-07T17:43:57+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/10/accordeon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accordéon / Accordion"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/accordeon/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/accordeon/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/10/accordeon.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g681380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/accordeon/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accordéon / Accordion"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "S’adressant aux débutants comme aux musiciens expérimentés, le cours d’accordéon donné par Samuel Carrier, vise à transmettre les notions essentielles à la pratique de l’instrument ainsi qu’à une compréhension globale de la musique et de ses mécanismes. À travers des exercices propres à l’instrument et des activités ludiques, l’étudiant développera son sens musical, sa coordination, son doigté, son sens rythmique, sa lecture musicale et approfondira ses connaissance théoriques. Un vaste répertoire de pièces de différents style est proposé aux étudiants, qui sont aussi invités à apporter leur propre répertoire.\r\nCours offerts les lundis, en français et en anglais.\r\n\r\nPour la session d’automne, les cours d’accordéon débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 12 cours. \r\n\r\n*À noter qu’il n’y aura pas de cours le lundi 13 octobre pour le congé de l’action de grâce.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nAddressed to beginners as well as experienced musicians, the accordion class taught by Samuel Carrier aims to convey the essential concepts for practicing the instrument as well as a global understanding of music and its mechanisms. Through exercises specific to the instrument and playful activities, the student will develop their musical sense, coordination, finger technique, rhythmic sense, music reading skills, and deepen their theoretical knowledge. A wide repertoire of pieces from different styles is offered to the students, who are also encouraged to bring their own repertoire.\r\n\r\nClasses are offered on Mondays, in French and English.\r\n\r\nThe accordion fall semester 2025, will start the week of Septembre 15th and conclude December 8th, totaling a session of 12 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\n*Please note that there will be no classes Monday October 13th for thanksgiving.\r\n\r\nThe student’s concert will take place on May 25th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@language": "fr",
+        "@value": "10-20"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681380",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/accordeon/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g681400"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "396.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "576.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/violon-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Violon (18 ans et moins) / Violin (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/violon-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de violon avec Isabelle Gosselin ou Olivier Saint-Jean. Emphase sur la musicalité tout en favorisant de bonnes habitudes techniques et de pratique. Répertoire varié selon l’…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-04-15T18:46:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-07T17:49:27+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/03/Copie-de-ukulele.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Violon (18 ans et moins) / Violin (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/violon-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/violon-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/03/Copie-de-ukulele.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3114"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g707140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/violon-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Violon (18 ans et moins) / Violin (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de violon avec Isabelle Gosselin ou Olivier Saint-Jean. Emphase sur la musicalité tout en favorisant de bonnes habitudes techniques et de pratique. Répertoire varié selon l'intérêt de l'élève pouvant comprendre de la musique traditionnelle (d'ici et d'ailleurs dans le monde), de la musique classique ainsi que d'autres styles. L'enseignement peut se faire à l'oreille et/ou avec partitions. Des notions théoriques seront abordées si l'élève en a l'intérêt et la curiosité. Le violon est connu principalement comme instrument mélodique mais il est aussi riche en possibilités d'accompagnements harmoniques. Possibilité d'aborder accompagnement et improvisation. Et avant tout, du plaisir!\r\n\r\nCours offerts les lundis, en français ou en anglais.\r\n\r\nPour la session d’automne, les cours de violon débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 12 cours. \r\n\r\n*À noter qu’il n’y aura pas de cours le lundi 13 octobre pour le congé de l’action de grâce.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\n*Possibilité de louer un violon à faible coût pour la session.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual violin lessons with Isabelle Gosselin or Olivier Saint-Jean. Emphasis on musicality and good technical and practice habits. Varied repertoire according to the student's interest. May include traditional music (from here and elsewhere), classical music as well as other styles. Teaching can be done by ear and/or with sheet music. Theoretical notions will be approached depending on the student's interest and curiosity. The violin is known mainly as a melodic instrument but it is also rich in possibilities of harmonic accompaniments. Possibility of approaching accompaniment and improvisation. And above all, pleasure!\r\n\r\nLessons are offered on Mondays, in English or French.\r\n\r\nThe violin fall semester 2025, will start the week of Septembre 15th and conclude December 8th, totaling a session of 12 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\n*Please note that there will be no classes Monday October 13th for thanksgiving.\r\n\r\n*Possibility to rent a violin at a low cost for the session.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g707140",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/violon-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g707160"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "300.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "408.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g707160",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/violon/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Violon / Violin"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/violon/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de violon avec Isabelle Gosselin ou Olivier Saint-Jean. Emphase sur la musicalité tout en favorisant de bonnes habitudes techniques et de pratique. Répertoire varié selon l’…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-17T01:09:25+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-07T17:47:22+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/03/Copie-de-ukulele.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Violon / Violin"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/violon/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/violon/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/03/Copie-de-ukulele.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3223"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g719280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/violon/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Violon / Violin"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de violon avec Isabelle Gosselin ou Olivier Saint-Jean. Emphase sur la musicalité tout en favorisant de bonnes habitudes techniques et de pratique. Répertoire varié selon l'intérêt de l'élève pouvant comprendre de la musique traditionnelle (d'ici et d'ailleurs dans le monde), de la musique classique ainsi que d'autres styles. L'enseignement peut se faire à l'oreille et/ou avec partitions. Des notions théoriques seront abordées si l'élève en a l'intérêt et la curiosité. Le violon est connu principalement comme instrument mélodique mais il est aussi riche en possibilités d'accompagnements harmoniques. Possibilité d'aborder accompagnement et improvisation. Et avant tout, du plaisir!\r\n\r\nCours offerts les lundis, en français ou en anglais.\r\n\r\nPour la session d’automne, les cours de violon débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 12 cours. \r\n\r\n*À noter qu’il n’y aura pas de cours le lundi 13 octobre pour le congé de l’action de grâce.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\n*Possibilité de louer un violon à faible coût pour la session.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual violin lessons with Isabelle Gosselin or Olivier Saint-Jean. Emphasis on musicality and good technical and practice habits. Varied repertoire according to the student's interest. May include traditional music (from here and elsewhere), classical music as well as other styles. Teaching can be done by ear and/or with sheet music. Theoretical notions will be approached depending on the student's interest and curiosity. The violin is known mainly as a melodic instrument but it is also rich in possibilities of harmonic accompaniments. Possibility of approaching accompaniment and improvisation. And above all, pleasure!\r\n\r\nLessons are offered on Mondays, in English or French.\r\n\r\nThe violin fall semester 2025, will start the week of Septembre 15th and conclude December 8th, totaling a session of 12 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\n*Please note that there will be no classes Monday October 13th for thanksgiving.\r\n\r\n*Possibility to rent a violin at a low cost for the session.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g719280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/violon/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g719300"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "396.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "576.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/accordeon-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Accordéon (18 ans et moins) / Accordion (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/accordeon-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "S’adressant aux débutants comme aux musiciens expérimentés, le cours d’accordéon donné par Samuel Carrier, vise à transmettre les notions essentielles à la pratique de l’instrument ainsi qu’à une c…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-17T01:26:01+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-07T17:41:32+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/10/accordeon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accordéon (18 ans et moins) / Accordion (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/accordeon-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/accordeon-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/10/accordeon.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g728460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/accordeon-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accordéon (18 ans et moins) / Accordion (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "S’adressant aux débutants comme aux musiciens expérimentés, le cours d’accordéon donné par Samuel Carrier, vise à transmettre les notions essentielles à la pratique de l’instrument ainsi qu’à une compréhension globale de la musique et de ses mécanismes. À travers des exercices propres à l’instrument et des activités ludiques, l’étudiant développera son sens musical, sa coordination, son doigté, son sens rythmique, sa lecture musicale et approfondira ses connaissance théoriques. Un vaste répertoire de pièces de différents style est proposé aux étudiants, qui sont aussi invités à apporter leur propre répertoire.\r\nCours offerts les lundis, en français et en anglais.\r\n\r\nPour la session d’automne, les cours d'accordéon débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 12 cours. \r\n\r\n*À noter qu’il n’y aura pas de cours le lundi 13 octobre pour le congé de l’action de grâce.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nAddressed to beginners as well as experienced musicians, the accordion class taught by Samuel Carrier aims to convey the essential concepts for practicing the instrument as well as a global understanding of music and its mechanisms. Through exercises specific to the instrument and playful activities, the student will develop their musical sense, coordination, finger technique, rhythmic sense, music reading skills, and deepen their theoretical knowledge. A wide repertoire of pieces from different styles is offered to the students, who are also encouraged to bring their own repertoire.\r\n\r\nClasses are offered on Mondays, in French and English.\r\n\r\nThe accordion fall semester 2025, will start the week of Septembre 15th and conclude December 8th, totaling a session of 12 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\n*Please note that there will be no classes Monday October 13th for thanksgiving.\r\n\r\nThe student’s concert will take place on May 25th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@language": "fr",
+        "@value": "10-20-1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g728460",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/accordeon-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g728480"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "300.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "408.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g728480",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/piano/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Piano"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/piano/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de piano pop, classique et jazz avec Samuel Carrier ou Isabelle Gosselin les lundis, avec Evelyne Lambert les mardis et avec Kevin Sullivan les jeudis. Découverte de nouveau réper…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-17T01:43:10+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T16:14:52+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2020/08/piano.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Piano"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/piano/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/piano/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2020/08/piano.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3232"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g738360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/piano/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Piano"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de piano pop, classique et jazz avec Samuel Carrier ou Isabelle Gosselin les lundis, avec Evelyne Lambert les mardis et avec Kevin Sullivan les jeudis. Découverte de nouveau répertoire selon le choix de l’élève. Plusieurs styles possibles. Aborde l'accompagnement au piano, introduction à l’improvisation et notions théoriques adaptées aux besoins de l'élève.\r\n\r\nPour la session d'hiver, les cours de piano débuteront la semaine du 19 janvier et se termineront la semaine du 18 mai, pour un total de 17 cours.\r\n\r\n* À noter qu’il n’y aura pas de cours durant la semaine de relâche du 2 mars. De plus, pour les élèves inscrits aux cours du lundi, il y aura un congé le 6 avril pour le lundi de Pâques. Un cours sera remboursé en début de session aux élèves du lundi, totalisant une session de 16 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 24 mai 2026.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nPop, classic and jazz piano lessons with Samuel Carrier or Isabelle Gosselin on Mondays, with Evelyne Lambert on Tuesdays, with Kevin Sullivan on Thursdays. Exploration of new repertoire according to student's choice. Several styles are possible. Piano accompaniment, introduction to improvisation, and theoretical notions adapted to the needs of the student.\r\n\r\nThe piano fall winter 2026, will start the week of January 19th and conclude the week of May 18th, totalling 17 classes.\r\n\r\n* Please note that there will be no classes during the spring break starting March 2rd. For students registered to Monday classes, there will be a break on April 6th, for Easter. One class will be refunded at the beginning of the session for Monday students, totalling a session of 16 classes.\r\n\r\nThe student’s concert will take place on May 24th, 2026.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nVeuillez prendre connaissance des politiques en vigueur en cliquant sur les liens suivants: politiques de l'école de musique et politique contre le harcèlement, puis cocher les cases suivantes en guise de signature d’acceptation du fonctionnement de l’école de musique."
+      }
+    ]
+  },
+  {
+    "@id": "_:g738360",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/piano/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g738380"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "561.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "816.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g738380",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Éveil musical en groupe (0-5 ans) / Musical awakening (0-5 ans)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours d’éveil musical en groupe donné par Sophianne Fillion et Roxane Beaulieu en alternance. Accompagnement obligatoire par un parent. Activités ludiques permettant une familiarisation avec …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-18T02:16:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T15:14:58+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/Eveil-musical-groupe.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Éveil musical en groupe (0-5 ans) / Musical awakening (0-5 ans)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/08/Eveil-musical-groupe.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3253"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g748200"
+      },
+      {
+        "@id": "_:g1989060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/"
+      },
+      {
+        "@id": "https://centredartderichmond.ca/cours/eveil-musical/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Éveil musical en groupe (0-5 ans) / Musical awakening (0-5 ans)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours d'éveil musical en groupe donné par Sophianne Fillion et Roxane Beaulieu en alternance. Accompagnement obligatoire par un parent. Activités ludiques permettant une familiarisation avec les concepts musicaux de base. Les enfants sont invités à manipuler des instruments de percussion, à bouger sur le rythme de la musique et à chanter. Thématiques différentes chaque semaine avec contenu éducatif et ouvert sur le monde. Pour le moment, le cours est offert en français seulement. \r\n\r\nLes cours ont lieu les samedis de 10h à 10h45. L’horaire d’automne est divisé en deux sessions de 6 cours. Il est possible de s’inscrire pour une session de 6 cours ou pour l’ensemble des cours d’éveil musical d’automne d’une durée totale de 12 cours. La première session de 6 cours aura lieu les samedis du 20 septembre au 25 octobre. La deuxième session de 6 cours débutera le samedi 1 novembre et se terminera le 6 décembre.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nGroup musical awakening classes are led alternately by Sophianne Fillion and Roxane Beaulieu. Mandatory parental involvement. Fun activities that introduce basic musical concepts. Children are encouraged to interact with percussion instruments, move to the rhythm of music and sing. Different themes each week with educational content. Currently, the class is offered in French only.\r\n\r\nClasses will take place on Saturday mornings from 10h00 AM to 10h45 PM. The fall schedule is divided into two sessions of 6 courses. It is possible to register for one session or for both session of 6 courses this fall.\r\nThe first session of 6 classes will be on Saturdays from September 20th to October 25th 2025.\r\nThe second session of 6 classes will begin on Saturdays from November 1st to December 6th 2025.\r\nFor any questions, please contact us at info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nConformément aux exigences du ministère de la Culture et des Communications, le Centre d'art de Richmond s'est doté d'une Politique contre le harcèlement en 2021. Veuillez prendre connaissance de ces documents en cliquant sur les liens suivants: politiques de l'école de musique et politique contre le harcèlement. Nous vous demandons ensuite de cocher les cases suivantes en guise de signature d'acceptation du fonctionnement de l'école de musique."
+      }
+    ]
+  },
+  {
+    "@id": "_:g748200",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g748220"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "84.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "216.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1989060",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g1989080"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "84.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "216.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/eveil-musical/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Éveil musical en groupe (0-5 ans) / Musical awakening (0-5 ans)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/eveil-musical-en-groupe/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours d’éveil musical en groupe donné par Sophianne Fillion et Roxane Beaulieu en alternance. Accompagnement obligatoire par un parent. Activités ludiques permettant une familiarisation avec …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-18T02:16:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T15:14:58+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/Eveil-musical-groupe.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/eveil-musical/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g748220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/exploration-musicale/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Exploration musicale (6-9 ans) / Musical exploration (6-9 years old)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/exploration-musicale/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours en groupe. Ce cours, donné par Sophianne Fillion et Marie-Hélène da Silva en alternance, a pour but de susciter l’intérêt pour la musique chez les enfants de 6 à 9 ans. Durant les cours, plus…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-18T10:19:26+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-19T03:03:24+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/exploration-musicale-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Exploration musicale (6-9 ans) / Musical exploration (6-9 years old)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/exploration-musicale/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/exploration-musicale/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/08/exploration-musicale-1.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3257"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g758180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/exploration-musicale/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Exploration musicale (6-9 ans) / Musical exploration (6-9 years old)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours en groupe. Ce cours, donné par Sophianne Fillion et Marie-Hélène da Silva en alternance, a pour but de susciter l’intérêt pour la musique chez les enfants de 6 à 9 ans. Durant les cours, plusieurs instruments seront présentés aux élèves afin d’explorer les différents timbres et sonorités propres à ceux-ci. De plus, les enfants seront invités à participer à des activités ludiques et créatives abordant des concepts musicaux élémentaires. Le cours d’exploration musicale est une initiation à la pratique instrumentale et prépare les jeunes aux cours réguliers. Les cours sont offerts en français seulement pour l'instant.\r\n\r\nLes cours d'exploration musicale ont lieu les samedis matins de 11h15 à 12h00. La session comprendra un total de 13 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nGroup class. This course, led alternately by Sophianne Fillion and Marie-Hélène da Silva, aims to cultivate an interest in music among children aged 6 to 9. Throughout the classes, several instruments will be introduced to the students, allowing them to explore the unique tones and sounds of each instrument. Additionally, the children will be invited to engage in playful and creative activities that cover fundamental musical concepts. The musical exploration course serves as an introduction to instrumental practice and prepares young learners for regular lessons.\r\n\r\nThe music exploration classes take place on Saturday mornings from 11:15 AM to 12:00 PM. The session will consist of a total of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g758180",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/exploration-musicale/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g758200"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "234.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g758200",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/banjo-mandoline/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Banjo ou Mandoline / Banjo or Mandolin"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/banjo-mandoline/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de banjo ou mandoline avec Simon Godbout-Castonguay. Les mercredis, offerts en français ou en anglais. Cours de mandoline ou de banjo avec un répertoire varié et adapté au niveau …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-20T02:47:12+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-18T15:04:57+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/mandoline-1-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Banjo ou Mandoline / Banjo or Mandolin"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/banjo-mandoline/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/banjo-mandoline/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/08/mandoline-1-1.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3300"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g774400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/banjo-mandoline/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Banjo ou Mandoline / Banjo or Mandolin"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de banjo ou mandoline avec Simon Godbout-Castonguay. Les mercredis, offerts en français ou en anglais.\r\n\r\nCours de mandoline ou de banjo avec un répertoire varié et adapté au niveau de l’élève. Les cours sont structurés de manière à ce qu’il soit facile de savoir quoi pratiquer et pendant combien de temps, ce qui aide à créer une routine de pratique amusante et efficace.\r\n\r\nPour la session d’automne, les cours de banjo ou mandoline débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual banjo or mandolin lessons with Simon Godbout-Castonguay on Wednesdays. Offered in French or English.\r\n\r\nBanjo or mandolin lessons with a varied repertoire tailored to the student's level. The lessons are structured to make it easy to know what to practice and for how long, helping to create an enjoyable and effective practice routine.\r\n\r\nBanjo or mandolin lessons will start the week of September 15th and conclude the week of December 8th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g774400",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/banjo-mandoline/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g774420"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g774420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/banjo-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Banjo ou Mandoline (18 ans et moins) / Banjo or Mandolin (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/banjo-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de banjo ou mandoline avec Simon Godbout-Castonguay. Les mercredis, offerts en français ou en anglais. Cours de mandoline ou de banjo avec un répertoire varié et adapté au niveau …"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-20T03:24:28+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-18T15:33:14+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/mandoline-1-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Banjo ou Mandoline (18 ans et moins) / Banjo or Mandolin (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/banjo-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/banjo-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/08/mandoline-1-1.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3307"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g786280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/banjo-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Banjo ou Mandoline (18 ans et moins) / Banjo or Mandolin (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de banjo ou mandoline avec Simon Godbout-Castonguay. Les mercredis, offerts en français ou en anglais.\r\n\r\nCours de mandoline ou de banjo avec un répertoire varié et adapté au niveau de l’élève. Les cours sont structurés de manière à ce qu’il soit facile de savoir quoi pratiquer et pendant combien de temps, ce qui aide à créer une routine de pratique amusante et efficace.\r\n\r\nPour la session d’automne, les cours de banjo ou mandoline débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual banjo or mandolin lessons with Simon Godbout-Castonguay on Wednesdays. Offered in French or English.\r\n\r\nBanjo or mandolin lessons with a varied repertoire tailored to the student's level. The lessons are structured to make it easy to know what to practice and for how long, helping to create an enjoyable and effective practice routine.\r\n\r\nBanjo or mandolin lessons will start the week of September 15th and conclude the week of December 8th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g786280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/banjo-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g786300"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g786300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/basse/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Basse électrique / Electric bass"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/basse/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de basse électrique avec Simon Godbout-Castonguay les mercredis et jeudis ou avec Jonathan-Guillaume Boudreau les jeudis. Cours offerts en français ou en anglais, dans une ambianc…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-20T03:29:35+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-18T02:33:15+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/basse-electrique.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Basse électrique / Electric bass"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/basse/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/basse/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/08/basse-electrique.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3315"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g796280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/basse/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Basse électrique / Electric bass"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de basse électrique avec Simon Godbout-Castonguay les mercredis et jeudis ou avec Jonathan-Guillaume Boudreau les jeudis. Cours offerts en français ou en anglais, dans une ambiance détendue et une approche axée sur le plaisir de jouer et non sur la performance, sachant qu’on apprend davantage dans le plaisir…\r\n\r\nPour la session d’automne, les cours de basse électrique débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual electric bass lessons with Simon Godbout-Castonguay on Wednesdays and Thursdays or with Jonathan-Guillaume Boudreau on Thursdays. Lessons offered in French or English, in a casual atmosphere and an approach focused on the pleasure of playing rather than performance, understanding that we learn more through enjoyment.\r\n\r\nBass lessons will start the week of September 15th and conclude the week of December 8th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g796280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/basse/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g796300"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g796300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/basse-electrique-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Basse électrique (18 ans et moins) / Electric bass (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/basse-electrique-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de basse électrique avec Simon Godbout-Castonguay les mercredis et jeudis ou avec Jonathan-Guillaume Boudreau les jeudis. Cours offerts en français ou en anglais, dans une ambianc…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2021-08-20T03:34:35+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-18T02:29:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2021/08/basse-electrique.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Basse électrique (18 ans et moins) / Electric bass (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/basse-electrique-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/basse-electrique-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2021/08/basse-electrique.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3319"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g808580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/basse-electrique-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Basse électrique (18 ans et moins) / Electric bass (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de basse électrique avec Simon Godbout-Castonguay les mercredis et jeudis ou avec Jonathan-Guillaume Boudreau les jeudis. Cours offerts en français ou en anglais, dans une ambiance détendue et une approche axée sur le plaisir de jouer et non sur la performance, sachant qu’on apprend davantage dans le plaisir…\r\n\r\nPour la session d’automne, les cours de basse électrique débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual electric bass lessons with Simon Godbout-Castonguay on Wednesdays and Thursdays or with Jonathan-Guillaume Boudreau on Thursdays. Lessons offered in French or English, in a casual atmosphere and an approach focused on the pleasure of playing rather than performance, understanding that we learn more through enjoyment.\r\n\r\nBass lessons will start the week of September 15th and conclude the week of December 8th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g808580",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/basse-electrique-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g808600"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g808600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/ukulele-18-ans-et-moins-ukulele-18-years-old-and-under/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ukulélé (18 ans et moins) / Ukulele (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/ukulele-18-ans-et-moins-ukulele-18-years-old-and-under/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de ukulélé offerts les lundis par Olivier Saint-Jean, ainsi que les mercredis par Simon Godbout-Castonguay. En français ou en anglais. Les cours de ukulélé sont l’occasion parfait…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2022-08-09T19:39:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-13T22:27:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2022/08/Copie-de-Copie-de-Copie-de-ukulele.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ukulélé (18 ans et moins) / Ukulele (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/ukulele-18-ans-et-moins-ukulele-18-years-old-and-under/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ukulele-18-ans-et-moins-ukulele-18-years-old-and-under/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2022/08/Copie-de-Copie-de-Copie-de-ukulele.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3911"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g821760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ukulele-18-ans-et-moins-ukulele-18-years-old-and-under/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ukulélé (18 ans et moins) / Ukulele (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de ukulélé offerts les lundis par Olivier Saint-Jean, ainsi que les mercredis par Simon Godbout-Castonguay. En français ou en anglais.\r\n\r\nLes cours de ukulélé sont l’occasion parfaite de découvrir et consolider les bases de cet instrument. Nous explorons un répertoire varié qui permet d’aborder les différentes techniques essentielles au jeu du ukulélé, comme la posture, les différents rythmes de strumming, les mélodies note-par-note, les accords, le finger-picking et l’expressivité musicale. Les professeurs s’adaptent aux préférences de chaque élève. Il est également possible de développer graduellement une aisance à chanter, parce que la voix complémente tellement bien le son du ukulélé.\r\n\r\nPour la session d’automne, les cours de ukulélé débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\n*À noter qu’il n’y aura pas de cours le lundi 13 octobre pour le congé de l’action de grâce.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual ukulele lessons are offered on Mondays by Olivier Saint-Jean, on Wednesdays and Thursdays by Simon Godbout-Castonguay. In French or English.\r\n\r\nUkulele lessons provide the perfect opportunity to discover and solidify the basics of this instrument. We explore a diverse repertoire that covers various essential techniques for playing the ukulele, such as posture, different strumming rhythms, note-by-note melodies, chords, finger-picking, and musical expressiveness. The teachers adapt to each student's preferences. It's also possible to gradually develop comfort in singing, as the voice complements the sound of the ukulele so well.\r\n\r\nFor the winter semester 2025, the ukulele lessons will start the week of Septembre 15th and conclude the week of December 8th, totaling 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\n*Please note that there will be no classes Monday 13th of October for thanksgiving.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nConformément aux exigences du ministère de la Culture et des Communications, le Centre d'art de Richmond s'est doté d'une Politique contre le harcèlement en 2021. Veuillez prendre connaissance de ces documents en cliquant sur les liens suivant: politiques de l'école de musique et politique contre le harcèlement. Nous vous demandons ensuite de cocher les cases ci-bas en guise de signature d'acceptation du fonctionnement de l'école de musique."
+      }
+    ]
+  },
+  {
+    "@id": "_:g821760",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ukulele-18-ans-et-moins-ukulele-18-years-old-and-under/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g821780"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g821780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/ukulele/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ukulélé / Ukulele"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/ukulele/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de ukulélé offerts les lundis par Olivier Saint-Jean, ainsi que les mercredis par Simon Godbout-Castonguay. En français ou en anglais. Les cours de ukulélé sont l’occasion parfait…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2022-08-09T19:51:19+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-14T02:24:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2022/08/Copie-de-Copie-de-Copie-de-ukulele.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ukulélé / Ukulele"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/ukulele/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ukulele/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2022/08/Copie-de-Copie-de-Copie-de-ukulele.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3915"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g833560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ukulele/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ukulélé / Ukulele"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de ukulélé offerts les lundis par Olivier Saint-Jean, ainsi que les mercredis par Simon Godbout-Castonguay. En français ou en anglais.\r\n\r\nLes cours de ukulélé sont l’occasion parfaite de découvrir et consolider les bases de cet instrument. Nous explorons un répertoire varié qui permet d’aborder les différentes techniques essentielles au jeu du ukulélé, comme la posture, les différents rythmes de strumming, les mélodies note-par-note, les accords, le finger-picking et l’expressivité musicale. Les professeurs s’adaptent aux préférences de chaque élève. Il est également possible de développer graduellement une aisance à chanter, parce que la voix complémente tellement bien le son du ukulélé.\r\n\r\nPour la session d'automne, les cours de ukulélé débuteront la semaine du 15 septembre et se termineront la semaine du 8 décembre, pour un total de 13 cours.\r\n\r\n*À noter qu’il n’y aura pas de cours le lundi 13 octobre pour le congé de l’action de grâce.\r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nIndividual ukulele lessons are offered on Mondays by Olivier Saint-Jean, on Wednesdays by Simon Godbout-Castonguay. In French or English.\r\n\r\nUkulele lessons provide the perfect opportunity to discover and solidify the basics of this instrument. We explore a diverse repertoire that covers various essential techniques for playing the ukulele, such as posture, different strumming rhythms, note-by-note melodies, chords, finger-picking, and musical expressiveness. The teachers adapt to each student's preferences. It's also possible to gradually develop comfort in singing, as the voice complements the sound of the ukulele so well.\r\n\r\nFor the winter semester 2025, the ukulele lessons will start the week of Septembre 15th and conclude the week of December 8th, totaling 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g833560",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ukulele/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g833580"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g833580",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/contrebasse/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Contrebasse / Double bass"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/contrebasse/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de contrebasse offerts par Jonathan-Guillaume Boudreau. En français ou en anglais. Le professeur privilégie une approche ludique de l’enseignement en suivant les intérêts de chacu…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-08-15T18:41:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-13T03:31:48+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2023/08/contrebasse.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contrebasse / Double bass"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/contrebasse/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/contrebasse/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2023/08/contrebasse.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4636"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g845640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/contrebasse/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contrebasse / Double bass"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de contrebasse offerts par Jonathan-Guillaume Boudreau. En français ou en anglais.\r\n\r\nLe professeur privilégie une approche ludique de l’enseignement en suivant les intérêts de chacun. Son expérience très variée permet d’aborder une multitude de styles musicaux. Dans une ambiance détendue, son approche est axée sur le plaisir de jouer et non sur la performance, sachant qu’on apprend davantage dans le plaisir…\r\n\r\nPour la session d’automne, les cours de contrebasse se dérouleront les jeudis, du 18 septembre au 11 décembre, pour un total de 13 cours. \r\n\r\nLe concert des élèves de l’école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\n\r\nIndividual double bass lessons are offered by Jonathan-Guillaume Boudreau. In French or in English.\r\n\r\nThe teacher prioritizes a playful teaching approach by following each individual's interests. His highly diverse experience allows the exploration of multiple musical styles. In a relaxed atmosphere, his approach is focused on the joy of playing rather than performance, understanding that we learn more through enjoyment...\r\n\r\n\r\nDouble bass lessons will take place on Thursdays, from September 18th to December 11th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g845640",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/contrebasse/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g845660"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g845660",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/contrebasse-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Contrebasse (18 ans et moins) / double bass (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/contrebasse-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours individuels de contrebasse offerts par Jonathan-Guillaume Boudreau. En français ou en anglais. Le professeur privilégie une approche ludique de l’enseignement en suivant les intérêts de chacu…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-08-15T19:36:11+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-13T03:32:27+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2023/08/contrebasse.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contrebasse (18 ans et moins) / double bass (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/contrebasse-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/contrebasse-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2023/08/contrebasse.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4642"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g857400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/contrebasse-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contrebasse (18 ans et moins) / double bass (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours individuels de contrebasse offerts par Jonathan-Guillaume Boudreau. En français ou en anglais.\r\n\r\nLe professeur privilégie une approche ludique de l’enseignement en suivant les intérêts de chacun. Son expérience très variée permet d’aborder une multitude de styles musicaux. Dans une ambiance détendue, son approche est axée sur le plaisir de jouer et non sur la performance, sachant qu’on apprend davantage dans le plaisir…\r\n\r\nPour la session d'automne, les cours de contrebasse se dérouleront les jeudis, du 18 septembre au 11 décembre, pour un total de 13 cours. \r\n\r\nLe concert des élèves de l'école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\n\r\nIndividual double bass lessons are offered by Jonathan-Guillaume Boudreau. In French or in English.\r\n\r\nThe teacher prioritizes a playful teaching approach by following each individual's interests. His highly diverse experience allows the exploration of multiple musical styles. In a relaxed atmosphere, his approach is focused on the joy of playing rather than performance, understanding that we learn more through enjoyment...\r\n\r\n&amp;nbsp;\r\n\r\n\r\nDouble bass lessons will take place on Thursdays, from September 18th to December 11th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g857400",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/contrebasse-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g857420"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g857420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/djembe-en-groupe/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Percussions (Djembé) en groupe – adultes"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/djembe-en-groupe/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les cours de percussions (djembé) en groupe sont offerts par Jérôme Brochu les lundis de 18h30 à 20h et s’adressent aux adolescents et aux adultes (groupe mixte). En français seulement. Le djembé e…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-08-15T20:40:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T15:47:08+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2023/08/djembe.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Percussions (Djembé) en groupe &amp;#8211; adultes"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/djembe-en-groupe/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/djembe-en-groupe/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2023/08/djembe.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4647"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g867260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/djembe-en-groupe/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Percussions (Djembé) en groupe - adultes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les cours de percussions (djembé) en groupe sont offerts par Jérôme Brochu les lundis de 18h30 à 20h et s’adressent aux adolescents et aux adultes (groupe mixte). En français seulement.\r\n\r\nLe djembé est un instrument festif et rassembleur. Que vous jouiez déjà pour le plaisir ou que vous soyez simplement curieux, ce cours permet de partager la joie du tambour en groupe à travers l'apprentissage de rythmes de l'Afrique de l'Ouest.\r\n\r\nPour la session d'hiver, les cours de djembé en groupe débuteront le lundi 20 janvier et se termineront le 19 mai. Pour un total de 16 cours. \r\n\r\n* À noter qu’il n’y aura pas de cours durant la semaine de relâche du 2 mars. De plus, il y aura un congé le 6 avril pour le lundi de Pâques. \r\n\r\nLe concert des élèves de l'école de musique aura lieu le 24 mai 2026.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nGroup percussion (djembé) lessons are offered by Jérôme Brochu on mondays from 6:30 PM to 8:00 PM and are aimed at teenagers and adults (mixed group). In French only.\r\n\r\nThe djembe is a festive and unifying instrument. Whether you already play for pleasure or are simply curious, these classes provide an opportunity to share the joy of playing the djembe in a group, through the learning of rhythms from West Africa.\r\n\r\nDjembe lessons will take place on Mondays, from January 20h to May 8th, totaling a session of 16 classes.\r\n\r\nThe student’s concert will take place on May 24th, 2026.\r\n\r\n* Please note that there will be no classes during the spring break starting March 2rd. For students registered to Monday classes, there will be a break on April 6th, for Easter.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nVeuillez prendre connaissance des politiques en vigueur en cliquant sur les liens suivants: politiques de l'école de musique et politique contre le harcèlement, puis cocher les cases suivantes en guise de signature d’acceptation du fonctionnement de l’école de musique."
+      }
+    ]
+  },
+  {
+    "@id": "_:g867260",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/djembe-en-groupe/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g867280"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "336.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "416.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/percussions-djembe-en-groupe-12-18-ans/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Percussions (Djembé) en groupe (12-18 ans)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/percussions-djembe-en-groupe-12-18-ans/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les cours de percussions (djembé) en groupe sont offerts par Jérôme Brochu les lundis de 18h30 à 20h et s’adressent aux adolescents et aux adultes (groupe mixte). En français seulement. Le djembé e…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-08-16T12:52:53+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-19T15:35:47+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2023/08/djembe.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Percussions (Djembé) en groupe (12-18 ans)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/percussions-djembe-en-groupe-12-18-ans/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/percussions-djembe-en-groupe-12-18-ans/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2023/08/djembe.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4656"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g879400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/percussions-djembe-en-groupe-12-18-ans/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Percussions (Djembé) en groupe (12-18 ans)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les cours de percussions (djembé) en groupe sont offerts par Jérôme Brochu les lundis de 18h30 à 20h et s’adressent aux adolescents et aux adultes (groupe mixte). En français seulement.\r\n\r\nLe djembé est un instrument festif et rassembleur. Que vous jouiez déjà pour le plaisir ou que vous soyez simplement curieux, ce cours permet de partager la joie du tambour en groupe à travers l'apprentissage de rythmes de l'Afrique de l'Ouest.\r\n\r\nPour la session d'hiver, les cours de djembé en groupe débuteront le lundi 20 janvier et se termineront le 19 mai. Pour un total de 16 cours. \r\n\r\n* À noter qu’il n’y aura pas de cours durant la semaine de relâche du 2 mars. De plus, il y aura un congé le 6 avril pour le lundi de Pâques. \r\n\r\nLe concert des élèves de l'école de musique aura lieu le 24 mai 2026.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nGroup percussion (djembé) lessons are offered by Jérôme Brochu on mondays from 6:30 PM to 8:00 PM and are aimed at teenagers and adults (mixed group). In French only.\r\n\r\nThe djembe is a festive and unifying instrument. Whether you already play for pleasure or are simply curious, these classes provide an opportunity to share the joy of playing the djembe in a group, through the learning of rhythms from West Africa.\r\n\r\nDjembe lessons will take place on Mondays, from January 20h to May 8th, totaling a session of 16 classes.\r\n\r\nThe student’s concert will take place on May 24th, 2026.\r\n\r\n* Please note that there will be no classes during the spring break starting March 2rd. For students registered to Monday classes, there will be a break on April 6th, for Easter.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nVeuillez prendre connaissance des politiques en vigueur en cliquant sur les liens suivants: politiques de l'école de musique et politique contre le harcèlement, puis cocher les cases suivantes en guise de signature d’acceptation du fonctionnement de l’école de musique."
+      }
+    ]
+  },
+  {
+    "@id": "_:g879400",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/percussions-djembe-en-groupe-12-18-ans/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g879420"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "304.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "384.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g879420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Chant classique et pop-jazz / Classical and Pop-jazz Singing"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/chant-pop-jazz/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours de chant pop-jazz avec Marily Dorion les mercredis. Marily Dorion enseigne le chant pop-jazz dans un espace bienveillant avec une approche inclusive, douce et orientée vers l’expression de so…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-12-12T21:38:26+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-13T03:07:34+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2022/08/chant-pop-jazz.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique et pop-jazz / Classical and Pop-jazz Singing"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2022/08/chant-pop-jazz.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5006"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g891740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique et pop-jazz / Classical and Pop-jazz Singing"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours de chant pop-jazz avec Marily Dorion les mercredis.\r\n\r\nMarily Dorion enseigne le chant pop-jazz dans un espace bienveillant avec une approche inclusive, douce et orientée vers l’expression de soi. Cours offerts en français et en anglais. Accompagnement au piano et ou à la guitare pendant la leçon. Lors des cours de chant, l'élève apprend diverses techniques de chant spécifiques au jazz et à la pop afin de développer une gamme vocale, maîtriser la respiration, la posture, le développement du timbre de la voix, etc. Durant la session, l'élève sera amené à développer sa confiance et sa capacité à s’exprimer librement par le chant. Il est possible pour l’élève, s’il détient une base dans un instrument quelconque, d’apprendre à s’accompagner de son instrument en chantant.\r\n\r\nPour la session d'automne, les cours d'ensemble vocal débuteront le mercredi 17 septembre et se termineront le 10 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à roxane@centredartderichmond.ca.\r\n\r\n//\r\n\r\nPop-jazz singing with Marily Dorion on Wednesdays.\r\n\r\nMarily Dorion teaches pop-jazz singing in an nurturing space with an inclusive, gentle, and self-expression-oriented approach. Classes offered in French and English. Piano or guitar accompaniment during the lesson. During singing classes, the student will learn various techniques specific to jazz and pop singing to develop vocal range, master breathing, posture, voice timbre development, etc. Throughout the session, the student will learn to express emotions through singing and develop confidence and the ability to express themselves freely through singing. If the student plays any instrument, it is possible for them to learn to accompany themselves with their instrument while singing.\r\n\r\nLessons will take place on Wednesdays, from Septembre 17th to December 10th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at roxane@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g891740",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g891760"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "429.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "624.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g891760",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz-18-ans-et-moins/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Chant classique et pop-jazz (18 ans et moins) / Classical and Pop-jazz Singing (18 years old and under)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/chant-pop-jazz-18-ans-et-moins/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Cours de chant pop-jazz avec Marily Dorion les mercredis. Marily Dorion enseigne le chant pop-jazz dans un espace bienveillant avec une approche inclusive, douce et orientée vers l’expression de so…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-12-12T21:52:08+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-13T03:03:05+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2022/08/chant-pop-jazz.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique et pop-jazz (18 ans et moins) / Classical and Pop-jazz Singing (18 years old and under)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz-18-ans-et-moins/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2022/08/chant-pop-jazz.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5010"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g901100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chant classique et pop-jazz (18 ans et moins) / Classical and Pop-jazz Singing (18 years old and under)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Cours de chant pop-jazz avec Marily Dorion les mercredis.\r\n\r\nMarily Dorion enseigne le chant pop-jazz dans un espace bienveillant avec une approche inclusive, douce et orientée vers l’expression de soi. Cours offerts en français et en anglais. Accompagnement au piano et ou à la guitare pendant la leçon. Lors des cours de chant, l'élève apprend diverses techniques de chant spécifiques au jazz et à la pop afin de développer une gamme vocale, maîtriser la respiration, la posture, le développement du timbre de la voix, etc. Durant la session, l'élève sera amené à développer sa confiance et sa capacité à s’exprimer librement par le chant. Il est possible pour l’élève, s’il détient une base dans un instrument quelconque, d’apprendre à s’accompagner de son instrument en chantant.\r\n\r\nPour la session d'automne, les cours d'ensemble vocal débuteront le mercredi 17 septembre et se termineront le 10 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nPop-jazz singing with Marily Dorion on Wednesdays.\r\n\r\nMarily Dorion teaches pop-jazz singing in an nurturing space with an inclusive, gentle, and self-expression-oriented approach. Classes offered in French and English. Piano or guitar accompaniment during the lesson. During singing classes, the student will learn various techniques specific to jazz and pop singing to develop vocal range, master breathing, posture, voice timbre development, etc. Throughout the session, the student will learn to express emotions through singing and develop confidence and the ability to express themselves freely through singing. If the student plays any instrument, it is possible for them to learn to accompany themselves with their instrument while singing.\r\n\r\nLessons will take place on Wednesdays, from Septembre 17th to December 10th, totalling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g901100",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/chant-pop-jazz-18-ans-et-moins/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g901120"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "325.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "442.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g901120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/ensemble-vocal-jeunes-en-harmonie-10-18-ans/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ensemble vocal – (10-18 ans)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/ensemble-vocal-jeunes-en-harmonie-10-18-ans/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les cours de chant choral (ensemble vocal) sont offerts les mercredis de 18h30 à 19h45 pour les jeunes de 10 à 18 ans. Le cours propose un répertoire varié adapté à l’âge et aux intérêts du g…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-12-12T22:12:18+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-06-13T02:37:19+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2023/08/choral-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ensemble vocal &amp;#8211; (10-18 ans)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/ensemble-vocal-jeunes-en-harmonie-10-18-ans/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ensemble-vocal-jeunes-en-harmonie-10-18-ans/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2023/08/choral-1.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5015"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g913560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ensemble-vocal-jeunes-en-harmonie-10-18-ans/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ensemble vocal - (10-18 ans)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les cours de chant choral (ensemble vocal) sont offerts les mercredis de 18h30 à 19h45 pour les jeunes de 10 à 18 ans.\r\n\r\nLe cours propose un répertoire varié adapté à l'âge et aux intérêts du groupe : musique populaire, chansons en français, anglais, etc. Les élèves auront l'occasion de se produire en spectacle lors d'événements publics, leur offrant une expérience scénique et un mentorat supplémentaire associé, mais aussi une occasion de développer leur estime personnelle et leur collaboration au sein d'un groupe. Une occasion de s'intégrer, de rayonner et de valoriser l'apprentissage!\r\n\r\nPour la session d'automne, les cours d'ensemble vocal débuteront le mercredi 17 septembre et se termineront le 10 décembre, pour un total de 13 cours.\r\n\r\nLe concert des élèves de l'école de musique aura lieu le 14 décembre 2025.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nChoir (10-18 years old), on Wednesdays from 6:30pm to 7:45pm.\r\n\r\nThe classes offers a diverse repertoire adapted to the age and interests of the group: popular music, songs in French, English, etc. Students will have the opportunity to perform in public events, providing them with stage experience and additional mentorship, as well as a chance to develop their self-esteem and collaboration within a group. An opportunity to integrate a group, to shine, and to enhance the learning experience!\r\n\r\nLessons will take place on Wednesdays, from Septembre 17th to December 10th, totaling a session of 13 classes.\r\n\r\nThe student’s concert will take place on December 14th, 2025.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g913560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g913580"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/ensemble-vocal-jeunes-en-harmonie-10-18-ans/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g913600"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g913580",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "247.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g913600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/initiation-repertoire-trad-en-famille/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Initiation au répertoire traditionnel en famille (micro-programme de 6 semaines)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/cours/initiation-repertoire-trad-en-famille/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Offrez à votre famille des moments inoubliables et créez des souvenirs précieux en participant à six ateliers ludiques et dynamiques de musique et danses traditionnelles! Chansons à répondre et à g…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-08-15T12:28:59+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-04T22:25:22+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Centre d'art de Richmond"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://centredartderichmond.ca/wp-content/uploads/2024/08/Trad.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "371"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Initiation au répertoire traditionnel en famille (micro-programme de 6 semaines)"
+      }
+    ]
+  },
+  {
+    "@id": "https://centredartderichmond.ca/cours/initiation-repertoire-trad-en-famille/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/initiation-repertoire-trad-en-famille/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://centredartderichmond.ca/wp-content/uploads/2024/08/Trad.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5448"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g928040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/initiation-repertoire-trad-en-famille/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Initiation au répertoire traditionnel en famille (micro-programme de 6 semaines)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Offrez à votre famille des moments inoubliables et créez des souvenirs précieux en participant à six ateliers ludiques et dynamiques de musique et danses traditionnelles! Chansons à répondre et à gestes, danses folkloriques, rondes et plus encore seront au menu de cette série d'ateliers.  À travers la découverte du répertoire traditionnel, les familles sont invitées à passer de bons moments ensemble et à devenir les artisans de leur divertissement.  Ce cours permettra aux participants d'acquérir un répertoire leur permettant de faire entrer la tradition dans leur maison, et ce, peu importe leur expérience en chant et en danse. Une occasion de renforcer les liens familiaux et de transmettre un héritage culturel précieux aux jeunes générations, tout en développant sa créativité et son sens du rythme. Pour tous les âges.\r\n\r\nUn minimum de 4 familles inscrites est requis pour démarrer le cours.\r\n\r\nHORAIRE : DIMANCHE DE 10H00 À 11H00 (micro-programme de 6 cours)\r\n\r\nLes cours débutent le 27 septembre.\r\n\r\n**À noter qu’il n’y aura pas de cours le samedi 11 octobre pour le congé de l’action de grâce.\r\n\r\nPour toutes questions, veuillez communiquer avec nous à info@centredartderichmond.ca.\r\n\r\n//\r\n\r\nGive your family unforgettable moments and create precious memories by participating in six fun and dynamic workshops on traditional music and dance! Call-and-response songs, folk dances and more! Through the exploration of traditional repertoire, families are invited to enjoy quality time together and to become the creators of their own entertainment. This course will enable participants to build a repertoire that brings tradition into their homes, regardless of their experience in singing and dancing. It's an opportunity to strengthen family bonds, pass on a valuable cultural heritage to younger generations, and develop creativity and a sense of rhythm. Suitable for all ages.\r\n\r\nA minimum of 4 families is required for the class to take place. We will inform participants as soon as possible.\r\n\r\n SUNDAY 10H00 to 11H00 (micro-programme de 6 cours)\r\n\r\nClasses start on September 27th.\r\n\r\n**Please note that there will be no classes Saturday 11th of October for thanksgiving.\r\n\r\nFor any questions, please contact us at info@centredartderichmond.ca."
+      }
+    ]
+  },
+  {
+    "@id": "_:g928040",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca/cours/initiation-repertoire-trad-en-famille/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g928060"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "150.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "222.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g928060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1989080",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredartderichmond.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&amp;#039;art de Richmond"
+      }
+    ]
+  }
+]
