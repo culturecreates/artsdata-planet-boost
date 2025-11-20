@@ -1,0 +1,5604 @@
+[
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/valence-et-sophia-bel",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Valence et Sophia Bel  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "La Chapelle Hors le murs présente sa soirée de lancement avec Sophia Bel et Valence ! L'adresse exacte de l'événement vous sera transmises quelques semaines avant le spectacle."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_f67422c43b91471ca7c89d6e15eee035~mv2.jpg/v1/fill/w_2939,h_2175,al_c,q_90/fa4add_f67422c43b91471ca7c89d6e15eee035~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2939"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2175"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/valence-et-sophia-bel"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence-et-sophia-bel"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue la Fontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461220",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-15T01:27:34.075Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence-et-sophia-bel"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461240"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461240",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-15T01:27:34.075Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence-et-sophia-bel"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sophia Bel & Valence"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g461260",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_f67422c43b91471ca7c89d6e15eee035~mv2.jpg/v1/fill/w_2939,h_2175,al_c,q_90/fa4add_f67422c43b91471ca7c89d6e15eee035~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2939"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2175"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/1295fd6b-4ac6-4bf5-b2d8-19bd591bac04",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-03T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461200"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461220"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g461260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence-et-sophia-bel"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Valence et Sophia Bel "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La Chapelle Hors le murs présente sa soirée de lancement avec Sophia Bel et Valence ! L'adresse exacte de l'événement vous sera transmises quelques semaines avant le spectacle. &#010;"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/bon-enfant",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Bon enfant | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png/v1/fill/w_3112,h_2075,al_c/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "3112"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2075"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/bon-enfant"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/bon-enfant"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Parc des Vétérans"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "5420 Bd des Vétérans #5370, Lac-Mégantic, QC G6B 2G7, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-24T19:31:25.985Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/bon-enfant"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g470300"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "0.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "0.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470300",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-24T19:31:25.985Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/bon-enfant"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Événement gratuit"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g470320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png/v1/fill/w_3112,h_2075,al_c/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "3112"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2075"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/4c8b683c-8a85-4439-9458-25c213ba93e4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T15:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g470260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g470280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g470320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/bon-enfant"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": " Bon enfant"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique-1",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Yoga et musique classique | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Venez participer à un cours de yoga en plein air ! Le quatuor à cordes Lunes accompagnera, tout en musique, cet événement qui marie musique classique et bien-être. Le cours est donné par Sylvie Bilodeau. Nous vous attendons au Parc des Vétérans à compter de 10h30. Activité gratuite sur réservation."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_8ce389d353ca4cbaaa17a51857d7e325~mv2.png/v1/fill/w_4096,h_2048,al_c/fa4add_8ce389d353ca4cbaaa17a51857d7e325~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "4096"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique-1"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "5420 Bd des Vétérans #5370, Lac-Mégantic, QC G6B 2G7, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477620",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-26T18:09:34.255Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique-1"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477640"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "0.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "0.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477640",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-26T18:09:34.255Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Inscription"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g477660",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_8ce389d353ca4cbaaa17a51857d7e325~mv2.png/v1/fill/w_4096,h_2048,al_c/fa4add_8ce389d353ca4cbaaa17a51857d7e325~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "4096"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2048"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/af39c4f7-198a-4018-8a40-6d73993a60fa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-15T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g477600"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477620"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g477660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Yoga et musique classique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Venez participer à un cours de yoga en plein air ! Le quatuor à cordes Lunes accompagnera, tout en musique, cet événement qui marie musique classique et bien-être. Le cours est donné par Sylvie Bilodeau. Nous vous attendons au Parc des Vétérans à compter de 10h30. Activité gratuite sur réservation. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/martha-wainwright",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Martha Wainwright | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_fe867139b074443f949271c9d1714878~mv2.jpg/v1/fill/w_2500,h_2213,al_c/fa4add_fe867139b074443f949271c9d1714878~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2213"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/martha-wainwright"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/martha-wainwright"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485000",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-21T18:29:20.096Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/martha-wainwright"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485020"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "65.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "65.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485020",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-21T18:29:20.096Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/martha-wainwright"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "74.73"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g485040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_32d668f681b54f4a9a3fd02a5bcf5dea~mv2.jpg/v1/fill/w_2354,h_2886,al_c,q_90/fa4add_32d668f681b54f4a9a3fd02a5bcf5dea~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2354"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2886"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/171dd305-39d2-4c39-bea0-6242de646fbf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-03T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g484980"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485000"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g485040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/martha-wainwright"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Martha Wainwright"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/tire-le-coyote",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Tire le coyote | Festival Colline"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_b39480e19b5b440c92739b6286ade1b5~mv2.png/v1/fill/w_870,h_1080,al_c/fa4add_b39480e19b5b440c92739b6286ade1b5~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "870"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/tire-le-coyote"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g492400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/tire-le-coyote"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Festival Colline"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue Lafontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g492420",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-24T15:55:56.412Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/tire-le-coyote"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g492440"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g492440",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-24T15:55:56.412Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/tire-le-coyote"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "55"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g492460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_b39480e19b5b440c92739b6286ade1b5~mv2.png/v1/fill/w_870,h_1080,al_c/fa4add_b39480e19b5b440c92739b6286ade1b5~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/b4aa6e12-3e57-4424-bec6-afa46e18e8a1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g492400"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g492420"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g492460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/tire-le-coyote"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Tire le Coyote"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "La rando avec Hanorah, Emile Bilodeau, Mon Doux Saigneur  | Festival Colline"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_980f12a1812e447aadaa1164fc13b0df~mv2.png/v1/fill/w_720,h_720,al_c/fa4add_980f12a1812e447aadaa1164fc13b0df~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "720"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "720"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Festival Colline"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3192 Rue Lafontaine, Lac-Mégantic, QC G6B 2K6, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499840",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:51:29.824Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g499860"
+      },
+      {
+        "@id": "_:g499880"
+      },
+      {
+        "@id": "_:g499900"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499860",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:51:29.824Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La rando | DÉPART 19h15"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "51.74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g499880",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:51:29.824Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La rando | DÉPART 20 H"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "51.74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g499900",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:51:29.824Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La rando | DÉPART 20h45"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "51.74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g499920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_980f12a1812e447aadaa1164fc13b0df~mv2.png/v1/fill/w_720,h_720,al_c/fa4add_980f12a1812e447aadaa1164fc13b0df~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "720"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "720"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/b54c5a89-2a78-4fc0-a622-69988400e3ed",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-12T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g499820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g499840"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g499920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-rando-avec-hanorah-emile-bilodeau-mon-doux-saigneur"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La rando avec Hanorah, Emile Bilodeau, Mon Doux Saigneur "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/coeur-de-pirate-presente-perseides",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Coeur de Pirate présente Perséides  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Une soirée tout en douceur avec Coeur de pirate, au piano, accompagnée du Quatuor à cordes LUNES. Une soirée magique sous les étoiles filantes."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_c49d0cc8f514498c972349b8a1a2a9e8~mv2.jpeg/v1/fill/w_800,h_533,al_c,q_85/fa4add_c49d0cc8f514498c972349b8a1a2a9e8~mv2.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "533"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/coeur-de-pirate-presente-perseides"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/coeur-de-pirate-presente-perseides"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue la Fontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508340",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-13T16:23:33.085Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/coeur-de-pirate-presente-perseides"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508360"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "75.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "75.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508360",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-13T16:23:33.085Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/coeur-de-pirate-presente-perseides"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Coeur de Pirate "
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g508380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_c49d0cc8f514498c972349b8a1a2a9e8~mv2.jpeg/v1/fill/w_800,h_533,al_c,q_85/fa4add_c49d0cc8f514498c972349b8a1a2a9e8~mv2.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "533"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/5dc6437b-1d28-4b7b-bcdf-8cf4adeca542",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-15T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g508320"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g508340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g508380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/coeur-de-pirate-presente-perseides"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Coeur de Pirate présente Perséides "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une soirée tout en douceur avec Coeur de pirate, au piano, accompagnée du Quatuor à cordes LUNES. Une soirée magique sous les étoiles filantes. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Yoga et musique classique  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Venez participer à un cours de yoga en plein air ! Le quatuor à cordes Lunes accompagnera, tout en musique, cet événement qui marie musique classique et bien-être. Le cours est donné par Sylvie Bilodeau. Nous vous attendons au Parc des Vétérans à compter de 10h30. Activité gratuite sur réservation."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_e8216c7ba5764b60a450f9d0fb6a734d~mv2.png/v1/fill/w_8001,h_4503,al_c/fa4add_e8216c7ba5764b60a450f9d0fb6a734d~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "8001"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "4503"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "5420 Boulevard des Vétérans #5370, Lac-Mégantic, QC G6B 2G7, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515840",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_e8216c7ba5764b60a450f9d0fb6a734d~mv2.png/v1/fill/w_8001,h_4503,al_c/fa4add_e8216c7ba5764b60a450f9d0fb6a734d~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "8001"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "4503"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/faf72de8-9d8d-4a36-ae74-2220a0583f64",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-15T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515820"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g515840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-et-musique-classique"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Yoga et musique classique "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Venez participer à un cours de yoga en plein air ! Le quatuor à cordes Lunes accompagnera, tout en musique, cet événement qui marie musique classique et bien-être. Le cours est donné par Sylvie Bilodeau. Nous vous attendons au Parc des Vétérans à compter de 10h30. Activité gratuite sur réservation. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt-1",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Ariane Moffatt | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Pop et dansant avec le « super-groupe de l'amitié ! »"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_a9c86777e6914b489ed71cffd7f40280~mv2.jpg/v1/fill/w_2143,h_1280,al_c,q_90/fa4add_a9c86777e6914b489ed71cffd7f40280~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2143"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/ariane-moffatt-1"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522060",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T19:58:00.664Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt-1"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g522080"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "75.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "75.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522080",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T19:58:00.664Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "86.23"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g522100",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_a9c86777e6914b489ed71cffd7f40280~mv2.jpg/v1/fill/w_2143,h_1280,al_c,q_90/fa4add_a9c86777e6914b489ed71cffd7f40280~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2143"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1280"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/b8292c6d-fa9b-4689-ba6d-86ee40f6b742",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-09T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g522040"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g522060"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g522100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ariane Moffatt"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Pop et dansant avec le « super-groupe de l'amitié ! »"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-2",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "La nuit des Perséides | Festival Colline"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_166cad29a9174bb08fd65c40aea97ca3~mv2.jpg/v1/fill/w_1968,h_1920,al_c,q_90/fa4add_166cad29a9174bb08fd65c40aea97ca3~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "1968"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-2"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Festival Colline"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3192 Rue Lafontaine, Lac-Mégantic, QC G6B 2K6, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529540",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:56:45.573Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-2"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g529560"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529560",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:56:45.573Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La nuit des Perséides "
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "63.24"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g529580",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_166cad29a9174bb08fd65c40aea97ca3~mv2.jpg/v1/fill/w_1968,h_1920,al_c,q_90/fa4add_166cad29a9174bb08fd65c40aea97ca3~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1968"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/05ba8fcd-110f-4857-9cbc-e123c0c72e40",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-13T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g529520"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g529540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g529580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La nuit des Perséides"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "RALLUMER LES ÉTOILES | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Un événement en plein air unique, en pleine nature, à Lac-Mégantic. Venez manger dans la prairie et assister à un concert grandiose. Seulement 150 places!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Une ferme en ville "
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 La Fontaine, Lac-Mégantic, G6B2K5"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536960",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-13T18:45:12.739Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g536980"
+      },
+      {
+        "@id": "_:g537000"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "150.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "150.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536980",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-13T18:45:12.739Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Menu régulier"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "172.5"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g537000",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-13T18:45:12.739Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Menu végétarien"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "172.5"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/fa74bad2-ab6b-4342-9ced-af0af2c79e99",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-08-18T04:40:58-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g536940"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g536960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/rallumer-les-etoiles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "RALLUMER LES ÉTOILES"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un événement en plein air unique, en pleine nature, à Lac-Mégantic. Venez manger dans la prairie et assister à un concert grandiose. Seulement 150 places!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/yoga-classique",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Yoga classique  | Festival Colline"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png/v1/fill/w_2876,h_1920,al_c/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2876"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/yoga-classique"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g544620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-classique"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Parc des Vétérans"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "5420 Bd des Vétérans #5370, Lac-Mégantic, QC G6B 2G7, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g544640",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-24T19:31:59.971Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-classique"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g544660"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "0.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "0.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g544660",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-24T19:31:59.971Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-classique"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Événement gratuit"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g544680",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png/v1/fill/w_2876,h_1920,al_c/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2876"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/c80825ae-1c9a-4871-8385-f1e334ea18bf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T11:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g544620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g544640"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g544680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-classique"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Yoga classique "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/etienne-coppee",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Étienne Coppée | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_5c6252202ccd460aba842a13933adb24~mv2.jpg/v1/fill/w_2048,h_1211,al_c,q_90/fa4add_5c6252202ccd460aba842a13933adb24~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1211"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/etienne-coppee"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/etienne-coppee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552140",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T20:16:49.043Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/etienne-coppee"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g552160"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "40.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "40.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g552160",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T20:16:49.043Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/etienne-coppee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "45.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g552180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_5c6252202ccd460aba842a13933adb24~mv2.jpg/v1/fill/w_2048,h_1211,al_c,q_90/fa4add_5c6252202ccd460aba842a13933adb24~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1211"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/f46fd062-68bd-425a-8ccd-97a8a981c48e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-23T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g552120"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g552140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g552180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/etienne-coppee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Étienne Coppée"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/safia-nolin-pomme-presente-damour-et-damitie-de-celie",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Safia Nolin & Pomme  | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "D'amour ou d'amitié, spectacle hommage à Céline Dion."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_e400d9e8a3344c8ba807f1e972702b00~mv2.jpg/v1/fill/w_2500,h_2551,al_c/fa4add_e400d9e8a3344c8ba807f1e972702b00~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2551"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/safia-nolin-pomme-presente-damour-et-damitie-de-celie"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/safia-nolin-pomme-presente-damour-et-damitie-de-celie"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559560",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-21T18:17:44.845Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/safia-nolin-pomme-presente-damour-et-damitie-de-celie"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g559580"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "60.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "60.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559580",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-21T18:17:44.845Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/safia-nolin-pomme-presente-damour-et-damitie-de-celie"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "68.98"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g559600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_dc718ca625ea4a788e6b53d7af09ad46~mv2.jpg/v1/fill/w_1463,h_2048,al_c,q_90/fa4add_dc718ca625ea4a788e6b53d7af09ad46~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1463"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2048"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/24ad9119-7935-46b7-ab6b-00123e830168",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-22T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g559540"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g559560"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g559600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/safia-nolin-pomme-presente-damour-et-damitie-de-celie"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Safia Nolin &amp; Pomme présente d'amour et d'amitié de célie"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Ariane Moffatt | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Une soirée magique avec Ariane Moffatt, accompagnée de son Quatuor à cordes Les Mommies on the run."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_65e38b05b60e442d899da6e7c97bd247~mv2.jpg/v1/fill/w_2143,h_1280,al_c,q_90/fa4add_65e38b05b60e442d899da6e7c97bd247~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2143"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/ariane-moffatt"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue la Fontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567020",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-19T13:30:46.065Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g567040"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "75.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "75.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567040",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-19T13:30:46.065Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ariane Moffatt "
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g567060",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_65e38b05b60e442d899da6e7c97bd247~mv2.jpg/v1/fill/w_2143,h_1280,al_c,q_90/fa4add_65e38b05b60e442d899da6e7c97bd247~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2143"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1280"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/4bd7f3b9-f812-420a-a271-1508cb69f4ec",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-17T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g567000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g567020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g567060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/ariane-moffatt"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ariane Moffatt"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une soirée magique avec Ariane Moffatt, accompagnée de son Quatuor à cordes Les Mommies on the run. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/clay-and-friends",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Clay and Friends  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Un spectacle haute en couleurs avec le dynamique groupe Clay and Friends."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_17397f85e6b443fe9d0717348ca4c683~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85/fa4add_17397f85e6b443fe9d0717348ca4c683~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/clay-and-friends"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/clay-and-friends"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue la Fontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574520",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-19T13:32:28.894Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/clay-and-friends"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g574540"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574540",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-19T13:32:28.894Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/clay-and-friends"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Clay and Friends "
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g574560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_17397f85e6b443fe9d0717348ca4c683~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85/fa4add_17397f85e6b443fe9d0717348ca4c683~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/35e572dd-c0bb-4923-a6ec-a3562c80cb69",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-31T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g574500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g574520"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g574560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/clay-and-friends"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Clay and Friends "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un spectacle haute en couleurs avec le dynamique groupe Clay and Friends. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/geoffroy",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Geoffroy | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Geoffroy est une voix émergente de la musique canadienne. Suite à a sortie de deux albums qui l&#39;ont défini comme un des artistes les plus prometteurs du Québec, cet artiste montréalais d&#39;origine pousuit l&#39;avancée de sa carrière avec la sortie d&#39;un troisième album autoproduit, Live Slow Die Wise. </p>\n<p>Le parcours de cet album paru en 2022 a débuté avec la parution du single &#34;Cold World&#34; en juin 2021, une chanson intime    et songeuse qui représente parfaitement le ton de l&#39;album. Celui-ci st pourvu d&#39;un timbre mystérieux, un voyage romantique à travers la conscience de l&#39;artiste, un regard porté vers l&#39;intérieur en temps de solitude. </p>\n<p>“Live Slow Die Wise” est l&#39;histoire intemporelle de la société individualiste et de l&#39;égo&#34; mentionne Geoffroy. &#34;Nous sommes poussés par cette incessante poursuite de croissance, d&#39;innovation et de profit. Mais à quel coût?&#34; </p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_3fc2e808746b42b88c48ab8cce33fbad~mv2.jpg/v1/fill/w_2000,h_1546,al_c,q_90/fa4add_3fc2e808746b42b88c48ab8cce33fbad~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1546"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/geoffroy"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/geoffroy"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582020",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:39:35.171Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/geoffroy"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g582040"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582040",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-10T18:39:35.171Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/geoffroy"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "63.24"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g582060",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_3fc2e808746b42b88c48ab8cce33fbad~mv2.jpg/v1/fill/w_2000,h_1546,al_c,q_90/fa4add_3fc2e808746b42b88c48ab8cce33fbad~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1546"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/ca7e3a0c-8986-4a5b-93a2-96a98c97ecf6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-02T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g582000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g582020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g582060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/geoffroy"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Geoffroy"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/choses-sauvages",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Choses Sauvages | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_2ff47949da22425da3237b5b9dab3ff7~mv2.jpg/v1/fill/w_1920,h_1920,al_c,q_90/fa4add_2ff47949da22425da3237b5b9dab3ff7~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/choses-sauvages"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/choses-sauvages"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590920",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-21T18:21:59.394Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/choses-sauvages"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g590940"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590940",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-21T18:21:59.394Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/choses-sauvages"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "51.74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g590960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_2ff47949da22425da3237b5b9dab3ff7~mv2.jpg/v1/fill/w_1920,h_1920,al_c,q_90/fa4add_2ff47949da22425da3237b5b9dab3ff7~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/b1b1af6c-4847-496b-ab50-dd05f7fbcccd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-30T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g590900"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g590920"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g590960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/choses-sauvages"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Choses Sauvages"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "LA NUIT DES PERSÉIDES  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/628fc4a7-c577-4a36-9fa2-0accb936e9fb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-14T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g598100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "LA NUIT DES PERSÉIDES "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/valence",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Valence  | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_26ff41bb129546609a35ab6858645eda~mv2.jpg/v1/fill/w_3000,h_1989,al_c,q_90/fa4add_26ff41bb129546609a35ab6858645eda~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "3000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1989"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/valence"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603860",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T20:19:47.337Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g603880"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g603880",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T20:19:47.337Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "40.24"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g603900",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_26ff41bb129546609a35ab6858645eda~mv2.jpg/v1/fill/w_3000,h_1989,al_c,q_90/fa4add_26ff41bb129546609a35ab6858645eda~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "3000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1989"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/0ba05416-98a8-45d4-a85f-6f8633d9ea90",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-27T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g603840"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g603860"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g603900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/valence"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Valence "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/fanny-bloom",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Fanny Bloom | Chapelle du rang 1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_82eb2583fcfb436caa12b242d03c2f9a~mv2.jpg/v1/fill/w_2500,h_2549,al_c/fa4add_82eb2583fcfb436caa12b242d03c2f9a~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2549"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/fanny-bloom"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g611260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/fanny-bloom"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chapelle du rang 1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3394 Rue Agnès, Lac-Mégantic, QC G6B 1L3, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g611280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T20:06:36.956Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/fanny-bloom"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g611300"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g611300",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-03T20:06:36.956Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/fanny-bloom"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Admission générale"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "40.24"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g611320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_e5cda954db94443ead58a81e57f2c5de~mv2.jpg/v1/fill/w_1365,h_2048,al_c,q_90/fa4add_e5cda954db94443ead58a81e57f2c5de~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2048"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/636686cf-4d18-4da6-a6d3-d5850c446a0a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-07-16T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g611260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g611280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g611320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/fanny-bloom"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Fanny Bloom"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/bon-enfant-1",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Bon enfant | Festival Colline"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Spectacle gratuit au Parc des Vétérans avec Bon enfant, pour un dimanche festif!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png/v1/fill/w_3112,h_2075,al_c/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "3112"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2075"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/bon-enfant-1"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/bon-enfant-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Parc des Vétérans"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "5420 Bd des Vétérans #5370, Lac-Mégantic, QC G6B 2G7, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618680",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png/v1/fill/w_3112,h_2075,al_c/fa4add_ae587c08f369473ca0569d33ce3cf234~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "3112"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2075"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/50b42910-e76a-452b-b00f-f1314852e321",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T15:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g618660"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g618680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/bon-enfant-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bon enfant"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-1",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "La nuit des Perséides  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Un spectacle unique avec Flore Laurentienne, le collectif de cirque Sanctuaire et Beyries. Le tout, sous le ciel étoile, en pleine pluie d'étoiles filantes."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_0bf4292f08304ccdb92e6d406b8ba56b~mv2.jpg/v1/fill/w_2400,h_1600,al_c,q_90/fa4add_0bf4292f08304ccdb92e6d406b8ba56b~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1600"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-1"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue Lafontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624840",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-12T00:51:25.489Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-1"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g624860"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "90.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "90.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624860",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-12T00:51:25.489Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Régulier "
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "90"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g624880",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_0bf4292f08304ccdb92e6d406b8ba56b~mv2.jpg/v1/fill/w_2400,h_1600,al_c,q_90/fa4add_0bf4292f08304ccdb92e6d406b8ba56b~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2400"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1600"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/8f7e55ae-12c9-42c5-97c2-e72cd366ecf6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-14T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g624820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g624840"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g624880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-nuit-des-perseides-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La nuit des Perséides "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un spectacle unique avec Flore Laurentienne, le collectif de cirque Sanctuaire et Beyries. Le tout, sous le ciel étoile, en pleine pluie d'étoiles filantes. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "La randonnée musicale | Kanen - Pilou - Lumière  | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Une expérience hors du commun, en pleine nature. Découvrez, lors d'une balade dans le bois, Kanen, Pilou et le groupe Lumière. Une expérience immersive à ne pas manquer."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_fd5da8c202fc42f79d4de327b1e312a3~mv2.jpg/v1/fill/w_3810,h_2543,al_c,q_90/fa4add_fd5da8c202fc42f79d4de327b1e312a3~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "3810"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "2543"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lac-Mégantic"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "3291 Rue Lafontaine, Lac-Mégantic, QC G6B 2K5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632340",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-10T13:28:35.463Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g632360"
+      },
+      {
+        "@id": "_:g632380"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632360",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-10T13:28:35.463Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "19h30"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "55"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g632380",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-10T13:28:35.463Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "20h30"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "55"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/SoldOut"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g632400",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_fd5da8c202fc42f79d4de327b1e312a3~mv2.jpg/v1/fill/w_3810,h_2543,al_c,q_90/fa4add_fd5da8c202fc42f79d4de327b1e312a3~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "3810"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "2543"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/62f46ce2-9ad4-4c92-8b9d-97eae4ec6700",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-13T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g632320"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g632340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g632400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/la-randonnee-musicale-kanen-pilou-lumiere"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La randonnée musicale | Kanen - Pilou - Lumière "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une expérience hors du commun, en pleine nature. Découvrez, lors d'une balade dans le bois, Kanen, Pilou et le groupe Lumière. Une expérience immersive à ne pas manquer. "
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/event-details/yoga-classique-2",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Yoga classique | chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Faites de votre dimanche matin un moment actif et culturel en venant assister au cours de yoga donné par Sylvie Bilodeau. Elle sera accompagné du Quatuor Lunes qui présentera un répertoire de musique classique pour accompagner votre pratique. Bien-être garanti pour cette activité dans le cadre du festival Colline. </p>\n<p></p>\n<p>Événement gratuit au Parc des Vétérans. Aucune réservation requise. </p>\n<p></p>\n<p>Prévoyez votre matelas, une bouteille d&#39;eau et de la crème solaire. </p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png/v1/fill/w_2876,h_1920,al_c/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2876"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.chapelledurang1.com/event-details/yoga-classique-2"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "chapelledurang1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g640340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-classique-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Parc des Vétérans"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "5420 Bd des Vétérans #5370, Lac-Mégantic, QC G6B 2G7, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g640360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png/v1/fill/w_2876,h_1920,al_c/fa4add_196eacb445c24246939a93765dd0dd71~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "2876"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1920"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.chapelledurang1.com/temporary/07519c05-96bf-412e-aa3f-2ed2f6c45cb6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-14T11:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g640340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g640360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.chapelledurang1.com/event-details/yoga-classique-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Yoga classique"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
