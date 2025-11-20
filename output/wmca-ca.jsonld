@@ -1,0 +1,5247 @@
+[
+  {
+    "@id": "https://www.wmca.ca/events/delhi2dublin",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "WMCA presents Delhi 2 Dublin —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/delhi2dublin"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/682f6f665ef8a449009eceda/1760626712907/WMCA+Site+Scroller+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/delhi2dublin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/99b6c1a9-0380-4169-99db-95d95b4e6ae3",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/delhi2dublin"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/6d3a8ba1-2660-4693-b412-6ac3e10d687b",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/delhi2dublin"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/fb40e93f-09fc-44a3-a917-2e8a662d8c60",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/682f6f665ef8a449009eceda/1760626712907/WMCA+Site+Scroller+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g470120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/delhi2dublin"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "WMCA presents Delhi 2 Dublin —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T21:30:00-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/ocrjeesati7pcx0t9r65lpzwp3ix35",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "New Era Winter Concert 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/ocrjeesati7pcx0t9r65lpzwp3ix35"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "‍  ‍"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/691debccf298ca19950e4d90/1763569094974/neweralogo.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "217"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/ocrjeesati7pcx0t9r65lpzwp3ix35"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/21a2f0cb-6af6-494f-bbb3-bec120873c78",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/ocrjeesati7pcx0t9r65lpzwp3ix35"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/fcf3d4fc-0a40-4b92-a0e1-b43ffeaeecd5",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/ocrjeesati7pcx0t9r65lpzwp3ix35"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/7653ba86-b751-4e48-a221-04750d898abf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/691debccf298ca19950e4d90/1763569094974/neweralogo.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g478380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/ocrjeesati7pcx0t9r65lpzwp3ix35"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New Era Winter Concert 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T18:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T19:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/crocus-plains-choir-crocus-plainsneelin-band-concert-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crocus Plains Choir + Crocus Plains/Neelin Band Concert 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/crocus-plains-choir-crocus-plainsneelin-band-concert-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "‍  ‍"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-choir-crocus-plainsneelin-band-concert-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/f4c61f5f-9215-4adb-8cbf-19851dc251e9",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-choir-crocus-plainsneelin-band-concert-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/00db10e4-cf7a-49d9-85ed-783a1487e398",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-choir-crocus-plainsneelin-band-concert-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/db69aa79-8312-44dd-9ded-a306eb34223c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g486480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-choir-crocus-plainsneelin-band-concert-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crocus Plains Choir + Crocus Plains/Neelin Band Concert 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/crocus-plains-regional-school-presents-amelie-the-musical",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Crocus Plains Regional School presents Amelie the Musical —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/crocus-plains-regional-school-presents-amelie-the-musical"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6917869d59856226e375cd08/1763497164495/amelie2026scroller.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "252"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-regional-school-presents-amelie-the-musical"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/3d785bf6-e198-40fe-9736-cc37b4340040",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-regional-school-presents-amelie-the-musical"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/30e57ba1-2522-4300-aa3c-7209ef392af2",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-regional-school-presents-amelie-the-musical"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/e3f7e6c5-c71e-45c9-afee-0952819ffea4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6917869d59856226e375cd08/1763497164495/amelie2026scroller.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g494260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/crocus-plains-regional-school-presents-amelie-the-musical"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crocus Plains Regional School presents Amelie the Musical —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-19T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T16:30:00-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/meadows-school-christmas-concert-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Meadows School Christmas Concert 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/meadows-school-christmas-concert-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "‍  ‍"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/69160ebc16ff9f7f406795d5/1763077052765/meadowsschoolconcert2025scroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/meadows-school-christmas-concert-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/c2a96202-81f9-4979-b946-3bb74a1b7b51",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/meadows-school-christmas-concert-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/7b144de3-e35f-4117-b174-2135c18b51c8",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/meadows-school-christmas-concert-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/ee613598-843a-4486-a739-852829ca37a5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/69160ebc16ff9f7f406795d5/1763077052765/meadowsschoolconcert2025scroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g502300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/meadows-school-christmas-concert-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Meadows School Christmas Concert 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T18:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T19:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/mecca-family-holiday-concert-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Mecca Family Holiday Concert 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/mecca-family-holiday-concert-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6914b0144d7cb176f30eafa2/1762964243225/meccadec2025conscroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "148"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/mecca-family-holiday-concert-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/16950046-d066-4805-9275-1d7678f1250e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/mecca-family-holiday-concert-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/fd6f9b90-9f5d-4354-971f-f946656a37da",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/mecca-family-holiday-concert-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/3cbae98c-655b-4c35-8c1c-a9bb508bfa54",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6914b0144d7cb176f30eafa2/1762964243225/meccadec2025conscroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/mecca-family-holiday-concert-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mecca Family Holiday Concert 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T15:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T16:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/wmca-wjo-present-a-charlie-brown-christmas",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "WMCA & WJO present A Charlie Brown Christmas —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/wmca-wjo-present-a-charlie-brown-christmas"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/6904d4bd9afbe248f12c748b/1761924292155/Screenshot+2025-10-30+at+9.27.09%E2%80%AFPM.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "976"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1508"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-wjo-present-a-charlie-brown-christmas"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/1d7962f0-bd1f-4ecd-868f-408f3097233e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-wjo-present-a-charlie-brown-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/267fa12d-0047-4746-a449-1d14cebb70e6",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-wjo-present-a-charlie-brown-christmas"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/32c86908-c353-43a1-85f6-58a6433a6c4c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/6904d4bd9afbe248f12c748b/1761924292155/Screenshot+2025-10-30+at+9.27.09%E2%80%AFPM.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g518460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-wjo-present-a-charlie-brown-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "WMCA & WJO present A Charlie Brown Christmas —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T15:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T17:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/wso-holiday-tour-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "WSO Holiday Tour 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/wso-holiday-tour-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "‍  ‍"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/690904fb8a938f1580850089/1762199603489/wsogenericscroller.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wso-holiday-tour-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/9b660824-3fdf-4a19-89b6-bed584f4fc37",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wso-holiday-tour-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/b82cc9d7-4b23-449d-9314-90ba48009164",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wso-holiday-tour-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/a490c2f6-318a-4712-80cb-ff3619d24ec3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/690904fb8a938f1580850089/1762199603489/wsogenericscroller.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g526620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wso-holiday-tour-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "WSO Holiday Tour 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T21:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/elton-john-tribute",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "An Evening with Elton John Tribute —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/elton-john-tribute"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6900ed1192526571bc0bf32c/1762367632981/elton.webp?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "204"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/elton-john-tribute"
+      }
+    ]
+  },
+  {
+    "@id": "_:g534760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/b5628d19-c923-4093-ab28-f1cafc22a5df",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/elton-john-tribute"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/e345d03a-f8c4-4160-b108-e939d26afab4",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/elton-john-tribute"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/4eff8d7d-7cbf-4364-a67e-d6164706e640",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6900ed1192526571bc0bf32c/1762367632981/elton.webp?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g534760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/elton-john-tribute"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "An Evening with Elton John Tribute —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-08T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-08T21:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/bu-symphonic-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "BU Symphonic Band Concert 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/bu-symphonic-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68f27bc8abd9c62cf624da98/1760722236216/busymph2024scrollerneededit.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "266"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/bu-symphonic-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g542880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/4ff3d8c3-2ec2-4163-8b43-7098a28ee52b",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/bu-symphonic-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/ff918241-089b-491a-a2fa-65146a1f916d",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/bu-symphonic-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/3bf7b92a-8c3b-47d0-be66-65be6b1a65d7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68f27bc8abd9c62cf624da98/1760722236216/busymph2024scrollerneededit.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g542880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/bu-symphonic-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BU Symphonic Band Concert 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-30T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-30T20:30:00-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/snowed-in-comedy-tour-2026",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Snowed In Comedy Tour 2026 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/snowed-in-comedy-tour-2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68e7d365a6882e008d4a5384/1761578364099/snowedin-ad-300x250-erica+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "250"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/snowed-in-comedy-tour-2026"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/8d76b428-d78a-4211-8e87-39e30b2f8798",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/snowed-in-comedy-tour-2026"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/160797bc-5f94-47b5-912a-c81656bac5b3",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/snowed-in-comedy-tour-2026"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/7832c603-acf2-45d1-83b1-37bd0bfed2e6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68e7d365a6882e008d4a5384/1761578364099/snowedin-ad-300x250-erica+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g550900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/snowed-in-comedy-tour-2026"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Snowed In Comedy Tour 2026 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-12T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-12T21:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/wmca-presents-jaca",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "WMCA Presents: Jâca —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/wmca-presents-jaca"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68e3ef5c80f752548c5fae35/1762378097519/jacascroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-jaca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g559360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/ee63e066-cc4e-4921-af9f-07dfa1a5c1f7",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-jaca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/4a1d061c-0da8-44bf-87d5-86698725267f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-jaca"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/55bc8354-32c2-4499-acc4-661c8909019a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68e3ef5c80f752548c5fae35/1762378097519/jacascroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g559360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-jaca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "WMCA Presents: Jâca —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T15:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/vincent-masseys-once-upon-a-one-more-time",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Vincent Massey's \"Once Upon A One More Time\" —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/vincent-masseys-once-upon-a-one-more-time"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68e027ebede0d73bacdebc5b/1759855951190/vmonceupononemoretimescroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/vincent-masseys-once-upon-a-one-more-time"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/d5254fb1-60b5-4751-97e8-43068b7518d1",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/vincent-masseys-once-upon-a-one-more-time"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/b355ac38-143f-4497-9d25-52b981d96afc",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/vincent-masseys-once-upon-a-one-more-time"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/25f0f49b-4080-43fd-be9c-c3c4b68506e0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68e027ebede0d73bacdebc5b/1759855951190/vmonceupononemoretimescroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g567480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/vincent-masseys-once-upon-a-one-more-time"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Vincent Massey's \"Once Upon A One More Time\" —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T21:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/wmca-presents-the-abrams",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "WMCA Presents: The Abrams —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/wmca-presents-the-abrams"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68decbf050b6746273ecd9eb/1759432322670/Webscroller.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-the-abrams"
+      }
+    ]
+  },
+  {
+    "@id": "_:g575460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/f5b4abc1-3c5c-4d53-9db0-845619b8f534",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-the-abrams"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/5b3e7a20-af65-40b2-b12b-f4c738440834",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-the-abrams"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/1a37f6e5-7843-42de-bc46-0763cbc09c61",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68decbf050b6746273ecd9eb/1759432322670/Webscroller.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g575460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-the-abrams"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "WMCA Presents: The Abrams —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-29T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-29T21:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/amero-little-christmas",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Amero Little Christmas —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/amero-little-christmas"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68d451cd8b0b3a07b26ee244/1762275850594/amerochristmasscrolelrupdate.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "225"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/amero-little-christmas"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/2614b5c6-cdb6-4a2a-b5fd-0547a7e4d489",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/amero-little-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/c4fd662f-563d-431b-a897-3da2c1e4e3c3",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/amero-little-christmas"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/e37ce3f3-f0f9-42cc-a538-8a90647436f1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68d451cd8b0b3a07b26ee244/1762275850594/amerochristmasscrolelrupdate.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g583460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/amero-little-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Amero Little Christmas —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T21:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/the-games-afoot-atc",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Game's Afoot - ATC —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/the-games-afoot-atc"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68d19792f6aa8265a65bd05b/1758566808012/atcgamesafoorscroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "350"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "452"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-games-afoot-atc"
+      }
+    ]
+  },
+  {
+    "@id": "_:g591600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/58340e68-6f07-4a1d-9a47-ea048cb8919c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-games-afoot-atc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/cc027920-60ef-40bf-b2f6-3a90ad4b84ac",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-games-afoot-atc"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/621cd164-1512-4843-8336-115de80341ef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68d19792f6aa8265a65bd05b/1758566808012/atcgamesafoorscroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g591600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-games-afoot-atc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Game's Afoot - ATC —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T21:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/jake-vaadeland-the-sturgeon-river-boys-good-gracious-its-christmas",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Jake Vaadeland & The Sturgeon River Boys: Good Gracious, It's Christmas! —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/jake-vaadeland-the-sturgeon-river-boys-good-gracious-its-christmas"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68c07ffdaf5d422c367af00f/1757520047497/jakev2025scroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/jake-vaadeland-the-sturgeon-river-boys-good-gracious-its-christmas"
+      }
+    ]
+  },
+  {
+    "@id": "_:g599640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/1c7cf2d6-1ef9-46d9-a3fe-013f83b5a14a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/jake-vaadeland-the-sturgeon-river-boys-good-gracious-its-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/5e57f12e-3f5b-4084-86db-3cebc80e33ff",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/jake-vaadeland-the-sturgeon-river-boys-good-gracious-its-christmas"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/eaf6afbd-e17d-4c19-ab59-46172dbfb15c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68c07ffdaf5d422c367af00f/1757520047497/jakev2025scroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g599640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/jake-vaadeland-the-sturgeon-river-boys-good-gracious-its-christmas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jake Vaadeland & The Sturgeon River Boys: Good Gracious, It's Christmas! —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-19T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-19T21:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/87sj5kdcpll16g416s9o1tq30g3r0k",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "School Of Rock - Neelin Highschool Production —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/87sj5kdcpll16g416s9o1tq30g3r0k"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68bf35f0f070f83c80aca7bf/1761753331775/schoolofrock2025scroller.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "279"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/87sj5kdcpll16g416s9o1tq30g3r0k"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/8db4b476-ffdf-40c6-94be-579ebe5bc15e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/87sj5kdcpll16g416s9o1tq30g3r0k"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/5ea2c199-12ef-4947-a1a8-644ee7a0a59d",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/87sj5kdcpll16g416s9o1tq30g3r0k"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/0c7d00c1-753b-44ba-913e-484022bc85fe",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68bf35f0f070f83c80aca7bf/1761753331775/schoolofrock2025scroller.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g607680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/87sj5kdcpll16g416s9o1tq30g3r0k"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "School Of Rock - Neelin Highschool Production —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T22:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/brent-butt",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Brent Butt @ The WMCA —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/brent-butt"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68b729ff38c6ac1a79a295c4/1756998729412/BrentButt+2025+400x400+Brandon+MB.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/brent-butt"
+      }
+    ]
+  },
+  {
+    "@id": "_:g615720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/1c454110-02d6-4e24-85bd-38cc33f2848a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/brent-butt"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/63431da0-67bc-4e17-9c24-d7916d0dc71a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/brent-butt"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/ee060a5b-9977-422e-acd3-d5578dfa47ef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68b729ff38c6ac1a79a295c4/1756998729412/BrentButt+2025+400x400+Brandon+MB.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g615720"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/brent-butt"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Brent Butt @ The WMCA —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T21:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/a-mecca-production-of-hamlet",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Mecca Production Presents William Shakespeare's Hamlet —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/a-mecca-production-of-hamlet"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68a4a8f45168220f1e5ddf30/1755625305779/meccahamletscroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "218"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-hamlet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g623820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/e4fea0b0-3af4-40fb-8006-7e5b3ba4af1f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-hamlet"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/165e47d3-a007-4f86-a298-0068c2c2129a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-hamlet"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/fd8036cd-1137-477e-b52d-29af92649c35",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68a4a8f45168220f1e5ddf30/1755625305779/meccahamletscroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g623820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-hamlet"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mecca Production Presents William Shakespeare's Hamlet —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-26T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-28T18:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/a-mecca-production-of-disneys-frozen",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "A Mecca Production of Disney's Frozen —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/a-mecca-production-of-disneys-frozen"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68a49f5237405a2b39db923d/1763160565673/meccafrozenscroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-disneys-frozen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g631880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/0b1f6817-8f42-48c7-9d7d-99f5b88658f5",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-disneys-frozen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/1bcaa964-9bd7-4380-9337-1fc2db6b73be",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-disneys-frozen"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/4e18a759-e286-4170-87f0-79ad427fd46f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68a49f5237405a2b39db923d/1763160565673/meccafrozenscroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g631880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-disneys-frozen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "A Mecca Production of Disney's Frozen —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-03T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T22:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/a-mecca-production-of-young-frankenstein",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Mecca Production Presents The Mel Brooks Musical Young Frankenstein —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/a-mecca-production-of-young-frankenstein"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68a4b557fd13ad19b5f85569/1755625294776/meccayoungfrankensteinscroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "218"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-young-frankenstein"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/73a21633-3439-4fc4-a9a9-0bf3eb6f5794",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-young-frankenstein"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/18bbc843-ecee-46fc-a600-bc62bfe53a16",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-young-frankenstein"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/280f8a12-01c3-4c54-b2b3-bcba9bf40efd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68a4b557fd13ad19b5f85569/1755625294776/meccayoungfrankensteinscroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g639960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/a-mecca-production-of-young-frankenstein"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mecca Production Presents The Mel Brooks Musical Young Frankenstein —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-12T17:30:00-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/dallas-smith-his-band-one-night-only-unplugged",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Dallas Smith + His Band: One Night Only (Unplugged) —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/dallas-smith-his-band-one-night-only-unplugged"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/689644145387b46992ef6737/1755536731270/dallasscroller2025.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/dallas-smith-his-band-one-night-only-unplugged"
+      }
+    ]
+  },
+  {
+    "@id": "_:g648160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/41609c9f-909c-4653-bb10-389ac3d996da",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/dallas-smith-his-band-one-night-only-unplugged"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/c5996430-8cb5-491f-a627-573f2991e331",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/dallas-smith-his-band-one-night-only-unplugged"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/ea6ecdfb-90a3-4265-9208-6b56117fb5fa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/689644145387b46992ef6737/1755536731270/dallasscroller2025.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g648160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/dallas-smith-his-band-one-night-only-unplugged"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dallas Smith + His Band: One Night Only (Unplugged) —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T19:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T21:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/roy-orbinson-wmca-5cnt6",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "VaughnCo Entertainment presents - Hotel California: The Original Eagle's Tribute 2026 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/roy-orbinson-wmca-5cnt6"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68700affcb5e45420af5c071/1752851607964/hcaliforniascroller2025.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/roy-orbinson-wmca-5cnt6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/9c260e2a-7738-4e7b-80a1-711ae42535eb",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/roy-orbinson-wmca-5cnt6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/4fe54cb2-a7e9-4fc0-bf16-322f58b22eca",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/roy-orbinson-wmca-5cnt6"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/e6cce12a-2336-4042-bce5-2f3abeb3e7cc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/68700affcb5e45420af5c071/1752851607964/hcaliforniascroller2025.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g656180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/roy-orbinson-wmca-5cnt6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "VaughnCo Entertainment presents - Hotel California: The Original Eagle's Tribute 2026 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T21:30:00-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/wmca-presents-sloan",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "*Rescheduled* WMCA presents: SLOAN —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "en-ca",
+        "@value": "205 20th Street"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": "Brandon"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "en-ca",
+        "@value": "MB"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "en-ca",
+        "@value": "R7B 1L7"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "en-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/wmca-presents-sloan"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/66f5ac075717c31a016b3b4b/1752679728852/WMCA+Site+Scroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-sloan"
+      }
+    ]
+  },
+  {
+    "@id": "_:g664180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "205 20th Street\nBrandon, MB, R7B 1L7\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/ffad765d-580c-4917-b695-e384b331c91c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-sloan"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/33d8ef23-f994-4a0c-8eb0-49f8cad85da5",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-sloan"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/32e0eb42-8714-4ac5-b262-e38cf6090a00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/66f5ac075717c31a016b3b4b/1752679728852/WMCA+Site+Scroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g664180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/wmca-presents-sloan"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "*Rescheduled* WMCA presents: SLOAN —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-24T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-24T21:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/the-music-of-hans-zimmer",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Music of Hans Zimmer & Others *POSTPONED* —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/the-music-of-hans-zimmer"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/684def3d3a808b2d9ad2f8c0/1762807686126/2.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "335"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-hans-zimmer"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/e4757690-5352-4c82-963f-e1af53daa9be",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-hans-zimmer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/953a788e-cd88-48cb-ae3a-18a9ab529589",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-hans-zimmer"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/f9330886-e2fa-401b-b806-5fb0e1b93e81",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/684def3d3a808b2d9ad2f8c0/1762807686126/2.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g672380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-hans-zimmer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Music of Hans Zimmer &amp; Others *POSTPONED* —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T20:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T22:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/the-music-of-lord-of-the-rings-the-hobbit-rings-of-power",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Music of Lord of The Rings, The Hobbit & Rings of Power *POSTPONED* —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/the-music-of-lord-of-the-rings-the-hobbit-rings-of-power"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/684ded57efa2713a283b1639/1762807666620/1+%281%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "335"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-lord-of-the-rings-the-hobbit-rings-of-power"
+      }
+    ]
+  },
+  {
+    "@id": "_:g680400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/def44527-f76f-45a3-bfee-e6bd744c34e3",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-lord-of-the-rings-the-hobbit-rings-of-power"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/00e3166d-adf6-476a-abf7-bc94fae961de",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-lord-of-the-rings-the-hobbit-rings-of-power"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/c4227994-e862-4022-ad23-86a3c4edeef7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/684ded57efa2713a283b1639/1762807666620/1+%281%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g680400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-music-of-lord-of-the-rings-the-hobbit-rings-of-power"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Music of Lord of The Rings, The Hobbit &amp; Rings of Power *POSTPONED* —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T16:00:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T19:00:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/the-barra-macneils-an-east-coast-christmas-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Barra MacNeils - An East Coast Christmas 2025 —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/the-barra-macneils-an-east-coast-christmas-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/682c9a9f354d5f2760af4b88/1757010236668/barramacneils20252scroller.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "208"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-barra-macneils-an-east-coast-christmas-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/5db2adc2-81a3-4f5d-8bed-767a6b05857e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-barra-macneils-an-east-coast-christmas-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/df2fcb95-e355-46cc-a47d-ec50bac581a8",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-barra-macneils-an-east-coast-christmas-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/8549d94d-dde0-4c1a-8d6e-0b5274c36f6e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/682c9a9f354d5f2760af4b88/1757010236668/barramacneils20252scroller.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g688360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/the-barra-macneils-an-east-coast-christmas-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Barra MacNeils - An East Coast Christmas 2025 —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T21:30:00-06:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/events/terri-clark-paul-brandt-homecoming-20-tour",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Terri Clark & Paul Brandt Homecoming 2.0 Tour *SOLD OUT!* —     Western Manitoba Centennial Auditorium"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.wmca.ca/events/terri-clark-paul-brandt-homecoming-20-tour"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6814fe1ab47acd7bb28050e7/1762281282518/soldoutterrypaul.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/terri-clark-paul-brandt-homecoming-20-tour"
+      }
+    ]
+  },
+  {
+    "@id": "_:g696360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/de74b01b-a3a1-4846-a802-5953916e7628",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.wmca.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/64178b9f2ef8265969ab4d8d/9a48daeb-1932-499c-832b-70e7aebbc548/fulllogo_white.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/terri-clark-paul-brandt-homecoming-20-tour"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "    Western Manitoba Centennial Auditorium "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/5db4f83f-faf8-40f6-adcb-3cd4a0cf2c88",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/t/66f43a48a4ba1328d5db9efb/1763568814329/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/terri-clark-paul-brandt-homecoming-20-tour"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wmca.ca/temporary/f88e82f8-a495-405e-b1ea-013801b427d8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/64178b9f2ef8265969ab4d8d/64178c04fae1d55390bc0dc6/6814fe1ab47acd7bb28050e7/1762281282518/soldoutterrypaul.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g696360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.wmca.ca/events/terri-clark-paul-brandt-homecoming-20-tour"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Terri Clark &amp; Paul Brandt Homecoming 2.0 Tour *SOLD OUT!* —     Western Manitoba Centennial Auditorium "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-08T19:30:00-06:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-08T22:00:00-06:00"
+      }
+    ]
+  }
+]
