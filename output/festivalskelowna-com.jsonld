@@ -1,0 +1,1791 @@
+[
+  {
+    "@id": "https://www.festivalskelowna.com",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/#/schema/WebSite",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460680"
+      },
+      {
+        "@id": "_:g468780"
+      },
+      {
+        "@id": "_:g477500"
+      },
+      {
+        "@id": "_:g485460"
+      },
+      {
+        "@id": "_:g493200"
+      },
+      {
+        "@id": "_:g500620"
+      },
+      {
+        "@id": "_:g510240"
+      },
+      {
+        "@id": "_:g519320"
+      },
+      {
+        "@id": "_:g527640"
+      },
+      {
+        "@id": "_:g535400"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/Organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festivals Kelowna"
+      },
+      {
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Community connection through festivals and events"
+      },
+      {
+        "@value": "Community connection through festivals and events"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      },
+      {
+        "@id": "_:g485520"
+      },
+      {
+        "@id": "_:g527700"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/Organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festivals Kelowna &#x2d; Community connection through festivals and events"
+      },
+      {
+        "@value": "Festivals Kelowna &#x2d; Community connection through festivals and events"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460700"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g468800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g477520"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g485480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g493220"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g500640"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510240",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g510260"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519320",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g519340"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g527660"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535400",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g535420"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/#/schema/Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g460760"
+      },
+      {
+        "@id": "_:g468820"
+      },
+      {
+        "@id": "_:g477540"
+      },
+      {
+        "@id": "_:g485540"
+      },
+      {
+        "@id": "_:g493240"
+      },
+      {
+        "@id": "_:g500660"
+      },
+      {
+        "@id": "_:g510280"
+      },
+      {
+        "@id": "_:g519360"
+      },
+      {
+        "@id": "_:g527720"
+      },
+      {
+        "@id": "_:g535440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festivals Kelowna"
+      },
+      {
+        "@value": "Festivals Kelowna"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://festivalskelowna.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477540",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485540",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493240",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500660",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510280",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527720",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535440",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "en",
+        "@value": "13852"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/events/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Archives: Events"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/events/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/events/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/events/",
+    "@type": [
+      "http://schema.org/CollectionPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/events/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Archives: Events &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/performer-application/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Perform with Us"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/performer-application/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/performer-application/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477520",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/performer-application/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/performer-application/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g477600"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Perform with Us &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/performer-application/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/"
+      },
+      {
+        "@id": "https://www.festivalskelowna.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/about-us/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Who we are"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/about-us/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/about-us/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493220",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/about-us/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/about-us/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g493300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Who we are &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/about-us/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/program/celebrate-canada-day-kelowna/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Celebrate Canada Day - Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/program/celebrate-canada-day-kelowna/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-05-12T07:12:54+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-06-26T00:10:17+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/program/celebrate-canada-day-kelowna/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500640",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/program/celebrate-canada-day-kelowna/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/program/celebrate-canada-day-kelowna/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g500720"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-12T07:12:54+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-26T00:10:17+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Celebrate Canada Day &#x2d; Kelowna &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/program/celebrate-canada-day-kelowna/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/program/parks-alive/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Parks Alive!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/program/parks-alive/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2025/06/PA-2025-schedule-pic-230x300.png"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-05-11T05:59:23+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-08-15T20:29:59+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/program/parks-alive/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510260",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/program/parks-alive/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/program/parks-alive/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g510340"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-11T05:59:23+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T20:29:59+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Parks Alive! &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/program/parks-alive/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/program/new-york-new-years-eve/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Valley First New York New Years Eve"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/program/new-york-new-years-eve/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-05-21T06:13:28+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-07T22:14:45+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/program/new-york-new-years-eve/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519340",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/program/new-york-new-years-eve/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/program/new-york-new-years-eve/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g519420"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-21T06:13:28+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T22:14:45+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Valley First New York New Years Eve &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519420",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/program/new-york-new-years-eve/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527660",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.festivalskelowna.com/contact",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Festivals Kelowna"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Contact Us"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/contact/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://festivalskelowna.com/wp-content/uploads/2021/05/cropped-Festivals-Kelowna-favicon.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://festivalskelowna.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.festivalskelowna.com/contact"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535420",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://festivalskelowna.com/contact/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://festivalskelowna.com/contact/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://festivalskelowna.com/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g535500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contact Us &#x2d; Festivals Kelowna"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535500",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://festivalskelowna.com/contact/"
+      }
+    ]
+  }
+]
