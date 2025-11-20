@@ -1,0 +1,2044 @@
+[
+  {
+    "@id": "http://www.kingsplayhouse.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "- Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse is a community based, arts and culture center located in picturesque Georgetown, Prince Edward Island."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-06-19T01:17:33+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/"
+      },
+      {
+        "@id": "http://www.kingsplayhouse.com/#main"
+      },
+      {
+        "@id": "http://www.kingsplayhouse.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://kingsplayhouse.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kingsplayhouse.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://kingsplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://kingsplayhouse.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://kingsplayhouse.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://kingsplayhouse.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-content/uploads/2023/05/pei-government.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-25T14:54:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-19T01:17:33+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://kingsplayhouse.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460660"
+      },
+      {
+        "@id": "_:g527260"
+      },
+      {
+        "@id": "_:g538060"
+      },
+      {
+        "@id": "_:g548420"
+      },
+      {
+        "@id": "_:g576780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "- Kings Playhouse"
+      },
+      {
+        "@value": "- Kings Playhouse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Kings Playhouse is a community based, arts and culture center located in picturesque Georgetown, Prince Edward Island."
+      },
+      {
+        "@value": "Kings Playhouse is a community based, arts and culture center located in picturesque Georgetown, Prince Edward Island."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://kingsplayhouse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kingsplayhouse.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://kingsplayhouse.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      },
+      {
+        "@id": "_:g471480"
+      },
+      {
+        "@id": "_:g480620"
+      },
+      {
+        "@id": "_:g490000"
+      },
+      {
+        "@id": "_:g499380"
+      },
+      {
+        "@id": "_:g508580"
+      },
+      {
+        "@id": "_:g517960"
+      },
+      {
+        "@id": "_:g527300"
+      },
+      {
+        "@id": "_:g538100"
+      },
+      {
+        "@id": "_:g548460"
+      },
+      {
+        "@id": "_:g558640"
+      },
+      {
+        "@id": "_:g567720"
+      },
+      {
+        "@id": "_:g576820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kings Playhouse"
+      },
+      {
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      },
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://kingsplayhouse.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kingsplayhouse.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://kingsplayhouse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://kingsplayhouse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kings Playhouse"
+      },
+      {
+        "@value": "Kings Playhouse"
+      }
+    ]
+  },
+  {
+    "@id": "https://kingsplayhouse.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-content/uploads/2023/05/pei-government.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-content/uploads/2023/05/pei-government.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "88"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "66"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "PEI government logo"
+      },
+      {
+        "@value": "PEI government logo"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538060",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548420",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g576780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460720"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460740"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471480",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g471500"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g471520"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g480640"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g480660"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g490020"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g490040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g499400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g499420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g508600"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g508620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g517980"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g518000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527300",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g527320"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g527340"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g538120"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g538140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g548480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g548500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g558660"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g558680"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g567740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g567760"
+      }
+    ]
+  },
+  {
+    "@id": "_:g576820",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g576840"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g576860"
+      }
+    ]
+  },
+  {
+    "@id": "https://kingsplayhouse.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-content/uploads/2024/01/kp-symbol_full-color-inverse.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-content/uploads/2024/01/kp-symbol_full-color-inverse.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2085"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2085"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Kings Playhouse"
+      },
+      {
+        "@value": "Kings Playhouse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/deaaaa9d-5c64-4d9d-8116-1da13497a8a9",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/771bb3d2-bc96-4c56-8d48-7b1d55387079",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=jill-barber-2",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=jill-barber-2"
+      }
+    ]
+  },
+  {
+    "@id": "https://kingsplayhouse.com/event-detail-page/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://kingsplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-05T18:57:00+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://kingsplayhouse.com/event-detail-page/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g471420"
+      },
+      {
+        "@id": "_:g480560"
+      },
+      {
+        "@id": "_:g489940"
+      },
+      {
+        "@id": "_:g499320"
+      },
+      {
+        "@id": "_:g508520"
+      },
+      {
+        "@id": "_:g517900"
+      },
+      {
+        "@id": "_:g558580"
+      },
+      {
+        "@id": "_:g567660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471420",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480560",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489940",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517900",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558580",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471500",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471520",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/488dd5b2-8925-4aaa-86c8-3c5fed9b0ee4",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=jill-barber-2"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/7e89f013-032a-401e-bfe6-376693bb6a4b",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=jill-barber-2"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=slay-ride-2025",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=slay-ride-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480640",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480660",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/f39f897c-6a6a-49bb-bc88-d2a21bd07a54",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=slay-ride-2025"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/395c6fb8-dead-49ba-97d2-8e17f02be0d2",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=slay-ride-2025"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-grand-tour-4",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-grand-tour-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490020",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490040",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/bdbd33f3-1242-437e-891a-4b916e4c7597",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-grand-tour-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/c07724d2-9b56-4783-b813-f7c26cc65d58",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-grand-tour-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-1",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499400",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499420",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/05b3f5a0-eac9-4723-bf32-13865d82e019",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/9f70f366-94bb-43cb-b8dc-a8e716690dd1",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-1"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-2",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508620",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/6ed6c689-6d21-4391-a6a1-6aa3c3f6c602",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-2"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/2d980818-f86e-45e7-8efc-4191afcfd2bf",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-2"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-3",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517980",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518000",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/0f6a14b8-0afa-4c5a-95bf-215703e9777f",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-3"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/980f6400-eb59-4d37-a6e2-50405f67dd90",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-gift-of-the-magi-3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527320",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527340",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/eec55475-f42a-4650-aaef-92dccb564ce4",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/#main"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/a353df5d-5f23-4932-ac77-3e1e16ab013d",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/#main"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538120",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g538140",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/826b5852-d76c-42e3-824e-579dc385ba9c",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/6e0e058a-2a5f-4f6c-8e39-889fe2893df6",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/?page_number=2&",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "- Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse is a community based, arts and culture center located in picturesque Georgetown, Prince Edward Island."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-06-19T01:17:33+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/?page_number=2&"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548500",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/376a79c7-7c61-4ab7-bb52-0345700b4d49",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/?page_number=2&"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/9070a5c1-532f-4f53-ac25-6af033ab9094",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/?page_number=2&"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=cinderlla-presented-by-the-dufflebag-theatre",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=cinderlla-presented-by-the-dufflebag-theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558660",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558680",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/69bbe384-60cd-4e56-91fc-a4741ed8859f",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=cinderlla-presented-by-the-dufflebag-theatre"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/530eb206-9baf-4461-a09d-3c0a08a547bd",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=cinderlla-presented-by-the-dufflebag-theatre"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-experience-2026",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Event Detail Page - Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/event-detail-page/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-29T15:26:14+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-experience-2026"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567740",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567760",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/09dcbf8e-af54-40c8-9401-48f4b06e4527",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-experience-2026"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/f467eddb-15c4-4f34-b72f-9dd8ac342ba7",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/event-detail-page/?slug=the-experience-2026"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/?page_number=1&",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "- Kings Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse is a community based, arts and culture center located in picturesque Georgetown, Prince Edward Island."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kingsplayhouse.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kings Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Kingsplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-06-19T01:17:33+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kingsplayhouse.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/?page_number=1&"
+      }
+    ]
+  },
+  {
+    "@id": "_:g576840",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://kingsplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g576860",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/5c7b06a1-459e-45e2-91fa-869da540dd47",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/?page_number=1&"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.kingsplayhouse.com/temporary/3b71bace-7780-4bce-9a4a-363fe833a8c5",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.kingsplayhouse.com/?page_number=1&"
+      }
+    ]
+  }
+]
