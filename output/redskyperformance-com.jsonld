@@ -34,15 +34,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.redskyperformance.com/"
-      },
-      {
-        "@id": "https://www.redskyperformance.com/#changes-to-our-privacy-68ed2ba1fbd0"
-      },
-      {
-        "@id": "https://www.redskyperformance.com/#choices-about-how-we-f9679c0330cc"
-      },
-      {
-        "@id": "https://www.redskyperformance.com/#information-we-collect-through-30eb6e66a678"
       }
     ]
   },
@@ -83,7 +74,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/bdf0a2fc-da05-41ab-9ee7-68fb0cb77f62",
+    "@id": "https://www.redskyperformance.com/temporary/132981e0-65f2-4d97-aa59-a308b1e63f04",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -187,9 +178,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.redskyperformance.com/about"
-      },
-      {
-        "@id": "https://www.redskyperformance.com/about#7bf6c6c1837a"
       }
     ]
   },
@@ -230,7 +218,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/baabcdab-facb-4121-bacb-0ab133f26535",
+    "@id": "https://www.redskyperformance.com/temporary/83f25cb1-ea48-47fa-9385-fcbb2746e734",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -374,7 +362,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/872b54b5-af16-4524-87c6-cca51e2f96b2",
+    "@id": "https://www.redskyperformance.com/temporary/aff3443a-df76-4a49-a7a9-cc854cb390c9",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -518,7 +506,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/0998430a-25be-4177-8859-4b0733026bd1",
+    "@id": "https://www.redskyperformance.com/temporary/4d4f4a01-a171-4751-bf9d-e9ff7843feb6",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -662,7 +650,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/c5091816-8362-4f1f-a17d-72912758f563",
+    "@id": "https://www.redskyperformance.com/temporary/6aa1e082-7887-45c2-9ec9-c61bfdc58c43",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -770,7 +758,7 @@
     ]
   },
   {
-    "@id": "_:g498820",
+    "@id": "_:g498980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -806,7 +794,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/4a3ab536-eb40-482c-9876-90b388ee8932",
+    "@id": "https://www.redskyperformance.com/temporary/6938009b-300f-473d-ba1e-b5092b529f32",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -842,7 +830,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g498820"
+        "@id": "_:g498980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -882,245 +870,6 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/contact",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Contact | Red Sky Performance"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en",
-        "@value": "Reach the Red Sky team for bookings, partnerships, and media requests."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://www.redskyperformance.com/contact"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://cdn.sanity.io/images/41xdz574/production/360e5b277fe77cfa3fede69cd6d32ef68e62b1e5-1728x885.png?rect=21,0,1686,885&w=1200&h=630&fit=max&auto=format"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.redskyperformance.com/contact#9427f8738cca"
-      },
-      {
-        "@id": "https://www.redskyperformance.com/contact"
-      }
-    ]
-  },
-  {
-    "@id": "_:g506780",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "401 Richmond Street West, Suite 420"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Toronto"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "Ontario"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "M5V 3A8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.redskyperformance.com/temporary/c583cff6-42b1-44d4-9966-681d46f986f6",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://redskyproductions.com"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/redskyperformance/"
-      },
-      {
-        "@id": "https://www.facebook.com/Red-Sky-Performance"
-      },
-      {
-        "@id": "https://x.com/redskyperform"
-      },
-      {
-        "@id": "https://vimeo.com/redskyperformance"
-      },
-      {
-        "@id": "https://www.youtube.com/user/redskyperformance"
-      },
-      {
-        "@id": "https://www.linkedin.com/company/red-sky-performance"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://redskyproductions.com/redsky-logo.svg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g506780"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.redskyperformance.com/contact#9427f8738cca"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Red Sky Performance"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Experience powerful contemporary Indigenous performance in Canada & worldwide with Red Sky Performance."
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "info@redskyperformance.com"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "1.416.585.9969"
-      }
-    ],
-    "http://schema.org/vatID": [
-      {
-        "@value": "89313 2100 RR 0001"
-      }
-    ]
-  },
-  {
-    "@id": "_:g514540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "401 Richmond Street West, Suite 420"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Toronto"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "Ontario"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "M5V 3A8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.redskyperformance.com/temporary/c04dbed7-2f0b-48da-b4ab-aa3f9796ff07",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://redskyproductions.com"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/redskyperformance/"
-      },
-      {
-        "@id": "https://www.facebook.com/Red-Sky-Performance"
-      },
-      {
-        "@id": "https://x.com/redskyperform"
-      },
-      {
-        "@id": "https://vimeo.com/redskyperformance"
-      },
-      {
-        "@id": "https://www.youtube.com/user/redskyperformance"
-      },
-      {
-        "@id": "https://www.linkedin.com/company/red-sky-performance"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://redskyproductions.com/redsky-logo.svg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g514540"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.redskyperformance.com/about#7bf6c6c1837a"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Red Sky Performance"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Experience powerful contemporary Indigenous performance in Canada & worldwide with Red Sky Performance."
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "info@redskyperformance.com"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "1.416.585.9969"
-      }
-    ],
-    "http://schema.org/vatID": [
-      {
-        "@value": "89313 2100 RR 0001"
-      }
-    ]
-  },
-  {
     "@id": "https://www.redskyperformance.com/talks",
     "http://ogp.me/ns#title": [
       {
@@ -1153,7 +902,7 @@
     ]
   },
   {
-    "@id": "_:g522340",
+    "@id": "_:g507040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1189,7 +938,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/0542d36b-eba3-4ffd-8435-c958543679cc",
+    "@id": "https://www.redskyperformance.com/temporary/a20a393a-4aca-40c5-bbad-8b7e18cab381",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1225,7 +974,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g522340"
+        "@id": "_:g507040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1297,7 +1046,7 @@
     ]
   },
   {
-    "@id": "_:g530660",
+    "@id": "_:g515380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1333,7 +1082,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/0181ecfc-5665-411a-8af4-d28b909807a7",
+    "@id": "https://www.redskyperformance.com/temporary/b332f623-4872-4f2f-b0fd-95cf01fb99b3",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1369,7 +1118,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g530660"
+        "@id": "_:g515380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1441,7 +1190,7 @@
     ]
   },
   {
-    "@id": "_:g539220",
+    "@id": "_:g523980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1477,7 +1226,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/5ca32938-6ea9-45d3-8d6d-d58d6fbd330c",
+    "@id": "https://www.redskyperformance.com/temporary/b53c30d4-149e-4763-89fd-57fd2ed548de",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1513,7 +1262,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g539220"
+        "@id": "_:g523980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1585,7 +1334,7 @@
     ]
   },
   {
-    "@id": "_:g546960",
+    "@id": "_:g531740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1621,7 +1370,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/024986ba-36ca-42a4-8da3-697b91b9661f",
+    "@id": "https://www.redskyperformance.com/temporary/d2277678-d011-49fe-b7f1-2439dff81e0e",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1657,7 +1406,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g546960"
+        "@id": "_:g531740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1729,7 +1478,7 @@
     ]
   },
   {
-    "@id": "_:g554920",
+    "@id": "_:g539720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1765,7 +1514,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/dcde2237-db0f-41f4-ad60-cb5fc3f5facd",
+    "@id": "https://www.redskyperformance.com/temporary/b0b4d402-330e-479e-937c-bc3540bfe2fd",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1801,7 +1550,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g554920"
+        "@id": "_:g539720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1873,7 +1622,7 @@
     ]
   },
   {
-    "@id": "_:g562680",
+    "@id": "_:g547500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1909,7 +1658,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/7bbb11fa-216a-459a-88e2-56ee8ac78198",
+    "@id": "https://www.redskyperformance.com/temporary/15d5bb09-7f54-4ca7-a7e7-dac9e0c897b2",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1945,7 +1694,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g562680"
+        "@id": "_:g547500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2017,7 +1766,7 @@
     ]
   },
   {
-    "@id": "_:g570340",
+    "@id": "_:g555160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2053,7 +1802,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/9285231b-a8c0-4e5c-92e5-a19b3ad66b53",
+    "@id": "https://www.redskyperformance.com/temporary/a8e09833-542b-45de-bc97-210d65dd9577",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2089,7 +1838,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g570340"
+        "@id": "_:g555160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2161,7 +1910,7 @@
     ]
   },
   {
-    "@id": "_:g577600",
+    "@id": "_:g562440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2197,7 +1946,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/6f9c6681-998d-4197-bd57-b2e30a820719",
+    "@id": "https://www.redskyperformance.com/temporary/06064215-9414-4241-a841-9eac35a4040e",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2233,7 +1982,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g577600"
+        "@id": "_:g562440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2305,7 +2054,7 @@
     ]
   },
   {
-    "@id": "_:g585500",
+    "@id": "_:g570360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2341,7 +2090,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/4c633ad8-d541-4e70-a8e9-da879c491946",
+    "@id": "https://www.redskyperformance.com/temporary/5eae29dd-fce3-492b-8f4f-669df708a6bf",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2377,7 +2126,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g585500"
+        "@id": "_:g570360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2417,7 +2166,39 @@
     ]
   },
   {
-    "@id": "_:g593140",
+    "@id": "https://www.redskyperformance.com/contact",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Contact | Red Sky Performance"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Reach the Red Sky team for bookings, partnerships, and media requests."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.redskyperformance.com/contact"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://cdn.sanity.io/images/41xdz574/production/360e5b277fe77cfa3fede69cd6d32ef68e62b1e5-1728x885.png?rect=21,0,1686,885&w=1200&h=630&fit=max&auto=format"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.redskyperformance.com/contact"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2453,7 +2234,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/fff4c60b-0a5e-4772-a0ac-52460c236723",
+    "@id": "https://www.redskyperformance.com/temporary/abd0e7d5-9b98-4def-964c-edbe1023182d",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2489,7 +2270,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g593140"
+        "@id": "_:g578040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2561,7 +2342,7 @@
     ]
   },
   {
-    "@id": "_:g600920",
+    "@id": "_:g585840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2597,7 +2378,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/28c0de30-afcd-4900-aa5e-43a6df5b9461",
+    "@id": "https://www.redskyperformance.com/temporary/d7247a7e-04ab-4a3d-a129-1edd1aa3f4e8",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2633,7 +2414,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g600920"
+        "@id": "_:g585840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2668,312 +2449,6 @@
     "http://schema.org/vatID": [
       {
         "@language": "en",
-        "@value": "89313 2100 RR 0001"
-      }
-    ]
-  },
-  {
-    "@id": "_:g608740",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "401 Richmond Street West, Suite 420"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Toronto"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "Ontario"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "M5V 3A8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.redskyperformance.com/temporary/f4062fc9-18dc-4944-ba35-0686ff5554af",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://redskyproductions.com"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/redskyperformance/"
-      },
-      {
-        "@id": "https://www.facebook.com/Red-Sky-Performance"
-      },
-      {
-        "@id": "https://x.com/redskyperform"
-      },
-      {
-        "@id": "https://vimeo.com/redskyperformance"
-      },
-      {
-        "@id": "https://www.youtube.com/user/redskyperformance"
-      },
-      {
-        "@id": "https://www.linkedin.com/company/red-sky-performance"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://redskyproductions.com/redsky-logo.svg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g608740"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.redskyperformance.com/#changes-to-our-privacy-68ed2ba1fbd0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Red Sky Performance"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Experience powerful contemporary Indigenous performance in Canada & worldwide with Red Sky Performance."
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "info@redskyperformance.com"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "1.416.585.9969"
-      }
-    ],
-    "http://schema.org/vatID": [
-      {
-        "@value": "89313 2100 RR 0001"
-      }
-    ]
-  },
-  {
-    "@id": "_:g617060",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "401 Richmond Street West, Suite 420"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Toronto"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "Ontario"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "M5V 3A8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.redskyperformance.com/temporary/a352d65e-5d46-4eca-a4a5-fe8a7bb37601",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://redskyproductions.com"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/redskyperformance/"
-      },
-      {
-        "@id": "https://www.facebook.com/Red-Sky-Performance"
-      },
-      {
-        "@id": "https://x.com/redskyperform"
-      },
-      {
-        "@id": "https://vimeo.com/redskyperformance"
-      },
-      {
-        "@id": "https://www.youtube.com/user/redskyperformance"
-      },
-      {
-        "@id": "https://www.linkedin.com/company/red-sky-performance"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://redskyproductions.com/redsky-logo.svg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g617060"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.redskyperformance.com/#choices-about-how-we-f9679c0330cc"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Red Sky Performance"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Experience powerful contemporary Indigenous performance in Canada & worldwide with Red Sky Performance."
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "info@redskyperformance.com"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "1.416.585.9969"
-      }
-    ],
-    "http://schema.org/vatID": [
-      {
-        "@value": "89313 2100 RR 0001"
-      }
-    ]
-  },
-  {
-    "@id": "_:g625220",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "401 Richmond Street West, Suite 420"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Toronto"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "Ontario"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "M5V 3A8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.redskyperformance.com/temporary/d4a7bb05-33bf-4365-985b-34b734fb3d1a",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://redskyproductions.com"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/redskyperformance/"
-      },
-      {
-        "@id": "https://www.facebook.com/Red-Sky-Performance"
-      },
-      {
-        "@id": "https://x.com/redskyperform"
-      },
-      {
-        "@id": "https://vimeo.com/redskyperformance"
-      },
-      {
-        "@id": "https://www.youtube.com/user/redskyperformance"
-      },
-      {
-        "@id": "https://www.linkedin.com/company/red-sky-performance"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://redskyproductions.com/redsky-logo.svg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g625220"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.redskyperformance.com/#information-we-collect-through-30eb6e66a678"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Red Sky Performance"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Experience powerful contemporary Indigenous performance in Canada & worldwide with Red Sky Performance."
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "info@redskyperformance.com"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "1.416.585.9969"
-      }
-    ],
-    "http://schema.org/vatID": [
-      {
         "@value": "89313 2100 RR 0001"
       }
     ]
@@ -3017,7 +2492,7 @@
     ]
   },
   {
-    "@id": "_:g633420",
+    "@id": "_:g593800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3053,7 +2528,7 @@
     ]
   },
   {
-    "@id": "https://www.redskyperformance.com/temporary/5bbb6a02-c6ce-46c5-bfa1-904e895a452a",
+    "@id": "https://www.redskyperformance.com/temporary/0dc1ce47-b4ec-4bf2-846e-5d4a1bbb877d",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3089,7 +2564,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g633420"
+        "@id": "_:g593800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
