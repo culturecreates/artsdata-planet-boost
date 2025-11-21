@@ -219,13 +219,13 @@
         "@id": "https://cowichanpac.ca/event/ballet-jorgen-midsummer-2026-02-13/#organizationLogo"
       },
       {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#organizationLogo"
+      },
+      {
         "@id": "https://cowichanpac.ca/event/michael-kaeshammer-2026-03-20/#organizationLogo"
       },
       {
         "@id": "https://cowichanpac.ca/event/awol-2026-03-27/#organizationLogo"
-      },
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#organizationLogo"
       },
       {
         "@id": "https://cowichanpac.ca/event/shari-ulrich-unfaithful-servants-2025-12-19/#organizationLogo"
@@ -241,6 +241,9 @@
       },
       {
         "@id": "https://cowichanpac.ca/event/cms-cinderella-2026-01-23/#organizationLogo"
+      },
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#organizationLogo"
       },
       {
         "@id": "https://cowichanpac.ca/event/reel-alt-the-marching-band-2025-12-22/#organizationLogo"
@@ -461,13 +464,13 @@
         "@id": "https://cowichanpac.ca/event/ballet-jorgen-midsummer-2026-02-13/#organizationLogo"
       },
       {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#organizationLogo"
+      },
+      {
         "@id": "https://cowichanpac.ca/event/michael-kaeshammer-2026-03-20/#organizationLogo"
       },
       {
         "@id": "https://cowichanpac.ca/event/awol-2026-03-27/#organizationLogo"
-      },
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#organizationLogo"
       },
       {
         "@id": "https://cowichanpac.ca/event/shari-ulrich-unfaithful-servants-2025-12-19/#organizationLogo"
@@ -483,6 +486,9 @@
       },
       {
         "@id": "https://cowichanpac.ca/event/cms-cinderella-2026-01-23/#organizationLogo"
+      },
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#organizationLogo"
       },
       {
         "@id": "https://cowichanpac.ca/event/reel-alt-the-marching-band-2025-12-22/#organizationLogo"
@@ -569,26 +575,17 @@
       {
         "@language": "en",
         "@value": "Cowichan Performing Arts Centre"
-      },
-      {
-        "@value": "Cowichan Performing Arts Centre"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
-      },
-      {
-        "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
       }
     ],
     "http://schema.org/telephone": [
       {
         "@language": "en",
-        "@value": "+12507462722"
-      },
-      {
         "@value": "+12507462722"
       }
     ]
@@ -1189,6 +1186,17 @@
     ]
   },
   {
+    "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#organizationLogo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowt.trapeze.ca/wp-content/uploads/2022/07/cpac_logo_01_1244x516.png"
+      }
+    ]
+  },
+  {
     "@id": "https://cowichanpac.ca/event/michael-kaeshammer-2026-03-20/#organizationLogo",
     "@type": [
       "http://schema.org/ImageObject"
@@ -1201,17 +1209,6 @@
   },
   {
     "@id": "https://cowichanpac.ca/event/awol-2026-03-27/#organizationLogo",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://cowt.trapeze.ca/wp-content/uploads/2022/07/cpac_logo_01_1244x516.png"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#organizationLogo",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1267,6 +1264,17 @@
   },
   {
     "@id": "https://cowichanpac.ca/event/cms-cinderella-2026-01-23/#organizationLogo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowt.trapeze.ca/wp-content/uploads/2022/07/cpac_logo_01_1244x516.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#organizationLogo",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1567,20 +1575,11 @@
       },
       {
         "@id": "https://cowichanpac.ca/"
-      },
-      {
-        "@id": "https://cowichanpac.ca/#mainMenu"
-      },
-      {
-        "@id": "https://cowichanpac.ca/#"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Home Page - Cowichan Performing Arts Centre"
-      },
-      {
         "@value": "Home Page - Cowichan Performing Arts Centre"
       }
     ],
@@ -1588,17 +1587,11 @@
       {
         "@language": "en",
         "@value": "Cowichan Performing Arts Centre continually provides the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada."
-      },
-      {
-        "@value": "Cowichan Performing Arts Centre continually provides the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada."
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -1622,26 +1615,17 @@
       {
         "@language": "en",
         "@value": "Cowichan Performing Arts Centre"
-      },
-      {
-        "@value": "Cowichan Performing Arts Centre"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
-      },
-      {
-        "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -2881,13 +2865,13 @@
         "@id": "https://cowichanpac.ca/event/ballet-jorgen-midsummer-2026-02-13/#authorImage"
       },
       {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#authorImage"
+      },
+      {
         "@id": "https://cowichanpac.ca/event/michael-kaeshammer-2026-03-20/#authorImage"
       },
       {
         "@id": "https://cowichanpac.ca/event/awol-2026-03-27/#authorImage"
-      },
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#authorImage"
       },
       {
         "@id": "https://cowichanpac.ca/event/shari-ulrich-unfaithful-servants-2025-12-19/#authorImage"
@@ -2903,6 +2887,9 @@
       },
       {
         "@id": "https://cowichanpac.ca/event/cms-cinderella-2026-01-23/#authorImage"
+      },
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#authorImage"
       },
       {
         "@id": "https://cowichanpac.ca/event/reel-alt-the-marching-band-2025-12-22/#authorImage"
@@ -3807,6 +3794,35 @@
     ]
   },
   {
+    "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#authorImage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/7aa775f4efe4c0a46717a6aefb0d6d39adc783126319ad5b103f871e7dbc6f99?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "96"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "96"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Janelle Escott"
+      }
+    ]
+  },
+  {
     "@id": "https://cowichanpac.ca/event/michael-kaeshammer-2026-03-20/#authorImage",
     "@type": [
       "http://schema.org/ImageObject"
@@ -3837,35 +3853,6 @@
   },
   {
     "@id": "https://cowichanpac.ca/event/awol-2026-03-27/#authorImage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure.gravatar.com/avatar/7aa775f4efe4c0a46717a6aefb0d6d39adc783126319ad5b103f871e7dbc6f99?s=96&d=mm&r=g"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "96"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "96"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "en",
-        "@value": "Janelle Escott"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#authorImage",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4011,6 +3998,35 @@
   },
   {
     "@id": "https://cowichanpac.ca/event/cms-cinderella-2026-01-23/#authorImage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/7aa775f4efe4c0a46717a6aefb0d6d39adc783126319ad5b103f871e7dbc6f99?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "96"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "96"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Janelle Escott"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#authorImage",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4364,7 +4380,7 @@
     ]
   },
   {
-    "@id": "_:g551520",
+    "@id": "_:g552040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4375,7 +4391,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g551540"
+        "@id": "_:g552060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4403,7 +4419,7 @@
     ]
   },
   {
-    "@id": "_:g551540",
+    "@id": "_:g552060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4439,7 +4455,7 @@
     ]
   },
   {
-    "@id": "_:g551560",
+    "@id": "_:g552080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4480,7 +4496,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/b218fe21-e5b6-44a7-a288-36e3c55163f6",
+    "@id": "https://cowichanpac.ca/temporary/6208c05d-04fd-42f2-a915-e5049a0091f5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4508,12 +4524,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g551520"
+        "@id": "_:g552040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g551560"
+        "@id": "_:g552080"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5038,7 +5054,7 @@
     ]
   },
   {
-    "@id": "_:g605060",
+    "@id": "_:g605840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5049,7 +5065,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605080"
+        "@id": "_:g605860"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5077,7 +5093,7 @@
     ]
   },
   {
-    "@id": "_:g605080",
+    "@id": "_:g605860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5113,7 +5129,7 @@
     ]
   },
   {
-    "@id": "_:g605100",
+    "@id": "_:g605880",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5222,7 +5238,7 @@
     ]
   },
   {
-    "@id": "_:g605140",
+    "@id": "_:g605920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5233,7 +5249,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605160"
+        "@id": "_:g605940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5261,7 +5277,7 @@
     ]
   },
   {
-    "@id": "_:g605160",
+    "@id": "_:g605940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5297,7 +5313,7 @@
     ]
   },
   {
-    "@id": "_:g605180",
+    "@id": "_:g605960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5406,7 +5422,7 @@
     ]
   },
   {
-    "@id": "_:g605220",
+    "@id": "_:g606000",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5417,7 +5433,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605240"
+        "@id": "_:g606020"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5445,7 +5461,7 @@
     ]
   },
   {
-    "@id": "_:g605240",
+    "@id": "_:g606020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5481,7 +5497,7 @@
     ]
   },
   {
-    "@id": "_:g605260",
+    "@id": "_:g606040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5590,7 +5606,7 @@
     ]
   },
   {
-    "@id": "_:g605300",
+    "@id": "_:g606080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5601,7 +5617,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605320"
+        "@id": "_:g606100"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5629,7 +5645,7 @@
     ]
   },
   {
-    "@id": "_:g605320",
+    "@id": "_:g606100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5665,7 +5681,7 @@
     ]
   },
   {
-    "@id": "_:g605340",
+    "@id": "_:g606120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5774,7 +5790,7 @@
     ]
   },
   {
-    "@id": "_:g605380",
+    "@id": "_:g606160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5785,7 +5801,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605400"
+        "@id": "_:g606180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5813,7 +5829,7 @@
     ]
   },
   {
-    "@id": "_:g605400",
+    "@id": "_:g606180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5849,7 +5865,7 @@
     ]
   },
   {
-    "@id": "_:g605420",
+    "@id": "_:g606200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5958,7 +5974,7 @@
     ]
   },
   {
-    "@id": "_:g605460",
+    "@id": "_:g606240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5969,7 +5985,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605480"
+        "@id": "_:g606260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5997,7 +6013,7 @@
     ]
   },
   {
-    "@id": "_:g605480",
+    "@id": "_:g606260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6033,7 +6049,7 @@
     ]
   },
   {
-    "@id": "_:g605500",
+    "@id": "_:g606280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6142,7 +6158,7 @@
     ]
   },
   {
-    "@id": "_:g605540",
+    "@id": "_:g606320",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6153,7 +6169,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605560"
+        "@id": "_:g606340"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6181,7 +6197,7 @@
     ]
   },
   {
-    "@id": "_:g605560",
+    "@id": "_:g606340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6217,7 +6233,7 @@
     ]
   },
   {
-    "@id": "_:g605580",
+    "@id": "_:g606360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6326,7 +6342,7 @@
     ]
   },
   {
-    "@id": "_:g605620",
+    "@id": "_:g606400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6337,7 +6353,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605640"
+        "@id": "_:g606420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6365,7 +6381,7 @@
     ]
   },
   {
-    "@id": "_:g605640",
+    "@id": "_:g606420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6401,7 +6417,7 @@
     ]
   },
   {
-    "@id": "_:g605660",
+    "@id": "_:g606440",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6510,7 +6526,7 @@
     ]
   },
   {
-    "@id": "_:g605700",
+    "@id": "_:g606480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6521,7 +6537,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605720"
+        "@id": "_:g606500"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6549,7 +6565,7 @@
     ]
   },
   {
-    "@id": "_:g605720",
+    "@id": "_:g606500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6585,7 +6601,7 @@
     ]
   },
   {
-    "@id": "_:g605740",
+    "@id": "_:g606520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6694,7 +6710,7 @@
     ]
   },
   {
-    "@id": "_:g605780",
+    "@id": "_:g606560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6705,7 +6721,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g605800"
+        "@id": "_:g606580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6733,7 +6749,7 @@
     ]
   },
   {
-    "@id": "_:g605800",
+    "@id": "_:g606580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6769,7 +6785,7 @@
     ]
   },
   {
-    "@id": "_:g605820",
+    "@id": "_:g606600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6878,7 +6894,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/6cc8affa-62fb-4642-9b3f-a4388d0a66e0",
+    "@id": "https://cowichanpac.ca/temporary/17ff534f-7afb-4714-9c4e-9d6c32de16e6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6906,12 +6922,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605060"
+        "@id": "_:g605840"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605100"
+        "@id": "_:g605880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6949,7 +6965,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/ff23b1a7-4292-452c-a95d-b0be3def0fd8",
+    "@id": "https://cowichanpac.ca/temporary/3cf58f1b-c305-45ba-a56f-de15e4ee3f26",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6977,12 +6993,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605140"
+        "@id": "_:g605920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605180"
+        "@id": "_:g605960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7020,7 +7036,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/e9364d26-e198-4ec4-af63-99332a21828c",
+    "@id": "https://cowichanpac.ca/temporary/d42e1e5d-89a1-46ac-ad61-fdf50113886c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7048,12 +7064,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605220"
+        "@id": "_:g606000"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605260"
+        "@id": "_:g606040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7091,7 +7107,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/2cfa45bd-2312-4b06-b2ce-6a59f56791c9",
+    "@id": "https://cowichanpac.ca/temporary/51f70f37-0645-4a68-be09-85c60e2760c0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7119,12 +7135,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605300"
+        "@id": "_:g606080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605340"
+        "@id": "_:g606120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7162,7 +7178,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/e4a8c466-8935-4e25-97b8-d60bd782fd82",
+    "@id": "https://cowichanpac.ca/temporary/58d449ff-98ef-4ca8-a8f1-97dc099d06a4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7190,12 +7206,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605380"
+        "@id": "_:g606160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605420"
+        "@id": "_:g606200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7233,7 +7249,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/e2f2509b-eab0-4d8c-919f-094ed3fb5307",
+    "@id": "https://cowichanpac.ca/temporary/b9de934b-2cbc-4ab5-8da2-1b694d278b30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7261,12 +7277,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605460"
+        "@id": "_:g606240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605500"
+        "@id": "_:g606280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7304,7 +7320,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c356877c-379f-4822-a9cd-1a9d3af05eea",
+    "@id": "https://cowichanpac.ca/temporary/4eb313ea-fc28-4439-a642-d7997c01d650",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7332,12 +7348,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605540"
+        "@id": "_:g606320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605580"
+        "@id": "_:g606360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7375,7 +7391,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/60adfd4e-a1a8-46fd-8d63-1318a0b80b8e",
+    "@id": "https://cowichanpac.ca/temporary/f8149282-643e-4c5b-a696-08541186d212",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7403,12 +7419,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605620"
+        "@id": "_:g606400"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605660"
+        "@id": "_:g606440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7446,7 +7462,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/736abe73-0c63-4f67-91f9-1fb75d83cae2",
+    "@id": "https://cowichanpac.ca/temporary/8188a517-052d-4955-8904-e804333ef4a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7474,12 +7490,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605700"
+        "@id": "_:g606480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605740"
+        "@id": "_:g606520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7517,7 +7533,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/b8f48d4c-204d-447b-b972-744270640ef0",
+    "@id": "https://cowichanpac.ca/temporary/ff760ccf-32a1-489e-b915-0e43d7ff6d26",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7545,12 +7561,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g605780"
+        "@id": "_:g606560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605820"
+        "@id": "_:g606600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7811,7 +7827,7 @@
     ]
   },
   {
-    "@id": "_:g644400",
+    "@id": "_:g645240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7822,7 +7838,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644420"
+        "@id": "_:g645260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -7850,7 +7866,7 @@
     ]
   },
   {
-    "@id": "_:g644420",
+    "@id": "_:g645260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7886,7 +7902,7 @@
     ]
   },
   {
-    "@id": "_:g644440",
+    "@id": "_:g645280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7995,7 +8011,7 @@
     ]
   },
   {
-    "@id": "_:g644480",
+    "@id": "_:g645320",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8006,7 +8022,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644500"
+        "@id": "_:g645340"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8034,7 +8050,7 @@
     ]
   },
   {
-    "@id": "_:g644500",
+    "@id": "_:g645340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8070,7 +8086,7 @@
     ]
   },
   {
-    "@id": "_:g644520",
+    "@id": "_:g645360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8179,7 +8195,7 @@
     ]
   },
   {
-    "@id": "_:g644560",
+    "@id": "_:g645400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8190,7 +8206,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644580"
+        "@id": "_:g645420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8218,7 +8234,7 @@
     ]
   },
   {
-    "@id": "_:g644580",
+    "@id": "_:g645420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8254,7 +8270,7 @@
     ]
   },
   {
-    "@id": "_:g644600",
+    "@id": "_:g645440",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8363,7 +8379,7 @@
     ]
   },
   {
-    "@id": "_:g644640",
+    "@id": "_:g645480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8374,7 +8390,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644660"
+        "@id": "_:g645500"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8402,7 +8418,7 @@
     ]
   },
   {
-    "@id": "_:g644660",
+    "@id": "_:g645500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8438,7 +8454,7 @@
     ]
   },
   {
-    "@id": "_:g644680",
+    "@id": "_:g645520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8547,7 +8563,7 @@
     ]
   },
   {
-    "@id": "_:g644720",
+    "@id": "_:g645560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8558,7 +8574,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644740"
+        "@id": "_:g645580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8586,7 +8602,7 @@
     ]
   },
   {
-    "@id": "_:g644740",
+    "@id": "_:g645580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8622,7 +8638,7 @@
     ]
   },
   {
-    "@id": "_:g644760",
+    "@id": "_:g645600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8731,7 +8747,7 @@
     ]
   },
   {
-    "@id": "_:g644800",
+    "@id": "_:g645640",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8742,7 +8758,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644820"
+        "@id": "_:g645660"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8770,7 +8786,7 @@
     ]
   },
   {
-    "@id": "_:g644820",
+    "@id": "_:g645660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8806,7 +8822,7 @@
     ]
   },
   {
-    "@id": "_:g644840",
+    "@id": "_:g645680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8915,7 +8931,7 @@
     ]
   },
   {
-    "@id": "_:g644880",
+    "@id": "_:g645720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8926,7 +8942,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644900"
+        "@id": "_:g645740"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8954,7 +8970,7 @@
     ]
   },
   {
-    "@id": "_:g644900",
+    "@id": "_:g645740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8990,7 +9006,7 @@
     ]
   },
   {
-    "@id": "_:g644920",
+    "@id": "_:g645760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -9099,7 +9115,7 @@
     ]
   },
   {
-    "@id": "_:g644960",
+    "@id": "_:g645800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9110,7 +9126,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g644980"
+        "@id": "_:g645820"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9138,7 +9154,7 @@
     ]
   },
   {
-    "@id": "_:g644980",
+    "@id": "_:g645820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9174,7 +9190,7 @@
     ]
   },
   {
-    "@id": "_:g645000",
+    "@id": "_:g645840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -9283,7 +9299,7 @@
     ]
   },
   {
-    "@id": "_:g645040",
+    "@id": "_:g645880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9294,7 +9310,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g645060"
+        "@id": "_:g645900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9322,7 +9338,7 @@
     ]
   },
   {
-    "@id": "_:g645060",
+    "@id": "_:g645900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9358,7 +9374,7 @@
     ]
   },
   {
-    "@id": "_:g645080",
+    "@id": "_:g645920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -9467,7 +9483,7 @@
     ]
   },
   {
-    "@id": "_:g645120",
+    "@id": "_:g645960",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9478,7 +9494,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g645140"
+        "@id": "_:g645980"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9506,7 +9522,7 @@
     ]
   },
   {
-    "@id": "_:g645140",
+    "@id": "_:g645980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9542,7 +9558,7 @@
     ]
   },
   {
-    "@id": "_:g645160",
+    "@id": "_:g646000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -9651,7 +9667,7 @@
     ]
   },
   {
-    "@id": "_:g645200",
+    "@id": "_:g646040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9662,7 +9678,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g645220"
+        "@id": "_:g646060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9690,7 +9706,7 @@
     ]
   },
   {
-    "@id": "_:g645220",
+    "@id": "_:g646060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9726,7 +9742,7 @@
     ]
   },
   {
-    "@id": "_:g645240",
+    "@id": "_:g646080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -9835,7 +9851,7 @@
     ]
   },
   {
-    "@id": "_:g645280",
+    "@id": "_:g646120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9846,7 +9862,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g645300"
+        "@id": "_:g646140"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9874,7 +9890,7 @@
     ]
   },
   {
-    "@id": "_:g645300",
+    "@id": "_:g646140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9910,7 +9926,7 @@
     ]
   },
   {
-    "@id": "_:g645320",
+    "@id": "_:g646160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -10019,7 +10035,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/88fc40ef-69bd-4b9c-8072-976920cd6679",
+    "@id": "https://cowichanpac.ca/temporary/f8410c04-1f46-474a-aee3-75e6bef5c4e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10047,12 +10063,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644400"
+        "@id": "_:g645240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644440"
+        "@id": "_:g645280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10090,7 +10106,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/f186c628-efa0-4d16-9c31-c33fd63c801e",
+    "@id": "https://cowichanpac.ca/temporary/cd417fc3-8dba-47de-850a-5188e8ff70f9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10118,12 +10134,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644480"
+        "@id": "_:g645320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644520"
+        "@id": "_:g645360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10161,7 +10177,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/3bb2194a-4e50-4f4e-be09-c757a48d02c2",
+    "@id": "https://cowichanpac.ca/temporary/40c6e691-bfbc-498b-813d-8b815e839b12",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10189,12 +10205,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644560"
+        "@id": "_:g645400"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644600"
+        "@id": "_:g645440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10232,7 +10248,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/77480d8b-4fdf-48d5-8e6c-1bae6d8b1b6d",
+    "@id": "https://cowichanpac.ca/temporary/7007dd8d-965c-4e49-b22c-581eefdeb01d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10260,12 +10276,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644640"
+        "@id": "_:g645480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644680"
+        "@id": "_:g645520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10303,7 +10319,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/59b004eb-78e8-42ac-aa7c-9a7a881e52d2",
+    "@id": "https://cowichanpac.ca/temporary/e71902a3-8028-40a1-8439-854548d31122",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10331,12 +10347,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644720"
+        "@id": "_:g645560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644760"
+        "@id": "_:g645600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10374,7 +10390,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/64b5ffd9-363d-4283-a1c4-0c8e39077719",
+    "@id": "https://cowichanpac.ca/temporary/3db3f75b-39e0-4f02-80e3-2d99eaff5d1b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10402,12 +10418,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644800"
+        "@id": "_:g645640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644840"
+        "@id": "_:g645680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10445,7 +10461,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/876c6bdb-156c-4d43-b2ed-09f7490d041e",
+    "@id": "https://cowichanpac.ca/temporary/76a611f6-92c0-440f-8d8e-59d5927c09b1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10473,12 +10489,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644880"
+        "@id": "_:g645720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g644920"
+        "@id": "_:g645760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10516,7 +10532,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/8fd8dbfc-d005-4572-8de0-72bae56dfef7",
+    "@id": "https://cowichanpac.ca/temporary/a44ef9f7-7dab-4a7b-bfa3-a80053ec5ce8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10544,12 +10560,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g644960"
+        "@id": "_:g645800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645000"
+        "@id": "_:g645840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10587,7 +10603,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/1136a6d5-0c48-41ad-9219-ac38961dbf6a",
+    "@id": "https://cowichanpac.ca/temporary/a869a5a0-19ee-4572-bbde-c28fcd89dd8b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10615,12 +10631,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g645040"
+        "@id": "_:g645880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645080"
+        "@id": "_:g645920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10658,7 +10674,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/ed9b2ddf-dce0-4f50-890c-b3dcdfcc041a",
+    "@id": "https://cowichanpac.ca/temporary/bcd1f5e6-1beb-4978-a335-dbd83ed1362c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10686,12 +10702,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g645120"
+        "@id": "_:g645960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645160"
+        "@id": "_:g646000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10729,7 +10745,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/0a124784-7529-4fa0-97f3-56698c47bb02",
+    "@id": "https://cowichanpac.ca/temporary/af3176ba-2a07-4ba2-baf6-1ae1010944dd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10757,12 +10773,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g645200"
+        "@id": "_:g646040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645240"
+        "@id": "_:g646080"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10800,7 +10816,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/db5d9c9c-8189-4b71-a61a-21078530476c",
+    "@id": "https://cowichanpac.ca/temporary/f84e6a79-804f-4ce8-b409-f74da5067f9b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10828,12 +10844,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g645280"
+        "@id": "_:g646120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645320"
+        "@id": "_:g646160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10964,7 +10980,7 @@
     ]
   },
   {
-    "@id": "_:g675760",
+    "@id": "_:g676680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -10975,7 +10991,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g675780"
+        "@id": "_:g676700"
       }
     ],
     "http://schema.org/sameAs": [
@@ -11003,7 +11019,7 @@
     ]
   },
   {
-    "@id": "_:g675780",
+    "@id": "_:g676700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11039,7 +11055,7 @@
     ]
   },
   {
-    "@id": "_:g675800",
+    "@id": "_:g676720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11080,7 +11096,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/79c953c8-6c1c-45e4-a1a0-61add7e2915c",
+    "@id": "https://cowichanpac.ca/temporary/310dce53-58dc-44b2-94ab-99e13860508b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11108,12 +11124,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g675760"
+        "@id": "_:g676680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g675800"
+        "@id": "_:g676720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11244,7 +11260,7 @@
     ]
   },
   {
-    "@id": "_:g688620",
+    "@id": "_:g689540",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11255,7 +11271,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g688640"
+        "@id": "_:g689560"
       }
     ],
     "http://schema.org/sameAs": [
@@ -11283,7 +11299,7 @@
     ]
   },
   {
-    "@id": "_:g688640",
+    "@id": "_:g689560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11319,7 +11335,7 @@
     ]
   },
   {
-    "@id": "_:g688660",
+    "@id": "_:g689580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11360,7 +11376,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/ad23b408-7caf-4c18-918d-09c8e968e0c4",
+    "@id": "https://cowichanpac.ca/temporary/2deeaa4c-2c83-4487-be93-1e41b7444e8f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11388,12 +11404,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g688620"
+        "@id": "_:g689540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g688660"
+        "@id": "_:g689580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11524,7 +11540,7 @@
     ]
   },
   {
-    "@id": "_:g701400",
+    "@id": "_:g702560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11535,7 +11551,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g701420"
+        "@id": "_:g702580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -11563,7 +11579,7 @@
     ]
   },
   {
-    "@id": "_:g701420",
+    "@id": "_:g702580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11599,7 +11615,7 @@
     ]
   },
   {
-    "@id": "_:g701440",
+    "@id": "_:g702600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11640,7 +11656,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/60b474cc-4b86-4ff3-a2c2-48262f8d89c7",
+    "@id": "https://cowichanpac.ca/temporary/6e23a233-f576-4c15-8541-3523b8e326c5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11668,12 +11684,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g701400"
+        "@id": "_:g702560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g701440"
+        "@id": "_:g702600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11804,7 +11820,7 @@
     ]
   },
   {
-    "@id": "_:g714200",
+    "@id": "_:g715360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -11815,7 +11831,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g714220"
+        "@id": "_:g715380"
       }
     ],
     "http://schema.org/sameAs": [
@@ -11843,7 +11859,7 @@
     ]
   },
   {
-    "@id": "_:g714220",
+    "@id": "_:g715380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11879,7 +11895,7 @@
     ]
   },
   {
-    "@id": "_:g714240",
+    "@id": "_:g715400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11920,7 +11936,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/aae4571b-7047-46e3-8825-42aa6046fec9",
+    "@id": "https://cowichanpac.ca/temporary/6ea49092-6822-482c-8a6f-302e6315fa70",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11948,12 +11964,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g714200"
+        "@id": "_:g715360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g714240"
+        "@id": "_:g715400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12084,7 +12100,7 @@
     ]
   },
   {
-    "@id": "_:g727020",
+    "@id": "_:g728180",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -12095,7 +12111,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g727040"
+        "@id": "_:g728200"
       }
     ],
     "http://schema.org/sameAs": [
@@ -12123,7 +12139,7 @@
     ]
   },
   {
-    "@id": "_:g727040",
+    "@id": "_:g728200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12159,7 +12175,7 @@
     ]
   },
   {
-    "@id": "_:g727060",
+    "@id": "_:g728220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -12200,7 +12216,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/8e0174d3-c8f2-4086-816d-ae8da1b84713",
+    "@id": "https://cowichanpac.ca/temporary/3523a763-55b0-4984-b088-abcd9c0868cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12228,12 +12244,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g727020"
+        "@id": "_:g728180"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g727060"
+        "@id": "_:g728220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12364,7 +12380,7 @@
     ]
   },
   {
-    "@id": "_:g739820",
+    "@id": "_:g740980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -12375,7 +12391,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g739840"
+        "@id": "_:g741000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -12403,7 +12419,7 @@
     ]
   },
   {
-    "@id": "_:g739840",
+    "@id": "_:g741000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12439,7 +12455,7 @@
     ]
   },
   {
-    "@id": "_:g739860",
+    "@id": "_:g741020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -12480,7 +12496,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/3f24e017-e847-4777-b990-a80408c33264",
+    "@id": "https://cowichanpac.ca/temporary/cf05a4df-3066-4854-9302-6e4522ae85f6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12508,12 +12524,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g739820"
+        "@id": "_:g740980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g739860"
+        "@id": "_:g741020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12644,7 +12660,7 @@
     ]
   },
   {
-    "@id": "_:g752840",
+    "@id": "_:g753980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -12655,7 +12671,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g752860"
+        "@id": "_:g754000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -12683,7 +12699,7 @@
     ]
   },
   {
-    "@id": "_:g752860",
+    "@id": "_:g754000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12719,7 +12735,7 @@
     ]
   },
   {
-    "@id": "_:g752880",
+    "@id": "_:g754020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -12760,7 +12776,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d34e19be-b676-4939-9814-f04505ab9ca7",
+    "@id": "https://cowichanpac.ca/temporary/64853e1c-fa15-4373-a130-75e2e4f0224a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12788,12 +12804,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g752840"
+        "@id": "_:g753980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g752880"
+        "@id": "_:g754020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12924,7 +12940,7 @@
     ]
   },
   {
-    "@id": "_:g765680",
+    "@id": "_:g767020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -12935,7 +12951,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g765700"
+        "@id": "_:g767040"
       }
     ],
     "http://schema.org/sameAs": [
@@ -12963,7 +12979,7 @@
     ]
   },
   {
-    "@id": "_:g765700",
+    "@id": "_:g767040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12999,7 +13015,7 @@
     ]
   },
   {
-    "@id": "_:g765720",
+    "@id": "_:g767060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13040,7 +13056,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/df831738-b722-4856-a563-c32e9c2f4a14",
+    "@id": "https://cowichanpac.ca/temporary/ca2323b9-fbd9-4ee6-9c7a-507a9e2c1168",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13068,12 +13084,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g765680"
+        "@id": "_:g767020"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g765720"
+        "@id": "_:g767060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13204,7 +13220,7 @@
     ]
   },
   {
-    "@id": "_:g778500",
+    "@id": "_:g779800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -13215,7 +13231,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g778520"
+        "@id": "_:g779820"
       }
     ],
     "http://schema.org/sameAs": [
@@ -13243,7 +13259,7 @@
     ]
   },
   {
-    "@id": "_:g778520",
+    "@id": "_:g779820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13279,7 +13295,7 @@
     ]
   },
   {
-    "@id": "_:g778540",
+    "@id": "_:g779840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13320,7 +13336,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/b10ac584-5beb-4e33-924f-4e91d34c3bb9",
+    "@id": "https://cowichanpac.ca/temporary/03bd0f70-f32e-4d4c-961c-917b82eb6f31",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13348,12 +13364,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g778500"
+        "@id": "_:g779800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g778540"
+        "@id": "_:g779840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13484,7 +13500,7 @@
     ]
   },
   {
-    "@id": "_:g791340",
+    "@id": "_:g792820",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -13495,7 +13511,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g791360"
+        "@id": "_:g792840"
       }
     ],
     "http://schema.org/sameAs": [
@@ -13523,7 +13539,7 @@
     ]
   },
   {
-    "@id": "_:g791360",
+    "@id": "_:g792840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13559,7 +13575,7 @@
     ]
   },
   {
-    "@id": "_:g791380",
+    "@id": "_:g792860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13600,7 +13616,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/5d164aec-259c-47e3-972f-50815720cc8e",
+    "@id": "https://cowichanpac.ca/temporary/dc4f536c-a611-49e5-a5a4-d5b7f113c04d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13628,12 +13644,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g791340"
+        "@id": "_:g792820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g791380"
+        "@id": "_:g792860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13764,7 +13780,7 @@
     ]
   },
   {
-    "@id": "_:g804340",
+    "@id": "_:g805820",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -13775,7 +13791,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g804360"
+        "@id": "_:g805840"
       }
     ],
     "http://schema.org/sameAs": [
@@ -13803,7 +13819,7 @@
     ]
   },
   {
-    "@id": "_:g804360",
+    "@id": "_:g805840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13839,7 +13855,7 @@
     ]
   },
   {
-    "@id": "_:g804380",
+    "@id": "_:g805860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13880,7 +13896,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/5e03fd16-d592-4f3f-94f7-43fd29cf9c58",
+    "@id": "https://cowichanpac.ca/temporary/c938b4cf-51db-4b97-9770-995cebd8a864",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13908,12 +13924,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g804340"
+        "@id": "_:g805820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g804380"
+        "@id": "_:g805860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -14044,7 +14060,7 @@
     ]
   },
   {
-    "@id": "_:g817440",
+    "@id": "_:g818900",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14055,7 +14071,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g817460"
+        "@id": "_:g818920"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14083,7 +14099,7 @@
     ]
   },
   {
-    "@id": "_:g817460",
+    "@id": "_:g818920",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14119,7 +14135,7 @@
     ]
   },
   {
-    "@id": "_:g817480",
+    "@id": "_:g818940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14160,7 +14176,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/ed130ab0-e3a1-422d-9cda-35bf23b05a15",
+    "@id": "https://cowichanpac.ca/temporary/dbf31103-c119-495f-acc3-8e0c93dc0c83",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14188,12 +14204,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g817440"
+        "@id": "_:g818900"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g817480"
+        "@id": "_:g818940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -14231,7 +14247,7 @@
     ]
   },
   {
-    "@id": "_:g831440",
+    "@id": "_:g833060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14242,7 +14258,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831460"
+        "@id": "_:g833080"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14270,7 +14286,7 @@
     ]
   },
   {
-    "@id": "_:g831460",
+    "@id": "_:g833080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14306,7 +14322,7 @@
     ]
   },
   {
-    "@id": "_:g831480",
+    "@id": "_:g833100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14347,7 +14363,7 @@
     ]
   },
   {
-    "@id": "_:g831520",
+    "@id": "_:g833140",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14358,7 +14374,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831540"
+        "@id": "_:g833160"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14386,7 +14402,7 @@
     ]
   },
   {
-    "@id": "_:g831540",
+    "@id": "_:g833160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14422,7 +14438,7 @@
     ]
   },
   {
-    "@id": "_:g831560",
+    "@id": "_:g833180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14463,7 +14479,7 @@
     ]
   },
   {
-    "@id": "_:g831600",
+    "@id": "_:g833220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14474,7 +14490,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831620"
+        "@id": "_:g833240"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14502,7 +14518,7 @@
     ]
   },
   {
-    "@id": "_:g831620",
+    "@id": "_:g833240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14538,7 +14554,7 @@
     ]
   },
   {
-    "@id": "_:g831640",
+    "@id": "_:g833260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14579,7 +14595,7 @@
     ]
   },
   {
-    "@id": "_:g831680",
+    "@id": "_:g833300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14590,7 +14606,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831700"
+        "@id": "_:g833320"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14618,7 +14634,7 @@
     ]
   },
   {
-    "@id": "_:g831700",
+    "@id": "_:g833320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14654,7 +14670,7 @@
     ]
   },
   {
-    "@id": "_:g831720",
+    "@id": "_:g833340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14695,7 +14711,7 @@
     ]
   },
   {
-    "@id": "_:g831760",
+    "@id": "_:g833380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14706,7 +14722,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831780"
+        "@id": "_:g833400"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14734,7 +14750,7 @@
     ]
   },
   {
-    "@id": "_:g831780",
+    "@id": "_:g833400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14770,7 +14786,7 @@
     ]
   },
   {
-    "@id": "_:g831800",
+    "@id": "_:g833420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14811,7 +14827,7 @@
     ]
   },
   {
-    "@id": "_:g831840",
+    "@id": "_:g833460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14822,7 +14838,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831860"
+        "@id": "_:g833480"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14850,7 +14866,7 @@
     ]
   },
   {
-    "@id": "_:g831860",
+    "@id": "_:g833480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -14886,7 +14902,7 @@
     ]
   },
   {
-    "@id": "_:g831880",
+    "@id": "_:g833500",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -14927,7 +14943,7 @@
     ]
   },
   {
-    "@id": "_:g831920",
+    "@id": "_:g833540",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14938,7 +14954,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g831940"
+        "@id": "_:g833560"
       }
     ],
     "http://schema.org/sameAs": [
@@ -14966,7 +14982,7 @@
     ]
   },
   {
-    "@id": "_:g831940",
+    "@id": "_:g833560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15002,7 +15018,7 @@
     ]
   },
   {
-    "@id": "_:g831960",
+    "@id": "_:g833580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15043,7 +15059,7 @@
     ]
   },
   {
-    "@id": "_:g832000",
+    "@id": "_:g833620",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -15054,7 +15070,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g832020"
+        "@id": "_:g833640"
       }
     ],
     "http://schema.org/sameAs": [
@@ -15082,7 +15098,7 @@
     ]
   },
   {
-    "@id": "_:g832020",
+    "@id": "_:g833640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15118,7 +15134,7 @@
     ]
   },
   {
-    "@id": "_:g832040",
+    "@id": "_:g833660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15159,7 +15175,7 @@
     ]
   },
   {
-    "@id": "_:g832080",
+    "@id": "_:g833700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -15170,7 +15186,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g832100"
+        "@id": "_:g833720"
       }
     ],
     "http://schema.org/sameAs": [
@@ -15198,7 +15214,7 @@
     ]
   },
   {
-    "@id": "_:g832100",
+    "@id": "_:g833720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15234,7 +15250,7 @@
     ]
   },
   {
-    "@id": "_:g832120",
+    "@id": "_:g833740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15275,7 +15291,7 @@
     ]
   },
   {
-    "@id": "_:g832160",
+    "@id": "_:g833780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -15286,7 +15302,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g832180"
+        "@id": "_:g833800"
       }
     ],
     "http://schema.org/sameAs": [
@@ -15314,7 +15330,7 @@
     ]
   },
   {
-    "@id": "_:g832180",
+    "@id": "_:g833800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -15350,7 +15366,7 @@
     ]
   },
   {
-    "@id": "_:g832200",
+    "@id": "_:g833820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -15391,7 +15407,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c417ca7f-c538-45e3-9818-36f117c576b7",
+    "@id": "https://cowichanpac.ca/temporary/9dbef19a-ff16-4c2b-be62-82713d4e4670",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15419,12 +15435,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831440"
+        "@id": "_:g833060"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831480"
+        "@id": "_:g833100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15462,7 +15478,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/b5facbdd-537d-40e0-8864-9955aa2a26c2",
+    "@id": "https://cowichanpac.ca/temporary/53176260-1e43-4ed0-9f82-457457830f30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15490,12 +15506,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831520"
+        "@id": "_:g833140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831560"
+        "@id": "_:g833180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15533,7 +15549,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/6e1d5573-8912-4b8d-a625-325d844b1189",
+    "@id": "https://cowichanpac.ca/temporary/bc17f388-84f7-4a06-b0d4-f3da2049c6db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15561,12 +15577,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831600"
+        "@id": "_:g833220"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831640"
+        "@id": "_:g833260"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15604,7 +15620,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/903986ae-b2f7-4116-9e99-49b69d8f108c",
+    "@id": "https://cowichanpac.ca/temporary/9cafdde5-15d1-4df6-8423-66fb44ad5fe0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15632,12 +15648,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831680"
+        "@id": "_:g833300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831720"
+        "@id": "_:g833340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15675,7 +15691,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d98efa05-ee72-47e3-b5be-b455d46d7771",
+    "@id": "https://cowichanpac.ca/temporary/ca261593-dc30-4285-9c5c-beea2507da0f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15703,12 +15719,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831760"
+        "@id": "_:g833380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831800"
+        "@id": "_:g833420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15746,7 +15762,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c1785448-3d02-4b75-952a-aecc634826a7",
+    "@id": "https://cowichanpac.ca/temporary/a87a2d30-5771-42d1-8360-398de531ffc4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15774,12 +15790,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831840"
+        "@id": "_:g833460"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831880"
+        "@id": "_:g833500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15817,7 +15833,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/f08013bf-b738-4edb-af6d-21008796dd9e",
+    "@id": "https://cowichanpac.ca/temporary/9c581cfa-6683-4974-bb79-89c08cc541af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15845,12 +15861,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g831920"
+        "@id": "_:g833540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g831960"
+        "@id": "_:g833580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15888,7 +15904,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/1d8e04c2-4e4c-4667-9bf9-3005ec550de7",
+    "@id": "https://cowichanpac.ca/temporary/bfc1f8ea-e94e-45f1-8916-0c22200ca6c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15916,12 +15932,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g832000"
+        "@id": "_:g833620"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g832040"
+        "@id": "_:g833660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -15959,7 +15975,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/b1d76d78-27a0-475f-9093-ae3e31f38ddf",
+    "@id": "https://cowichanpac.ca/temporary/9e109da0-e267-4bbf-a092-d69fca7eb9e0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15987,12 +16003,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g832080"
+        "@id": "_:g833700"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g832120"
+        "@id": "_:g833740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -16030,7 +16046,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/7a633200-8e18-4f71-8ef2-b0f6e9ad4773",
+    "@id": "https://cowichanpac.ca/temporary/0e92ee4d-81dc-4493-9861-a1fef7db280e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16058,12 +16074,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g832160"
+        "@id": "_:g833780"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g832200"
+        "@id": "_:g833820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -16183,7 +16199,7 @@
     ]
   },
   {
-    "@id": "_:g859740",
+    "@id": "_:g861380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16194,7 +16210,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g859760"
+        "@id": "_:g861400"
       }
     ],
     "http://schema.org/sameAs": [
@@ -16222,7 +16238,7 @@
     ]
   },
   {
-    "@id": "_:g859760",
+    "@id": "_:g861400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16258,7 +16274,7 @@
     ]
   },
   {
-    "@id": "_:g859780",
+    "@id": "_:g861420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16299,7 +16315,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/f8e625dc-6135-4f42-b7b5-b6a55dfff6cc",
+    "@id": "https://cowichanpac.ca/temporary/e8fc85e7-4ac5-4d7f-a3cc-9e5f4117c0f2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16327,12 +16343,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g859740"
+        "@id": "_:g861380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g859780"
+        "@id": "_:g861420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -16545,7 +16561,7 @@
     ]
   },
   {
-    "@id": "_:g883240",
+    "@id": "_:g884920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16556,7 +16572,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g883260"
+        "@id": "_:g884940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -16584,7 +16600,7 @@
     ]
   },
   {
-    "@id": "_:g883260",
+    "@id": "_:g884940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -16620,7 +16636,7 @@
     ]
   },
   {
-    "@id": "_:g883280",
+    "@id": "_:g884960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -16661,7 +16677,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/01ceed38-a930-45d8-b773-38d8569afc34",
+    "@id": "https://cowichanpac.ca/temporary/4e6167b2-a460-419b-b183-800f21ac0ed1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16689,12 +16705,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g883240"
+        "@id": "_:g884920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g883280"
+        "@id": "_:g884960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -16949,7 +16965,7 @@
     ]
   },
   {
-    "@id": "_:g905480",
+    "@id": "_:g907740",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16960,7 +16976,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g905500"
+        "@id": "_:g907760"
       }
     ],
     "http://schema.org/sameAs": [
@@ -16988,7 +17004,7 @@
     ]
   },
   {
-    "@id": "_:g905500",
+    "@id": "_:g907760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17024,7 +17040,7 @@
     ]
   },
   {
-    "@id": "_:g905520",
+    "@id": "_:g907780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17065,7 +17081,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/5e67d39e-2401-4a80-85c3-1f671aeb1524",
+    "@id": "https://cowichanpac.ca/temporary/75addfed-298a-464a-bf6f-5a4b77ce433a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17093,12 +17109,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g905480"
+        "@id": "_:g907740"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g905520"
+        "@id": "_:g907780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -17218,7 +17234,7 @@
     ]
   },
   {
-    "@id": "_:g919440",
+    "@id": "_:g921740",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17229,7 +17245,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g919460"
+        "@id": "_:g921760"
       }
     ],
     "http://schema.org/sameAs": [
@@ -17257,7 +17273,7 @@
     ]
   },
   {
-    "@id": "_:g919460",
+    "@id": "_:g921760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17293,7 +17309,7 @@
     ]
   },
   {
-    "@id": "_:g919480",
+    "@id": "_:g921780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17334,7 +17350,7 @@
     ]
   },
   {
-    "@id": "_:g919520",
+    "@id": "_:g921820",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17345,7 +17361,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g919540"
+        "@id": "_:g921840"
       }
     ],
     "http://schema.org/sameAs": [
@@ -17373,7 +17389,7 @@
     ]
   },
   {
-    "@id": "_:g919540",
+    "@id": "_:g921840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17409,7 +17425,7 @@
     ]
   },
   {
-    "@id": "_:g919560",
+    "@id": "_:g921860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17450,7 +17466,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/f7405c32-c985-493e-b83d-d49bb1c70dfe",
+    "@id": "https://cowichanpac.ca/temporary/6e20f9c9-86c8-4c56-9714-c725599eebb5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17478,12 +17494,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g919440"
+        "@id": "_:g921740"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g919480"
+        "@id": "_:g921780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -17521,7 +17537,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c24bf5c3-4585-44a3-8652-ace4c7059ad6",
+    "@id": "https://cowichanpac.ca/temporary/f4deee6f-89c4-4060-a96e-0e2da25fd703",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17549,12 +17565,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g919520"
+        "@id": "_:g921820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g919560"
+        "@id": "_:g921860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -17592,7 +17608,7 @@
     ]
   },
   {
-    "@id": "_:g935360",
+    "@id": "_:g937780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17603,7 +17619,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935380"
+        "@id": "_:g937800"
       }
     ],
     "http://schema.org/sameAs": [
@@ -17631,7 +17647,7 @@
     ]
   },
   {
-    "@id": "_:g935380",
+    "@id": "_:g937800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17667,7 +17683,7 @@
     ]
   },
   {
-    "@id": "_:g935400",
+    "@id": "_:g937820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17708,7 +17724,7 @@
     ]
   },
   {
-    "@id": "_:g935440",
+    "@id": "_:g937860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17719,7 +17735,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935460"
+        "@id": "_:g937880"
       }
     ],
     "http://schema.org/sameAs": [
@@ -17747,7 +17763,7 @@
     ]
   },
   {
-    "@id": "_:g935460",
+    "@id": "_:g937880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17783,7 +17799,7 @@
     ]
   },
   {
-    "@id": "_:g935480",
+    "@id": "_:g937900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17824,7 +17840,7 @@
     ]
   },
   {
-    "@id": "_:g935520",
+    "@id": "_:g937940",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17835,7 +17851,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935540"
+        "@id": "_:g937960"
       }
     ],
     "http://schema.org/sameAs": [
@@ -17863,7 +17879,7 @@
     ]
   },
   {
-    "@id": "_:g935540",
+    "@id": "_:g937960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -17899,7 +17915,7 @@
     ]
   },
   {
-    "@id": "_:g935560",
+    "@id": "_:g937980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -17940,7 +17956,7 @@
     ]
   },
   {
-    "@id": "_:g935600",
+    "@id": "_:g938020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17951,7 +17967,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935620"
+        "@id": "_:g938040"
       }
     ],
     "http://schema.org/sameAs": [
@@ -17979,7 +17995,7 @@
     ]
   },
   {
-    "@id": "_:g935620",
+    "@id": "_:g938040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18015,7 +18031,7 @@
     ]
   },
   {
-    "@id": "_:g935640",
+    "@id": "_:g938060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18056,7 +18072,7 @@
     ]
   },
   {
-    "@id": "_:g935680",
+    "@id": "_:g938100",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18067,7 +18083,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935700"
+        "@id": "_:g938120"
       }
     ],
     "http://schema.org/sameAs": [
@@ -18095,7 +18111,7 @@
     ]
   },
   {
-    "@id": "_:g935700",
+    "@id": "_:g938120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18131,7 +18147,7 @@
     ]
   },
   {
-    "@id": "_:g935720",
+    "@id": "_:g938140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18172,7 +18188,7 @@
     ]
   },
   {
-    "@id": "_:g935760",
+    "@id": "_:g938180",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18183,7 +18199,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935780"
+        "@id": "_:g938200"
       }
     ],
     "http://schema.org/sameAs": [
@@ -18211,7 +18227,7 @@
     ]
   },
   {
-    "@id": "_:g935780",
+    "@id": "_:g938200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18247,7 +18263,7 @@
     ]
   },
   {
-    "@id": "_:g935800",
+    "@id": "_:g938220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18288,7 +18304,7 @@
     ]
   },
   {
-    "@id": "_:g935840",
+    "@id": "_:g938260",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18299,7 +18315,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935860"
+        "@id": "_:g938280"
       }
     ],
     "http://schema.org/sameAs": [
@@ -18327,7 +18343,7 @@
     ]
   },
   {
-    "@id": "_:g935860",
+    "@id": "_:g938280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18363,7 +18379,7 @@
     ]
   },
   {
-    "@id": "_:g935880",
+    "@id": "_:g938300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18404,7 +18420,7 @@
     ]
   },
   {
-    "@id": "_:g935920",
+    "@id": "_:g938340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18415,7 +18431,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g935940"
+        "@id": "_:g938360"
       }
     ],
     "http://schema.org/sameAs": [
@@ -18443,7 +18459,7 @@
     ]
   },
   {
-    "@id": "_:g935940",
+    "@id": "_:g938360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18479,7 +18495,7 @@
     ]
   },
   {
-    "@id": "_:g935960",
+    "@id": "_:g938380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18520,7 +18536,7 @@
     ]
   },
   {
-    "@id": "_:g936000",
+    "@id": "_:g938420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18531,7 +18547,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g936020"
+        "@id": "_:g938440"
       }
     ],
     "http://schema.org/sameAs": [
@@ -18559,7 +18575,7 @@
     ]
   },
   {
-    "@id": "_:g936020",
+    "@id": "_:g938440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18595,7 +18611,7 @@
     ]
   },
   {
-    "@id": "_:g936040",
+    "@id": "_:g938460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18636,7 +18652,7 @@
     ]
   },
   {
-    "@id": "_:g936080",
+    "@id": "_:g938500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18647,7 +18663,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g936100"
+        "@id": "_:g938520"
       }
     ],
     "http://schema.org/sameAs": [
@@ -18675,7 +18691,7 @@
     ]
   },
   {
-    "@id": "_:g936100",
+    "@id": "_:g938520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -18711,7 +18727,7 @@
     ]
   },
   {
-    "@id": "_:g936120",
+    "@id": "_:g938540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -18752,7 +18768,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/42963087-9666-487b-b444-5ae90d30e4c3",
+    "@id": "https://cowichanpac.ca/temporary/dcdfdcde-1168-4802-b2e3-ca4591addd7a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18780,12 +18796,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935360"
+        "@id": "_:g937780"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935400"
+        "@id": "_:g937820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -18823,7 +18839,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/67ad202f-6041-4333-8fd1-d83a963d2561",
+    "@id": "https://cowichanpac.ca/temporary/8f1285cd-9e29-4ee8-89cd-176043cb1f13",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18851,12 +18867,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935440"
+        "@id": "_:g937860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935480"
+        "@id": "_:g937900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -18894,7 +18910,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/ce6e2f2b-a6cb-4a87-b308-c3c71967783b",
+    "@id": "https://cowichanpac.ca/temporary/130e78ef-ed52-4763-b73b-d7c4d6bcb492",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18922,12 +18938,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935520"
+        "@id": "_:g937940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935560"
+        "@id": "_:g937980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -18965,7 +18981,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c1a9f1a1-c25a-49fb-a6e8-d71be0df1a8a",
+    "@id": "https://cowichanpac.ca/temporary/ee919758-e80b-4ee7-a2bb-f67568c8d52e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18993,12 +19009,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935600"
+        "@id": "_:g938020"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935640"
+        "@id": "_:g938060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19036,7 +19052,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/6c6e5e8b-64d6-4a6c-a9f9-4455cd2e34c8",
+    "@id": "https://cowichanpac.ca/temporary/9b3770a7-63b9-41fe-a9c7-2de56ddb8946",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19064,12 +19080,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935680"
+        "@id": "_:g938100"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935720"
+        "@id": "_:g938140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19107,7 +19123,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/464591e5-594f-45b5-9266-c061da3d94ae",
+    "@id": "https://cowichanpac.ca/temporary/8bb9c084-c97a-46e7-b1bc-ccaf9fda0e29",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19135,12 +19151,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935760"
+        "@id": "_:g938180"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935800"
+        "@id": "_:g938220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19178,7 +19194,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/0d2a49fb-6ba3-47c5-b5a2-b620a38b1239",
+    "@id": "https://cowichanpac.ca/temporary/539a4685-33c0-4689-b573-a44f1779d72d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19206,12 +19222,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935840"
+        "@id": "_:g938260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935880"
+        "@id": "_:g938300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19249,7 +19265,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/4171ee38-37f9-4187-9325-a00c1f648230",
+    "@id": "https://cowichanpac.ca/temporary/12bbe881-3cae-412e-9de5-2241a08c919a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19277,12 +19293,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g935920"
+        "@id": "_:g938340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g935960"
+        "@id": "_:g938380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19320,7 +19336,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/a60eab8a-a905-486e-bd8c-44df5a77a174",
+    "@id": "https://cowichanpac.ca/temporary/d4c229f9-5d06-4866-8007-ff6d9d966445",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19348,12 +19364,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g936000"
+        "@id": "_:g938420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g936040"
+        "@id": "_:g938460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19391,7 +19407,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/21f2406c-6508-41d8-879b-4900c9309db5",
+    "@id": "https://cowichanpac.ca/temporary/37a73ce2-a153-40fe-ac3e-08f85548b5c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19419,12 +19435,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g936080"
+        "@id": "_:g938500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g936120"
+        "@id": "_:g938540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -19544,7 +19560,7 @@
     ]
   },
   {
-    "@id": "_:g963600",
+    "@id": "_:g966160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19555,7 +19571,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g963620"
+        "@id": "_:g966180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -19583,7 +19599,7 @@
     ]
   },
   {
-    "@id": "_:g963620",
+    "@id": "_:g966180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19619,7 +19635,7 @@
     ]
   },
   {
-    "@id": "_:g963640",
+    "@id": "_:g966200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19660,7 +19676,7 @@
     ]
   },
   {
-    "@id": "_:g963680",
+    "@id": "_:g966240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19671,7 +19687,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g963700"
+        "@id": "_:g966260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -19699,7 +19715,7 @@
     ]
   },
   {
-    "@id": "_:g963700",
+    "@id": "_:g966260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19735,7 +19751,7 @@
     ]
   },
   {
-    "@id": "_:g963720",
+    "@id": "_:g966280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19776,7 +19792,7 @@
     ]
   },
   {
-    "@id": "_:g963760",
+    "@id": "_:g966320",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19787,7 +19803,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g963780"
+        "@id": "_:g966340"
       }
     ],
     "http://schema.org/sameAs": [
@@ -19815,7 +19831,7 @@
     ]
   },
   {
-    "@id": "_:g963780",
+    "@id": "_:g966340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19851,7 +19867,7 @@
     ]
   },
   {
-    "@id": "_:g963800",
+    "@id": "_:g966360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -19892,7 +19908,7 @@
     ]
   },
   {
-    "@id": "_:g963840",
+    "@id": "_:g966400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19903,7 +19919,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g963860"
+        "@id": "_:g966420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -19931,7 +19947,7 @@
     ]
   },
   {
-    "@id": "_:g963860",
+    "@id": "_:g966420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -19967,7 +19983,7 @@
     ]
   },
   {
-    "@id": "_:g963880",
+    "@id": "_:g966440",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20008,7 +20024,7 @@
     ]
   },
   {
-    "@id": "_:g963920",
+    "@id": "_:g966480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20019,7 +20035,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g963940"
+        "@id": "_:g966500"
       }
     ],
     "http://schema.org/sameAs": [
@@ -20047,7 +20063,7 @@
     ]
   },
   {
-    "@id": "_:g963940",
+    "@id": "_:g966500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20083,7 +20099,7 @@
     ]
   },
   {
-    "@id": "_:g963960",
+    "@id": "_:g966520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20124,7 +20140,7 @@
     ]
   },
   {
-    "@id": "_:g964000",
+    "@id": "_:g966560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20135,7 +20151,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g964020"
+        "@id": "_:g966580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -20163,7 +20179,7 @@
     ]
   },
   {
-    "@id": "_:g964020",
+    "@id": "_:g966580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20199,7 +20215,7 @@
     ]
   },
   {
-    "@id": "_:g964040",
+    "@id": "_:g966600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20240,7 +20256,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c6669dac-98b2-4b71-90af-4413ca089dab",
+    "@id": "https://cowichanpac.ca/temporary/354e4ae8-14fe-4996-b676-85c8d3866e51",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20268,12 +20284,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g963600"
+        "@id": "_:g966160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g963640"
+        "@id": "_:g966200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -20311,7 +20327,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/a3e4e5a4-c985-4110-82d7-fb2fc8d40269",
+    "@id": "https://cowichanpac.ca/temporary/cf1fb696-3e01-4b13-aed1-d908b142ab7d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20339,12 +20355,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g963680"
+        "@id": "_:g966240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g963720"
+        "@id": "_:g966280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -20382,7 +20398,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/fe665622-cdb1-4dda-bbe7-1d5812152555",
+    "@id": "https://cowichanpac.ca/temporary/3a431cc5-aa81-497b-8194-ac57558dc5c3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20410,12 +20426,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g963760"
+        "@id": "_:g966320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g963800"
+        "@id": "_:g966360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -20453,7 +20469,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/abae7f81-dd02-4148-8f04-4f45543aaed5",
+    "@id": "https://cowichanpac.ca/temporary/70bc7f62-7894-4bc1-9c32-0da023d4ebed",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20481,12 +20497,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g963840"
+        "@id": "_:g966400"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g963880"
+        "@id": "_:g966440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -20524,7 +20540,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d02ff64a-d2e7-4170-a708-78c8d6975d36",
+    "@id": "https://cowichanpac.ca/temporary/060f250a-9f2b-4d3f-96aa-5501ea96c9aa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20552,12 +20568,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g963920"
+        "@id": "_:g966480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g963960"
+        "@id": "_:g966520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -20595,7 +20611,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c5aadff7-9b8f-424b-a18b-cc23f98fb368",
+    "@id": "https://cowichanpac.ca/temporary/a465cee7-2be1-479f-bf80-e4dc43778991",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20623,12 +20639,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g964000"
+        "@id": "_:g966560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g964040"
+        "@id": "_:g966600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -20666,7 +20682,7 @@
     ]
   },
   {
-    "@id": "_:g987360",
+    "@id": "_:g989880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20677,7 +20693,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987380"
+        "@id": "_:g989900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -20705,7 +20721,7 @@
     ]
   },
   {
-    "@id": "_:g987380",
+    "@id": "_:g989900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20741,7 +20757,7 @@
     ]
   },
   {
-    "@id": "_:g987400",
+    "@id": "_:g989920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20782,7 +20798,7 @@
     ]
   },
   {
-    "@id": "_:g987440",
+    "@id": "_:g989960",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20793,7 +20809,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987460"
+        "@id": "_:g989980"
       }
     ],
     "http://schema.org/sameAs": [
@@ -20821,7 +20837,7 @@
     ]
   },
   {
-    "@id": "_:g987460",
+    "@id": "_:g989980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20857,7 +20873,7 @@
     ]
   },
   {
-    "@id": "_:g987480",
+    "@id": "_:g990000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -20898,7 +20914,7 @@
     ]
   },
   {
-    "@id": "_:g987520",
+    "@id": "_:g990040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20909,7 +20925,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987540"
+        "@id": "_:g990060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -20937,7 +20953,7 @@
     ]
   },
   {
-    "@id": "_:g987540",
+    "@id": "_:g990060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -20973,7 +20989,7 @@
     ]
   },
   {
-    "@id": "_:g987560",
+    "@id": "_:g990080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21014,7 +21030,7 @@
     ]
   },
   {
-    "@id": "_:g987600",
+    "@id": "_:g990120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21025,7 +21041,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987620"
+        "@id": "_:g990140"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21053,7 +21069,7 @@
     ]
   },
   {
-    "@id": "_:g987620",
+    "@id": "_:g990140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21089,7 +21105,7 @@
     ]
   },
   {
-    "@id": "_:g987640",
+    "@id": "_:g990160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21130,7 +21146,7 @@
     ]
   },
   {
-    "@id": "_:g987680",
+    "@id": "_:g990200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21141,7 +21157,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987700"
+        "@id": "_:g990220"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21169,7 +21185,7 @@
     ]
   },
   {
-    "@id": "_:g987700",
+    "@id": "_:g990220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21205,7 +21221,7 @@
     ]
   },
   {
-    "@id": "_:g987720",
+    "@id": "_:g990240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21246,7 +21262,7 @@
     ]
   },
   {
-    "@id": "_:g987760",
+    "@id": "_:g990280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21257,7 +21273,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987780"
+        "@id": "_:g990300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21285,7 +21301,7 @@
     ]
   },
   {
-    "@id": "_:g987780",
+    "@id": "_:g990300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21321,7 +21337,7 @@
     ]
   },
   {
-    "@id": "_:g987800",
+    "@id": "_:g990320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21362,7 +21378,7 @@
     ]
   },
   {
-    "@id": "_:g987840",
+    "@id": "_:g990360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21373,7 +21389,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987860"
+        "@id": "_:g990380"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21401,7 +21417,7 @@
     ]
   },
   {
-    "@id": "_:g987860",
+    "@id": "_:g990380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21437,7 +21453,7 @@
     ]
   },
   {
-    "@id": "_:g987880",
+    "@id": "_:g990400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21478,7 +21494,7 @@
     ]
   },
   {
-    "@id": "_:g987920",
+    "@id": "_:g990440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21489,7 +21505,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g987940"
+        "@id": "_:g990460"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21517,7 +21533,7 @@
     ]
   },
   {
-    "@id": "_:g987940",
+    "@id": "_:g990460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21553,7 +21569,7 @@
     ]
   },
   {
-    "@id": "_:g987960",
+    "@id": "_:g990480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21594,7 +21610,7 @@
     ]
   },
   {
-    "@id": "_:g988000",
+    "@id": "_:g990520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21605,7 +21621,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g988020"
+        "@id": "_:g990540"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21633,7 +21649,7 @@
     ]
   },
   {
-    "@id": "_:g988020",
+    "@id": "_:g990540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21669,7 +21685,7 @@
     ]
   },
   {
-    "@id": "_:g988040",
+    "@id": "_:g990560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21710,7 +21726,7 @@
     ]
   },
   {
-    "@id": "_:g988080",
+    "@id": "_:g990600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21721,7 +21737,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g988100"
+        "@id": "_:g990620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21749,7 +21765,7 @@
     ]
   },
   {
-    "@id": "_:g988100",
+    "@id": "_:g990620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21785,7 +21801,7 @@
     ]
   },
   {
-    "@id": "_:g988120",
+    "@id": "_:g990640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21826,7 +21842,7 @@
     ]
   },
   {
-    "@id": "_:g988160",
+    "@id": "_:g990680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21837,7 +21853,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g988180"
+        "@id": "_:g990700"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21865,7 +21881,7 @@
     ]
   },
   {
-    "@id": "_:g988180",
+    "@id": "_:g990700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -21901,7 +21917,7 @@
     ]
   },
   {
-    "@id": "_:g988200",
+    "@id": "_:g990720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -21942,7 +21958,7 @@
     ]
   },
   {
-    "@id": "_:g988240",
+    "@id": "_:g990760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21953,7 +21969,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g988260"
+        "@id": "_:g990780"
       }
     ],
     "http://schema.org/sameAs": [
@@ -21981,7 +21997,7 @@
     ]
   },
   {
-    "@id": "_:g988260",
+    "@id": "_:g990780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -22017,7 +22033,7 @@
     ]
   },
   {
-    "@id": "_:g988280",
+    "@id": "_:g990800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -22058,7 +22074,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/674a878f-28f7-45cd-b913-8997e8adc603",
+    "@id": "https://cowichanpac.ca/temporary/620a24dd-d8b2-4d04-a7e2-602667f52f62",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22086,12 +22102,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987360"
+        "@id": "_:g989880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987400"
+        "@id": "_:g989920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22129,7 +22145,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/3aa34289-f228-4dd2-b717-e6e1f439fcb0",
+    "@id": "https://cowichanpac.ca/temporary/9a135749-29ea-4e49-8299-082b76b8482b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22157,12 +22173,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987440"
+        "@id": "_:g989960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987480"
+        "@id": "_:g990000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22200,7 +22216,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c111f09b-9810-4624-ab15-8288c78b4594",
+    "@id": "https://cowichanpac.ca/temporary/84fe6b16-0f1b-41b5-98e3-9e38f42cc5b2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22228,12 +22244,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987520"
+        "@id": "_:g990040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987560"
+        "@id": "_:g990080"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22271,7 +22287,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/6844075b-8641-4feb-b493-5b48c4854382",
+    "@id": "https://cowichanpac.ca/temporary/e59ee23e-f8f0-42fc-b486-d835c679067a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22299,12 +22315,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987600"
+        "@id": "_:g990120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987640"
+        "@id": "_:g990160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22342,7 +22358,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/4dd011e8-ab85-48f3-9b51-ec972ec1206e",
+    "@id": "https://cowichanpac.ca/temporary/f3bc3deb-d3f3-4fb1-8955-2038dab41e1c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22370,12 +22386,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987680"
+        "@id": "_:g990200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987720"
+        "@id": "_:g990240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22413,7 +22429,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d905861c-8f39-4d26-8941-ce274a6d0dbf",
+    "@id": "https://cowichanpac.ca/temporary/7ed57381-b0b1-47be-9c9f-5ed110968ea0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22441,12 +22457,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987760"
+        "@id": "_:g990280"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987800"
+        "@id": "_:g990320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22484,7 +22500,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/b8be3d0c-8008-45d2-b09b-8c4c57b61154",
+    "@id": "https://cowichanpac.ca/temporary/50e319ca-9c2e-497a-9d87-a51821061eca",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22512,12 +22528,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987840"
+        "@id": "_:g990360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987880"
+        "@id": "_:g990400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22555,7 +22571,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/9d72b156-c48b-4bc0-93c0-bd3995612e60",
+    "@id": "https://cowichanpac.ca/temporary/5d4cb237-7e16-402a-8e9c-b0641b76dcc4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22583,12 +22599,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g987920"
+        "@id": "_:g990440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g987960"
+        "@id": "_:g990480"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22626,7 +22642,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/28bd3fd7-6203-4648-a04f-b475f6adde9f",
+    "@id": "https://cowichanpac.ca/temporary/b24fcd9a-dcee-4198-84e5-14934b21e713",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22654,12 +22670,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g988000"
+        "@id": "_:g990520"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g988040"
+        "@id": "_:g990560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22697,7 +22713,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/61f5d279-b5fa-4739-b82a-cd0c042eef21",
+    "@id": "https://cowichanpac.ca/temporary/6ede0782-d4a1-4f9d-a475-194dcc0cf5fb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22725,12 +22741,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g988080"
+        "@id": "_:g990600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g988120"
+        "@id": "_:g990640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22768,7 +22784,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/e37bbfde-d16b-4838-8276-cabacf2e180a",
+    "@id": "https://cowichanpac.ca/temporary/c394cbee-9f8a-40d0-b5ce-1d6be40bbab0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22796,12 +22812,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g988160"
+        "@id": "_:g990680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g988200"
+        "@id": "_:g990720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22839,7 +22855,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/214a5de0-08de-4da8-84e1-ab5b7d865b6c",
+    "@id": "https://cowichanpac.ca/temporary/9ea6145f-14ea-491b-8635-5c099ace9bce",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22867,12 +22883,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g988240"
+        "@id": "_:g990760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g988280"
+        "@id": "_:g990800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -22992,7 +23008,7 @@
     ]
   },
   {
-    "@id": "_:g1019240",
+    "@id": "_:g1021800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23003,7 +23019,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1019260"
+        "@id": "_:g1021820"
       }
     ],
     "http://schema.org/sameAs": [
@@ -23031,7 +23047,7 @@
     ]
   },
   {
-    "@id": "_:g1019260",
+    "@id": "_:g1021820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23067,7 +23083,7 @@
     ]
   },
   {
-    "@id": "_:g1019280",
+    "@id": "_:g1021840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23108,7 +23124,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/58313b49-95da-4a4e-b6f3-5b0d38cf6c51",
+    "@id": "https://cowichanpac.ca/temporary/a1cd0fa1-c851-4ea5-b3ee-e29ce09ad092",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23136,12 +23152,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1019240"
+        "@id": "_:g1021800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1019280"
+        "@id": "_:g1021840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -23261,7 +23277,7 @@
     ]
   },
   {
-    "@id": "_:g1033100",
+    "@id": "_:g1035880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23272,7 +23288,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1033120"
+        "@id": "_:g1035900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -23300,7 +23316,7 @@
     ]
   },
   {
-    "@id": "_:g1033120",
+    "@id": "_:g1035900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23336,7 +23352,7 @@
     ]
   },
   {
-    "@id": "_:g1033140",
+    "@id": "_:g1035920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23377,7 +23393,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/bab52ac7-67d5-4ed6-bb83-e49cf1e5bae8",
+    "@id": "https://cowichanpac.ca/temporary/abfdc03a-ffe8-4cdd-b529-a32884672aac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23405,12 +23421,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1033100"
+        "@id": "_:g1035880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1033140"
+        "@id": "_:g1035920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -23609,7 +23625,7 @@
     ]
   },
   {
-    "@id": "_:g1047000",
+    "@id": "_:g1049960",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23620,7 +23636,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1047020"
+        "@id": "_:g1049980"
       }
     ],
     "http://schema.org/sameAs": [
@@ -23648,7 +23664,7 @@
     ]
   },
   {
-    "@id": "_:g1047020",
+    "@id": "_:g1049980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -23684,7 +23700,7 @@
     ]
   },
   {
-    "@id": "_:g1047040",
+    "@id": "_:g1050000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23725,7 +23741,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/55a64e9e-e127-4b30-9159-ebfbdde570df",
+    "@id": "https://cowichanpac.ca/temporary/e19f1eec-7272-492b-a30b-3018ec82e77a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23753,12 +23769,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1047000"
+        "@id": "_:g1049960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1047040"
+        "@id": "_:g1050000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -23957,7 +23973,7 @@
     ]
   },
   {
-    "@id": "_:g1059820",
+    "@id": "_:g1062780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23968,7 +23984,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1059840"
+        "@id": "_:g1062800"
       }
     ],
     "http://schema.org/sameAs": [
@@ -23996,7 +24012,7 @@
     ]
   },
   {
-    "@id": "_:g1059840",
+    "@id": "_:g1062800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24032,7 +24048,7 @@
     ]
   },
   {
-    "@id": "_:g1059860",
+    "@id": "_:g1062820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24073,7 +24089,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/82bbbfa4-6ecc-4b31-beb3-05c24af54916",
+    "@id": "https://cowichanpac.ca/temporary/b1aad4c9-a301-4ec8-b898-090ff36733a7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24101,12 +24117,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1059820"
+        "@id": "_:g1062780"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1059860"
+        "@id": "_:g1062820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -24305,7 +24321,7 @@
     ]
   },
   {
-    "@id": "_:g1072880",
+    "@id": "_:g1075600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24316,7 +24332,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1072900"
+        "@id": "_:g1075620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -24344,7 +24360,7 @@
     ]
   },
   {
-    "@id": "_:g1072900",
+    "@id": "_:g1075620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24380,7 +24396,7 @@
     ]
   },
   {
-    "@id": "_:g1072920",
+    "@id": "_:g1075640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24421,7 +24437,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/32dcd07d-0cc3-459f-bce1-af9662e3ebda",
+    "@id": "https://cowichanpac.ca/temporary/2f40e6f8-6ce3-4be5-b5b2-edf4c1d37845",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24449,12 +24465,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1072880"
+        "@id": "_:g1075600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1072920"
+        "@id": "_:g1075640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -24653,7 +24669,7 @@
     ]
   },
   {
-    "@id": "_:g1085780",
+    "@id": "_:g1088660",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24664,7 +24680,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1085800"
+        "@id": "_:g1088680"
       }
     ],
     "http://schema.org/sameAs": [
@@ -24692,7 +24708,7 @@
     ]
   },
   {
-    "@id": "_:g1085800",
+    "@id": "_:g1088680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -24728,7 +24744,7 @@
     ]
   },
   {
-    "@id": "_:g1085820",
+    "@id": "_:g1088700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -24769,7 +24785,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/65940fca-c7c7-4c49-99b7-7978889092a7",
+    "@id": "https://cowichanpac.ca/temporary/2cc9d9d1-bbb9-4737-978b-4e8b505cf325",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24797,12 +24813,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1085780"
+        "@id": "_:g1088660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1085820"
+        "@id": "_:g1088700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -25001,7 +25017,7 @@
     ]
   },
   {
-    "@id": "_:g1098620",
+    "@id": "_:g1101500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25012,7 +25028,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1098640"
+        "@id": "_:g1101520"
       }
     ],
     "http://schema.org/sameAs": [
@@ -25040,7 +25056,7 @@
     ]
   },
   {
-    "@id": "_:g1098640",
+    "@id": "_:g1101520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25076,7 +25092,7 @@
     ]
   },
   {
-    "@id": "_:g1098660",
+    "@id": "_:g1101540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25117,7 +25133,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d4fbd9f1-4a4e-45e4-bd27-418639d4acf1",
+    "@id": "https://cowichanpac.ca/temporary/5856afa1-2fde-477f-afec-a801fb065107",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25145,12 +25161,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1098620"
+        "@id": "_:g1101500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1098660"
+        "@id": "_:g1101540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -25349,7 +25365,7 @@
     ]
   },
   {
-    "@id": "_:g1111520",
+    "@id": "_:g1114300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25360,7 +25376,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1111540"
+        "@id": "_:g1114320"
       }
     ],
     "http://schema.org/sameAs": [
@@ -25388,7 +25404,7 @@
     ]
   },
   {
-    "@id": "_:g1111540",
+    "@id": "_:g1114320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25424,7 +25440,7 @@
     ]
   },
   {
-    "@id": "_:g1111560",
+    "@id": "_:g1114340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25465,7 +25481,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/3df8a2ff-5485-46a3-8bbc-b880a05d6605",
+    "@id": "https://cowichanpac.ca/temporary/0a2d1275-397e-4086-b4cf-277f5d1b39e3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25493,12 +25509,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1111520"
+        "@id": "_:g1114300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1111560"
+        "@id": "_:g1114340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -25697,7 +25713,7 @@
     ]
   },
   {
-    "@id": "_:g1124540",
+    "@id": "_:g1127080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25708,7 +25724,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1124560"
+        "@id": "_:g1127100"
       }
     ],
     "http://schema.org/sameAs": [
@@ -25736,7 +25752,7 @@
     ]
   },
   {
-    "@id": "_:g1124560",
+    "@id": "_:g1127100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -25772,7 +25788,7 @@
     ]
   },
   {
-    "@id": "_:g1124580",
+    "@id": "_:g1127120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -25813,7 +25829,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/87062221-a426-4218-b3e1-aa20ac067047",
+    "@id": "https://cowichanpac.ca/temporary/544c9069-ddd6-40a6-a4cc-64ced2d24586",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25841,12 +25857,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1124540"
+        "@id": "_:g1127080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1124580"
+        "@id": "_:g1127120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26045,7 +26061,7 @@
     ]
   },
   {
-    "@id": "_:g1137560",
+    "@id": "_:g1140100",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26056,7 +26072,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1137580"
+        "@id": "_:g1140120"
       }
     ],
     "http://schema.org/sameAs": [
@@ -26084,7 +26100,7 @@
     ]
   },
   {
-    "@id": "_:g1137580",
+    "@id": "_:g1140120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26120,7 +26136,7 @@
     ]
   },
   {
-    "@id": "_:g1137600",
+    "@id": "_:g1140140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26161,7 +26177,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/5326bd4e-5bef-450e-9c80-e539fa5e7508",
+    "@id": "https://cowichanpac.ca/temporary/0a6d2ee1-9cff-41aa-9ef6-48722a0f9d22",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26189,12 +26205,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1137560"
+        "@id": "_:g1140100"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1137600"
+        "@id": "_:g1140140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26393,7 +26409,7 @@
     ]
   },
   {
-    "@id": "_:g1150400",
+    "@id": "_:g1153180",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26404,7 +26420,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1150420"
+        "@id": "_:g1153200"
       }
     ],
     "http://schema.org/sameAs": [
@@ -26432,7 +26448,7 @@
     ]
   },
   {
-    "@id": "_:g1150420",
+    "@id": "_:g1153200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26468,7 +26484,7 @@
     ]
   },
   {
-    "@id": "_:g1150440",
+    "@id": "_:g1153220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26509,7 +26525,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/eb34d244-bb11-4cd0-9970-10d71b57acd8",
+    "@id": "https://cowichanpac.ca/temporary/47b871aa-a2f4-4baf-8875-384e3fb721e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26537,12 +26553,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1150400"
+        "@id": "_:g1153180"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1150440"
+        "@id": "_:g1153220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26673,7 +26689,7 @@
     ]
   },
   {
-    "@id": "_:g1163420",
+    "@id": "_:g1165960",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26684,7 +26700,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1163440"
+        "@id": "_:g1165980"
       }
     ],
     "http://schema.org/sameAs": [
@@ -26712,7 +26728,7 @@
     ]
   },
   {
-    "@id": "_:g1163440",
+    "@id": "_:g1165980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -26748,7 +26764,7 @@
     ]
   },
   {
-    "@id": "_:g1163460",
+    "@id": "_:g1166000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -26789,7 +26805,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/74c88416-c916-4799-939a-a0205b75a774",
+    "@id": "https://cowichanpac.ca/temporary/5f874056-ea36-497f-a6e5-262810a8dc30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26817,12 +26833,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1163420"
+        "@id": "_:g1165960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1163460"
+        "@id": "_:g1166000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -27021,7 +27037,7 @@
     ]
   },
   {
-    "@id": "_:g1176440",
+    "@id": "_:g1178980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -27032,7 +27048,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1176460"
+        "@id": "_:g1179000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -27060,7 +27076,7 @@
     ]
   },
   {
-    "@id": "_:g1176460",
+    "@id": "_:g1179000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27096,7 +27112,7 @@
     ]
   },
   {
-    "@id": "_:g1176480",
+    "@id": "_:g1179020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27137,7 +27153,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/5dd217cc-43f4-4c3e-b71e-80e6ba4042e0",
+    "@id": "https://cowichanpac.ca/temporary/7320d090-04bb-4899-ac6b-b8377d836b88",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27165,12 +27181,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1176440"
+        "@id": "_:g1178980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1176480"
+        "@id": "_:g1179020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -27369,7 +27385,7 @@
     ]
   },
   {
-    "@id": "_:g1189480",
+    "@id": "_:g1192020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -27380,7 +27396,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1189500"
+        "@id": "_:g1192040"
       }
     ],
     "http://schema.org/sameAs": [
@@ -27408,7 +27424,7 @@
     ]
   },
   {
-    "@id": "_:g1189500",
+    "@id": "_:g1192040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27444,7 +27460,7 @@
     ]
   },
   {
-    "@id": "_:g1189520",
+    "@id": "_:g1192060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27485,7 +27501,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/4414bea0-cc9a-4196-871a-26183f2897f1",
+    "@id": "https://cowichanpac.ca/temporary/7469c8fa-ab1e-42da-8319-d38ceb9e070c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27513,12 +27529,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1189480"
+        "@id": "_:g1192020"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1189520"
+        "@id": "_:g1192060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -27717,7 +27733,7 @@
     ]
   },
   {
-    "@id": "_:g1202280",
+    "@id": "_:g1205060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -27728,7 +27744,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1202300"
+        "@id": "_:g1205080"
       }
     ],
     "http://schema.org/sameAs": [
@@ -27756,7 +27772,7 @@
     ]
   },
   {
-    "@id": "_:g1202300",
+    "@id": "_:g1205080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -27792,7 +27808,7 @@
     ]
   },
   {
-    "@id": "_:g1202320",
+    "@id": "_:g1205100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -27833,7 +27849,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d2d53b9b-8443-4ccb-a76c-a691aaff4f5c",
+    "@id": "https://cowichanpac.ca/temporary/0bb33c4e-eabe-4839-9c02-75097752d5e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27861,12 +27877,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1202280"
+        "@id": "_:g1205060"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1202320"
+        "@id": "_:g1205100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -28065,7 +28081,7 @@
     ]
   },
   {
-    "@id": "_:g1215320",
+    "@id": "_:g1217860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -28076,7 +28092,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1215340"
+        "@id": "_:g1217880"
       }
     ],
     "http://schema.org/sameAs": [
@@ -28104,7 +28120,7 @@
     ]
   },
   {
-    "@id": "_:g1215340",
+    "@id": "_:g1217880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -28140,7 +28156,7 @@
     ]
   },
   {
-    "@id": "_:g1215360",
+    "@id": "_:g1217900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -28181,7 +28197,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/583a4386-baa8-4208-bd7e-ff86588123f4",
+    "@id": "https://cowichanpac.ca/temporary/4ba62db0-53d3-4822-b5c0-6fcdb93dc1bd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28209,12 +28225,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1215320"
+        "@id": "_:g1217860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1215360"
+        "@id": "_:g1217900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -28413,7 +28429,7 @@
     ]
   },
   {
-    "@id": "_:g1228360",
+    "@id": "_:g1230920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -28424,7 +28440,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1228380"
+        "@id": "_:g1230940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -28452,7 +28468,7 @@
     ]
   },
   {
-    "@id": "_:g1228380",
+    "@id": "_:g1230940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -28488,7 +28504,7 @@
     ]
   },
   {
-    "@id": "_:g1228400",
+    "@id": "_:g1230960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -28529,7 +28545,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/3dda81c7-a6e3-411f-afef-141be2a7d003",
+    "@id": "https://cowichanpac.ca/temporary/3e8d3ae6-2b35-426b-8b94-1b9d9a6ac160",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28557,12 +28573,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1228360"
+        "@id": "_:g1230920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1228400"
+        "@id": "_:g1230960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -28693,7 +28709,7 @@
     ]
   },
   {
-    "@id": "_:g1241440",
+    "@id": "_:g1244000",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -28704,7 +28720,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1241460"
+        "@id": "_:g1244020"
       }
     ],
     "http://schema.org/sameAs": [
@@ -28732,7 +28748,7 @@
     ]
   },
   {
-    "@id": "_:g1241460",
+    "@id": "_:g1244020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -28768,7 +28784,7 @@
     ]
   },
   {
-    "@id": "_:g1241480",
+    "@id": "_:g1244040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -28809,7 +28825,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/84471daf-7be0-406e-9464-5ac877c8e652",
+    "@id": "https://cowichanpac.ca/temporary/669aa992-7310-4716-8e26-13ad5d047e79",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28837,12 +28853,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1241440"
+        "@id": "_:g1244000"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1241480"
+        "@id": "_:g1244040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -28860,6 +28876,354 @@
       {
         "@language": "en",
         "@value": "&lt;p&gt;Regular Senior $32 | Regular Student/Child $18 | Regular Family $97 Discounted seating for Rows A &amp; B (restricted view): Adult/Senior $30 | Student/Child $15 | Family $75 William Shakespeare’s [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Cowichan Performing Arts Centre - Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Paperboys - Cowichan Performing Arts Centre"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-20T23:30:26+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-20T23:52:06+00:00"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/CowichanPAC"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cowichanpac.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://cowichanpac.ca/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://cowichanpac.ca/author/janelleescott/#author"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://cowichanpac.ca/author/janelleescott/#author"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#mainImage"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#mainImage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T15:30:26-08:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T15:52:06-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Paperboys - Cowichan Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/#mainImage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/wp-content/uploads/2025/11/Untitled-design-95.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1545"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1257060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1257080"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://cowichanpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cowichan Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "250.746.2722"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1257080",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2687 James Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Duncan"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V9L 2X5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1257100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "36"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/temporary/fef84c69-7829-49b7-99be-7f2e676721e9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cowichanpac.ca/wp-content/uploads/2025/11/Untitled-design-95.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-07T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-07T22:30:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1257060"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1257100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cowichanpac.ca/event/the-paperboys-2025-03-07/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Paperboys"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Student/Child $18 When fedora-hatted Mexican/Canadian Tom Landa formed The Paperboys in 1993, success in the music industry meant finding a genre and staying there. The gifted vocalist/guitarist/bandleader never got that [&hellip;]&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -29041,7 +29405,7 @@
     ]
   },
   {
-    "@id": "_:g1254280",
+    "@id": "_:g1269920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -29052,7 +29416,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1254300"
+        "@id": "_:g1269940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -29080,7 +29444,7 @@
     ]
   },
   {
-    "@id": "_:g1254300",
+    "@id": "_:g1269940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -29116,7 +29480,7 @@
     ]
   },
   {
-    "@id": "_:g1254320",
+    "@id": "_:g1269960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -29157,7 +29521,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/a7b6b894-6892-471f-8e4d-a66b26380556",
+    "@id": "https://cowichanpac.ca/temporary/8a508a73-b681-4ccd-b217-8bd8023d748a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29185,12 +29549,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1254280"
+        "@id": "_:g1269920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1254320"
+        "@id": "_:g1269960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -29389,7 +29753,7 @@
     ]
   },
   {
-    "@id": "_:g1267340",
+    "@id": "_:g1283000",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -29400,7 +29764,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1267360"
+        "@id": "_:g1283020"
       }
     ],
     "http://schema.org/sameAs": [
@@ -29428,7 +29792,7 @@
     ]
   },
   {
-    "@id": "_:g1267360",
+    "@id": "_:g1283020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -29464,7 +29828,7 @@
     ]
   },
   {
-    "@id": "_:g1267380",
+    "@id": "_:g1283040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -29505,7 +29869,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/028e99bc-02fd-4f30-9938-91ad0fbafd52",
+    "@id": "https://cowichanpac.ca/temporary/e30d8146-e224-4ebf-b7f3-32effe6ff8f9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29533,12 +29897,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1267340"
+        "@id": "_:g1283000"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1267380"
+        "@id": "_:g1283040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -29556,360 +29920,6 @@
       {
         "@language": "en",
         "@value": "&lt;p&gt;Student/Child $15 AWOL...Or Two Old Men Escape From A Care Home And Go To A Metal Festival Written by Rob GeeDirected by Ryan GladstoneFeaturing Rob Gee, Jon Paterson (international), Stuart [&hellip;]&lt;/p&gt;\\n"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Cowichan Performing Arts Centre - Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Ballet Victoria’s Alice In Wonderland - Cowichan Performing Arts Centre"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
-      }
-    ],
-    "https://ogp.me/ns#image:secure_url": [
-      {
-        "@language": "en-us",
-        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-11-05T17:51:56+00:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-11-05T17:58:18+00:00"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.facebook.com/CowichanPAC"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://cowichanpac.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://cowichanpac.ca/#website"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#breadcrumblist"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://cowichanpac.ca/author/janelleescott/#author"
-      }
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://cowichanpac.ca/author/janelleescott/#author"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#mainImage"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#mainImage"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-05T09:51:56-08:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-05T09:58:18-08:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Ballet Victoria’s Alice In Wonderland - Cowichan Performing Arts Centre"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#mainImage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://cowichanpac.ca/wp-content/uploads/2025/11/Alice-1-copy-scaled.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1670"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "en",
-        "@value": "{\"ARInfo\":{\"IsUseAR\":false},\"Version\":\"1.0.0\",\"MakeupInfo\":{\"IsUseMakeup\":false},\"FaceliftInfo\":{\"IsChangeEyeLift\":false,\"IsChangeFacelift\":false,\"IsChangePostureLift\":false,\"IsChangeNose\":false,\"IsChangeFaceChin\":false,\"IsChangeMouth\":false,\"IsChangeThinFace\":true},\"BeautyInfo\":{\"SwitchMedicatedAcne\":false,\"IsAIBeauty\":false,\"IsBrightEyes\":false,\"IsSharpen\":false,\"IsOldBeauty\":false,\"IsReduceBlackEyes\":false},\"HandlerInfo\":{\"AppName\":2},\"FilterInfo\":{\"IsUseFilter\":false}}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1280420",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1280440"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://cowichanpac.ca/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Cowichan Performing Arts Centre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "250.746.2722"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1280440",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "2687 James Street"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Duncan"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V9L 2X5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1280460",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-05T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "38"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/category": [
-      {
-        "@language": "en",
-        "@value": "primary"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "inStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/temporary/f30a8df1-7a2c-4cb0-a4e2-3ad05ea246ba",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://cowichanpac.ca/wp-content/uploads/2025/11/Alice-1-copy-scaled.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-09T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-09T22:30:00-07:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1280420"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1280460"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Ballet Victoria&#8217;s Alice In Wonderland"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "&lt;p&gt;Senior $32 | Student/Child $18 | Family $95 “Imagination is the only weapon in the war with reality.” Follow Alice down the rabbit hole and discover a whole new world [&hellip;]&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -30091,7 +30101,7 @@
     ]
   },
   {
-    "@id": "_:g1293500",
+    "@id": "_:g1296080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -30102,7 +30112,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1293520"
+        "@id": "_:g1296100"
       }
     ],
     "http://schema.org/sameAs": [
@@ -30130,7 +30140,7 @@
     ]
   },
   {
-    "@id": "_:g1293520",
+    "@id": "_:g1296100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -30166,7 +30176,7 @@
     ]
   },
   {
-    "@id": "_:g1293540",
+    "@id": "_:g1296120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30207,7 +30217,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/9397e039-5c4b-4444-88e6-fe58599521c4",
+    "@id": "https://cowichanpac.ca/temporary/4276a3d2-ec60-49ea-a009-7e425f7b3e40",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30235,12 +30245,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1293500"
+        "@id": "_:g1296080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1293540"
+        "@id": "_:g1296120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -30439,7 +30449,7 @@
     ]
   },
   {
-    "@id": "_:g1306680",
+    "@id": "_:g1309180",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -30450,7 +30460,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1306700"
+        "@id": "_:g1309200"
       }
     ],
     "http://schema.org/sameAs": [
@@ -30478,7 +30488,7 @@
     ]
   },
   {
-    "@id": "_:g1306700",
+    "@id": "_:g1309200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -30514,7 +30524,7 @@
     ]
   },
   {
-    "@id": "_:g1306720",
+    "@id": "_:g1309220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30555,7 +30565,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/81b9cc9b-2f4f-46c7-bf45-e262ae66e25a",
+    "@id": "https://cowichanpac.ca/temporary/7b12fd99-e4da-46c6-9561-709109695859",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30583,12 +30593,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1306680"
+        "@id": "_:g1309180"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1306720"
+        "@id": "_:g1309220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -30787,7 +30797,7 @@
     ]
   },
   {
-    "@id": "_:g1319760",
+    "@id": "_:g1322240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -30798,7 +30808,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1319780"
+        "@id": "_:g1322260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -30826,7 +30836,7 @@
     ]
   },
   {
-    "@id": "_:g1319780",
+    "@id": "_:g1322260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -30862,7 +30872,7 @@
     ]
   },
   {
-    "@id": "_:g1319800",
+    "@id": "_:g1322280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -30903,7 +30913,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/fe7a6431-7883-4431-9b40-591a11d398ca",
+    "@id": "https://cowichanpac.ca/temporary/f9257e58-72de-49f5-8f5f-b1edbb4efc6f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30931,12 +30941,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1319760"
+        "@id": "_:g1322240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1319800"
+        "@id": "_:g1322280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -31135,7 +31145,7 @@
     ]
   },
   {
-    "@id": "_:g1332840",
+    "@id": "_:g1335300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31146,7 +31156,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1332860"
+        "@id": "_:g1335320"
       }
     ],
     "http://schema.org/sameAs": [
@@ -31174,7 +31184,7 @@
     ]
   },
   {
-    "@id": "_:g1332860",
+    "@id": "_:g1335320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -31210,7 +31220,7 @@
     ]
   },
   {
-    "@id": "_:g1332880",
+    "@id": "_:g1335340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31251,7 +31261,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/95f90d20-afae-4f2a-a72b-148afbf39519",
+    "@id": "https://cowichanpac.ca/temporary/3284ab11-af3c-428e-8548-bedb8db98b95",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31279,12 +31289,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1332840"
+        "@id": "_:g1335300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1332880"
+        "@id": "_:g1335340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -31415,7 +31425,7 @@
     ]
   },
   {
-    "@id": "_:g1345880",
+    "@id": "_:g1348360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31426,7 +31436,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1345900"
+        "@id": "_:g1348380"
       }
     ],
     "http://schema.org/sameAs": [
@@ -31454,7 +31464,7 @@
     ]
   },
   {
-    "@id": "_:g1345900",
+    "@id": "_:g1348380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -31490,7 +31500,7 @@
     ]
   },
   {
-    "@id": "_:g1345920",
+    "@id": "_:g1348400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31531,7 +31541,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/bace76df-8170-4536-854b-24cbc39e3e9d",
+    "@id": "https://cowichanpac.ca/temporary/a7e77a06-5faa-4e92-b233-1c9b5f253785",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31559,12 +31569,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1345880"
+        "@id": "_:g1348360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1345920"
+        "@id": "_:g1348400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -31582,6 +31592,360 @@
       {
         "@language": "en",
         "@value": "&lt;p&gt;Cowichan Musical Society presents Rows A-B $39 | Rows O-P $49 | C-N $59 | Child $39 (all seats) Cowichan Musical Society returns with an extravagant production of Rodger and [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Cowichan Performing Arts Centre - Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Ballet Victoria’s Alice In Wonderland - Cowichan Performing Arts Centre"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-05T17:51:56+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-05T17:58:18+00:00"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/CowichanPAC"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cowichanpac.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://cowichanpac.ca/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://cowichanpac.ca/author/janelleescott/#author"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://cowichanpac.ca/author/janelleescott/#author"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#mainImage"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#mainImage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T09:51:56-08:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T09:58:18-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ballet Victoria’s Alice In Wonderland - Cowichan Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/#mainImage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/wp-content/uploads/2025/11/Alice-1-copy-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1670"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "{\"ARInfo\":{\"IsUseAR\":false},\"Version\":\"1.0.0\",\"MakeupInfo\":{\"IsUseMakeup\":false},\"FaceliftInfo\":{\"IsChangeEyeLift\":false,\"IsChangeFacelift\":false,\"IsChangePostureLift\":false,\"IsChangeNose\":false,\"IsChangeFaceChin\":false,\"IsChangeMouth\":false,\"IsChangeThinFace\":true},\"BeautyInfo\":{\"SwitchMedicatedAcne\":false,\"IsAIBeauty\":false,\"IsBrightEyes\":false,\"IsSharpen\":false,\"IsOldBeauty\":false,\"IsReduceBlackEyes\":false},\"HandlerInfo\":{\"AppName\":2},\"FilterInfo\":{\"IsUseFilter\":false}}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1361160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1361180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://cowichanpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cowichan Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "250.746.2722"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1361180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2687 James Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Duncan"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V9L 2X5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1361200",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "38"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/temporary/d66f9298-3871-43e1-8c83-2bf07bb74fed",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cowichanpac.ca/wp-content/uploads/2025/11/Alice-1-copy-scaled.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-09T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-09T22:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1361160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g1361200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cowichanpac.ca/event/ballet-victoria-alice-in-wonderland-2026-05-09/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ballet Victoria&#8217;s Alice In Wonderland"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Senior $32 | Student/Child $18 | Family $95 “Imagination is the only weapon in the war with reality.” Follow Alice down the rabbit hole and discover a whole new world [&hellip;]&lt;/p&gt;\\n"
       }
     ],
     "http://schema.org/performer": [
@@ -31763,7 +32127,7 @@
     ]
   },
   {
-    "@id": "_:g1358700",
+    "@id": "_:g1374240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31774,7 +32138,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1358720"
+        "@id": "_:g1374260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -31802,7 +32166,7 @@
     ]
   },
   {
-    "@id": "_:g1358720",
+    "@id": "_:g1374260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -31838,7 +32202,7 @@
     ]
   },
   {
-    "@id": "_:g1358740",
+    "@id": "_:g1374280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -31879,7 +32243,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/7d56c319-a884-4de0-a092-f23f7b1f363b",
+    "@id": "https://cowichanpac.ca/temporary/615f9734-1956-4e9e-b493-18d75c16106a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31907,12 +32271,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1358700"
+        "@id": "_:g1374240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1358740"
+        "@id": "_:g1374280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -32111,7 +32475,7 @@
     ]
   },
   {
-    "@id": "_:g1371520",
+    "@id": "_:g1387260",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32122,7 +32486,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1371540"
+        "@id": "_:g1387280"
       }
     ],
     "http://schema.org/sameAs": [
@@ -32150,7 +32514,7 @@
     ]
   },
   {
-    "@id": "_:g1371540",
+    "@id": "_:g1387280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -32186,7 +32550,7 @@
     ]
   },
   {
-    "@id": "_:g1371560",
+    "@id": "_:g1387300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -32227,7 +32591,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/d41246c2-4f28-4893-8e29-a876cde3a1b7",
+    "@id": "https://cowichanpac.ca/temporary/1ab10120-7e1b-4594-8e67-cebb56fa2c30",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32255,12 +32619,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1371520"
+        "@id": "_:g1387260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1371560"
+        "@id": "_:g1387300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -32391,7 +32755,7 @@
     ]
   },
   {
-    "@id": "_:g1384360",
+    "@id": "_:g1400360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32402,7 +32766,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1384380"
+        "@id": "_:g1400380"
       }
     ],
     "http://schema.org/sameAs": [
@@ -32430,7 +32794,7 @@
     ]
   },
   {
-    "@id": "_:g1384380",
+    "@id": "_:g1400380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -32466,7 +32830,7 @@
     ]
   },
   {
-    "@id": "_:g1384400",
+    "@id": "_:g1400400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -32507,7 +32871,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/4daddcc3-73e0-4752-be5a-97b99e167dc5",
+    "@id": "https://cowichanpac.ca/temporary/77d1ac37-693b-45ae-86ce-4a7235a75076",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32535,12 +32899,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1384360"
+        "@id": "_:g1400360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1384400"
+        "@id": "_:g1400400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -32671,7 +33035,7 @@
     ]
   },
   {
-    "@id": "_:g1397420",
+    "@id": "_:g1413440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32682,7 +33046,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1397440"
+        "@id": "_:g1413460"
       }
     ],
     "http://schema.org/sameAs": [
@@ -32710,7 +33074,7 @@
     ]
   },
   {
-    "@id": "_:g1397440",
+    "@id": "_:g1413460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -32746,7 +33110,7 @@
     ]
   },
   {
-    "@id": "_:g1397460",
+    "@id": "_:g1413480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -32787,7 +33151,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/583e2b82-2daa-4240-ba79-467335a4b3b3",
+    "@id": "https://cowichanpac.ca/temporary/e7b9229e-0c6e-4b02-8470-35dd444f51fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32815,12 +33179,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1397420"
+        "@id": "_:g1413440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1397460"
+        "@id": "_:g1413480"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -32951,7 +33315,7 @@
     ]
   },
   {
-    "@id": "_:g1410500",
+    "@id": "_:g1426340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32962,7 +33326,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1410520"
+        "@id": "_:g1426360"
       }
     ],
     "http://schema.org/sameAs": [
@@ -32990,7 +33354,7 @@
     ]
   },
   {
-    "@id": "_:g1410520",
+    "@id": "_:g1426360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -33026,7 +33390,7 @@
     ]
   },
   {
-    "@id": "_:g1410540",
+    "@id": "_:g1426380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33067,7 +33431,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/81457ecd-d949-4abe-b7f4-39ca3b7cf8f9",
+    "@id": "https://cowichanpac.ca/temporary/f7e2efc0-7ac1-447c-bbe1-c31d749a2971",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33095,12 +33459,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1410500"
+        "@id": "_:g1426340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1410540"
+        "@id": "_:g1426380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -33231,7 +33595,7 @@
     ]
   },
   {
-    "@id": "_:g1423360",
+    "@id": "_:g1439420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33242,7 +33606,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1423380"
+        "@id": "_:g1439440"
       }
     ],
     "http://schema.org/sameAs": [
@@ -33270,7 +33634,7 @@
     ]
   },
   {
-    "@id": "_:g1423380",
+    "@id": "_:g1439440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -33306,7 +33670,7 @@
     ]
   },
   {
-    "@id": "_:g1423400",
+    "@id": "_:g1439460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33347,7 +33711,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/ff84238e-9ed1-4d71-9725-ad99220e8b19",
+    "@id": "https://cowichanpac.ca/temporary/37d228d5-959c-4e89-8fc7-40f2f1f4391d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33375,12 +33739,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1423360"
+        "@id": "_:g1439420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1423400"
+        "@id": "_:g1439460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -33511,7 +33875,7 @@
     ]
   },
   {
-    "@id": "_:g1436200",
+    "@id": "_:g1452500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33522,7 +33886,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1436220"
+        "@id": "_:g1452520"
       }
     ],
     "http://schema.org/sameAs": [
@@ -33550,7 +33914,7 @@
     ]
   },
   {
-    "@id": "_:g1436220",
+    "@id": "_:g1452520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -33586,7 +33950,7 @@
     ]
   },
   {
-    "@id": "_:g1436240",
+    "@id": "_:g1452540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33627,7 +33991,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/c8dfa534-0e89-440d-ba0a-a5e2fcb1f301",
+    "@id": "https://cowichanpac.ca/temporary/b8181dd5-ad2e-4b64-a151-37573443f0c5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33655,12 +34019,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1436200"
+        "@id": "_:g1452500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1436240"
+        "@id": "_:g1452540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -33791,7 +34155,7 @@
     ]
   },
   {
-    "@id": "_:g1449260",
+    "@id": "_:g1465560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33802,7 +34166,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1449280"
+        "@id": "_:g1465580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -33830,7 +34194,7 @@
     ]
   },
   {
-    "@id": "_:g1449280",
+    "@id": "_:g1465580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -33866,7 +34230,7 @@
     ]
   },
   {
-    "@id": "_:g1449300",
+    "@id": "_:g1465600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -33907,7 +34271,7 @@
     ]
   },
   {
-    "@id": "https://cowichanpac.ca/temporary/2fd376d6-251e-4d6c-bdfe-6e97b2f215c4",
+    "@id": "https://cowichanpac.ca/temporary/ed28f1cd-bee1-4de2-bba3-906078dfd882",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33935,12 +34299,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1449260"
+        "@id": "_:g1465560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1449300"
+        "@id": "_:g1465600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -34296,7 +34660,7 @@
     "article:modified_time": [
       {
         "@language": "en-us",
-        "@value": "2023-09-21T22:21:38+00:00"
+        "@value": "2025-11-20T18:00:33+00:00"
       }
     ],
     "article:publisher": [
@@ -34340,7 +34704,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2023-09-21T15:21:38-07:00"
+        "@value": "2025-11-20T10:00:33-08:00"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -34695,6 +35059,12 @@
         "@id": "https://cowichanpac.ca/?page_id=1083"
       },
       {
+        "@id": "https://cowichanpac.ca/%23mainMenu"
+      },
+      {
+        "@id": "https://cowichanpac.ca/%23"
+      },
+      {
         "@id": "https://cowichanpac.ca/tel:+12507462722"
       },
       {
@@ -34732,6 +35102,164 @@
       {
         "@language": "en",
         "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/%23mainMenu",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Cowichan Performing Arts Centre - Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "404 - Cowichan Performing Arts Centre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowichanpac.ca/404-page/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2022-08-16T23:34:30+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2022-08-26T18:31:44+00:00"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/CowichanPAC"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cowichanpac.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cowichanpac.ca/%23mainMenu"
+      }
+    ]
+  },
+  {
+    "@id": "https://cowichanpac.ca/%23",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Cowichan Performing Arts Centre - Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "404 - Cowichan Performing Arts Centre"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowichanpac.ca/404-page/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2022-08-16T23:34:30+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2022-08-26T18:31:44+00:00"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/CowichanPAC"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cowichanpac.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cowichanpac.ca/%23"
       }
     ]
   },
@@ -36349,9 +36877,6 @@
       },
       {
         "@id": "https://cowichanpac.ca/art-gallery/gallery/"
-      },
-      {
-        "@id": "https://cowichanpac.ca/art-gallery/gallery"
       }
     ],
     "http://schema.org/name": [
@@ -36444,85 +36969,6 @@
     "https://api.w.org/": [
       {
         "@id": "https://cowichanpac.ca/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://cowichanpac.ca/art-gallery/gallery",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Cowichan Performing Arts Centre - Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Gallery - Cowichan Performing Arts Centre"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Continually providing the highest quality performing arts to the Cowichan Region on Vancouver Island, British Columbia, Canada"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://cowichanpac.ca/art-gallery/gallery/"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
-      }
-    ],
-    "https://ogp.me/ns#image:secure_url": [
-      {
-        "@language": "en-us",
-        "@value": "https://cowt.trapeze.ca/wp-content/uploads/2022/09/cpac_social_media_share_01_1200x630.jpg"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-us",
-        "@value": "2022-08-11T22:59:46+00:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-11-19T20:29:27+00:00"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.facebook.com/CowichanPAC"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://cowichanpac.ca/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://cowichanpac.ca/art-gallery/gallery"
       }
     ]
   },
