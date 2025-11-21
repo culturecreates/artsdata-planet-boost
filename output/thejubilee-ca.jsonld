@@ -1,6 +1,6 @@
 [
   {
-    "@id": "http://www.thejubilee.ca",
+    "@id": "https://thejubilee.ca/",
     "https://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -59,11 +59,6 @@
       {
         "@id": "https://thejubilee.ca/wp-json/"
       }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "http://www.thejubilee.ca"
-      }
     ]
   },
   {
@@ -95,7 +90,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g460940"
+        "@id": "_:g461040"
+      },
+      {
+        "@id": "_:g468820"
       }
     ],
     "http://schema.org/name": [
@@ -112,7 +110,25 @@
     ]
   },
   {
-    "@id": "_:g460940",
+    "@id": "_:g461040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://thejubilee.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468820",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -268,6 +284,9 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
+        "@id": "https://thejubilee.ca/"
+      },
+      {
         "@id": "http://www.thejubilee.ca"
       }
     ],
@@ -299,6 +318,73 @@
       {
         "@language": "en",
         "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thejubilee.ca",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Coming Soon | The Jubilee"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "facebookinstagram"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://thejubilee.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "The Jubilee"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-17T10:39:56-04:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-03-20T18:25:10-03:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-17T10:39:56-04:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://thejubilee.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thejubilee.ca"
       }
     ]
   }
