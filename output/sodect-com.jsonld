@@ -78,64 +78,64 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g460780"
+        "@id": "_:g460760"
       },
       {
-        "@id": "_:g474220"
+        "@id": "_:g474200"
       },
       {
-        "@id": "_:g487580"
+        "@id": "_:g488060"
       },
       {
-        "@id": "_:g501480"
+        "@id": "_:g501860"
       },
       {
-        "@id": "_:g511980"
+        "@id": "_:g512000"
       },
       {
-        "@id": "_:g525840"
+        "@id": "_:g525920"
       },
       {
-        "@id": "_:g539740"
+        "@id": "_:g539780"
       },
       {
-        "@id": "_:g553620"
+        "@id": "_:g553600"
       },
       {
-        "@id": "_:g567500"
+        "@id": "_:g567140"
       },
       {
-        "@id": "_:g581620"
+        "@id": "_:g580640"
       },
       {
-        "@id": "_:g595580"
+        "@id": "_:g594100"
       },
       {
-        "@id": "_:g609460"
+        "@id": "_:g607940"
       },
       {
-        "@id": "_:g623740"
+        "@id": "_:g621420"
       },
       {
-        "@id": "_:g637940"
+        "@id": "_:g634900"
       },
       {
-        "@id": "_:g652020"
+        "@id": "_:g648380"
       },
       {
-        "@id": "_:g665860"
+        "@id": "_:g662180"
       },
       {
-        "@id": "_:g679700"
+        "@id": "_:g675720"
       },
       {
-        "@id": "_:g693120"
+        "@id": "_:g689220"
       },
       {
-        "@id": "_:g706960"
+        "@id": "_:g702640"
       },
       {
-        "@id": "_:g720760"
+        "@id": "_:g716480"
       }
     ],
     "http://schema.org/publisher": [
@@ -147,17 +147,11 @@
       {
         "@language": "fr",
         "@value": "La nouvelle société"
-      },
-      {
-        "@value": "La nouvelle société"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-FR"
-      },
-      {
         "@value": "fr-FR"
       }
     ]
@@ -184,61 +178,61 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g460840"
+        "@id": "_:g460820"
       },
       {
-        "@id": "_:g474280"
+        "@id": "_:g474260"
       },
       {
-        "@id": "_:g487640"
+        "@id": "_:g488120"
       },
       {
-        "@id": "_:g512040"
+        "@id": "_:g512060"
       },
       {
-        "@id": "_:g525900"
+        "@id": "_:g525980"
       },
       {
-        "@id": "_:g539800"
+        "@id": "_:g539840"
       },
       {
-        "@id": "_:g553680"
+        "@id": "_:g553660"
       },
       {
-        "@id": "_:g567560"
+        "@id": "_:g567200"
       },
       {
-        "@id": "_:g581680"
+        "@id": "_:g580700"
       },
       {
-        "@id": "_:g595640"
+        "@id": "_:g594160"
       },
       {
-        "@id": "_:g609520"
+        "@id": "_:g608000"
       },
       {
-        "@id": "_:g623800"
+        "@id": "_:g621480"
       },
       {
-        "@id": "_:g638000"
+        "@id": "_:g634960"
       },
       {
-        "@id": "_:g652080"
+        "@id": "_:g648440"
       },
       {
-        "@id": "_:g665920"
+        "@id": "_:g662240"
       },
       {
-        "@id": "_:g679760"
+        "@id": "_:g675780"
       },
       {
-        "@id": "_:g693180"
+        "@id": "_:g689280"
       },
       {
-        "@id": "_:g707020"
+        "@id": "_:g702700"
       },
       {
-        "@id": "_:g720820"
+        "@id": "_:g716540"
       }
     ],
     "http://schema.org/about": [
@@ -250,17 +244,11 @@
       {
         "@language": "fr",
         "@value": "La nouvelle société"
-      },
-      {
-        "@value": "La nouvelle société"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux&#x2d;Terrebonne, au Moulinet, sur l’Île&#x2d;des&#x2d;Moulins et à la Maison Bélisle!"
-      },
-      {
         "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux&#x2d;Terrebonne, au Moulinet, sur l’Île&#x2d;des&#x2d;Moulins et à la Maison Bélisle!"
       }
     ],
@@ -268,20 +256,17 @@
       {
         "@language": "fr",
         "@value": "fr-FR"
-      },
-      {
-        "@value": "fr-FR"
       }
     ]
   },
   {
-    "@id": "_:g460780",
+    "@id": "_:g460760",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g460800"
+        "@id": "_:g460780"
       }
     ],
     "http://schema.org/query-input": [
@@ -292,29 +277,13 @@
     ]
   },
   {
-    "@id": "_:g474220",
+    "@id": "_:g474200",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g474240"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g487580",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g487600"
+        "@id": "_:g474220"
       }
     ],
     "http://schema.org/query-input": [
@@ -325,13 +294,13 @@
     ]
   },
   {
-    "@id": "_:g501480",
+    "@id": "_:g488060",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g501500"
+        "@id": "_:g488080"
       }
     ],
     "http://schema.org/query-input": [
@@ -342,125 +311,13 @@
     ]
   },
   {
-    "@id": "_:g511980",
+    "@id": "_:g501860",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g512000"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g525840",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g525860"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g539740",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g539760"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g553620",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g553640"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g567500",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g567520"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g581620",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g581640"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g595580",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g595600"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g609460",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g609480"
+        "@id": "_:g501880"
       }
     ],
     "http://schema.org/query-input": [
@@ -471,13 +328,13 @@
     ]
   },
   {
-    "@id": "_:g623740",
+    "@id": "_:g512000",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g623760"
+        "@id": "_:g512020"
       }
     ],
     "http://schema.org/query-input": [
@@ -488,13 +345,13 @@
     ]
   },
   {
-    "@id": "_:g637940",
+    "@id": "_:g525920",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g637960"
+        "@id": "_:g525940"
       }
     ],
     "http://schema.org/query-input": [
@@ -505,13 +362,13 @@
     ]
   },
   {
-    "@id": "_:g652020",
+    "@id": "_:g539780",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g652040"
+        "@id": "_:g539800"
       }
     ],
     "http://schema.org/query-input": [
@@ -522,13 +379,13 @@
     ]
   },
   {
-    "@id": "_:g665860",
+    "@id": "_:g553600",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g665880"
+        "@id": "_:g553620"
       }
     ],
     "http://schema.org/query-input": [
@@ -539,29 +396,13 @@
     ]
   },
   {
-    "@id": "_:g679700",
+    "@id": "_:g567140",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g679720"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g693120",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g693140"
+        "@id": "_:g567160"
       }
     ],
     "http://schema.org/query-input": [
@@ -572,29 +413,183 @@
     ]
   },
   {
-    "@id": "_:g706960",
+    "@id": "_:g580640",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g706980"
+        "@id": "_:g580660"
       }
     ],
     "http://schema.org/query-input": [
       {
+        "@language": "fr",
         "@value": "required name=search_term_string"
       }
     ]
   },
   {
-    "@id": "_:g720760",
+    "@id": "_:g594100",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g720780"
+        "@id": "_:g594120"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607940",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g607960"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g621420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g621440"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g634900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g634920"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g648380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g648400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g662180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g662200"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g675720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g675740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g689220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g689240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g702640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g702660"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g716480",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g716500"
       }
     ],
     "http://schema.org/query-input": [
@@ -616,78 +611,75 @@
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g460860"
+        "@id": "_:g460840"
       },
       {
-        "@id": "_:g474300"
+        "@id": "_:g474280"
       },
       {
-        "@id": "_:g487660"
+        "@id": "_:g488140"
       },
       {
-        "@id": "_:g501520"
+        "@id": "_:g501900"
       },
       {
-        "@id": "_:g512060"
+        "@id": "_:g512080"
       },
       {
-        "@id": "_:g525920"
+        "@id": "_:g526000"
       },
       {
-        "@id": "_:g539820"
+        "@id": "_:g539860"
       },
       {
-        "@id": "_:g553700"
+        "@id": "_:g553680"
       },
       {
-        "@id": "_:g567580"
+        "@id": "_:g567220"
       },
       {
-        "@id": "_:g581700"
+        "@id": "_:g580720"
       },
       {
-        "@id": "_:g595660"
+        "@id": "_:g594180"
       },
       {
-        "@id": "_:g609540"
+        "@id": "_:g608020"
       },
       {
-        "@id": "_:g623820"
+        "@id": "_:g621500"
       },
       {
-        "@id": "_:g638020"
+        "@id": "_:g634980"
       },
       {
-        "@id": "_:g652100"
+        "@id": "_:g648460"
       },
       {
-        "@id": "_:g665940"
+        "@id": "_:g662260"
       },
       {
-        "@id": "_:g679780"
+        "@id": "_:g675800"
       },
       {
-        "@id": "_:g693200"
+        "@id": "_:g689300"
       },
       {
-        "@id": "_:g707040"
+        "@id": "_:g702720"
       },
       {
-        "@id": "_:g720840"
+        "@id": "_:g716560"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "La nouvelle société"
-      },
-      {
-        "@value": "La nouvelle société"
       }
     ]
   },
   {
-    "@id": "_:g460840",
+    "@id": "_:g460820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -699,18 +691,7 @@
     ]
   },
   {
-    "@id": "_:g474280",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g487640",
+    "@id": "_:g474260",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -722,84 +703,7 @@
     ]
   },
   {
-    "@id": "_:g512040",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g525900",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g539800",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g553680",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g567560",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g581680",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g595640",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g609520",
+    "@id": "_:g488120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -811,7 +715,7 @@
     ]
   },
   {
-    "@id": "_:g623800",
+    "@id": "_:g512060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -823,7 +727,7 @@
     ]
   },
   {
-    "@id": "_:g638000",
+    "@id": "_:g525980",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -835,7 +739,7 @@
     ]
   },
   {
-    "@id": "_:g652080",
+    "@id": "_:g539840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -847,7 +751,7 @@
     ]
   },
   {
-    "@id": "_:g665920",
+    "@id": "_:g553660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -859,18 +763,7 @@
     ]
   },
   {
-    "@id": "_:g679760",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g693180",
+    "@id": "_:g567200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -882,18 +775,7 @@
     ]
   },
   {
-    "@id": "_:g707020",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://lanouvellesociete.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g720820",
+    "@id": "_:g580700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -905,7 +787,127 @@
     ]
   },
   {
-    "@id": "_:g460800",
+    "@id": "_:g594160",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g608000",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g621480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g634960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g648440",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g662240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g675780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g689280",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g702700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g716540",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -917,7 +919,7 @@
     ]
   },
   {
-    "@id": "_:g460860",
+    "@id": "_:g460840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -951,40 +953,7 @@
     ]
   },
   {
-    "@id": "_:g474300",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g487660",
+    "@id": "_:g474280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1018,7 +987,7 @@
     ]
   },
   {
-    "@id": "_:g501520",
+    "@id": "_:g488140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1052,238 +1021,7 @@
     ]
   },
   {
-    "@id": "_:g512060",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g525920",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g539820",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g553700",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g567580",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g581700",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g595660",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g609540",
+    "@id": "_:g501900",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1317,7 +1055,7 @@
     ]
   },
   {
-    "@id": "_:g623820",
+    "@id": "_:g512080",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1351,7 +1089,7 @@
     ]
   },
   {
-    "@id": "_:g638020",
+    "@id": "_:g526000",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1385,7 +1123,7 @@
     ]
   },
   {
-    "@id": "_:g652100",
+    "@id": "_:g539860",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1419,7 +1157,7 @@
     ]
   },
   {
-    "@id": "_:g665940",
+    "@id": "_:g553680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1453,40 +1191,7 @@
     ]
   },
   {
-    "@id": "_:g679780",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g693200",
+    "@id": "_:g567220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1520,40 +1225,7 @@
     ]
   },
   {
-    "@id": "_:g707040",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@value": "6511"
-      }
-    ]
-  },
-  {
-    "@id": "_:g720840",
+    "@id": "_:g580720",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1587,7 +1259,347 @@
     ]
   },
   {
-    "@id": "https://sodect.com/planifiez-votre-visite/",
+    "@id": "_:g594180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g608020",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g621500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g634980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g648460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g662260",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g675800",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g689300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g702720",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "_:g716560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lanouvellesociete.com/app/uploads/2025/01/favicon.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "6511"
+      }
+    ]
+  },
+  {
+    "@id": "https://sodect.com/planifiez-votre-visite/%23acheter-des-billets",
     "http://ogp.me/ns#type": [
       {
         "@language": "fr-fr",
@@ -1649,35 +1661,18 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://sodect.com/planifiez-votre-visite/#acheter-des-billets"
-      },
-      {
-        "@id": "https://sodect.com/planifiez-votre-visite/#heures-douverture"
-      },
-      {
-        "@id": "https://sodect.com/planifiez-votre-visite/#comment-se-rendre"
-      },
-      {
-        "@id": "https://sodect.com/planifiez-votre-visite/#accueil-des-spectateurs"
-      },
-      {
-        "@id": "https://sodect.com/planifiez-votre-visite/#votre-visite-sur-lile-des-moulins"
-      },
-      {
-        "@id": "https://sodect.com/planifiez-votre-visite/#faq"
-      },
-      {
-        "@id": "https://sodect.com/planifiez-votre-visite/#comment-sy-rendre"
+        "@id": "https://sodect.com/planifiez-votre-visite/%23acheter-des-billets"
       }
     ]
   },
   {
-    "@id": "_:g474240",
+    "@id": "_:g474220",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
@@ -1750,7 +1745,7 @@
     ]
   },
   {
-    "@id": "_:g487600",
+    "@id": "_:g488080",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1817,7 +1812,7 @@
     ]
   },
   {
-    "@id": "_:g501500",
+    "@id": "_:g501880",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1829,7 +1824,7 @@
     ]
   },
   {
-    "@id": "https://sodect.com/temporary/9476f667-7845-437b-a87b-877511ef0062",
+    "@id": "https://sodect.com/temporary/5e795dba-e635-42f6-bd2d-69cd080464f9",
     "@type": [
       "http://schema.org/WebPage"
     ],
@@ -1857,7 +1852,7 @@
     ]
   },
   {
-    "@id": "https://sodect.com/",
+    "@id": "https://sodect.com/%23page-content",
     "http://ogp.me/ns#type": [
       {
         "@language": "fr-fr",
@@ -1919,92 +1914,492 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://sodect.com/#page-content"
-      },
-      {
-        "@id": "https://sodect.com/#page-search"
-      },
-      {
-        "@id": "https://sodect.com/#"
-      },
-      {
-        "@id": "https://sodect.com/"
+        "@id": "https://sodect.com/%23page-content"
       }
     ]
   },
   {
-    "@id": "_:g512000",
+    "@id": "_:g512020",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g525860",
+    "@id": "https://sodect.com/%23page-search",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/%23page-search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525940",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g539760",
+    "@id": "https://sodect.com/planifiez-votre-visite/%23heures-douverture",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/planifiez-votre-visite/%23heures-douverture"
+      }
+    ]
+  },
+  {
+    "@id": "_:g539800",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g553640",
+    "@id": "https://sodect.com/planifiez-votre-visite/%23comment-se-rendre",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/planifiez-votre-visite/%23comment-se-rendre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553620",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g567520",
+    "@id": "https://sodect.com/planifiez-votre-visite/%23accueil-des-spectateurs",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/planifiez-votre-visite/%23accueil-des-spectateurs"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567160",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g581640",
+    "@id": "https://sodect.com/planifiez-votre-visite/%23votre-visite-sur-lile-des-moulins",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/planifiez-votre-visite/%23votre-visite-sur-lile-des-moulins"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580660",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g595600",
+    "@id": "https://sodect.com/planifiez-votre-visite/%23faq",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/planifiez-votre-visite/%23faq"
+      }
+    ]
+  },
+  {
+    "@id": "_:g594120",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
@@ -2077,7 +2472,7 @@
     ]
   },
   {
-    "@id": "_:g609480",
+    "@id": "_:g607960",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2156,7 +2551,7 @@
     ]
   },
   {
-    "@id": "_:g623760",
+    "@id": "_:g621440",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2235,7 +2630,7 @@
     ]
   },
   {
-    "@id": "_:g637960",
+    "@id": "_:g634920",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2314,7 +2709,7 @@
     ]
   },
   {
-    "@id": "_:g652040",
+    "@id": "_:g648400",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2393,7 +2788,7 @@
     ]
   },
   {
-    "@id": "_:g665880",
+    "@id": "_:g662200",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2405,12 +2800,80 @@
     ]
   },
   {
-    "@id": "_:g679720",
+    "@id": "https://sodect.com/planifiez-votre-visite/%23comment-sy-rendre",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/planifiez-votre-visite/%23comment-sy-rendre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g675740",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
@@ -2483,7 +2946,7 @@
     ]
   },
   {
-    "@id": "_:g693140",
+    "@id": "_:g689240",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2495,18 +2958,153 @@
     ]
   },
   {
-    "@id": "_:g706980",
+    "@id": "https://sodect.com/%23",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/%23"
+      }
+    ]
+  },
+  {
+    "@id": "_:g702660",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://lanouvellesociete.com/search/{search_term_string}/"
       }
     ]
   },
   {
-    "@id": "_:g720780",
+    "@id": "https://sodect.com/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La nouvelle société propulse des événements culturels inoubliables au Théâtre du Vieux-Terrebonne, au Moulinet, sur l’Île-des-Moulins et à la Maison Bélisle!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://lanouvellesociete.com/app/uploads/2025/01/og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "630"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://lanouvellesociete.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sodect.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g716500",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
