@@ -27,7 +27,7 @@
     ]
   },
   {
-    "@id": "_:g4621740",
+    "@id": "_:g4664640",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -51,13 +51,13 @@
     ]
   },
   {
-    "@id": "_:g4621760",
+    "@id": "_:g4664660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g4621780"
+        "@id": "_:g4664680"
       }
     ],
     "http://schema.org/name": [
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "@id": "_:g4621780",
+    "@id": "_:g4664680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "@id": "_:g4621800",
+    "@id": "_:g4664700",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -122,7 +122,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/cc5d711b-dcba-416a-b5a6-f5f1aff5869b",
+    "@id": "https://longueuil.quebec/temporary/33128000-1807-4c68-bf79-c04c9406e353",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -155,12 +155,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g4621760"
+        "@id": "_:g4664660"
       }
     ],
     "http://schema.org/member": [
       {
-        "@id": "_:g4621800"
+        "@id": "_:g4664700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -182,7 +182,7 @@
     ],
     "http://schema.org/contactPoint": [
       {
-        "@id": "_:g4621740"
+        "@id": "_:g4664640"
       }
     ]
   },
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "@id": "_:g5295680",
+    "@id": "_:g5336600",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -246,13 +246,13 @@
     ]
   },
   {
-    "@id": "_:g5295700",
+    "@id": "_:g5336620",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5295720"
+        "@id": "_:g5336640"
       }
     ],
     "http://schema.org/name": [
@@ -263,7 +263,7 @@
     ]
   },
   {
-    "@id": "_:g5295720",
+    "@id": "_:g5336640",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "@id": "_:g5295740",
+    "@id": "_:g5336660",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -291,7 +291,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/c73cdd10-e99b-4cf6-b4de-228bbf460880",
+    "@id": "https://longueuil.quebec/temporary/b7982cfb-20ed-4f5b-ad36-6f4b1ea68e57",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -314,17 +314,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5295680"
+        "@id": "_:g5336600"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5295700"
+        "@id": "_:g5336620"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5295740"
+        "@id": "_:g5336660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "@id": "_:g5306900",
+    "@id": "_:g5347880",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -393,13 +393,13 @@
     ]
   },
   {
-    "@id": "_:g5306920",
+    "@id": "_:g5347900",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5306940"
+        "@id": "_:g5347920"
       }
     ],
     "http://schema.org/name": [
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "@id": "_:g5306940",
+    "@id": "_:g5347920",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -427,7 +427,7 @@
     ]
   },
   {
-    "@id": "_:g5306960",
+    "@id": "_:g5347940",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -438,7 +438,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/5fd6109e-4882-4ec0-acc6-63a66b108c81",
+    "@id": "https://longueuil.quebec/temporary/5c56956c-8687-4488-b02f-794ca9d940ad",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -461,17 +461,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5306900"
+        "@id": "_:g5347880"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5306920"
+        "@id": "_:g5347900"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5306960"
+        "@id": "_:g5347940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -523,7 +523,7 @@
     ]
   },
   {
-    "@id": "_:g5318340",
+    "@id": "_:g5359360",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -540,13 +540,13 @@
     ]
   },
   {
-    "@id": "_:g5318360",
+    "@id": "_:g5359380",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5318380"
+        "@id": "_:g5359400"
       }
     ],
     "http://schema.org/name": [
@@ -557,7 +557,7 @@
     ]
   },
   {
-    "@id": "_:g5318380",
+    "@id": "_:g5359400",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -574,7 +574,7 @@
     ]
   },
   {
-    "@id": "_:g5318400",
+    "@id": "_:g5359420",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -585,7 +585,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/5c0499bd-a6d3-4cbf-a0a0-34ac100315e1",
+    "@id": "https://longueuil.quebec/temporary/f2a26a48-2fd1-463e-a61c-231149bd27ce",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -608,17 +608,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5318340"
+        "@id": "_:g5359360"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5318360"
+        "@id": "_:g5359380"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5318400"
+        "@id": "_:g5359420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -636,6 +636,198 @@
       {
         "@language": "fr",
         "@value": "La Ville de Longueuil lance aujourd’hui une nouvelle version de son site Web longueuil.quebec."
+      }
+    ]
+  },
+  {
+    "@id": "https://www.longueuil.quebec/fr/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "fr",
+        "@value": "en_US"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.longueuil.quebec/fr/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5370780",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "+1-450-463-7311"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "fr",
+        "@value": "customer support"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "311@longueuil.quebec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5370800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g5370820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5370820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "4250, chemin de la Savane"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Longueuil"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J3Y 9G4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g5370840",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Catherine Fournier"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@language": "fr",
+        "@value": "Mairesse"
+      }
+    ]
+  },
+  {
+    "@id": "https://longueuil.quebec/temporary/b2e1d0fb-0228-4701-9223-014e4749bfd4",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://longueuil.quebec/fr"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://longueuil.quebec/logo.png"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/villedelongueuil"
+      },
+      {
+        "@id": "https://x.com/villelongueuil"
+      },
+      {
+        "@id": "https://www.instagram.com/ville_longueuil"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/ville-de-longueuil"
+      },
+      {
+        "@id": "https://www.youtube.com/user/VilledeLongueuil"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g5370800"
+      }
+    ],
+    "http://schema.org/member": [
+      {
+        "@id": "_:g5370840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.longueuil.quebec/fr/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Longueuil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Site officiel de la Ville de Longueuil. Retrouvez toute l'information municipale : services aux citoyens, activités, urbanisme, développement économique et plus encore."
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g5370780"
       }
     ]
   },
@@ -670,7 +862,7 @@
     ]
   },
   {
-    "@id": "_:g5329640",
+    "@id": "_:g5381720",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -687,13 +879,13 @@
     ]
   },
   {
-    "@id": "_:g5329660",
+    "@id": "_:g5381740",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5329680"
+        "@id": "_:g5381760"
       }
     ],
     "http://schema.org/name": [
@@ -704,7 +896,7 @@
     ]
   },
   {
-    "@id": "_:g5329680",
+    "@id": "_:g5381760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -721,7 +913,7 @@
     ]
   },
   {
-    "@id": "_:g5329700",
+    "@id": "_:g5381780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -732,7 +924,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/9baf1168-d6ee-4a54-9691-e4e2c3be936a",
+    "@id": "https://longueuil.quebec/temporary/ce5556f5-49b4-428f-9bf5-2c803b81d6a7",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -755,17 +947,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5329640"
+        "@id": "_:g5381720"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5329660"
+        "@id": "_:g5381740"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5329700"
+        "@id": "_:g5381780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -817,7 +1009,7 @@
     ]
   },
   {
-    "@id": "_:g5340920",
+    "@id": "_:g5392900",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -834,13 +1026,13 @@
     ]
   },
   {
-    "@id": "_:g5340940",
+    "@id": "_:g5392920",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5340960"
+        "@id": "_:g5392940"
       }
     ],
     "http://schema.org/name": [
@@ -851,7 +1043,7 @@
     ]
   },
   {
-    "@id": "_:g5340960",
+    "@id": "_:g5392940",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -868,7 +1060,7 @@
     ]
   },
   {
-    "@id": "_:g5340980",
+    "@id": "_:g5392960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -879,7 +1071,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/14f59cf1-726e-48b5-904a-1db74d6d9ef9",
+    "@id": "https://longueuil.quebec/temporary/296b782f-9f0d-46ad-be26-bb28fc259a4f",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -902,17 +1094,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5340920"
+        "@id": "_:g5392900"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5340940"
+        "@id": "_:g5392920"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5340980"
+        "@id": "_:g5392960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -964,7 +1156,7 @@
     ]
   },
   {
-    "@id": "_:g5352260",
+    "@id": "_:g5404280",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -981,13 +1173,13 @@
     ]
   },
   {
-    "@id": "_:g5352280",
+    "@id": "_:g5404300",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5352300"
+        "@id": "_:g5404320"
       }
     ],
     "http://schema.org/name": [
@@ -998,7 +1190,7 @@
     ]
   },
   {
-    "@id": "_:g5352300",
+    "@id": "_:g5404320",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1015,7 +1207,7 @@
     ]
   },
   {
-    "@id": "_:g5352320",
+    "@id": "_:g5404340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1026,7 +1218,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/38381778-cb8a-46b0-abeb-4b06df3f4e93",
+    "@id": "https://longueuil.quebec/temporary/984b5c92-241d-43c8-8643-769f7a95cce2",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1049,17 +1241,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5352260"
+        "@id": "_:g5404280"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5352280"
+        "@id": "_:g5404300"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5352320"
+        "@id": "_:g5404340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1111,7 +1303,7 @@
     ]
   },
   {
-    "@id": "_:g5363560",
+    "@id": "_:g5415600",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1128,13 +1320,13 @@
     ]
   },
   {
-    "@id": "_:g5363580",
+    "@id": "_:g5415620",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5363600"
+        "@id": "_:g5415640"
       }
     ],
     "http://schema.org/name": [
@@ -1145,7 +1337,7 @@
     ]
   },
   {
-    "@id": "_:g5363600",
+    "@id": "_:g5415640",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1162,7 +1354,7 @@
     ]
   },
   {
-    "@id": "_:g5363620",
+    "@id": "_:g5415660",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1173,7 +1365,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/fcbba947-5bc0-4dac-87d0-64f2e4dafa18",
+    "@id": "https://longueuil.quebec/temporary/f17f45dc-5d47-4e84-a0bf-5f5033612eff",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1196,17 +1388,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5363560"
+        "@id": "_:g5415600"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5363580"
+        "@id": "_:g5415620"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5363620"
+        "@id": "_:g5415660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1258,7 +1450,7 @@
     ]
   },
   {
-    "@id": "_:g5374900",
+    "@id": "_:g5426960",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1275,13 +1467,13 @@
     ]
   },
   {
-    "@id": "_:g5374920",
+    "@id": "_:g5426980",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5374940"
+        "@id": "_:g5427000"
       }
     ],
     "http://schema.org/name": [
@@ -1292,7 +1484,7 @@
     ]
   },
   {
-    "@id": "_:g5374940",
+    "@id": "_:g5427000",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1309,7 +1501,7 @@
     ]
   },
   {
-    "@id": "_:g5374960",
+    "@id": "_:g5427020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1320,7 +1512,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/918fb809-1d69-4f0e-8f96-4c4a6d045660",
+    "@id": "https://longueuil.quebec/temporary/52f8719f-bb9f-4337-bd68-4d5b045d728b",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1343,17 +1535,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5374900"
+        "@id": "_:g5426960"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5374920"
+        "@id": "_:g5426980"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5374960"
+        "@id": "_:g5427020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1405,7 +1597,7 @@
     ]
   },
   {
-    "@id": "_:g5386260",
+    "@id": "_:g5443720",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1422,13 +1614,13 @@
     ]
   },
   {
-    "@id": "_:g5386280",
+    "@id": "_:g5443740",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5386300"
+        "@id": "_:g5443760"
       }
     ],
     "http://schema.org/name": [
@@ -1439,7 +1631,7 @@
     ]
   },
   {
-    "@id": "_:g5386300",
+    "@id": "_:g5443760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1456,7 +1648,7 @@
     ]
   },
   {
-    "@id": "_:g5386320",
+    "@id": "_:g5443780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1467,7 +1659,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/d9415b1e-b79a-4c67-83bd-6241b380b020",
+    "@id": "https://longueuil.quebec/temporary/d1fdbca2-e285-4250-977e-6e6cb55db7b5",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1490,17 +1682,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5386260"
+        "@id": "_:g5443720"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5386280"
+        "@id": "_:g5443740"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5386320"
+        "@id": "_:g5443780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1552,7 +1744,7 @@
     ]
   },
   {
-    "@id": "_:g5397540",
+    "@id": "_:g5454940",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1569,13 +1761,13 @@
     ]
   },
   {
-    "@id": "_:g5397560",
+    "@id": "_:g5454960",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5397580"
+        "@id": "_:g5454980"
       }
     ],
     "http://schema.org/name": [
@@ -1586,7 +1778,7 @@
     ]
   },
   {
-    "@id": "_:g5397580",
+    "@id": "_:g5454980",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1603,7 +1795,7 @@
     ]
   },
   {
-    "@id": "_:g5397600",
+    "@id": "_:g5455000",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1614,7 +1806,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/a353bc5e-c796-45cc-bb7f-9bd63c9a2da5",
+    "@id": "https://longueuil.quebec/temporary/bccfb401-4dd5-4dfd-9077-0238c38c4a1e",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1637,17 +1829,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5397540"
+        "@id": "_:g5454940"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5397560"
+        "@id": "_:g5454960"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5397600"
+        "@id": "_:g5455000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1699,7 +1891,7 @@
     ]
   },
   {
-    "@id": "_:g5408800",
+    "@id": "_:g5466220",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1716,13 +1908,13 @@
     ]
   },
   {
-    "@id": "_:g5408820",
+    "@id": "_:g5466240",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5408840"
+        "@id": "_:g5466260"
       }
     ],
     "http://schema.org/name": [
@@ -1733,7 +1925,7 @@
     ]
   },
   {
-    "@id": "_:g5408840",
+    "@id": "_:g5466260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1750,7 +1942,7 @@
     ]
   },
   {
-    "@id": "_:g5408860",
+    "@id": "_:g5466280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1761,7 +1953,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/72428107-542a-4645-8c85-1d0f19faa007",
+    "@id": "https://longueuil.quebec/temporary/67bd2c3b-32fd-4bc0-a9b3-374f9e8ef22f",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1784,17 +1976,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5408800"
+        "@id": "_:g5466220"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5408820"
+        "@id": "_:g5466240"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5408860"
+        "@id": "_:g5466280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1846,7 +2038,7 @@
     ]
   },
   {
-    "@id": "_:g5420080",
+    "@id": "_:g5477500",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1863,13 +2055,13 @@
     ]
   },
   {
-    "@id": "_:g5420100",
+    "@id": "_:g5477520",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5420120"
+        "@id": "_:g5477540"
       }
     ],
     "http://schema.org/name": [
@@ -1880,7 +2072,7 @@
     ]
   },
   {
-    "@id": "_:g5420120",
+    "@id": "_:g5477540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1897,7 +2089,7 @@
     ]
   },
   {
-    "@id": "_:g5420140",
+    "@id": "_:g5477560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1908,7 +2100,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/3109191c-6bc0-464c-92b5-a5c69483a2f5",
+    "@id": "https://longueuil.quebec/temporary/694ee22e-041c-4491-ab8b-8c50d59d9580",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -1931,17 +2123,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5420080"
+        "@id": "_:g5477500"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5420100"
+        "@id": "_:g5477520"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5420140"
+        "@id": "_:g5477560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1993,7 +2185,7 @@
     ]
   },
   {
-    "@id": "_:g5436840",
+    "@id": "_:g5494260",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2010,13 +2202,13 @@
     ]
   },
   {
-    "@id": "_:g5436860",
+    "@id": "_:g5494280",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5436880"
+        "@id": "_:g5494300"
       }
     ],
     "http://schema.org/name": [
@@ -2027,7 +2219,7 @@
     ]
   },
   {
-    "@id": "_:g5436880",
+    "@id": "_:g5494300",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2044,7 +2236,7 @@
     ]
   },
   {
-    "@id": "_:g5436900",
+    "@id": "_:g5494320",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2055,7 +2247,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/cb0b4e25-f830-4d90-9f16-d5a3fe50476c",
+    "@id": "https://longueuil.quebec/temporary/09b28d58-aab8-4cc4-9481-2283568b6381",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2078,17 +2270,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5436840"
+        "@id": "_:g5494260"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5436860"
+        "@id": "_:g5494280"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5436900"
+        "@id": "_:g5494320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2140,7 +2332,7 @@
     ]
   },
   {
-    "@id": "_:g5448120",
+    "@id": "_:g5505540",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2157,13 +2349,13 @@
     ]
   },
   {
-    "@id": "_:g5448140",
+    "@id": "_:g5505560",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5448160"
+        "@id": "_:g5505580"
       }
     ],
     "http://schema.org/name": [
@@ -2174,7 +2366,7 @@
     ]
   },
   {
-    "@id": "_:g5448160",
+    "@id": "_:g5505580",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2191,7 +2383,7 @@
     ]
   },
   {
-    "@id": "_:g5448180",
+    "@id": "_:g5505600",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2202,7 +2394,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/2db35915-bb76-4f69-81e1-4071f7d1f7c2",
+    "@id": "https://longueuil.quebec/temporary/1ef3ce74-34fa-4bcb-bec1-7b12ffc32821",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2225,17 +2417,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5448120"
+        "@id": "_:g5505540"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5448140"
+        "@id": "_:g5505560"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5448180"
+        "@id": "_:g5505600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2287,7 +2479,7 @@
     ]
   },
   {
-    "@id": "_:g5459480",
+    "@id": "_:g5522840",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2304,13 +2496,13 @@
     ]
   },
   {
-    "@id": "_:g5459500",
+    "@id": "_:g5522860",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5459520"
+        "@id": "_:g5522880"
       }
     ],
     "http://schema.org/name": [
@@ -2321,7 +2513,7 @@
     ]
   },
   {
-    "@id": "_:g5459520",
+    "@id": "_:g5522880",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2338,7 +2530,7 @@
     ]
   },
   {
-    "@id": "_:g5459540",
+    "@id": "_:g5522900",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2349,7 +2541,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/96679252-abc0-4ac7-8d27-9c9f838ef63d",
+    "@id": "https://longueuil.quebec/temporary/4720f87c-9b2e-44b6-8d5a-072dfecc3574",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2372,17 +2564,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5459480"
+        "@id": "_:g5522840"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5459500"
+        "@id": "_:g5522860"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5459540"
+        "@id": "_:g5522900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2434,7 +2626,7 @@
     ]
   },
   {
-    "@id": "_:g5470860",
+    "@id": "_:g5534140",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2451,13 +2643,13 @@
     ]
   },
   {
-    "@id": "_:g5470880",
+    "@id": "_:g5534160",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5470900"
+        "@id": "_:g5534180"
       }
     ],
     "http://schema.org/name": [
@@ -2468,7 +2660,7 @@
     ]
   },
   {
-    "@id": "_:g5470900",
+    "@id": "_:g5534180",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2485,7 +2677,7 @@
     ]
   },
   {
-    "@id": "_:g5470920",
+    "@id": "_:g5534200",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2496,7 +2688,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/e811f15f-182c-4ded-aaea-7128f134674c",
+    "@id": "https://longueuil.quebec/temporary/14929c3b-411c-4dc2-8ad8-950a14706c82",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2519,17 +2711,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5470860"
+        "@id": "_:g5534140"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5470880"
+        "@id": "_:g5534160"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5470920"
+        "@id": "_:g5534200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2581,7 +2773,7 @@
     ]
   },
   {
-    "@id": "_:g5482120",
+    "@id": "_:g5545400",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2598,13 +2790,13 @@
     ]
   },
   {
-    "@id": "_:g5482140",
+    "@id": "_:g5545420",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5482160"
+        "@id": "_:g5545440"
       }
     ],
     "http://schema.org/name": [
@@ -2615,7 +2807,7 @@
     ]
   },
   {
-    "@id": "_:g5482160",
+    "@id": "_:g5545440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2632,7 +2824,7 @@
     ]
   },
   {
-    "@id": "_:g5482180",
+    "@id": "_:g5545460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2643,7 +2835,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/911fa956-02b2-47a7-b6f2-3b8b2f105c22",
+    "@id": "https://longueuil.quebec/temporary/777c9160-e33a-4d8e-9bb1-e848b07fc0ec",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2666,17 +2858,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5482120"
+        "@id": "_:g5545400"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5482140"
+        "@id": "_:g5545420"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5482180"
+        "@id": "_:g5545460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2728,7 +2920,7 @@
     ]
   },
   {
-    "@id": "_:g5493460",
+    "@id": "_:g5556740",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2745,13 +2937,13 @@
     ]
   },
   {
-    "@id": "_:g5493480",
+    "@id": "_:g5556760",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5493500"
+        "@id": "_:g5556780"
       }
     ],
     "http://schema.org/name": [
@@ -2762,7 +2954,7 @@
     ]
   },
   {
-    "@id": "_:g5493500",
+    "@id": "_:g5556780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2779,7 +2971,7 @@
     ]
   },
   {
-    "@id": "_:g5493520",
+    "@id": "_:g5556800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2790,7 +2982,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/2bf4218f-b2dc-4d45-a44b-f4cbcd195775",
+    "@id": "https://longueuil.quebec/temporary/e8dfe072-b1b2-499d-bad4-be554b5a0f52",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2813,17 +3005,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5493460"
+        "@id": "_:g5556740"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5493480"
+        "@id": "_:g5556760"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5493520"
+        "@id": "_:g5556800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2875,7 +3067,7 @@
     ]
   },
   {
-    "@id": "_:g5504780",
+    "@id": "_:g5568060",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2892,13 +3084,13 @@
     ]
   },
   {
-    "@id": "_:g5504800",
+    "@id": "_:g5568080",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5504820"
+        "@id": "_:g5568100"
       }
     ],
     "http://schema.org/name": [
@@ -2909,7 +3101,7 @@
     ]
   },
   {
-    "@id": "_:g5504820",
+    "@id": "_:g5568100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2926,7 +3118,7 @@
     ]
   },
   {
-    "@id": "_:g5504840",
+    "@id": "_:g5568120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2937,7 +3129,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/c758a3e8-3248-431c-9821-1807d6a39bd7",
+    "@id": "https://longueuil.quebec/temporary/14bfa9d5-7062-466d-9953-e7bbd660faae",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -2960,17 +3152,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5504780"
+        "@id": "_:g5568060"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5504800"
+        "@id": "_:g5568080"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5504840"
+        "@id": "_:g5568120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3022,7 +3214,7 @@
     ]
   },
   {
-    "@id": "_:g5516100",
+    "@id": "_:g5579440",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3039,13 +3231,13 @@
     ]
   },
   {
-    "@id": "_:g5516120",
+    "@id": "_:g5579460",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5516140"
+        "@id": "_:g5579480"
       }
     ],
     "http://schema.org/name": [
@@ -3056,7 +3248,7 @@
     ]
   },
   {
-    "@id": "_:g5516140",
+    "@id": "_:g5579480",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3073,7 +3265,7 @@
     ]
   },
   {
-    "@id": "_:g5516160",
+    "@id": "_:g5579500",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3084,7 +3276,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/b85f255c-9c37-478a-b7de-bde79e931f9d",
+    "@id": "https://longueuil.quebec/temporary/9c2e8733-8e09-4d01-9c33-0ad38072e291",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -3107,17 +3299,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5516100"
+        "@id": "_:g5579440"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5516120"
+        "@id": "_:g5579460"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5516160"
+        "@id": "_:g5579500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3169,7 +3361,7 @@
     ]
   },
   {
-    "@id": "_:g5527560",
+    "@id": "_:g5590920",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3186,13 +3378,13 @@
     ]
   },
   {
-    "@id": "_:g5527580",
+    "@id": "_:g5590940",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5527600"
+        "@id": "_:g5590960"
       }
     ],
     "http://schema.org/name": [
@@ -3203,7 +3395,7 @@
     ]
   },
   {
-    "@id": "_:g5527600",
+    "@id": "_:g5590960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3220,7 +3412,7 @@
     ]
   },
   {
-    "@id": "_:g5527620",
+    "@id": "_:g5590980",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3231,7 +3423,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/a5cb1051-7632-407e-ba86-bfd7ce288202",
+    "@id": "https://longueuil.quebec/temporary/8c411ed4-ec71-4b16-88de-d863c9c6a317",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -3254,17 +3446,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5527560"
+        "@id": "_:g5590920"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5527580"
+        "@id": "_:g5590940"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5527620"
+        "@id": "_:g5590980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3327,7 +3519,7 @@
     ]
   },
   {
-    "@id": "_:g5549720",
+    "@id": "_:g5618660",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3344,13 +3536,13 @@
     ]
   },
   {
-    "@id": "_:g5549740",
+    "@id": "_:g5618680",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5549760"
+        "@id": "_:g5618700"
       }
     ],
     "http://schema.org/name": [
@@ -3361,7 +3553,7 @@
     ]
   },
   {
-    "@id": "_:g5549760",
+    "@id": "_:g5618700",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3378,7 +3570,7 @@
     ]
   },
   {
-    "@id": "_:g5549780",
+    "@id": "_:g5618720",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3389,7 +3581,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/a51db1d2-3dcb-44e8-9d9a-8fd26db6d5a3",
+    "@id": "https://longueuil.quebec/temporary/cf87c580-209a-4020-81e8-b301569e2b77",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -3412,17 +3604,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5549720"
+        "@id": "_:g5618660"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5549740"
+        "@id": "_:g5618680"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5549780"
+        "@id": "_:g5618720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3474,7 +3666,7 @@
     ]
   },
   {
-    "@id": "_:g5561120",
+    "@id": "_:g5630000",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3491,13 +3683,13 @@
     ]
   },
   {
-    "@id": "_:g5561140",
+    "@id": "_:g5630020",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5561160"
+        "@id": "_:g5630040"
       }
     ],
     "http://schema.org/name": [
@@ -3508,7 +3700,7 @@
     ]
   },
   {
-    "@id": "_:g5561160",
+    "@id": "_:g5630040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3525,7 +3717,7 @@
     ]
   },
   {
-    "@id": "_:g5561180",
+    "@id": "_:g5630060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3536,7 +3728,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/3a201c66-49c4-4ce6-af3c-989ee4b11d48",
+    "@id": "https://longueuil.quebec/temporary/f7b9e8ae-4c67-4f75-8ee7-c0055f913786",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -3559,17 +3751,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5561120"
+        "@id": "_:g5630000"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5561140"
+        "@id": "_:g5630020"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5561180"
+        "@id": "_:g5630060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3621,7 +3813,7 @@
     ]
   },
   {
-    "@id": "_:g5572620",
+    "@id": "_:g5641460",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3638,13 +3830,13 @@
     ]
   },
   {
-    "@id": "_:g5572640",
+    "@id": "_:g5641480",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5572660"
+        "@id": "_:g5641500"
       }
     ],
     "http://schema.org/name": [
@@ -3655,7 +3847,7 @@
     ]
   },
   {
-    "@id": "_:g5572660",
+    "@id": "_:g5641500",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3672,7 +3864,7 @@
     ]
   },
   {
-    "@id": "_:g5572680",
+    "@id": "_:g5641520",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3683,7 +3875,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/2a3ab599-e5ab-45e7-b471-c843966c2b70",
+    "@id": "https://longueuil.quebec/temporary/d77591c3-267d-4a0b-86dc-743f22b98668",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -3706,17 +3898,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5572620"
+        "@id": "_:g5641460"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5572640"
+        "@id": "_:g5641480"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5572680"
+        "@id": "_:g5641520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3768,7 +3960,7 @@
     ]
   },
   {
-    "@id": "_:g5583920",
+    "@id": "_:g5652720",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3785,13 +3977,13 @@
     ]
   },
   {
-    "@id": "_:g5583940",
+    "@id": "_:g5652740",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5583960"
+        "@id": "_:g5652760"
       }
     ],
     "http://schema.org/name": [
@@ -3802,7 +3994,7 @@
     ]
   },
   {
-    "@id": "_:g5583960",
+    "@id": "_:g5652760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3819,7 +4011,7 @@
     ]
   },
   {
-    "@id": "_:g5583980",
+    "@id": "_:g5652780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3830,7 +4022,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/0228fd90-3bcb-40d5-92e8-df16c1e2f891",
+    "@id": "https://longueuil.quebec/temporary/6a1f047a-80a5-4053-9f0e-94c2ed35aa67",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -3853,17 +4045,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5583920"
+        "@id": "_:g5652720"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5583940"
+        "@id": "_:g5652740"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5583980"
+        "@id": "_:g5652780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3915,7 +4107,7 @@
     ]
   },
   {
-    "@id": "_:g5595380",
+    "@id": "_:g5664200",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3932,13 +4124,13 @@
     ]
   },
   {
-    "@id": "_:g5595400",
+    "@id": "_:g5664220",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5595420"
+        "@id": "_:g5664240"
       }
     ],
     "http://schema.org/name": [
@@ -3949,7 +4141,7 @@
     ]
   },
   {
-    "@id": "_:g5595420",
+    "@id": "_:g5664240",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3966,7 +4158,7 @@
     ]
   },
   {
-    "@id": "_:g5595440",
+    "@id": "_:g5664260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3977,7 +4169,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/ddead669-ac77-465e-859a-af8f24045804",
+    "@id": "https://longueuil.quebec/temporary/6d9b9c32-02b0-4cf3-8e86-546b95815aa9",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4000,17 +4192,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5595380"
+        "@id": "_:g5664200"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5595400"
+        "@id": "_:g5664220"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5595440"
+        "@id": "_:g5664260"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4062,7 +4254,7 @@
     ]
   },
   {
-    "@id": "_:g5606700",
+    "@id": "_:g5680760",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4079,13 +4271,13 @@
     ]
   },
   {
-    "@id": "_:g5606720",
+    "@id": "_:g5680780",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5606740"
+        "@id": "_:g5680800"
       }
     ],
     "http://schema.org/name": [
@@ -4096,7 +4288,7 @@
     ]
   },
   {
-    "@id": "_:g5606740",
+    "@id": "_:g5680800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4113,7 +4305,7 @@
     ]
   },
   {
-    "@id": "_:g5606760",
+    "@id": "_:g5680820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4124,7 +4316,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/fed833c1-8564-4f15-bddd-aaa2f4a63033",
+    "@id": "https://longueuil.quebec/temporary/e7f3a1eb-1244-41b2-9eca-4eb385a28c3d",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4147,17 +4339,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5606700"
+        "@id": "_:g5680760"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5606720"
+        "@id": "_:g5680780"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5606760"
+        "@id": "_:g5680820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4209,7 +4401,7 @@
     ]
   },
   {
-    "@id": "_:g5618000",
+    "@id": "_:g5697500",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4226,13 +4418,13 @@
     ]
   },
   {
-    "@id": "_:g5618020",
+    "@id": "_:g5697520",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5618040"
+        "@id": "_:g5697540"
       }
     ],
     "http://schema.org/name": [
@@ -4243,7 +4435,7 @@
     ]
   },
   {
-    "@id": "_:g5618040",
+    "@id": "_:g5697540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4260,7 +4452,7 @@
     ]
   },
   {
-    "@id": "_:g5618060",
+    "@id": "_:g5697560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4271,7 +4463,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/76c72bce-9a0d-482a-b1fe-bdd1c0e91989",
+    "@id": "https://longueuil.quebec/temporary/b963c7fd-835c-4082-a453-64842680c727",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4294,17 +4486,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5618000"
+        "@id": "_:g5697500"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5618020"
+        "@id": "_:g5697520"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5618060"
+        "@id": "_:g5697560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4356,7 +4548,7 @@
     ]
   },
   {
-    "@id": "_:g5629320",
+    "@id": "_:g5715080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4373,13 +4565,13 @@
     ]
   },
   {
-    "@id": "_:g5629340",
+    "@id": "_:g5715100",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5629360"
+        "@id": "_:g5715120"
       }
     ],
     "http://schema.org/name": [
@@ -4390,7 +4582,7 @@
     ]
   },
   {
-    "@id": "_:g5629360",
+    "@id": "_:g5715120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4407,7 +4599,7 @@
     ]
   },
   {
-    "@id": "_:g5629380",
+    "@id": "_:g5715140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4418,7 +4610,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/708d83fa-5ba6-4480-8ea1-9178d6bbfe35",
+    "@id": "https://longueuil.quebec/temporary/07dcc867-00a6-4314-ba9b-50a49de8be88",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4441,17 +4633,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5629320"
+        "@id": "_:g5715080"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5629340"
+        "@id": "_:g5715100"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5629380"
+        "@id": "_:g5715140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4503,7 +4695,7 @@
     ]
   },
   {
-    "@id": "_:g5640600",
+    "@id": "_:g5726080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4520,13 +4712,13 @@
     ]
   },
   {
-    "@id": "_:g5640620",
+    "@id": "_:g5726100",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5640640"
+        "@id": "_:g5726120"
       }
     ],
     "http://schema.org/name": [
@@ -4537,7 +4729,7 @@
     ]
   },
   {
-    "@id": "_:g5640640",
+    "@id": "_:g5726120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4554,7 +4746,7 @@
     ]
   },
   {
-    "@id": "_:g5640660",
+    "@id": "_:g5726140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4565,7 +4757,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/72244554-42d2-441e-b04b-a25fa05cda00",
+    "@id": "https://longueuil.quebec/temporary/f9646a28-d94e-4c49-bb9c-da2a941ec174",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4588,17 +4780,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5640600"
+        "@id": "_:g5726080"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5640620"
+        "@id": "_:g5726100"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5640660"
+        "@id": "_:g5726140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4650,7 +4842,7 @@
     ]
   },
   {
-    "@id": "_:g5657420",
+    "@id": "_:g5743080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4667,13 +4859,13 @@
     ]
   },
   {
-    "@id": "_:g5657440",
+    "@id": "_:g5743100",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5657460"
+        "@id": "_:g5743120"
       }
     ],
     "http://schema.org/name": [
@@ -4684,7 +4876,7 @@
     ]
   },
   {
-    "@id": "_:g5657460",
+    "@id": "_:g5743120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4701,7 +4893,7 @@
     ]
   },
   {
-    "@id": "_:g5657480",
+    "@id": "_:g5743140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4712,7 +4904,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/3d1f7975-b1aa-4120-a5fc-e72611b95bc9",
+    "@id": "https://longueuil.quebec/temporary/565590d4-ec10-4e3d-b1ef-50a90d332956",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4735,17 +4927,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5657420"
+        "@id": "_:g5743080"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5657440"
+        "@id": "_:g5743100"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5657480"
+        "@id": "_:g5743140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4797,7 +4989,7 @@
     ]
   },
   {
-    "@id": "_:g5668660",
+    "@id": "_:g5764900",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4814,13 +5006,13 @@
     ]
   },
   {
-    "@id": "_:g5668680",
+    "@id": "_:g5764920",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5668700"
+        "@id": "_:g5764940"
       }
     ],
     "http://schema.org/name": [
@@ -4831,7 +5023,7 @@
     ]
   },
   {
-    "@id": "_:g5668700",
+    "@id": "_:g5764940",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4848,7 +5040,7 @@
     ]
   },
   {
-    "@id": "_:g5668720",
+    "@id": "_:g5764960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4859,7 +5051,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/21294bcf-8392-4193-b755-db6233d058bd",
+    "@id": "https://longueuil.quebec/temporary/2a3a3d78-2600-411d-9084-e81ee2281cd2",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -4882,17 +5074,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5668660"
+        "@id": "_:g5764900"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5668680"
+        "@id": "_:g5764920"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5668720"
+        "@id": "_:g5764960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4944,7 +5136,7 @@
     ]
   },
   {
-    "@id": "_:g5685520",
+    "@id": "_:g5781700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4961,13 +5153,13 @@
     ]
   },
   {
-    "@id": "_:g5685540",
+    "@id": "_:g5781720",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5685560"
+        "@id": "_:g5781740"
       }
     ],
     "http://schema.org/name": [
@@ -4978,7 +5170,7 @@
     ]
   },
   {
-    "@id": "_:g5685560",
+    "@id": "_:g5781740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4995,7 +5187,7 @@
     ]
   },
   {
-    "@id": "_:g5685580",
+    "@id": "_:g5781760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5006,7 +5198,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/77c98925-71a5-49a9-894f-c9e774ac9954",
+    "@id": "https://longueuil.quebec/temporary/6081c416-7537-45d8-aa12-8bdcc39c1d21",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5029,17 +5221,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5685520"
+        "@id": "_:g5781700"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5685540"
+        "@id": "_:g5781720"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5685580"
+        "@id": "_:g5781760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5091,7 +5283,7 @@
     ]
   },
   {
-    "@id": "_:g5696780",
+    "@id": "_:g5793000",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5108,13 +5300,13 @@
     ]
   },
   {
-    "@id": "_:g5696800",
+    "@id": "_:g5793020",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5696820"
+        "@id": "_:g5793040"
       }
     ],
     "http://schema.org/name": [
@@ -5125,7 +5317,7 @@
     ]
   },
   {
-    "@id": "_:g5696820",
+    "@id": "_:g5793040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5142,7 +5334,7 @@
     ]
   },
   {
-    "@id": "_:g5696840",
+    "@id": "_:g5793060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5153,7 +5345,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/9a24f9c1-09ca-44b8-9730-15ebe4b054c3",
+    "@id": "https://longueuil.quebec/temporary/a326ad36-d295-450f-8205-8e670f38cbd1",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5176,17 +5368,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5696780"
+        "@id": "_:g5793000"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5696800"
+        "@id": "_:g5793020"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5696840"
+        "@id": "_:g5793060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5238,7 +5430,7 @@
     ]
   },
   {
-    "@id": "_:g5708160",
+    "@id": "_:g5804400",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5255,13 +5447,13 @@
     ]
   },
   {
-    "@id": "_:g5708180",
+    "@id": "_:g5804420",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5708200"
+        "@id": "_:g5804440"
       }
     ],
     "http://schema.org/name": [
@@ -5272,7 +5464,7 @@
     ]
   },
   {
-    "@id": "_:g5708200",
+    "@id": "_:g5804440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5289,7 +5481,7 @@
     ]
   },
   {
-    "@id": "_:g5708220",
+    "@id": "_:g5804460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5300,7 +5492,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/844b6873-40d7-44e4-824b-cc8c2f8d997d",
+    "@id": "https://longueuil.quebec/temporary/32624bc9-26da-4d3a-a47d-6a8dce7c674e",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5323,17 +5515,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5708160"
+        "@id": "_:g5804400"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5708180"
+        "@id": "_:g5804420"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5708220"
+        "@id": "_:g5804460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5385,7 +5577,7 @@
     ]
   },
   {
-    "@id": "_:g5719500",
+    "@id": "_:g5815740",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5402,13 +5594,13 @@
     ]
   },
   {
-    "@id": "_:g5719520",
+    "@id": "_:g5815760",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5719540"
+        "@id": "_:g5815780"
       }
     ],
     "http://schema.org/name": [
@@ -5419,7 +5611,7 @@
     ]
   },
   {
-    "@id": "_:g5719540",
+    "@id": "_:g5815780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5436,7 +5628,7 @@
     ]
   },
   {
-    "@id": "_:g5719560",
+    "@id": "_:g5815800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5447,7 +5639,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/6f4d07f0-b11e-4576-a217-853392201f47",
+    "@id": "https://longueuil.quebec/temporary/2f8ae04f-232c-4d71-8851-1e66d2c807f5",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5470,17 +5662,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5719500"
+        "@id": "_:g5815740"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5719520"
+        "@id": "_:g5815760"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5719560"
+        "@id": "_:g5815800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5532,7 +5724,7 @@
     ]
   },
   {
-    "@id": "_:g5736220",
+    "@id": "_:g5831740",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5549,13 +5741,13 @@
     ]
   },
   {
-    "@id": "_:g5736240",
+    "@id": "_:g5831760",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5736260"
+        "@id": "_:g5831780"
       }
     ],
     "http://schema.org/name": [
@@ -5566,7 +5758,7 @@
     ]
   },
   {
-    "@id": "_:g5736260",
+    "@id": "_:g5831780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5583,7 +5775,7 @@
     ]
   },
   {
-    "@id": "_:g5736280",
+    "@id": "_:g5831800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5594,7 +5786,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/b0040fc9-f699-49aa-b8ad-1bf3307791dd",
+    "@id": "https://longueuil.quebec/temporary/47414ac4-b01e-444e-9c59-74368d451801",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5617,17 +5809,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5736220"
+        "@id": "_:g5831740"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5736240"
+        "@id": "_:g5831760"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5736280"
+        "@id": "_:g5831800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5679,7 +5871,7 @@
     ]
   },
   {
-    "@id": "_:g5751680",
+    "@id": "_:g5848700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5696,13 +5888,13 @@
     ]
   },
   {
-    "@id": "_:g5751700",
+    "@id": "_:g5848720",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5751720"
+        "@id": "_:g5848740"
       }
     ],
     "http://schema.org/name": [
@@ -5713,7 +5905,7 @@
     ]
   },
   {
-    "@id": "_:g5751720",
+    "@id": "_:g5848740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5730,7 +5922,7 @@
     ]
   },
   {
-    "@id": "_:g5751740",
+    "@id": "_:g5848760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5741,7 +5933,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/624d159f-8cfc-4680-8cfc-6464de8100aa",
+    "@id": "https://longueuil.quebec/temporary/3c82f13b-023f-4d57-aefe-ccc73c4abe1c",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5764,17 +5956,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5751680"
+        "@id": "_:g5848700"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5751700"
+        "@id": "_:g5848720"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5751740"
+        "@id": "_:g5848760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5826,7 +6018,7 @@
     ]
   },
   {
-    "@id": "_:g5762780",
+    "@id": "_:g5860000",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5843,13 +6035,13 @@
     ]
   },
   {
-    "@id": "_:g5762800",
+    "@id": "_:g5860020",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5762820"
+        "@id": "_:g5860040"
       }
     ],
     "http://schema.org/name": [
@@ -5860,7 +6052,7 @@
     ]
   },
   {
-    "@id": "_:g5762820",
+    "@id": "_:g5860040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5877,7 +6069,7 @@
     ]
   },
   {
-    "@id": "_:g5762840",
+    "@id": "_:g5860060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5888,7 +6080,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/16d8f472-92a5-4f15-9ace-829c19ae166a",
+    "@id": "https://longueuil.quebec/temporary/1ebf2e59-4a48-4916-9fbe-e7c897851b7c",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -5911,17 +6103,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5762780"
+        "@id": "_:g5860000"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5762800"
+        "@id": "_:g5860020"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5762840"
+        "@id": "_:g5860060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5973,7 +6165,7 @@
     ]
   },
   {
-    "@id": "_:g5773880",
+    "@id": "_:g5871340",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5990,13 +6182,13 @@
     ]
   },
   {
-    "@id": "_:g5773900",
+    "@id": "_:g5871360",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g5773920"
+        "@id": "_:g5871380"
       }
     ],
     "http://schema.org/name": [
@@ -6007,7 +6199,7 @@
     ]
   },
   {
-    "@id": "_:g5773920",
+    "@id": "_:g5871380",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6024,7 +6216,7 @@
     ]
   },
   {
-    "@id": "_:g5773940",
+    "@id": "_:g5871400",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6035,7 +6227,7 @@
     ]
   },
   {
-    "@id": "https://longueuil.quebec/temporary/daa3f70d-211d-45e6-9526-d18c8c1874bc",
+    "@id": "https://longueuil.quebec/temporary/f8a56751-7260-4bc8-8a2d-7233fce644ba",
     "@type": [
       "http://schema.org/NewsArticle"
     ],
@@ -6058,17 +6250,17 @@
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g5773880"
+        "@id": "_:g5871340"
       }
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g5773900"
+        "@id": "_:g5871360"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g5773940"
+        "@id": "_:g5871400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
