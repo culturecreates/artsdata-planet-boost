@@ -1,0 +1,380 @@
+[
+  {
+    "@id": "https://bicentennialtheatre.ca/product/gunning-cormier-maclellan/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bicentennialtheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bicentennialtheatre.ca/product/gunning-cormier-maclellan/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/gunning-cormier-maclellan/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bicentennialtheatre.ca/wp-content/uploads/2025/09/Gunning-Cormier-MacLellan-Square.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "5932"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g639840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/gunning-cormier-maclellan/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gunning, Cormier &amp;amp; MacLellan"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Friday, October 24, 2025 at 7:00pm\r\n\r\nThree of Atlantic Canada's most gifted singer-songwriters are uniting on the Bicentennial Theatre stage!\r\n\r\nLocally beloved MVBT regulars Dave Gunning and J.P. Cormier are teaming up with PEI's Catherine MacLellan to bring audiences a night of musical mastery they won't soon forget!\r\n\r\n&amp;nbsp;\r\n\r\nWith fourteen albums to his credit, Dave Gunning is a luminary in Canadian folk music. A celebrated artist, he has earned ten East Coast Music Awards, two Canadian Folk Music Awards, and a Juno nomination. Known for his poignant storytelling and activism, Gunning's music, including his most recent release The Same Storm, continues to captivate audiences with heartfelt and socially conscious themes.\r\n\r\n&amp;nbsp;\r\n\r\nJ.P. Cormier is a Canadian bluegrass/folk/Celtic singer-songwriter and multi-instrumentalist. He has won thirteen East Coast Music Awards and one Canadian Folk Music Award. He has released 17 albums since 1997 and has inspired some of the biggest names in East Coast music. People still leave his shows confused, amazed, and wondering what they just saw. Did they see a storyteller? A Songwriter? Arguably one of the best guitar players in the business today? Someone who crosses the lines between different instruments like there are no lines? Of all the things he is, foremost, an entertainer.\r\n\r\n&amp;nbsp;\r\n\r\nCatherine MacLellan has been captivating audiences around the world with her music for over two decades. Born and raised in the idyllic province of Prince Edward Island, Catherine's songs reflect her deep connection to the land and the people that call it home. Her passion for songwriting runs in the family; her father, Gene MacLellan, wrote beloved hits like \"Snowbird\" and \"Put Your Hand in the Hand.\""
+      }
+    ]
+  },
+  {
+    "@id": "_:g639840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g639860"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/gunning-cormier-maclellan/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g639880"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/OutOfStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639860",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "40.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Musquodoboit Valley Bicentennial Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://bicentennialtheatre.ca/product/fiddles-feet-2025/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bicentennialtheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bicentennialtheatre.ca/product/fiddles-feet-2025/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/fiddles-feet-2025/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bicentennialtheatre.ca/wp-content/uploads/2025/09/Fiddles-Feet-2025-square.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "6055"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g647200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/fiddles-feet-2025/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Fiddles &amp;amp; Feet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Sunday, November 16 at 2pm\r\n\r\nOne of our favourite groups is back again! Join us for a toe tappin' good time with the incomparable Fiddles &amp;amp; Feet gang! They offer down-home fiddling and fancy footwork at its finest."
+      }
+    ]
+  },
+  {
+    "@id": "_:g647200",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g647220"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/fiddles-feet-2025/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g647240"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g647220",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g647240",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Musquodoboit Valley Bicentennial Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://bicentennialtheatre.ca/product/a-merry-taylor-christmas/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://bicentennialtheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://bicentennialtheatre.ca/product/a-merry-taylor-christmas/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/a-merry-taylor-christmas/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://bicentennialtheatre.ca/wp-content/uploads/2025/11/Taylor-Christmas-Square.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "6260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g654680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/a-merry-taylor-christmas/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Merry Taylor Christmas"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Sunday, December 14 at 7pm\r\n\r\nJoin us for an evening of Christmas music and cheer featuring two local favourites - Brooke and Jason Taylor!\r\n\r\nAlong with their musical friends, they'll get everyone in the festive spirit!\r\n\r\n&amp;nbsp;\r\n\r\nTickets $25, including HST."
+      }
+    ]
+  },
+  {
+    "@id": "_:g654680",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g654700"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca/product/a-merry-taylor-christmas/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g654720"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g654700",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g654720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://bicentennialtheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Musquodoboit Valley Bicentennial Theatre"
+      }
+    ]
+  }
+]
