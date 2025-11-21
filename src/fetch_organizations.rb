@@ -33,13 +33,11 @@ data = rows.map do |row|
   url = row[:url].to_s
 
   {
-    "org" => row[:org].to_s,
-    "artsdataID" => row[:artsdataID].to_s,
     "url" => url,
     "artifact" => artifact_from_url(url)
   }
 end
-
+data = data.uniq { |d| d["url"] }
 batch_size = 50
 batches = data.each_slice(batch_size).to_a
 

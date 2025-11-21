@@ -40,7 +40,9 @@ jobs:
       - name: Crawl and push using pipeline-action
         uses: culturecreates/artsdata-pipeline-action@v3
         with:
-          mode: 'fetch'
+          mode: 'fetch-push'
           artifact: '${{ matrix.org.artifact }}'
           page-url: '${{ matrix.org.url }}'
           token: "${{ secrets.GITHUB_TOKEN }}"
+          custom-databus-url: "http://staging.api.artsdata.ca/databus/"
+          publisher: "http://kg.artsdata.ca/resource/K1-202"
