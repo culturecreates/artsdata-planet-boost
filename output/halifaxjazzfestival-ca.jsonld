@@ -1,5 +1,213 @@
 [
   {
+    "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "TD Halifax Jazz Festival"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Day the Dream Came Alive — TD Halifax Jazz Festival"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "en-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "en-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "en-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "When the Halifax Regional Arts Jazz Band took the stage at Halifax Jazz Festival’s Big Band Day, the sun was high, the crowd was buzzing, and families filled the seats, excited to watch their kids perform."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/6602c838d220f8167b33d02b/68ff8b470895df7f50348c29/6914edeb5f7f263b577d4974/1763499644545/blog+thumbnail+1000x1000+px+HJF+Build+Donor+Campaign+BLOG+2.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471760",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "_:g471780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TD Halifax Jazz Festival"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471780",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static1.squarespace.com/static/6602c838d220f8167b33d02b/t/673b60a36a21350492be1446/1763156413876/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/e92faff0-b7eb-458e-a442-89f9d5e0d23f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.halifaxjazzfestival.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/6602c838d220f8167b33d02b/71305de1-9ae5-4d90-8dcf-8b7e695d3bbe/HJF+dark+horizontal+logo+name+%282%29.pdf+%28816+x+600+px%29.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TD Halifax Jazz Festival"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/3a85daf2-ac47-4096-b7ee-58c7cc2625de",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/6602c838d220f8167b33d02b/t/673b60a36a21350492be1446/1763156413876/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/b05467d3-b553-4806-8724-1568ac58c45e",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g471760"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/6602c838d220f8167b33d02b/68ff8b470895df7f50348c29/6914edeb5f7f263b577d4974/1763499644545/blog+thumbnail+1000x1000+px+HJF+Build+Donor+Campaign+BLOG+2.png?format=1500w"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Day the Dream Came Alive — TD Halifax Jazz Festival"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "The Day the Dream Came Alive"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "en",
+        "@value": "Halifax Jazz Festival Marketing"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T17:00:44-04:00"
+      }
+    ]
+  },
+  {
     "@id": "https://www.halifaxjazzfestival.ca/our-work/the-next-gen",
     "http://ogp.me/ns#site_name": [
       {
@@ -69,13 +277,13 @@
     ]
   },
   {
-    "@id": "_:g472220",
+    "@id": "_:g482200",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g472240"
+        "@id": "_:g482220"
       }
     ],
     "http://schema.org/name": [
@@ -86,7 +294,7 @@
     ]
   },
   {
-    "@id": "_:g472240",
+    "@id": "_:g482220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -97,7 +305,7 @@
     ]
   },
   {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/9f1586b6-291c-4583-b55c-715b139bf8cf",
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/8d7bde7a-114f-4870-b472-37f6b2897b68",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -124,7 +332,7 @@
     ]
   },
   {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/1b550125-8eb8-4f5b-b7fb-03459647c08c",
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/edd5bde1-3afb-4437-8a87-214f36b8fac4",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -152,7 +360,7 @@
     ]
   },
   {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/96c13193-dbeb-48fc-be92-05c747b50c21",
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/764252eb-3138-4de0-a86c-357f8cdd20a4",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -163,7 +371,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g472220"
+        "@id": "_:g482200"
       }
     ],
     "http://schema.org/image": [
@@ -277,13 +485,13 @@
     ]
   },
   {
-    "@id": "_:g487800",
+    "@id": "_:g493040",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g487820"
+        "@id": "_:g493060"
       }
     ],
     "http://schema.org/name": [
@@ -294,7 +502,7 @@
     ]
   },
   {
-    "@id": "_:g487820",
+    "@id": "_:g493060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -305,7 +513,7 @@
     ]
   },
   {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/20670ec0-1457-4589-a5d1-ab605b29a8ac",
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/3dce9cb8-415a-4e3b-8978-de5de887084d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -332,7 +540,7 @@
     ]
   },
   {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/304e3058-ea4e-4633-920b-ae27db037740",
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/1d26bf24-f363-4683-8a65-e636385a785f",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -360,7 +568,7 @@
     ]
   },
   {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/a72a6125-8d6c-48b2-af27-1008266c8eb3",
+    "@id": "https://www.halifaxjazzfestival.ca/temporary/310b4045-06e2-4d00-b844-dc435626bf9d",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -371,7 +579,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g487800"
+        "@id": "_:g493040"
       }
     ],
     "http://schema.org/image": [
@@ -412,214 +620,6 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "2025-11-06T10:28:35-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive",
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "TD Halifax Jazz Festival"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "The Day the Dream Came Alive — TD Halifax Jazz Festival"
-      }
-    ],
-    "http://ogp.me/ns#latitude": [
-      {
-        "@language": "en-ca",
-        "@value": "40.7207559"
-      }
-    ],
-    "http://ogp.me/ns#longitude": [
-      {
-        "@language": "en-ca",
-        "@value": "-74.0007613"
-      }
-    ],
-    "http://ogp.me/ns#locality": [
-      {
-        "@language": "en-ca",
-        "@value": ""
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "When the Halifax Regional Arts Jazz Band took the stage at Halifax Jazz Festival’s Big Band Day, the sun was high, the crowd was buzzing, and families filled the seats, excited to watch their kids perform."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "http://static1.squarespace.com/static/6602c838d220f8167b33d02b/68ff8b470895df7f50348c29/6914edeb5f7f263b577d4974/1763499644545/blog+thumbnail+1000x1000+px+HJF+Build+Donor+Campaign+BLOG+2.png?format=1500w"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1000"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g758780",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "_:g758800"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "TD Halifax Jazz Festival"
-      }
-    ]
-  },
-  {
-    "@id": "_:g758800",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://static1.squarespace.com/static/6602c838d220f8167b33d02b/t/673b60a36a21350492be1446/1763156413876/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/79d71ecc-006f-4580-8b98-2573aa9c38b8",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.halifaxjazzfestival.ca"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://images.squarespace-cdn.com/content/v1/6602c838d220f8167b33d02b/71305de1-9ae5-4d90-8dcf-8b7e695d3bbe/HJF+dark+horizontal+logo+name+%282%29.pdf+%28816+x+600+px%29.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "TD Halifax Jazz Festival"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/d7dcc404-eb51-4b0e-a066-aefde4a6f088",
-    "@type": [
-      "http://schema.org/LocalBusiness"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://static1.squarespace.com/static/6602c838d220f8167b33d02b/t/673b60a36a21350492be1446/1763156413876/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/openingHours": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://www.halifaxjazzfestival.ca/temporary/4e8d3826-5816-44ea-9254-079f781becfa",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "_:g758780"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "http://static1.squarespace.com/static/6602c838d220f8167b33d02b/68ff8b470895df7f50348c29/6914edeb5f7f263b577d4974/1763499644545/blog+thumbnail+1000x1000+px+HJF+Build+Donor+Campaign+BLOG+2.png?format=1500w"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.halifaxjazzfestival.ca/our-work/building-the-dream-the-day-the-dream-came-alive"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Day the Dream Came Alive — TD Halifax Jazz Festival"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@language": "en",
-        "@value": "The Day the Dream Came Alive"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@language": "en",
-        "@value": "Halifax Jazz Festival Marketing"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-18T17:00:00-04:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-18T17:00:44-04:00"
       }
     ]
   }
