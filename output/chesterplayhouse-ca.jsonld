@@ -100,9 +100,6 @@
       {
         "@language": "en",
         "@value": "admin"
-      },
-      {
-        "@value": "admin"
       }
     ],
     "http://schema.org/logo": [
@@ -130,17 +127,11 @@
       {
         "@language": "en",
         "@value": "Chester Playhouse"
-      },
-      {
-        "@value": "Chester Playhouse"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ],
@@ -148,17 +139,11 @@
       {
         "@language": "en",
         "@value": "512"
-      },
-      {
-        "@value": "512"
       }
     ],
     "http://schema.org/height": [
       {
         "@language": "en",
-        "@value": "512"
-      },
-      {
         "@value": "512"
       }
     ]
@@ -182,29 +167,20 @@
       {
         "@language": "en",
         "@value": "Chester Playhouse"
-      },
-      {
-        "@value": "Chester Playhouse"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
       }
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g892020"
+        "@id": "_:g891660"
       },
       {
-        "@id": "_:g915760"
-      },
-      {
-        "@id": "_:g929080"
+        "@id": "_:g916360"
       }
     ]
   },
@@ -213,9 +189,6 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Home"
-      },
-      {
         "@value": "Home"
       }
     ],
@@ -316,23 +289,7 @@
     ]
   },
   {
-    "@id": "_:g892020",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://chesterplayhouse.ca/?s={search_term_string}"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g915760",
+    "@id": "_:g891660",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -350,7 +307,7 @@
     ]
   },
   {
-    "@id": "_:g929080",
+    "@id": "_:g916360",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -618,9 +575,6 @@
       {
         "@language": "en",
         "@value": "admin"
-      },
-      {
-        "@value": "admin"
       }
     ]
   },
@@ -638,17 +592,11 @@
       {
         "@language": "en",
         "@value": "admin"
-      },
-      {
-        "@value": "admin"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -1274,7 +1222,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://secure.gravatar.com/avatar/975c7ca3bf39021887179ba2bdd9cb7412ecc8854164d6c65346eae02b43442f?s=96&amp;d=mm&amp;r=g"
+        "@id": "https://secure.gravatar.com/avatar/f728485a67ac2c154647792faed8d0384e504f6860def9d96329b6752700c8bb?s=96&amp;d=mm&amp;r=g"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1285,24 +1233,24 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Marketing Playhouse"
+        "@value": "Box Office Playhouse"
       }
     ]
   },
   {
-    "@id": "https://secure.gravatar.com/avatar/975c7ca3bf39021887179ba2bdd9cb7412ecc8854164d6c65346eae02b43442f?s=96&amp;d=mm&amp;r=g",
+    "@id": "https://secure.gravatar.com/avatar/f728485a67ac2c154647792faed8d0384e504f6860def9d96329b6752700c8bb?s=96&amp;d=mm&amp;r=g",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://secure.gravatar.com/avatar/975c7ca3bf39021887179ba2bdd9cb7412ecc8854164d6c65346eae02b43442f?s=96&amp;d=mm&amp;r=g"
+        "@id": "https://secure.gravatar.com/avatar/f728485a67ac2c154647792faed8d0384e504f6860def9d96329b6752700c8bb?s=96&amp;d=mm&amp;r=g"
       }
     ],
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "Marketing Playhouse"
+        "@value": "Box Office Playhouse"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -5534,6 +5482,85 @@
     ]
   },
   {
+    "@id": "https://chesterplayhouse.ca/wp-content/uploads/2024/04/Get-Involved-Images.png",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://chesterplayhouse.ca/wp-content/uploads/2024/04/Get-Involved-Images.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://chesterplayhouse.ca/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://chesterplayhouse.ca/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-25T11:40:58-03:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-26T16:27:45-03:00"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://chesterplayhouse.ca/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://chesterplayhouse.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://chesterplayhouse.ca/wp-content/uploads/2024/04/Get-Involved-Images.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
     "@id": "https://chesterplayhouse.ca/",
     "https://ogp.me/ns#locale": [
       {
@@ -5632,100 +5659,6 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/wp-content/uploads/2024/04/Get-Involved-Images.png",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chesterplayhouse.ca/wp-content/uploads/2024/04/Get-Involved-Images.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "200"
-      },
-      {
-        "@language": "en",
-        "@value": "200"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "200"
-      },
-      {
-        "@language": "en",
-        "@value": "200"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en-US"
-      },
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://chesterplayhouse.ca/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chesterplayhouse.ca/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-10-25T11:40:58-03:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-26T16:27:45-03:00"
-      }
-    ],
-    "http://schema.org/about": [
-      {
-        "@id": "https://chesterplayhouse.ca/#person"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://chesterplayhouse.ca/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://chesterplayhouse.ca/wp-content/uploads/2024/04/Get-Involved-Images.png"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
-      },
-      {
-        "@language": "en",
-        "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en-US"
-      },
-      {
-        "@language": "en",
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
     "@id": "https://chesterplayhouse.ca/#richSnippet",
     "@type": [
       "http://schema.org/Article"
@@ -5769,9 +5702,6 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://chesterplayhouse.ca/#content"
-      },
-      {
         "@id": "https://chesterplayhouse.ca"
       },
       {
@@ -5780,17 +5710,11 @@
     ],
     "http://schema.org/headline": [
       {
-        "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
-      },
-      {
         "@language": "en",
         "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
       }
     ],
     "http://schema.org/keywords": [
-      {
-        "@value": "Chester Playhouse"
-      },
       {
         "@language": "en",
         "@value": "Chester Playhouse"
@@ -5798,26 +5722,17 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Welcome to your Chester Playhouse! Located in Chester, Nova Scotia, join us for world-class performances including theatre, music, comedy, and more!"
-      },
-      {
         "@language": "en",
         "@value": "Welcome to your Chester Playhouse! Located in Chester, Nova Scotia, join us for world-class performances including theatre, music, comedy, and more!"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
-      },
-      {
         "@language": "en",
         "@value": "Chester Playhouse - Music, Theatre, Comedy, and More!"
       }
     ],
     "http://schema.org/inLanguage": [
-      {
-        "@value": "en-US"
-      },
       {
         "@language": "en",
         "@value": "en-US"
@@ -6279,9 +6194,6 @@
       {
         "@language": "en",
         "@value": "Get Involved"
-      },
-      {
-        "@value": "Get Involved"
       }
     ],
     "https://ogp.me/ns#locale": [
@@ -6394,26 +6306,17 @@
       {
         "@language": "en",
         "@value": "200"
-      },
-      {
-        "@value": "200"
       }
     ],
     "http://schema.org/height": [
       {
         "@language": "en",
         "@value": "200"
-      },
-      {
-        "@value": "200"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -6459,17 +6362,11 @@
       {
         "@language": "en",
         "@value": "Get Involved - Chester Playhouse"
-      },
-      {
-        "@value": "Get Involved - Chester Playhouse"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -6519,20 +6416,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://chesterplayhouse.ca/get-involved/"
-      },
-      {
-        "@id": "https://chesterplayhouse.ca/get-involved/#sponsors"
-      },
-      {
-        "@id": "https://chesterplayhouse.ca/get-involved/#supporters"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
-        "@value": "Get Involved - Chester Playhouse"
-      },
-      {
         "@value": "Get Involved - Chester Playhouse"
       }
     ],
@@ -6540,26 +6428,17 @@
       {
         "@language": "en",
         "@value": "For over 80 years, the Chester Playhouse has played a unique and important role within the Chester Community by bringing world-class theatre and entertainment"
-      },
-      {
-        "@value": "For over 80 years, the Chester Playhouse has played a unique and important role within the Chester Community by bringing world-class theatre and entertainment"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "Get Involved - Chester Playhouse"
-      },
-      {
-        "@value": "Get Involved - Chester Playhouse"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -8726,13 +8605,13 @@
     ]
   },
   {
-    "@id": "_:g1097280",
+    "@id": "_:g1070780",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097300"
+        "@id": "_:g1070800"
       }
     ],
     "http://schema.org/name": [
@@ -8743,7 +8622,7 @@
     ]
   },
   {
-    "@id": "_:g1097300",
+    "@id": "_:g1070800",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8755,13 +8634,13 @@
     ]
   },
   {
-    "@id": "_:g1097320",
+    "@id": "_:g1070820",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097340"
+        "@id": "_:g1070840"
       }
     ],
     "http://schema.org/name": [
@@ -8772,7 +8651,7 @@
     ]
   },
   {
-    "@id": "_:g1097340",
+    "@id": "_:g1070840",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8784,13 +8663,13 @@
     ]
   },
   {
-    "@id": "_:g1097360",
+    "@id": "_:g1070860",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097380"
+        "@id": "_:g1070880"
       }
     ],
     "http://schema.org/name": [
@@ -8801,7 +8680,7 @@
     ]
   },
   {
-    "@id": "_:g1097380",
+    "@id": "_:g1070880",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8813,13 +8692,13 @@
     ]
   },
   {
-    "@id": "_:g1097400",
+    "@id": "_:g1070900",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097420"
+        "@id": "_:g1070920"
       }
     ],
     "http://schema.org/name": [
@@ -8830,7 +8709,7 @@
     ]
   },
   {
-    "@id": "_:g1097420",
+    "@id": "_:g1070920",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8842,13 +8721,13 @@
     ]
   },
   {
-    "@id": "_:g1097440",
+    "@id": "_:g1070940",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097460"
+        "@id": "_:g1070960"
       }
     ],
     "http://schema.org/name": [
@@ -8859,7 +8738,7 @@
     ]
   },
   {
-    "@id": "_:g1097460",
+    "@id": "_:g1070960",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8871,13 +8750,13 @@
     ]
   },
   {
-    "@id": "_:g1097480",
+    "@id": "_:g1070980",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097500"
+        "@id": "_:g1071000"
       }
     ],
     "http://schema.org/name": [
@@ -8888,7 +8767,7 @@
     ]
   },
   {
-    "@id": "_:g1097500",
+    "@id": "_:g1071000",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8900,13 +8779,13 @@
     ]
   },
   {
-    "@id": "_:g1097520",
+    "@id": "_:g1071020",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097540"
+        "@id": "_:g1071040"
       }
     ],
     "http://schema.org/name": [
@@ -8917,7 +8796,7 @@
     ]
   },
   {
-    "@id": "_:g1097540",
+    "@id": "_:g1071040",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8929,13 +8808,13 @@
     ]
   },
   {
-    "@id": "_:g1097560",
+    "@id": "_:g1071060",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097580"
+        "@id": "_:g1071080"
       }
     ],
     "http://schema.org/name": [
@@ -8946,7 +8825,7 @@
     ]
   },
   {
-    "@id": "_:g1097580",
+    "@id": "_:g1071080",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8958,13 +8837,13 @@
     ]
   },
   {
-    "@id": "_:g1097600",
+    "@id": "_:g1071100",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097620"
+        "@id": "_:g1071120"
       }
     ],
     "http://schema.org/name": [
@@ -8975,7 +8854,7 @@
     ]
   },
   {
-    "@id": "_:g1097620",
+    "@id": "_:g1071120",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -8987,13 +8866,13 @@
     ]
   },
   {
-    "@id": "_:g1097640",
+    "@id": "_:g1071140",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097660"
+        "@id": "_:g1071160"
       }
     ],
     "http://schema.org/name": [
@@ -9004,7 +8883,7 @@
     ]
   },
   {
-    "@id": "_:g1097660",
+    "@id": "_:g1071160",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9016,13 +8895,13 @@
     ]
   },
   {
-    "@id": "_:g1097680",
+    "@id": "_:g1071180",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097700"
+        "@id": "_:g1071200"
       }
     ],
     "http://schema.org/name": [
@@ -9033,7 +8912,7 @@
     ]
   },
   {
-    "@id": "_:g1097700",
+    "@id": "_:g1071200",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9045,13 +8924,13 @@
     ]
   },
   {
-    "@id": "_:g1097720",
+    "@id": "_:g1071220",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097740"
+        "@id": "_:g1071240"
       }
     ],
     "http://schema.org/name": [
@@ -9062,7 +8941,7 @@
     ]
   },
   {
-    "@id": "_:g1097740",
+    "@id": "_:g1071240",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9074,13 +8953,13 @@
     ]
   },
   {
-    "@id": "_:g1097760",
+    "@id": "_:g1071260",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097780"
+        "@id": "_:g1071280"
       }
     ],
     "http://schema.org/name": [
@@ -9091,7 +8970,7 @@
     ]
   },
   {
-    "@id": "_:g1097780",
+    "@id": "_:g1071280",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9103,13 +8982,13 @@
     ]
   },
   {
-    "@id": "_:g1097800",
+    "@id": "_:g1071300",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097820"
+        "@id": "_:g1071320"
       }
     ],
     "http://schema.org/name": [
@@ -9120,7 +8999,7 @@
     ]
   },
   {
-    "@id": "_:g1097820",
+    "@id": "_:g1071320",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9132,13 +9011,13 @@
     ]
   },
   {
-    "@id": "_:g1097940",
+    "@id": "_:g1071440",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1097960"
+        "@id": "_:g1071460"
       }
     ],
     "http://schema.org/name": [
@@ -9149,7 +9028,7 @@
     ]
   },
   {
-    "@id": "_:g1097960",
+    "@id": "_:g1071460",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9161,13 +9040,13 @@
     ]
   },
   {
-    "@id": "_:g1097980",
+    "@id": "_:g1071480",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098000"
+        "@id": "_:g1071500"
       }
     ],
     "http://schema.org/name": [
@@ -9178,7 +9057,7 @@
     ]
   },
   {
-    "@id": "_:g1098000",
+    "@id": "_:g1071500",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9190,13 +9069,13 @@
     ]
   },
   {
-    "@id": "_:g1098280",
+    "@id": "_:g1071760",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098300"
+        "@id": "_:g1071780"
       }
     ],
     "http://schema.org/name": [
@@ -9207,7 +9086,7 @@
     ]
   },
   {
-    "@id": "_:g1098300",
+    "@id": "_:g1071780",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9219,13 +9098,13 @@
     ]
   },
   {
-    "@id": "_:g1098320",
+    "@id": "_:g1071800",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098340"
+        "@id": "_:g1071820"
       }
     ],
     "http://schema.org/name": [
@@ -9236,7 +9115,7 @@
     ]
   },
   {
-    "@id": "_:g1098340",
+    "@id": "_:g1071820",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9248,13 +9127,13 @@
     ]
   },
   {
-    "@id": "_:g1098360",
+    "@id": "_:g1071840",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098380"
+        "@id": "_:g1071860"
       }
     ],
     "http://schema.org/name": [
@@ -9265,7 +9144,7 @@
     ]
   },
   {
-    "@id": "_:g1098380",
+    "@id": "_:g1071860",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9277,13 +9156,13 @@
     ]
   },
   {
-    "@id": "_:g1098400",
+    "@id": "_:g1071880",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098420"
+        "@id": "_:g1071900"
       }
     ],
     "http://schema.org/name": [
@@ -9294,7 +9173,7 @@
     ]
   },
   {
-    "@id": "_:g1098420",
+    "@id": "_:g1071900",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9306,13 +9185,13 @@
     ]
   },
   {
-    "@id": "_:g1098600",
+    "@id": "_:g1072080",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098620"
+        "@id": "_:g1072100"
       }
     ],
     "http://schema.org/name": [
@@ -9323,7 +9202,7 @@
     ]
   },
   {
-    "@id": "_:g1098620",
+    "@id": "_:g1072100",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9335,13 +9214,13 @@
     ]
   },
   {
-    "@id": "_:g1098640",
+    "@id": "_:g1072120",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098660"
+        "@id": "_:g1072140"
       }
     ],
     "http://schema.org/name": [
@@ -9352,7 +9231,7 @@
     ]
   },
   {
-    "@id": "_:g1098660",
+    "@id": "_:g1072140",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9364,13 +9243,13 @@
     ]
   },
   {
-    "@id": "_:g1098800",
+    "@id": "_:g1072280",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g1098820"
+        "@id": "_:g1072300"
       }
     ],
     "http://schema.org/name": [
@@ -9381,7 +9260,7 @@
     ]
   },
   {
-    "@id": "_:g1098820",
+    "@id": "_:g1072300",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -9393,52 +9272,52 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/4e21bfa7-fc7d-4b45-9573-f1ecb6b59bec",
+    "@id": "https://chesterplayhouse.ca/temporary/465ab34c-402f-4ad8-aa5f-5a21644f63c2",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g1097280"
+        "@id": "_:g1070780"
       },
       {
-        "@id": "_:g1097320"
+        "@id": "_:g1070820"
       },
       {
-        "@id": "_:g1097360"
+        "@id": "_:g1070860"
       },
       {
-        "@id": "_:g1097400"
+        "@id": "_:g1070900"
       },
       {
-        "@id": "_:g1097440"
+        "@id": "_:g1070940"
       },
       {
-        "@id": "_:g1097480"
+        "@id": "_:g1070980"
       },
       {
-        "@id": "_:g1097520"
+        "@id": "_:g1071020"
       },
       {
-        "@id": "_:g1097560"
+        "@id": "_:g1071060"
       },
       {
-        "@id": "_:g1097600"
+        "@id": "_:g1071100"
       },
       {
-        "@id": "_:g1097640"
+        "@id": "_:g1071140"
       },
       {
-        "@id": "_:g1097680"
+        "@id": "_:g1071180"
       },
       {
-        "@id": "_:g1097720"
+        "@id": "_:g1071220"
       },
       {
-        "@id": "_:g1097760"
+        "@id": "_:g1071260"
       },
       {
-        "@id": "_:g1097800"
+        "@id": "_:g1071300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9448,16 +9327,16 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/e980de76-91d9-4be8-b537-616aade310d0",
+    "@id": "https://chesterplayhouse.ca/temporary/a018c70c-4786-453d-abeb-93b11f6458c7",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g1097940"
+        "@id": "_:g1071440"
       },
       {
-        "@id": "_:g1097980"
+        "@id": "_:g1071480"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9467,22 +9346,22 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/514a684c-7366-44f0-bc10-6be69cafd216",
+    "@id": "https://chesterplayhouse.ca/temporary/041fc587-8c3a-4111-b69a-33038ad523da",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g1098280"
+        "@id": "_:g1071760"
       },
       {
-        "@id": "_:g1098320"
+        "@id": "_:g1071800"
       },
       {
-        "@id": "_:g1098360"
+        "@id": "_:g1071840"
       },
       {
-        "@id": "_:g1098400"
+        "@id": "_:g1071880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9492,16 +9371,16 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/0d8ad3c7-dd84-4609-9c58-d9c4608bb5b7",
+    "@id": "https://chesterplayhouse.ca/temporary/c2117a80-c8f8-4d05-9797-d45fc6193311",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g1098600"
+        "@id": "_:g1072080"
       },
       {
-        "@id": "_:g1098640"
+        "@id": "_:g1072120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9511,13 +9390,13 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/5ddefd2d-9d70-4ac9-9cb0-4f6920b0ccd4",
+    "@id": "https://chesterplayhouse.ca/temporary/1c6a235b-a7e0-4b7b-9249-dd00a8ed780c",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g1098800"
+        "@id": "_:g1072280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -25326,13 +25205,13 @@
     ]
   },
   {
-    "@id": "_:g2068300",
+    "@id": "_:g2022380",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068320"
+        "@id": "_:g2022400"
       }
     ],
     "http://schema.org/name": [
@@ -25343,7 +25222,7 @@
     ]
   },
   {
-    "@id": "_:g2068320",
+    "@id": "_:g2022400",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25355,13 +25234,13 @@
     ]
   },
   {
-    "@id": "_:g2068340",
+    "@id": "_:g2022420",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068360"
+        "@id": "_:g2022440"
       }
     ],
     "http://schema.org/name": [
@@ -25372,7 +25251,7 @@
     ]
   },
   {
-    "@id": "_:g2068360",
+    "@id": "_:g2022440",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25384,13 +25263,13 @@
     ]
   },
   {
-    "@id": "_:g2068380",
+    "@id": "_:g2022460",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068400"
+        "@id": "_:g2022480"
       }
     ],
     "http://schema.org/name": [
@@ -25401,7 +25280,7 @@
     ]
   },
   {
-    "@id": "_:g2068400",
+    "@id": "_:g2022480",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25413,13 +25292,13 @@
     ]
   },
   {
-    "@id": "_:g2068420",
+    "@id": "_:g2022500",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068440"
+        "@id": "_:g2022520"
       }
     ],
     "http://schema.org/name": [
@@ -25430,7 +25309,7 @@
     ]
   },
   {
-    "@id": "_:g2068440",
+    "@id": "_:g2022520",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25442,13 +25321,13 @@
     ]
   },
   {
-    "@id": "_:g2068460",
+    "@id": "_:g2022540",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068480"
+        "@id": "_:g2022560"
       }
     ],
     "http://schema.org/name": [
@@ -25459,7 +25338,7 @@
     ]
   },
   {
-    "@id": "_:g2068480",
+    "@id": "_:g2022560",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25471,13 +25350,13 @@
     ]
   },
   {
-    "@id": "_:g2068500",
+    "@id": "_:g2022580",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068520"
+        "@id": "_:g2022600"
       }
     ],
     "http://schema.org/name": [
@@ -25488,7 +25367,7 @@
     ]
   },
   {
-    "@id": "_:g2068520",
+    "@id": "_:g2022600",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25500,13 +25379,13 @@
     ]
   },
   {
-    "@id": "_:g2068540",
+    "@id": "_:g2022620",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068560"
+        "@id": "_:g2022640"
       }
     ],
     "http://schema.org/name": [
@@ -25517,7 +25396,7 @@
     ]
   },
   {
-    "@id": "_:g2068560",
+    "@id": "_:g2022640",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25529,13 +25408,13 @@
     ]
   },
   {
-    "@id": "_:g2068580",
+    "@id": "_:g2022660",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068600"
+        "@id": "_:g2022680"
       }
     ],
     "http://schema.org/name": [
@@ -25546,7 +25425,7 @@
     ]
   },
   {
-    "@id": "_:g2068600",
+    "@id": "_:g2022680",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25558,13 +25437,13 @@
     ]
   },
   {
-    "@id": "_:g2068620",
+    "@id": "_:g2022700",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068640"
+        "@id": "_:g2022720"
       }
     ],
     "http://schema.org/name": [
@@ -25575,7 +25454,7 @@
     ]
   },
   {
-    "@id": "_:g2068640",
+    "@id": "_:g2022720",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25587,13 +25466,13 @@
     ]
   },
   {
-    "@id": "_:g2068660",
+    "@id": "_:g2022740",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068680"
+        "@id": "_:g2022760"
       }
     ],
     "http://schema.org/name": [
@@ -25604,7 +25483,7 @@
     ]
   },
   {
-    "@id": "_:g2068680",
+    "@id": "_:g2022760",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25616,13 +25495,13 @@
     ]
   },
   {
-    "@id": "_:g2068700",
+    "@id": "_:g2022780",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068720"
+        "@id": "_:g2022800"
       }
     ],
     "http://schema.org/name": [
@@ -25633,7 +25512,7 @@
     ]
   },
   {
-    "@id": "_:g2068720",
+    "@id": "_:g2022800",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25645,13 +25524,13 @@
     ]
   },
   {
-    "@id": "_:g2068740",
+    "@id": "_:g2022820",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068760"
+        "@id": "_:g2022840"
       }
     ],
     "http://schema.org/name": [
@@ -25662,7 +25541,7 @@
     ]
   },
   {
-    "@id": "_:g2068760",
+    "@id": "_:g2022840",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25674,13 +25553,13 @@
     ]
   },
   {
-    "@id": "_:g2068780",
+    "@id": "_:g2022860",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068800"
+        "@id": "_:g2022880"
       }
     ],
     "http://schema.org/name": [
@@ -25691,7 +25570,7 @@
     ]
   },
   {
-    "@id": "_:g2068800",
+    "@id": "_:g2022880",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25703,13 +25582,13 @@
     ]
   },
   {
-    "@id": "_:g2068820",
+    "@id": "_:g2022900",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068840"
+        "@id": "_:g2022920"
       }
     ],
     "http://schema.org/name": [
@@ -25720,7 +25599,7 @@
     ]
   },
   {
-    "@id": "_:g2068840",
+    "@id": "_:g2022920",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25732,13 +25611,13 @@
     ]
   },
   {
-    "@id": "_:g2068960",
+    "@id": "_:g2023060",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2068980"
+        "@id": "_:g2023080"
       }
     ],
     "http://schema.org/name": [
@@ -25749,7 +25628,7 @@
     ]
   },
   {
-    "@id": "_:g2068980",
+    "@id": "_:g2023080",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25761,13 +25640,13 @@
     ]
   },
   {
-    "@id": "_:g2069000",
+    "@id": "_:g2023100",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069020"
+        "@id": "_:g2023120"
       }
     ],
     "http://schema.org/name": [
@@ -25778,7 +25657,7 @@
     ]
   },
   {
-    "@id": "_:g2069020",
+    "@id": "_:g2023120",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25790,13 +25669,13 @@
     ]
   },
   {
-    "@id": "_:g2069280",
+    "@id": "_:g2023380",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069300"
+        "@id": "_:g2023400"
       }
     ],
     "http://schema.org/name": [
@@ -25807,7 +25686,7 @@
     ]
   },
   {
-    "@id": "_:g2069300",
+    "@id": "_:g2023400",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25819,13 +25698,13 @@
     ]
   },
   {
-    "@id": "_:g2069320",
+    "@id": "_:g2023420",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069340"
+        "@id": "_:g2023440"
       }
     ],
     "http://schema.org/name": [
@@ -25836,7 +25715,7 @@
     ]
   },
   {
-    "@id": "_:g2069340",
+    "@id": "_:g2023440",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25848,13 +25727,13 @@
     ]
   },
   {
-    "@id": "_:g2069360",
+    "@id": "_:g2023460",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069380"
+        "@id": "_:g2023480"
       }
     ],
     "http://schema.org/name": [
@@ -25865,7 +25744,7 @@
     ]
   },
   {
-    "@id": "_:g2069380",
+    "@id": "_:g2023480",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25877,13 +25756,13 @@
     ]
   },
   {
-    "@id": "_:g2069400",
+    "@id": "_:g2023500",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069420"
+        "@id": "_:g2023520"
       }
     ],
     "http://schema.org/name": [
@@ -25894,7 +25773,7 @@
     ]
   },
   {
-    "@id": "_:g2069420",
+    "@id": "_:g2023520",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25906,13 +25785,13 @@
     ]
   },
   {
-    "@id": "_:g2069600",
+    "@id": "_:g2023700",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069620"
+        "@id": "_:g2023720"
       }
     ],
     "http://schema.org/name": [
@@ -25923,7 +25802,7 @@
     ]
   },
   {
-    "@id": "_:g2069620",
+    "@id": "_:g2023720",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25935,13 +25814,13 @@
     ]
   },
   {
-    "@id": "_:g2069640",
+    "@id": "_:g2023740",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069660"
+        "@id": "_:g2023760"
       }
     ],
     "http://schema.org/name": [
@@ -25952,7 +25831,7 @@
     ]
   },
   {
-    "@id": "_:g2069660",
+    "@id": "_:g2023760",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25964,13 +25843,13 @@
     ]
   },
   {
-    "@id": "_:g2069800",
+    "@id": "_:g2023900",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g2069820"
+        "@id": "_:g2023920"
       }
     ],
     "http://schema.org/name": [
@@ -25981,7 +25860,7 @@
     ]
   },
   {
-    "@id": "_:g2069820",
+    "@id": "_:g2023920",
     "@type": [
       "http://schema.org/Answer"
     ],
@@ -25993,52 +25872,52 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/ec2fd2bf-324d-4a76-b55a-09a9926fea01",
+    "@id": "https://chesterplayhouse.ca/temporary/5e36d953-73d3-4310-a645-7f06d892f9a5",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g2068300"
+        "@id": "_:g2022380"
       },
       {
-        "@id": "_:g2068340"
+        "@id": "_:g2022420"
       },
       {
-        "@id": "_:g2068380"
+        "@id": "_:g2022460"
       },
       {
-        "@id": "_:g2068420"
+        "@id": "_:g2022500"
       },
       {
-        "@id": "_:g2068460"
+        "@id": "_:g2022540"
       },
       {
-        "@id": "_:g2068500"
+        "@id": "_:g2022580"
       },
       {
-        "@id": "_:g2068540"
+        "@id": "_:g2022620"
       },
       {
-        "@id": "_:g2068580"
+        "@id": "_:g2022660"
       },
       {
-        "@id": "_:g2068620"
+        "@id": "_:g2022700"
       },
       {
-        "@id": "_:g2068660"
+        "@id": "_:g2022740"
       },
       {
-        "@id": "_:g2068700"
+        "@id": "_:g2022780"
       },
       {
-        "@id": "_:g2068740"
+        "@id": "_:g2022820"
       },
       {
-        "@id": "_:g2068780"
+        "@id": "_:g2022860"
       },
       {
-        "@id": "_:g2068820"
+        "@id": "_:g2022900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26048,16 +25927,16 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/bc7c9362-a256-4a3f-97bd-8c44c9f008d4",
+    "@id": "https://chesterplayhouse.ca/temporary/f8ffebf8-37f0-4249-a4d0-02a05158b542",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g2068960"
+        "@id": "_:g2023060"
       },
       {
-        "@id": "_:g2069000"
+        "@id": "_:g2023100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26067,22 +25946,22 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/2672b00a-c084-42ac-aa5d-a4adfa27af89",
+    "@id": "https://chesterplayhouse.ca/temporary/f9dbc4e0-7bde-46e9-8a86-9314f198da54",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g2069280"
+        "@id": "_:g2023380"
       },
       {
-        "@id": "_:g2069320"
+        "@id": "_:g2023420"
       },
       {
-        "@id": "_:g2069360"
+        "@id": "_:g2023460"
       },
       {
-        "@id": "_:g2069400"
+        "@id": "_:g2023500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26092,16 +25971,16 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/d253b85a-376b-48e2-8710-69ec49ca25e0",
+    "@id": "https://chesterplayhouse.ca/temporary/62e6515c-adef-4659-8152-a2105de60fc4",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g2069600"
+        "@id": "_:g2023700"
       },
       {
-        "@id": "_:g2069640"
+        "@id": "_:g2023740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -26111,13 +25990,13 @@
     ]
   },
   {
-    "@id": "https://chesterplayhouse.ca/temporary/fadc8138-5e7d-4b80-84c7-589768350a26",
+    "@id": "https://chesterplayhouse.ca/temporary/94b8c476-030f-40e5-81fc-de4478a6e53c",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g2069800"
+        "@id": "_:g2023900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
