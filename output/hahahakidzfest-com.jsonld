@@ -30,7 +30,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g489440"
+        "@id": "_:g488460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -50,13 +50,13 @@
     ]
   },
   {
-    "@id": "_:g489440",
+    "@id": "_:g488460",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/priceSpecification": [
       {
-        "@id": "_:g489460"
+        "@id": "_:g488480"
       }
     ],
     "http://schema.org/priceValidUntil": [
@@ -72,7 +72,7 @@
     ],
     "http://schema.org/seller": [
       {
-        "@id": "_:g489480"
+        "@id": "_:g488500"
       }
     ],
     "http://schema.org/availability": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "@id": "_:g489460",
+    "@id": "_:g488480",
     "@type": [
       "http://schema.org/UnitPriceSpecification"
     ],
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "@id": "_:g489480",
+    "@id": "_:g488500",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -156,7 +156,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g505640"
+        "@id": "_:g498680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -176,13 +176,13 @@
     ]
   },
   {
-    "@id": "_:g505640",
+    "@id": "_:g498680",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/priceSpecification": [
       {
-        "@id": "_:g505660"
+        "@id": "_:g498700"
       }
     ],
     "http://schema.org/priceValidUntil": [
@@ -198,7 +198,7 @@
     ],
     "http://schema.org/seller": [
       {
-        "@id": "_:g505680"
+        "@id": "_:g498720"
       }
     ],
     "http://schema.org/availability": [
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "@id": "_:g505660",
+    "@id": "_:g498700",
     "@type": [
       "http://schema.org/UnitPriceSpecification"
     ],
@@ -236,7 +236,7 @@
     ]
   },
   {
-    "@id": "_:g505680",
+    "@id": "_:g498720",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -261,20 +261,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/"
-      },
-      {
-        "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/#respond"
       }
     ]
   },
   {
-    "@id": "_:g732440",
+    "@id": "_:g704100",
     "@type": [
       "http://schema.org/Question"
     ],
     "http://schema.org/acceptedAnswer": [
       {
-        "@id": "_:g732460"
+        "@id": "_:g704120"
       }
     ],
     "http://schema.org/name": [
@@ -284,13 +281,13 @@
     ]
   },
   {
-    "@id": "_:g732460",
+    "@id": "_:g704120",
     "@type": [
       "http://schema.org/Answer"
     ],
     "http://schema.org/author": [
       {
-        "@id": "_:g732480"
+        "@id": "_:g704140"
       }
     ],
     "http://schema.org/text": [
@@ -300,7 +297,7 @@
     ]
   },
   {
-    "@id": "_:g732480",
+    "@id": "_:g704140",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -311,77 +308,18 @@
     ]
   },
   {
-    "@id": "https://www.hahahakidzfest.com/temporary/072312d4-c5e7-45c0-a90c-bf1a29550bf6",
+    "@id": "https://www.hahahakidzfest.com/temporary/340cf01f-8f91-486b-a53f-95fbe1aa952a",
     "@type": [
       "http://schema.org/FAQPage"
     ],
     "http://schema.org/mainEntity": [
       {
-        "@id": "_:g732440"
+        "@id": "_:g704100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g745220",
-    "@type": [
-      "http://schema.org/Question"
-    ],
-    "http://schema.org/acceptedAnswer": [
-      {
-        "@id": "_:g745240"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Can I bring my pet to Kidzfest?"
-      }
-    ]
-  },
-  {
-    "@id": "_:g745240",
-    "@type": [
-      "http://schema.org/Answer"
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "_:g745260"
-      }
-    ],
-    "http://schema.org/text": [
-      {
-        "@value": "Only certified service animals are allowed on the Kidzfest site. Please leave other pets at home."
-      }
-    ]
-  },
-  {
-    "@id": "_:g745260",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "kidzfestadmin"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.hahahakidzfest.com/temporary/0d41e431-85f8-46f9-8669-9983ce2470d5",
-    "@type": [
-      "http://schema.org/FAQPage"
-    ],
-    "http://schema.org/mainEntity": [
-      {
-        "@id": "_:g745220"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/#respond"
       }
     ]
   }
