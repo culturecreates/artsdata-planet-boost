@@ -115,17 +115,11 @@
       {
         "@language": "fr",
         "@value": "FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-CA"
-      },
-      {
         "@value": "fr-CA"
       }
     ]
@@ -207,17 +201,11 @@
       {
         "@language": "fr",
         "@value": "https://www.fmeat.org/?s={search_term_string}"
-      },
-      {
-        "@value": "https://www.fmeat.org/?s={search_term_string}"
       }
     ],
     "http://schema.org/query-input": [
       {
         "@language": "fr",
-        "@value": "required name=search_term_string"
-      },
-      {
         "@value": "required name=search_term_string"
       }
     ]
@@ -235,9 +223,6 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "FME en Abitibi-Témiscamingue"
-      },
-      {
         "@value": "FME en Abitibi-Témiscamingue"
       }
     ]
@@ -470,35 +455,17 @@
       },
       {
         "@id": "https://www.fmeat.org/nouvelle/tukan-lance-le-single-noranda/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/le-fme-devoile-la-programmation-de-sa-22e-edition/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/la-programmation-officielle-du-fme-2023/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/tukan-lance-le-single-noranda/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/emploi-dete-adjoint-e-a-la-communication/#respond"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Audrey-Anne"
-      },
-      {
-        "@value": "Audrey-Anne"
       }
     ],
     "http://schema.org/familyName": [
       {
         "@language": "fr",
-        "@value": "Audrey-Anne"
-      },
-      {
         "@value": "Audrey-Anne"
       }
     ]
@@ -2246,26 +2213,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "« Événement de l&rsquo;année » à l&rsquo;ADISQ 2022 &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "« Événement de l&rsquo;année » à l&rsquo;ADISQ 2022 &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le FME remporte le Félix dans la catégorie « Événement de l'année » au gala de l'ADISQ 2022. Il s'agit de sa 5e victoire pour ce prix en comptant les trophées o"
-      },
-      {
         "@value": "Le FME remporte le Félix dans la catégorie « Événement de l'année » au gala de l'ADISQ 2022. Il s'agit de sa 5e victoire pour ce prix en comptant les trophées o"
       }
     ]
@@ -2278,9 +2236,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/evenement-de-lannee-a-ladisq-2022/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/evenement-de-lannee-a-ladisq-2022/"
       }
     ]
@@ -2315,9 +2270,6 @@
     "http://schema.org/caption": [
       {
         "@language": "fr",
-        "@value": "Le FME est nommé ''événement de l'année'' au gala de l'ADISQ 2022."
-      },
-      {
         "@value": "Le FME est nommé ''événement de l'année'' au gala de l'ADISQ 2022."
       }
     ]
@@ -2362,17 +2314,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/evenement-de-lannee-a-ladisq-2022/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/evenement-de-lannee-a-ladisq-2022/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "« Événement de l'année » à l'ADISQ 2022"
-      },
-      {
         "@value": "« Événement de l'année » à l'ADISQ 2022"
       }
     ],
@@ -2380,17 +2326,11 @@
       {
         "@language": "fr",
         "@value": "47"
-      },
-      {
-        "@value": "47"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -2398,26 +2338,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le FME remporte le Félix dans la catégorie « Événement de l'année » au gala de l'ADISQ 2022. Il s'agit de sa 5e victoire pour ce prix en comptant les trophées obtenus en 2009, 2010, 2015 et 2016. Pour consulter la liste complète des gagnants: Dévoilement ADISQ"
-      },
-      {
         "@value": "Le FME remporte le Félix dans la catégorie « Événement de l'année » au gala de l'ADISQ 2022. Il s'agit de sa 5e victoire pour ce prix en comptant les trophées obtenus en 2009, 2010, 2015 et 2016. Pour consulter la liste complète des gagnants: Dévoilement ADISQ"
       }
     ]
@@ -2437,21 +2368,6 @@
         "@id": "https://www.fmeat.org/nouvelle/evenement-de-lannee-a-ladisq-2022/"
       },
       {
-        "@id": "https://www.fmeat.org/nouvelle/evenement-de-lannee-a-ladisq-2022/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans%ef%bf%bc/"
-      },
-      {
         "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
       },
       {
@@ -2465,160 +2381,6 @@
       {
         "@language": "fr",
         "@value": "Camille FME"
-      },
-      {
-        "@value": "Camille FME"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans%ef%bf%bc/",
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS – FME en Abitibi-Témiscamingue"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "2048"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "1365"
-      }
-    ],
-    "http://ogp.me/ns#image:alt": [
-      {
-        "@language": "fr-ca",
-        "@value": "Licorne-Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une prog"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
-      }
-    ],
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "FME en Abitibi-Témiscamingue"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2022-12-08T15:46:54-05:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2023-05-22T20:50:35-04:00"
-      }
-    ],
-    "http://ogp.me/ns#updated_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2023-05-22T20:50:35-04:00"
-      }
-    ],
-    "article:section": [
-      {
-        "@language": "fr-ca",
-        "@value": "Nouvelle"
-      }
-    ],
-    "article:tag": [
-      {
-        "@language": "fr-ca",
-        "@value": "culture"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "événement"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Rouyn-Noranda"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Région"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Festival de musique"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Art"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Scène"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Été"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "FME22"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Abitibi-Témiscamingue"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Festival"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Musique"
-      },
-      {
-        "@language": "fr-ca",
-        "@value": "Bilan"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.fmeat.org/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans%ef%bf%bc/"
       }
     ]
   },
@@ -3003,26 +2765,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Dévoilement de la programmation FME 2023 &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "Dévoilement de la programmation FME 2023 &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le FME te propose FouKi, Les Louanges, Thierry Larose, Milk & Bone,Philippe Brach, Québec Redneck Bluegrass Project ET BIEN D’AUTRES!"
-      },
-      {
         "@value": "Le FME te propose FouKi, Les Louanges, Thierry Larose, Milk & Bone,Philippe Brach, Québec Redneck Bluegrass Project ET BIEN D’AUTRES!"
       }
     ]
@@ -3035,9 +2788,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/la-programmation-officielle-du-fme-2023/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/la-programmation-officielle-du-fme-2023/"
       }
     ]
@@ -3110,17 +2860,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/la-programmation-officielle-du-fme-2023/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/la-programmation-officielle-du-fme-2023/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "Dévoilement de la programmation FME 2023"
-      },
-      {
         "@value": "Dévoilement de la programmation FME 2023"
       }
     ],
@@ -3128,17 +2872,11 @@
       {
         "@language": "fr",
         "@value": "210"
-      },
-      {
-        "@value": "210"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -3146,26 +2884,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Regardais-tu frénétiquement tes réseaux sociaux dans les dernières semaines en espoir de divertissement? C’EST AUJOURD’HUI QUE TU ES SERVI.E! Rien n’est trop beau pour nos festivalier.ère.s cette année, on te propose&nbsp; FouKi ,&nbsp; Les Louanges ,&nbsp; Thierry Larose, Milk &amp; Bone,Philippe Brach ,&nbsp; Québec Redneck Bluegrass Project &nbsp;ET BIEN D’AUTRES! LES PASSEPORTS DISPONIBLES CETTE ANNÉE Le Passeport à la carte &nbsp;: Pour ceux et celles qui SAVENT ce qu’iels aiment, on vous propose de faire une sélection de concerts en salle en sus des spectacles extérieurs. Attention : Vous avez jusqu’à vendredi minuit pour sélectionner vos shows, mais ne tardez pas trop pour avoir vos premiers choix! Le Passeport site extérieur (7e Rue) &nbsp;: Pour ceux et celles qui aiment écouter des spectacles en voyant le soleil se coucher ou en regardant les étoiles, on vous propose un accès ILLIMITÉ à la scène principale sur la 7e Rue. Manque pas ta chance de fêter en grand avec nous du&nbsp; 31 août au 3 septembre&nbsp; prochain! PS : Au FME, on aime gâter nos festivalier.ère.s! Reste à l'affût pour plus de nouvelles dans les prochaines semaines!"
-      },
-      {
         "@value": "Regardais-tu frénétiquement tes réseaux sociaux dans les dernières semaines en espoir de divertissement? C’EST AUJOURD’HUI QUE TU ES SERVI.E! Rien n’est trop beau pour nos festivalier.ère.s cette année, on te propose&nbsp; FouKi ,&nbsp; Les Louanges ,&nbsp; Thierry Larose, Milk &amp; Bone,Philippe Brach ,&nbsp; Québec Redneck Bluegrass Project &nbsp;ET BIEN D’AUTRES! LES PASSEPORTS DISPONIBLES CETTE ANNÉE Le Passeport à la carte &nbsp;: Pour ceux et celles qui SAVENT ce qu’iels aiment, on vous propose de faire une sélection de concerts en salle en sus des spectacles extérieurs. Attention : Vous avez jusqu’à vendredi minuit pour sélectionner vos shows, mais ne tardez pas trop pour avoir vos premiers choix! Le Passeport site extérieur (7e Rue) &nbsp;: Pour ceux et celles qui aiment écouter des spectacles en voyant le soleil se coucher ou en regardant les étoiles, on vous propose un accès ILLIMITÉ à la scène principale sur la 7e Rue. Manque pas ta chance de fêter en grand avec nous du&nbsp; 31 août au 3 septembre&nbsp; prochain! PS : Au FME, on aime gâter nos festivalier.ère.s! Reste à l'affût pour plus de nouvelles dans les prochaines semaines!"
       }
     ]
@@ -3286,17 +3015,11 @@
       {
         "@language": "en",
         "@value": "FME in Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "FME in Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -3348,17 +3071,11 @@
       {
         "@language": "en",
         "@value": "https://www.fmeat.org/en/?s={search_term_string}"
-      },
-      {
-        "@value": "https://www.fmeat.org/en/?s={search_term_string}"
       }
     ],
     "http://schema.org/query-input": [
       {
         "@language": "en",
-        "@value": "required name=search_term_string"
-      },
-      {
         "@value": "required name=search_term_string"
       }
     ]
@@ -3376,9 +3093,6 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "FME in Abitibi-Témiscamingue"
-      },
-      {
         "@value": "FME in Abitibi-Témiscamingue"
       }
     ]
@@ -3434,26 +3148,17 @@
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "FME 2023 programming unveiled &#8211; FME in Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "FME 2023 programming unveiled &#8211; FME in Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Nothing is too good for our festival-goers this year, with FouKi, Les Louanges, Thierry Larose, Milk & Bone, Philippe Brach, Québec Redneck Bluegrass Project AND MANY MORE!"
-      },
-      {
         "@value": "Nothing is too good for our festival-goers this year, with FouKi, Les Louanges, Thierry Larose, Milk & Bone, Philippe Brach, Québec Redneck Bluegrass Project AND MANY MORE!"
       }
     ]
@@ -3466,9 +3171,6 @@
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://www.fmeat.org/en/news/la-programmation-officielle-du-fme-2023/"
-      },
-      {
         "@value": "https://www.fmeat.org/en/news/la-programmation-officielle-du-fme-2023/"
       }
     ]
@@ -3557,26 +3259,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/en/news/la-programmation-officielle-du-fme-2023/"
-      },
-      {
-        "@id": "https://www.fmeat.org/en/news/la-programmation-officielle-du-fme-2023/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
         "@value": "FME 2023 programming unveiled"
-      },
-      {
-        "@value": "FME 2023 programming unveiled"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "en",
-        "@value": "News"
-      },
-      {
         "@value": "News"
       }
     ]
@@ -3595,17 +3288,11 @@
       {
         "@language": "en",
         "@value": "Audrey-Anne"
-      },
-      {
-        "@value": "Audrey-Anne"
       }
     ],
     "http://schema.org/familyName": [
       {
         "@language": "en",
-        "@value": "Audrey-Anne"
-      },
-      {
         "@value": "Audrey-Anne"
       }
     ]
@@ -3661,26 +3348,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": " Le FME dévoile la programmation de sa 22e édition! &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": " Le FME dévoile la programmation de sa 22e édition! &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le FME 2024, ça commence maintenant! Du 29 août au 1er septembre, la 22e édition du FME est un incontournable!"
-      },
-      {
         "@value": "Le FME 2024, ça commence maintenant! Du 29 août au 1er septembre, la 22e édition du FME est un incontournable!"
       }
     ]
@@ -3693,9 +3371,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/le-fme-devoile-la-programmation-de-sa-22e-edition/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/le-fme-devoile-la-programmation-de-sa-22e-edition/"
       }
     ]
@@ -3768,17 +3443,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/le-fme-devoile-la-programmation-de-sa-22e-edition/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/le-fme-devoile-la-programmation-de-sa-22e-edition/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": " Le FME dévoile la programmation de sa 22e édition!"
-      },
-      {
         "@value": " Le FME dévoile la programmation de sa 22e édition!"
       }
     ],
@@ -3786,17 +3455,11 @@
       {
         "@language": "fr",
         "@value": "258"
-      },
-      {
-        "@value": "258"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -3804,26 +3467,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le FME 2024, ça commence maintenant! Plus besoin de réfléchir à tes plans du 29 août au 1er septembre prochain, parce que la 22e édition du FME est un incontournable ! Découvre la programmation Passeports en vente dès 16h! Plus besoin d’attendre, les  passeports du FME seront en vente dès 16h le 9 juillet!  On te propose deux options de passeport. Pour toi, festival rime avec nature, chaleur et foule à perte de vue ? Choisis  le Passeport extérieur - 7e Rue , qui donne accès à tous les Événements SiriusXM! Tu es grand fan de musique, et souhaite choisir minutieusement tes spectacles en salle en plus des shows extérieurs? Opte pour le  Passeport à la carte  ! Tu auras jusqu'au  mardi 16 juillet à 23h59  pour choisir tes shows, mais fais vite pour avoir tous tes premiers choix!  Achète ton passeport! Cette année encore, on vous reçoit sur notre scène extérieure sur la&nbsp; 7e Rue &nbsp;pour les&nbsp; Événements SiriusXM , et chaque soirée se poursuivra avec une prestation gratuite sur la&nbsp; Scène Fizz ! Les cafés et bars du centre ville de Rouyn-Noranda accueilleront à nouveau des  5 à 7 gratuits  ouverts à tous, et la fête se terminera aux petites heures du matin avec nos  shows de fin de soirée et de nuit  pour les plus festifs d'entre vous. Découvre tous les artistes de la programmation! On a hâte de te retrouver au FME! Plusieurs annonces s'en viennent, suis-nous sur  Facebook ,  Instagram  et  Tiktok  pour ne rien manquer!"
-      },
-      {
         "@value": "Le FME 2024, ça commence maintenant! Plus besoin de réfléchir à tes plans du 29 août au 1er septembre prochain, parce que la 22e édition du FME est un incontournable ! Découvre la programmation Passeports en vente dès 16h! Plus besoin d’attendre, les  passeports du FME seront en vente dès 16h le 9 juillet!  On te propose deux options de passeport. Pour toi, festival rime avec nature, chaleur et foule à perte de vue ? Choisis  le Passeport extérieur - 7e Rue , qui donne accès à tous les Événements SiriusXM! Tu es grand fan de musique, et souhaite choisir minutieusement tes spectacles en salle en plus des shows extérieurs? Opte pour le  Passeport à la carte  ! Tu auras jusqu'au  mardi 16 juillet à 23h59  pour choisir tes shows, mais fais vite pour avoir tous tes premiers choix!  Achète ton passeport! Cette année encore, on vous reçoit sur notre scène extérieure sur la&nbsp; 7e Rue &nbsp;pour les&nbsp; Événements SiriusXM , et chaque soirée se poursuivra avec une prestation gratuite sur la&nbsp; Scène Fizz ! Les cafés et bars du centre ville de Rouyn-Noranda accueilleront à nouveau des  5 à 7 gratuits  ouverts à tous, et la fête se terminera aux petites heures du matin avec nos  shows de fin de soirée et de nuit  pour les plus festifs d'entre vous. Découvre tous les artistes de la programmation! On a hâte de te retrouver au FME! Plusieurs annonces s'en viennent, suis-nous sur  Facebook ,  Instagram  et  Tiktok  pour ne rien manquer!"
       }
     ]
@@ -3971,26 +3625,17 @@
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "FME unveils the program for its 22nd edition! &#8211; FME in Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "FME unveils the program for its 22nd edition! &#8211; FME in Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "FME 2024 starts now! From August 29 to September 1, the 22nd edition of the FME is a must!"
-      },
-      {
         "@value": "FME 2024 starts now! From August 29 to September 1, the 22nd edition of the FME is a must!"
       }
     ]
@@ -4003,9 +3648,6 @@
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://www.fmeat.org/en/news/le-fme-devoile-la-programmation-de-sa-22e-edition/"
-      },
-      {
         "@value": "https://www.fmeat.org/en/news/le-fme-devoile-la-programmation-de-sa-22e-edition/"
       }
     ]
@@ -4094,26 +3736,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/en/news/le-fme-devoile-la-programmation-de-sa-22e-edition/"
-      },
-      {
-        "@id": "https://www.fmeat.org/en/news/le-fme-devoile-la-programmation-de-sa-22e-edition/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
         "@value": "FME unveils the program for its 22nd edition!"
-      },
-      {
-        "@value": "FME unveils the program for its 22nd edition!"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "en",
-        "@value": "News"
-      },
-      {
         "@value": "News"
       }
     ]
@@ -4396,26 +4029,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Spectacle bénéfice du FME &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "Spectacle bénéfice du FME &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de son spectacle bénéfice, le FME présentera le nouveau spectacle solo de Louis-Jean Cormier, Les entretroits. Une occasion de vivre une belle soi"
-      },
-      {
         "@value": "Dans le cadre de son spectacle bénéfice, le FME présentera le nouveau spectacle solo de Louis-Jean Cormier, Les entretroits. Une occasion de vivre une belle soi"
       }
     ]
@@ -4428,9 +4052,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/spectacle-benefice-2025/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/spectacle-benefice-2025/"
       }
     ]
@@ -4503,17 +4124,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/spectacle-benefice-2025/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/spectacle-benefice-2025/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "Spectacle bénéfice du FME"
-      },
-      {
         "@value": "Spectacle bénéfice du FME"
       }
     ],
@@ -4521,17 +4136,11 @@
       {
         "@language": "fr",
         "@value": "58"
-      },
-      {
-        "@value": "58"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -4539,26 +4148,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de son spectacle bénéfice, le FME présentera le nouveau spectacle solo de Louis-Jean Cormier, Les entretroits. Une occasion de vivre une belle soirée musicale tout en soutenant une cause qui nous tient à cœur. Le spectacle se tiendra le 23 avril au Paramount à compter de 20 h.&nbsp;&nbsp; Réserve tes billets"
-      },
-      {
         "@value": "Dans le cadre de son spectacle bénéfice, le FME présentera le nouveau spectacle solo de Louis-Jean Cormier, Les entretroits. Une occasion de vivre une belle soirée musicale tout en soutenant une cause qui nous tient à cœur. Le spectacle se tiendra le 23 avril au Paramount à compter de 20 h.&nbsp;&nbsp; Réserve tes billets"
       }
     ]
@@ -4590,20 +4190,11 @@
       },
       {
         "@id": "https://www.fmeat.org/nouvelle/saison-estivale-2025-la-guinguette-chez-edmund-prend-une-pause/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/spectacle-benefice-2025/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/nouvelle-directrice-generale-au-fme/#respond"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "francis"
-      },
-      {
         "@value": "francis"
       }
     ]
@@ -5095,26 +4686,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Le FME annonce sa programmation complète pour 2025 &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "Le FME annonce sa programmation complète pour 2025 &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le Festival de musique émergente en Abitibi-Témiscamingue et SiriusXM , présentateur officiel, vous invitent à la 23e édition de l’événement unique accueillant"
-      },
-      {
         "@value": "Le Festival de musique émergente en Abitibi-Témiscamingue et SiriusXM , présentateur officiel, vous invitent à la 23e édition de l’événement unique accueillant"
       }
     ]
@@ -5127,9 +4709,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/le-fme-annonce-sa-programmation-complete-pour-2025/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/le-fme-annonce-sa-programmation-complete-pour-2025/"
       }
     ]
@@ -5202,17 +4781,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/le-fme-annonce-sa-programmation-complete-pour-2025/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/le-fme-annonce-sa-programmation-complete-pour-2025/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "Le FME annonce sa programmation complète pour 2025"
-      },
-      {
         "@value": "Le FME annonce sa programmation complète pour 2025"
       }
     ],
@@ -5220,17 +4793,11 @@
       {
         "@language": "fr",
         "@value": "1724"
-      },
-      {
-        "@value": "1724"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -5238,26 +4805,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le Festival de musique émergente en Abitibi-Témiscamingue et SiriusXM , présentateur officiel, vous invitent à la 23e édition de l’événement unique accueillant le meilleur de la nouvelle musique en plein cœur de Rouyn-Noranda . Du 28 au 31 août prochains , le FME offre une curation soignée mettant de l’avant une sélection d’artistes à l’approche novatrice et aux sonorités singulières, proposant têtes d’affiches d’ici et relève musicale, et y greffant une sélection internationale inédite et riche en exclusivités. Au programme : plus de 80 prestations dans les salles de spectacles et lieux inusités de la ville, promettant une foule de découvertes pour les festivalières et festivaliers. Le Petit Théâtre du Vieux-Noranda, son Sous-Sol, le Paramount, ainsi que l’Agora des Arts proposent des affiches audacieuses et inédites où se croisent chanson, garage, hip-hop et « bummage »… Les pionniers du disco-punk montréalais We Are Wolves nous présentent jeudi au Petit Théâtre du Vieux-Noranda leur fort-attendu sixième opus intitulé Nada , fermant une affiche mettant aussi en vedette Baby Berserk (Amsterdam, NL). Vendredi, Les Breastfeeders y défendent leur rock &amp; roll d’expression française, qui se teinte parfois de garage, de pop, de yéyé, de psychédélisme, faisant suite à La Flemme , qui fait le voyage depuis Marseille en France pour offrir sur scène son premier album La Fête , sorti le 25 avril dernier. Samedi, Moonshine prend contrôle du Petit Théâtre, le temps d’une nuit de célébration aux tonalités deep et afro house. Pour sa traditionnelle soirée métal, le FME programme dimanche le désormais célèbre groupe deathcore montréalais Despised Icon , lequel est joint par les ensembles Scorching Tomb et Digital Ghost (de Rouyn-Noranda). Pour les événements nocturnes, il faut se diriger vers le Sous-Sol du Petit Théâtre où attraper le post-punk éclectique de la formation brooklynoise Mary Shelley (jeudi), le punk &amp; roll de Puffer (vendredi), l’électro angulaire de l’artiste suisse-guatémaltèque Baby Volcano (samedi) et la décoction synthwave du célébré artiste Automelodi (dimanche).  Shreez , un incontournable de la scène hip-hop ayant collaboré avec Souldia, FouKi, Tizzo, Lost, etcetera, nous présente vendredi au Paramount son nouvel album : ON FRAP II . Rowjay et ses spits inspirés de Roi Heenok, ainsi que BlackLife , fier représentant de la scène rap de Rouyn-Noranda, assurent les premières parties. Samedi, la salle reçoit Pierre Lapointe , qui promet un spectacle étonnant où la virtuosité du duo de pianistes Fortin-Poirier met en valeur son répertoire dans la vraie tradition de la chanson, ainsi que le jeune auteur-compositeur-interprète et comédien, Édouard Tremblay-Grenier . Sur l’affiche dominicale, le festival présente d’abord Elle Barbara’s Black Space , forte d’un nouvel album, Word on the Street (27 juin 2025). Elle est suivie d’une représentation unique du collectif éphémère : Les Freaks de Montréal . La troupe mettant en vedette des membres du légendaire orchestre québécois Aut'chose propose un « bummage » à feu! Lucien Francœur ; ses mots revisités par Alix Fernz , N Nao , Pierre-Luc Gratton (Population II), Rox Arcand (Enfants Sauvages) et Rose Cormier (Mulch). Cette soirée sous le thème de la diversité et de la subversion se conclut avec Teke::Teke . Vendredi, l’Agora des Arts accueille Stéphanie Boulay (Les sœurs Boulay), qui présente son deuxième album solo, Est-ce que quelqu’un me voit? . En première partie, Bells Larsen réduit le temps à une série de cérémonies patientes, oscillant entre indie lo-fi des années 90 et balades folk. Le lendemain, la salle est l’hôte d’un plateau-double mettant en vedette Katrine Noël (Les Hay Babies), ainsi que Velours Velours . Dimanche en début de soirée, Frannie Holder (Dear Criminals, Random Recipe) transforme l’Agora en laboratoire, nous y dévoilant un tout nouveau projet francophone flirtant avec le trip-hop, la synth-pop et le chant choral. Dans les quatre coins de la ville, se rencontrent têtes d’affiche et projets émergents, hymnes rassembleurs et expérimentations sonores… Les festivités du mythique Cabaret de la Dernière Chance débutent jeudi avec le trio électro-punk Crasher , nouveau projet d’Airick Asher Woodhead de Doldrums, suivi de la « synth-pop prismatique » (Pitchfork) d’ UTO (Paris, FR) – grande première nord-américaine – et de Bibi Club (courte liste du Prix de Musique Polaris 2025 pour Feu de garde ). Le lendemain, place aux pièces tentaculaires de Yoo Doo Right , ainsi qu’à une décharge de punk mélodique, gracieuseté de Solids . Pour l’affiche du samedi, l’équipe propose le nouvel arrivage rap alternatif, Boutique Feelings (membres d’Atsuko Chiba), avant que se succèdent Magi Merlin et le proclamé « futur du hip-hop canadien » (VICE) Mike Shabb . Du côté du Bar du Curling, nous retrouvons un barrage de décibels, en commençant vendredi l’artiste belge Landrose , ainsi que le punk rock du quatuor torontois Bad Waitress . Le lendemain, le bar est pris d’assaut par les airs psychédéliques des formations Cure-Pipe et Fangus . Des affiches en 5 en 7 alliant rap, dream pop et chanson moderne… Parmi les concerts offerts dans le cadre des Apéros Air Canada , il y a au QG trois affiches, le vendredi mettant en vedette les hymnes  hip-hop avant-gardistes de Mosez Jones et du collectif art-rap en provenance de Winnipeg Super Duty Tough Work . Samedi, on peut y voir Critique Love , nouveau projet du compositeur Antoine Binette-Mercier, puis Antoine Corriveau , qui nous présente son tout dernier opus alliant chanson et échantillonnage : Oiseau de Nuit (25 avril 2025). Les cantatrices expérimentales, Nadah El Shazly et N Nao , se partagent cette même scène dimanche dès 17h. Les Mooses accueillent vendredi la pop alternative aux teintes gothiques d’ Apacalda , ainsi que Meggie Lennon . Samedi, dès 16h30, se produit le décoré auteur-compositeur-interprète Alphonse Bisaillon , suivi à 17h30 de Loïc Lafrance . Le club social accueille le lendemain le duo de pop psychédélique Wizaard , ainsi que le quintet témiscabitibien Et on déjeune . Le Polonais reçoit vendredi l’électro-pop poétique de Fleur de Peau et samedi les airs shoegaze de Perma . De vendredi à dimanche, la scène clandestine de l’Abstracto voit passer l’indie pop de Oui merci , le rock teinté de country et de soul d’ Alice , puis le folk alternatif d’ Ada Lea . Chanson francophone résolument moderne, hyperpop teintée de néo-R&amp;B et punk à saveur psychédélique se succèdent sur les scènes extérieures du FME… C’est la jeune artiste Billie du Page qui ouvre le bal sur la traditionnelle scène extérieure de la 7e Rue, donnant le coup d’envoi aux Événements SiriusXM . La cantatrice hyper-pop BéLi , suivie de Marie-Pierre Arthur qui nous présente ensuite sur scène son minutieux Album bleu . En finale, place à l’auteur-compositeur et interprète Jay Scøtt . En soirée du vendredi, le FME nous réserve un amalgame stylistique alliant psychédélisme, chanson francophone détournée et poésie cryptique. Tout d’abord, l'érudit trio Population II , précédant Ariane Roy et Klô Pelgag et son puissant manifeste en quête de sens : Abracadabra (récipiendaire de l’ Album francophone de l’année aux Junos 2025). Samedi dès 20h, c’est au tour des Empanadas Ilegales , un collectif de sept musiciens, dont l’alliage psychédélique de cumbia et de salsa met de l’avant synthétiseurs expérimentaux, grooves dub chaloupés et percussions aventureuses. Les Vancouvérois joueront avant la formation torontoise The OBGMs et, pour terminer en beauté les Événements SiriusXM, la légendaire formation québécoise Les Trois Accords . En sus, l’équipe vous présente sur la Scène Fizz – aussi située sur la 7e Rue – une série de concerts sous les étoiles, débutant jeudi avec Virginie B . Vendredi met en vedette l’électro aux sonorités traditionnelles du DJ anishinaabe métis aux ancêtres nords-africains, Handsome Tiger (Vancouver, BC). Samedi, c’est au tour de Poolgirl qui nous propose une musique grunge inspirée par le mouvement Riot Grrrl. Samedi dès midi, place à l'Après-midi famille, une présentation de Le Lait . L’affiche débute avec le rock champ-gauche de Larynx , suivi du groupe de punk/new wave déjanté, Trop Belle (membres de Choses Sauvages, Vanille, Mort Rose). Vente de passeports et billets individuels Cette année, le FME propose trois types de passeports : Le Passeport site extérieur 7e Rue , au coût de 75 $, donne accès à tous les spectacles extérieurs présentés sur la 7e Rue, du jeudi au samedi. Le Passeport VIP site extérieur 7e Rue , au coût de 180 $, donne quant à lui accès aux mêmes spectacles, en plus de l'accès à la terrasse VIP, avec bar et toilettes réservés. En plus de l’accès aux concerts extérieurs, ces deux passeports vous permettent de bénéficier d’un rabais de 20 % sur l’achat d’un maximum de 4 billets pour des spectacles payants de la programmation officielle. Un code promotionnel&nbsp; sera envoyé par courriel pour les détenteurs de ces passeports. Le Passeport Best Life pour les amateurs ultimes de musique au coût de 279.99 $, donne accès à toutes les salles de spectacles, incluant les deux scènes extérieures, pendant les quatre jours du festival. Vous pouvez aussi changer de salle en tout temps. MAIS ATTENTION : même avec ce passeport, vous devez arriver tôt aux spectacles très populaires pour vous assurer une place. Si une salle est déjà pleine à votre arrivée, vous devrez attendre qu’une place se libère pour y entrer. Des billets individuels pour les spectacles extérieurs des 28, 29 et 30 août 2025 sont également mis en vente, au coût de 35 $ par soir. Pour tous les passeports et autres types de billets , veuillez consulter notre site web : www.fmeat.org . Suivez-nous sur Facebook et Instagram , puis téléchargez l’application du FME pour connaître nos futures annonces !"
-      },
-      {
         "@value": "Le Festival de musique émergente en Abitibi-Témiscamingue et SiriusXM , présentateur officiel, vous invitent à la 23e édition de l’événement unique accueillant le meilleur de la nouvelle musique en plein cœur de Rouyn-Noranda . Du 28 au 31 août prochains , le FME offre une curation soignée mettant de l’avant une sélection d’artistes à l’approche novatrice et aux sonorités singulières, proposant têtes d’affiches d’ici et relève musicale, et y greffant une sélection internationale inédite et riche en exclusivités. Au programme : plus de 80 prestations dans les salles de spectacles et lieux inusités de la ville, promettant une foule de découvertes pour les festivalières et festivaliers. Le Petit Théâtre du Vieux-Noranda, son Sous-Sol, le Paramount, ainsi que l’Agora des Arts proposent des affiches audacieuses et inédites où se croisent chanson, garage, hip-hop et « bummage »… Les pionniers du disco-punk montréalais We Are Wolves nous présentent jeudi au Petit Théâtre du Vieux-Noranda leur fort-attendu sixième opus intitulé Nada , fermant une affiche mettant aussi en vedette Baby Berserk (Amsterdam, NL). Vendredi, Les Breastfeeders y défendent leur rock &amp; roll d’expression française, qui se teinte parfois de garage, de pop, de yéyé, de psychédélisme, faisant suite à La Flemme , qui fait le voyage depuis Marseille en France pour offrir sur scène son premier album La Fête , sorti le 25 avril dernier. Samedi, Moonshine prend contrôle du Petit Théâtre, le temps d’une nuit de célébration aux tonalités deep et afro house. Pour sa traditionnelle soirée métal, le FME programme dimanche le désormais célèbre groupe deathcore montréalais Despised Icon , lequel est joint par les ensembles Scorching Tomb et Digital Ghost (de Rouyn-Noranda). Pour les événements nocturnes, il faut se diriger vers le Sous-Sol du Petit Théâtre où attraper le post-punk éclectique de la formation brooklynoise Mary Shelley (jeudi), le punk &amp; roll de Puffer (vendredi), l’électro angulaire de l’artiste suisse-guatémaltèque Baby Volcano (samedi) et la décoction synthwave du célébré artiste Automelodi (dimanche).  Shreez , un incontournable de la scène hip-hop ayant collaboré avec Souldia, FouKi, Tizzo, Lost, etcetera, nous présente vendredi au Paramount son nouvel album : ON FRAP II . Rowjay et ses spits inspirés de Roi Heenok, ainsi que BlackLife , fier représentant de la scène rap de Rouyn-Noranda, assurent les premières parties. Samedi, la salle reçoit Pierre Lapointe , qui promet un spectacle étonnant où la virtuosité du duo de pianistes Fortin-Poirier met en valeur son répertoire dans la vraie tradition de la chanson, ainsi que le jeune auteur-compositeur-interprète et comédien, Édouard Tremblay-Grenier . Sur l’affiche dominicale, le festival présente d’abord Elle Barbara’s Black Space , forte d’un nouvel album, Word on the Street (27 juin 2025). Elle est suivie d’une représentation unique du collectif éphémère : Les Freaks de Montréal . La troupe mettant en vedette des membres du légendaire orchestre québécois Aut'chose propose un « bummage » à feu! Lucien Francœur ; ses mots revisités par Alix Fernz , N Nao , Pierre-Luc Gratton (Population II), Rox Arcand (Enfants Sauvages) et Rose Cormier (Mulch). Cette soirée sous le thème de la diversité et de la subversion se conclut avec Teke::Teke . Vendredi, l’Agora des Arts accueille Stéphanie Boulay (Les sœurs Boulay), qui présente son deuxième album solo, Est-ce que quelqu’un me voit? . En première partie, Bells Larsen réduit le temps à une série de cérémonies patientes, oscillant entre indie lo-fi des années 90 et balades folk. Le lendemain, la salle est l’hôte d’un plateau-double mettant en vedette Katrine Noël (Les Hay Babies), ainsi que Velours Velours . Dimanche en début de soirée, Frannie Holder (Dear Criminals, Random Recipe) transforme l’Agora en laboratoire, nous y dévoilant un tout nouveau projet francophone flirtant avec le trip-hop, la synth-pop et le chant choral. Dans les quatre coins de la ville, se rencontrent têtes d’affiche et projets émergents, hymnes rassembleurs et expérimentations sonores… Les festivités du mythique Cabaret de la Dernière Chance débutent jeudi avec le trio électro-punk Crasher , nouveau projet d’Airick Asher Woodhead de Doldrums, suivi de la « synth-pop prismatique » (Pitchfork) d’ UTO (Paris, FR) – grande première nord-américaine – et de Bibi Club (courte liste du Prix de Musique Polaris 2025 pour Feu de garde ). Le lendemain, place aux pièces tentaculaires de Yoo Doo Right , ainsi qu’à une décharge de punk mélodique, gracieuseté de Solids . Pour l’affiche du samedi, l’équipe propose le nouvel arrivage rap alternatif, Boutique Feelings (membres d’Atsuko Chiba), avant que se succèdent Magi Merlin et le proclamé « futur du hip-hop canadien » (VICE) Mike Shabb . Du côté du Bar du Curling, nous retrouvons un barrage de décibels, en commençant vendredi l’artiste belge Landrose , ainsi que le punk rock du quatuor torontois Bad Waitress . Le lendemain, le bar est pris d’assaut par les airs psychédéliques des formations Cure-Pipe et Fangus . Des affiches en 5 en 7 alliant rap, dream pop et chanson moderne… Parmi les concerts offerts dans le cadre des Apéros Air Canada , il y a au QG trois affiches, le vendredi mettant en vedette les hymnes  hip-hop avant-gardistes de Mosez Jones et du collectif art-rap en provenance de Winnipeg Super Duty Tough Work . Samedi, on peut y voir Critique Love , nouveau projet du compositeur Antoine Binette-Mercier, puis Antoine Corriveau , qui nous présente son tout dernier opus alliant chanson et échantillonnage : Oiseau de Nuit (25 avril 2025). Les cantatrices expérimentales, Nadah El Shazly et N Nao , se partagent cette même scène dimanche dès 17h. Les Mooses accueillent vendredi la pop alternative aux teintes gothiques d’ Apacalda , ainsi que Meggie Lennon . Samedi, dès 16h30, se produit le décoré auteur-compositeur-interprète Alphonse Bisaillon , suivi à 17h30 de Loïc Lafrance . Le club social accueille le lendemain le duo de pop psychédélique Wizaard , ainsi que le quintet témiscabitibien Et on déjeune . Le Polonais reçoit vendredi l’électro-pop poétique de Fleur de Peau et samedi les airs shoegaze de Perma . De vendredi à dimanche, la scène clandestine de l’Abstracto voit passer l’indie pop de Oui merci , le rock teinté de country et de soul d’ Alice , puis le folk alternatif d’ Ada Lea . Chanson francophone résolument moderne, hyperpop teintée de néo-R&amp;B et punk à saveur psychédélique se succèdent sur les scènes extérieures du FME… C’est la jeune artiste Billie du Page qui ouvre le bal sur la traditionnelle scène extérieure de la 7e Rue, donnant le coup d’envoi aux Événements SiriusXM . La cantatrice hyper-pop BéLi , suivie de Marie-Pierre Arthur qui nous présente ensuite sur scène son minutieux Album bleu . En finale, place à l’auteur-compositeur et interprète Jay Scøtt . En soirée du vendredi, le FME nous réserve un amalgame stylistique alliant psychédélisme, chanson francophone détournée et poésie cryptique. Tout d’abord, l'érudit trio Population II , précédant Ariane Roy et Klô Pelgag et son puissant manifeste en quête de sens : Abracadabra (récipiendaire de l’ Album francophone de l’année aux Junos 2025). Samedi dès 20h, c’est au tour des Empanadas Ilegales , un collectif de sept musiciens, dont l’alliage psychédélique de cumbia et de salsa met de l’avant synthétiseurs expérimentaux, grooves dub chaloupés et percussions aventureuses. Les Vancouvérois joueront avant la formation torontoise The OBGMs et, pour terminer en beauté les Événements SiriusXM, la légendaire formation québécoise Les Trois Accords . En sus, l’équipe vous présente sur la Scène Fizz – aussi située sur la 7e Rue – une série de concerts sous les étoiles, débutant jeudi avec Virginie B . Vendredi met en vedette l’électro aux sonorités traditionnelles du DJ anishinaabe métis aux ancêtres nords-africains, Handsome Tiger (Vancouver, BC). Samedi, c’est au tour de Poolgirl qui nous propose une musique grunge inspirée par le mouvement Riot Grrrl. Samedi dès midi, place à l'Après-midi famille, une présentation de Le Lait . L’affiche débute avec le rock champ-gauche de Larynx , suivi du groupe de punk/new wave déjanté, Trop Belle (membres de Choses Sauvages, Vanille, Mort Rose). Vente de passeports et billets individuels Cette année, le FME propose trois types de passeports : Le Passeport site extérieur 7e Rue , au coût de 75 $, donne accès à tous les spectacles extérieurs présentés sur la 7e Rue, du jeudi au samedi. Le Passeport VIP site extérieur 7e Rue , au coût de 180 $, donne quant à lui accès aux mêmes spectacles, en plus de l'accès à la terrasse VIP, avec bar et toilettes réservés. En plus de l’accès aux concerts extérieurs, ces deux passeports vous permettent de bénéficier d’un rabais de 20 % sur l’achat d’un maximum de 4 billets pour des spectacles payants de la programmation officielle. Un code promotionnel&nbsp; sera envoyé par courriel pour les détenteurs de ces passeports. Le Passeport Best Life pour les amateurs ultimes de musique au coût de 279.99 $, donne accès à toutes les salles de spectacles, incluant les deux scènes extérieures, pendant les quatre jours du festival. Vous pouvez aussi changer de salle en tout temps. MAIS ATTENTION : même avec ce passeport, vous devez arriver tôt aux spectacles très populaires pour vous assurer une place. Si une salle est déjà pleine à votre arrivée, vous devrez attendre qu’une place se libère pour y entrer. Des billets individuels pour les spectacles extérieurs des 28, 29 et 30 août 2025 sont également mis en vente, au coût de 35 $ par soir. Pour tous les passeports et autres types de billets , veuillez consulter notre site web : www.fmeat.org . Suivez-nous sur Facebook et Instagram , puis téléchargez l’application du FME pour connaître nos futures annonces !"
       }
     ]
@@ -5275,17 +4833,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/le-fme-annonce-sa-programmation-complete-pour-2025/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/le-fme-annonce-sa-programmation-complete-pour-2025/#respond"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Elie-Anne"
-      },
-      {
         "@value": "Elie-Anne"
       }
     ]
@@ -5649,24 +5201,12 @@
         "@id": "https://www.fmeat.org"
       },
       {
-        "@id": "https://www.fmeat.org/#"
-      },
-      {
         "@id": "https://www.fmeat.org/"
-      },
-      {
-        "@id": "https://www.fmeat.org/#search-container"
-      },
-      {
-        "@id": "https://www.fmeat.org/#content"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-CA"
-      },
-      {
         "@value": "fr-CA"
       }
     ],
@@ -5674,17 +5214,11 @@
       {
         "@language": "fr",
         "@value": "FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le site web officiel du festival de musique émergente en Abitibi-Témiscamingue (FME). Activités, expériences, spectacles, musique à Rouyn-Noranda"
-      },
-      {
         "@value": "Le site web officiel du festival de musique émergente en Abitibi-Témiscamingue (FME). Activités, expériences, spectacles, musique à Rouyn-Noranda"
       }
     ]
@@ -5697,9 +5231,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/"
-      },
-      {
         "@value": "https://www.fmeat.org/"
       }
     ]
@@ -5739,24 +5270,12 @@
         "@id": "https://www.fmeat.org"
       },
       {
-        "@id": "https://www.fmeat.org/#"
-      },
-      {
         "@id": "https://www.fmeat.org/"
-      },
-      {
-        "@id": "https://www.fmeat.org/#search-container"
-      },
-      {
-        "@id": "https://www.fmeat.org/#content"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "Accueil"
-      },
-      {
         "@value": "Accueil"
       }
     ],
@@ -5764,17 +5283,11 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/publisher": [
       {
         "@language": "fr",
-        "@value": "[object Object]"
-      },
-      {
         "@value": "[object Object]"
       }
     ]
@@ -8318,26 +7831,17 @@
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "THE FULL 2025 LINEUP IS HERE! &#8211; FME in Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "THE FULL 2025 LINEUP IS HERE! &#8211; FME in Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "The Festival de musique émergente en Abitibi-Témiscamingue and SiriusXM , official presenter, invite you to the 23rd edition of this one-of-a-kind event showcas"
-      },
-      {
         "@value": "The Festival de musique émergente en Abitibi-Témiscamingue and SiriusXM , official presenter, invite you to the 23rd edition of this one-of-a-kind event showcas"
       }
     ]
@@ -8350,9 +7854,6 @@
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://www.fmeat.org/en/news/the-full-2025-lineup-is-here/"
-      },
-      {
         "@value": "https://www.fmeat.org/en/news/the-full-2025-lineup-is-here/"
       }
     ]
@@ -8441,26 +7942,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/en/news/the-full-2025-lineup-is-here/"
-      },
-      {
-        "@id": "https://www.fmeat.org/en/news/the-full-2025-lineup-is-here/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
         "@value": "THE FULL 2025 LINEUP IS HERE!"
-      },
-      {
-        "@value": "THE FULL 2025 LINEUP IS HERE!"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "en",
-        "@value": "News"
-      },
-      {
         "@value": "News"
       }
     ]
@@ -8478,9 +7970,6 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Elie-Anne"
-      },
-      {
         "@value": "Elie-Anne"
       }
     ]
@@ -8599,774 +8088,6 @@
       {
         "@language": "fr",
         "@value": "{{ author.auto_description }}"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-10-25T16:36:56-04:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-10-25T16:37:00-04:00"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fmeat.org/#website"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#breadcrumblist"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#readaction"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#thumbnail"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#thumbnail"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-CA"
-      },
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Offre d&#8217;emploi &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@language": "fr",
-        "@value": "Offre d&#8217;emploi &#8211; FME en Abitibi-Témiscamingue"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Offre d'emploi : Direction Générale  Rouyn-Noranda -  Temps plein Le Collectif&nbsp;08 (FME), organisme culturel implanté à Rouyn-Noranda depuis un peu plus de"
-      },
-      {
-        "@language": "fr",
-        "@value": "Offre d'emploi : Direction Générale  Rouyn-Noranda -  Temps plein Le Collectif&nbsp;08 (FME), organisme culturel implanté à Rouyn-Noranda depuis un peu plus de"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#readaction",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://www.fmeat.org/nouvelle/offre-demploi/"
-      },
-      {
-        "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/offre-demploi/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#thumbnail",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/EMBAUCHE_DG_FACEBOOK.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/EMBAUCHE_DG_FACEBOOK.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1200"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1200"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "Poste à la direction générale du FME"
-      },
-      {
-        "@language": "fr",
-        "@value": "Poste à la direction générale du FME"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#article",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-10-25T20:36:56+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-10-25T20:37:00+00:00"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#webpage"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#webpage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/EMBAUCHE_DG_FACEBOOK.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@value": "Offre d'emploi"
-      },
-      {
-        "@language": "fr",
-        "@value": "Offre d'emploi"
-      }
-    ],
-    "http://schema.org/wordCount": [
-      {
-        "@value": "512"
-      },
-      {
-        "@language": "fr",
-        "@value": "512"
-      }
-    ],
-    "http://schema.org/articleSection": [
-      {
-        "@value": "Nouvelle"
-      },
-      {
-        "@language": "fr",
-        "@value": "Nouvelle"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@value": "[object Object]"
-      },
-      {
-        "@language": "fr",
-        "@value": "[object Object]"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@value": "[object Object]"
-      },
-      {
-        "@language": "fr",
-        "@value": "[object Object]"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Offre d'emploi : Direction Générale  Rouyn-Noranda -  Temps plein Le Collectif&nbsp;08 (FME), organisme culturel implanté à Rouyn-Noranda depuis un peu plus de 20 ans, dynamise la région de l’Abitibi-Témiscamingue. Il participe au rayonnement de la musique originale et émergente. Nos activités contribuent au développement économique de la région. Notre objectif premier Le réseautage entre les artistes et artisans de l’industrie musicale nationale et internationale ! Nos principales initiatives Festival de musique émergente en Abitibi-Témiscamingue La Guinguette chez Edmund Spectacle-bénéfice annuel Sous la responsabilité du conseil d’administration du Collectif&nbsp;08 (FME), la personne titulaire de ce poste voit au développement des événements et des activités de l’organisme.&nbsp; La planification, l’organisation, la gestion et le contrôle des différentes initiatives du Collectif&nbsp;08 constituent les mandats prioritaires de la direction générale.&nbsp; Elle administre le budget, assure une saine gouvernance des ressources humaines et financières et fait les suivis appropriés auprès du conseil d’administration. Elle fait preuve de leadership dans l’élaboration des stratégies permettant à l’organisme la poursuite de sa mission. Elle est polyvalente et a de l’intérêt pour la gestion de projets. Elle a une vision d’ensemble des différentes sphères de nos opérations dans un objectif d’amélioration continue. Elle assure une synergie dans les secteurs tels la billetterie, les bénévoles, les communications, l’aménagement, la programmation musicale, l’accueil des invités, etc.&nbsp; Elle soutient les activités du conseil d’administration et les divers comités qui en découlent. Le poste est basé à Rouyn-Noranda. Sommaire des tâches&nbsp;: Création de l’équipe et recrutement ; Supervision des employés et des collaborateurs saisonniers ; Planification stratégique et développement à court, moyen et long terme de l’organisme ; Gestion organisationnelle et coordination de la logistique ; Supervision des dépôts et demandes de subventions ; Conception de la prévision budgétaire annuelle et par projets ; Gestion des budgets ; Structuration des commandites et des partenariats financiers ; Représentation auprès des partenaires. Profil La personne recherchée possède une solide expérience en gestion administrative et de projets. Elle connaît bien les défis reliés aux ressources humaines, aux relations interpersonnelles et politiques. Leadership et débrouillardise sont au rendez-vous. Le travail sous pression est source de motivation. Elle détient un excellent jugement et de bonnes capacités d’analyse. Les communications écrites et verbales sont au cœur de toutes les actions. Bonne connaissance du secteur culturel est un atout. Qualifications requises Diplôme universitaire dans une discipline pertinente aux fonctions ; Plus de 5 années d’expérience dans un poste de gestion. Les conditions salariales seront évaluées selon l’expérience de travail.&nbsp;&nbsp; Les personnes intéressées sont invitées à faire parvenir leur candidature d’ici le 4 novembre 2022 en remplissant le formulaire sur le site Grenier : https://www.grenier.qc.ca/emplois/66076/direction-generale"
-      },
-      {
-        "@language": "fr",
-        "@value": "Offre d'emploi : Direction Générale  Rouyn-Noranda -  Temps plein Le Collectif&nbsp;08 (FME), organisme culturel implanté à Rouyn-Noranda depuis un peu plus de 20 ans, dynamise la région de l’Abitibi-Témiscamingue. Il participe au rayonnement de la musique originale et émergente. Nos activités contribuent au développement économique de la région. Notre objectif premier Le réseautage entre les artistes et artisans de l’industrie musicale nationale et internationale ! Nos principales initiatives Festival de musique émergente en Abitibi-Témiscamingue La Guinguette chez Edmund Spectacle-bénéfice annuel Sous la responsabilité du conseil d’administration du Collectif&nbsp;08 (FME), la personne titulaire de ce poste voit au développement des événements et des activités de l’organisme.&nbsp; La planification, l’organisation, la gestion et le contrôle des différentes initiatives du Collectif&nbsp;08 constituent les mandats prioritaires de la direction générale.&nbsp; Elle administre le budget, assure une saine gouvernance des ressources humaines et financières et fait les suivis appropriés auprès du conseil d’administration. Elle fait preuve de leadership dans l’élaboration des stratégies permettant à l’organisme la poursuite de sa mission. Elle est polyvalente et a de l’intérêt pour la gestion de projets. Elle a une vision d’ensemble des différentes sphères de nos opérations dans un objectif d’amélioration continue. Elle assure une synergie dans les secteurs tels la billetterie, les bénévoles, les communications, l’aménagement, la programmation musicale, l’accueil des invités, etc.&nbsp; Elle soutient les activités du conseil d’administration et les divers comités qui en découlent. Le poste est basé à Rouyn-Noranda. Sommaire des tâches&nbsp;: Création de l’équipe et recrutement ; Supervision des employés et des collaborateurs saisonniers ; Planification stratégique et développement à court, moyen et long terme de l’organisme ; Gestion organisationnelle et coordination de la logistique ; Supervision des dépôts et demandes de subventions ; Conception de la prévision budgétaire annuelle et par projets ; Gestion des budgets ; Structuration des commandites et des partenariats financiers ; Représentation auprès des partenaires. Profil La personne recherchée possède une solide expérience en gestion administrative et de projets. Elle connaît bien les défis reliés aux ressources humaines, aux relations interpersonnelles et politiques. Leadership et débrouillardise sont au rendez-vous. Le travail sous pression est source de motivation. Elle détient un excellent jugement et de bonnes capacités d’analyse. Les communications écrites et verbales sont au cœur de toutes les actions. Bonne connaissance du secteur culturel est un atout. Qualifications requises Diplôme universitaire dans une discipline pertinente aux fonctions ; Plus de 5 années d’expérience dans un poste de gestion. Les conditions salariales seront évaluées selon l’expérience de travail.&nbsp;&nbsp; Les personnes intéressées sont invitées à faire parvenir leur candidature d’ici le 4 novembre 2022 en remplissant le formulaire sur le site Grenier : https://www.grenier.qc.ca/emplois/66076/direction-generale"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-08-16T09:52:10-04:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-08-16T09:52:13-04:00"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fmeat.org/#website"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#breadcrumblist"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#readaction"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#thumbnail"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#thumbnail"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-CA"
-      },
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "LES PROJETS & SECRETS DE CETTE 20e ÉDITION!"
-      },
-      {
-        "@language": "fr",
-        "@value": "LES PROJETS & SECRETS DE CETTE 20e ÉDITION!"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "À peine deux semaines avant la 20 e édition du FME, qui se déroulera du 1er au 4 septembre prochain et qui sera, un rendez-vous musical incontournable!"
-      },
-      {
-        "@language": "fr",
-        "@value": "À peine deux semaines avant la 20 e édition du FME, qui se déroulera du 1er au 4 septembre prochain et qui sera, un rendez-vous musical incontournable!"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#readaction",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
-      },
-      {
-        "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#thumbnail",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/2015_Christian-Leduc_LED4913-1-scaled.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/2015_Christian-Leduc_LED4913-1-scaled.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1709"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#article",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-08-16T13:52:10+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-08-16T13:52:13+00:00"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#webpage"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#webpage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/2015_Christian-Leduc_LED4913-1-scaled.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@value": "LES PROJETS & SECRETS DE CETTE 20e ÉDITION!"
-      },
-      {
-        "@language": "fr",
-        "@value": "LES PROJETS & SECRETS DE CETTE 20e ÉDITION!"
-      }
-    ],
-    "http://schema.org/wordCount": [
-      {
-        "@value": "1377"
-      },
-      {
-        "@language": "fr",
-        "@value": "1377"
-      }
-    ],
-    "http://schema.org/articleSection": [
-      {
-        "@value": "Nouvelle"
-      },
-      {
-        "@language": "fr",
-        "@value": "Nouvelle"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@value": "[object Object]"
-      },
-      {
-        "@language": "fr",
-        "@value": "[object Object]"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@value": "[object Object]"
-      },
-      {
-        "@language": "fr",
-        "@value": "[object Object]"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Le sprint final est amorcé! À peine deux semaines avant la 20 e édition du FME, qui se déroulera du 1er au 4 septembre prochain et qui sera, cette année encore, un rendez-vous musical incontournable! Après avoir dévoilé l'intégralité de sa programmation en salle le 6 juillet dernier, l’organisation revient avec les dernières nouveautés et le retour des projets à succès de son édition. Le Hub Desjardins, un carrefour de points d’intérêt au FME À chaque édition, l’équipe du FME aménage un lieu au centre de son site principal, le Hub Desjardins. Cette année, grâce au soutien de Desjardins, les festivaliers pourront s’y retrouver pour profiter des nombreuses installations utiles et des points d’intérêt divertissants. Bien évidemment, des nouveautés y feront leur apparition, dont deux spectacles en formule 5 à 7. On y retrouvera des kiosques de commerçants locaux, les articles promotionnels du FME ainsi qu’un bar de produits régionaux. Vous y trouverez d’ailleurs le kombucha à saveur de fruits rouges et d’épinette noire à l’image du FME, un produit de la compagnie Ékorce de Val-d'Or. Safe Space Cette année, le FME aménage un nouveau lieu : le Safe Space. Cet espace est un lieu sécuritaire où on pourra retrouver des travailleurs sociaux et travailleuses sociales du Point d’appui et de la Coalition d’aide à la diversité sexuelle de l’Abitibi-Témiscamingue. La radio CFME  Du 26 août au 4 septembre prochain, que ce soit en musique, en balados ou sous forme de chroniques, la radio CFME diffusera du contenu original des grands noms d’ici que vous ne voulez pas manquer! Il sera possible d’enrichir l’expérience de votre festival en venant assister à la diffusion en direct des émissions de la radio qui se déroulera à partir du Hub Desjardins du 1er au 4 septembre. Découvrez le podcast l’Autre Atlantique, une collaboration entre les festivals Avec Le Temps de Marseille, La Noce au Saguenay et le FME. Le duo Sèxe Illégal, ainsi que Jean-François Provençal, seront de la partie et présenteront leur podcast visuel Tu me niaises tous les soirs à 22h en direct du studio. C’est ouvert au public gratuitement! Par ailleurs, les radios internationales Ferarock seront au rendez-vous dès 11h tous les jours du festival. La radio sera disponible sur les ondes du 100,5 FM et en ligne à partir du 26 août prochain. Jardin XR Newmont Éléonore En ce qui concerne la sphère plus technologique du Hub Desjardins, on peut compter sur le Jardin XR Newmont Éléonore pour se divertir. XR signifie ‘’Réalité étendue’’ et regroupe tant les expériences de réalité virtuelle que celles de réalité augmentée ou mixte.  Cette zone propose une vaste sélection d’activités immersives grâce aux technologies de réalité augmentée. Pour cette 20e édition, on vous y accueillera avec des projets innovants des entreprises MUTEK, Sporobole et de la SAT où les participants sont au centre de l’expérience. Le vendredi 2 septembre dès 23h00, le projet LENTEUR, NAUFRAGE ET AUTRES STRATÉGIES POÉTIQUE, né d'une résidence de création de 20 jours entre 4 artistes marseillais et québécois Calamine, Kethe Magané, Pina Woods et Gaëtan Parseihian, vous submergera dans une expérience ralliant poème, slam, visuels et musique. Des projets et des collaborations en pleine éclosion BIÈRE DE STYLE PÂLE ALE POUR LE FME Spécialement pour la 20 e édition du FME, la Brasserie du Bas-Canada, située en Outaouais, a élaboré une bière de style Pale Ale pour le festival. Baptisée Ultime, elle sera disponible en quantité limitée sur le site du festival et vendue uniquement au bar du Hub Desjardins durant les quatre jours de l’événement.  20 ANS DE SON Pour ses 20 ans, le FME participe au projet de création d’une œuvre participative citoyenne, initié par la Ville de Rouyn-Noranda. Alex Pic, un artiste  énergique et charismatique de la région, ira à la rencontre des citoyen.ne.s pendant le festival et s’inspirera de leurs témoignages pour composer une œuvre musicale originale et propre à cette édition-anniversaire. Il interprétera ensuite celle-ci dans le cadre du spectacle de clôture présenté par SiriusXM, soit le dimanche 4 septembre à 20h. Ce projet est réalisé grâce au soutien financier du gouvernement du Québec et de la Ville de Rouyn-Noranda dans le cadre de l’Entente de développement culturel.  Camping Cette année, un camping à la plage Kiwanis de Rouyn-Noranda sera aménagé pour les festivaliers. Il est possible de faire l’achat en ligne d’une passe de camping pour les 4 jours de festivals. C’est donc à une courte distance de 2,0 km du site du festival que 35 espaces pouvant accueillir des tentes seront disponibles à la location. Pour plus de détails, nous vous invitons à consulter notre site internet : https://www.fmeat.org/camping/ . Twitch Suite au succès de cette activité l’année dernière, le FME revient sur la plateforme Twitch via des streamers invité.e.s, et ce, grâce au soutien de l’Université du Québec en Abitibi-Témiscamingue, de l’Unité d'enseignement et de recherche en création et nouveaux médias et le Socioculturel de l’UQAT. Dans la programmation Twitch, nous retrouverons d’abord Charlène , qui sera des nôtres pour faire du contenu IRL (in real life), c’est-à-dire du contenu en direct, en mouvement sur différents sites de festival. Bien connue pour nous faire découvrir les décors, l’ambiance et les meilleurs spots du FME, Charlène sera de retour pour une 2e année consécutive. Elle ne sera cependant pas seule, puisque l’humoriste Jean-François Provençal , et le streamer Kharliito seront également présents sur le site du festival et partageront en direct leurs découvertes à leurs communautés Twitch. Par ailleurs, nous accueillerons Julien Belhumeur et Andy The Frenchy , deux streamers québécois.e.s aux grands talents musicaux qui performeront au FME lors de spectacles gratuits et hybrides, c'est-à-dire sur Twitch et devant public. Julien, un artiste multi- instrumentiste, lancera le bal à l’UQAT le jeudi 1er septembre à 17h00. Quant à Andy, chanteuse et pianiste, elle vous épatera avec son spectacle au Hub Desjardins le vendredi 2 septembre à 13h00. Surveillez nos plateformes pour connaître l’horaire de streaming. Parcours scénographique Du mois d’août à octobre, un parcours grandiose et féérique à repérer au centre-ville de Rouyn- Noranda sera disponible au public qui désire revisiter l’histoire du FME. Ce parcours scénographique comprendra des éléments et artéfacts qui ont fait partie de la scénographie des éditions passées du FME, et seront installés dans des lieux clés, où les adeptes du festival y reconnaîtront l’évolution du FME à travers les années. Une page est également disponible sur notre site Web afin de situer le parcours dans la ville et d’en apprendre plus sur les différentes éditions qui y sont représentées. Vous pourrez y voir un trajet qui forme les lettres ‘’F’’,’’M’’ et ‘’E’’ réparties dans la ville de Rouyn-Noranda. La réalisation de ce parcours est possible grâce à nos partenaires : Fonderie Horne, Desjardins et le Gouvernement du Québec. Crédit photo : Christian Leduc | Scénographie FME 2015 Scène Principale C’est donc un rendez-vous du 1 er au 4 septembre! Le rendez-vous annuel reconnu parmi les professionnels du Québec, du Canada et de l’International, mais aussi des adeptes de musique. Plus de 175 représentants professionnels des quatre coins du monde se déplacent vers Rouyn- Noranda pour assister aux performances des différents artistes. Restez à l’affût via l’application FME pour être aux faits des surprises tout au long de cette 20e édition! Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Anne-Marie Nadeau: 819-277-0764 / rp-region@fmeat.org National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com International | Danny Payne &amp; Tom Avis / dannypayne@videotron.ca / tom@hivemindpr.com Europe | Clara Dhilly / clara@kuratedby.eu"
-      },
-      {
-        "@language": "fr",
-        "@value": "Le sprint final est amorcé! À peine deux semaines avant la 20 e édition du FME, qui se déroulera du 1er au 4 septembre prochain et qui sera, cette année encore, un rendez-vous musical incontournable! Après avoir dévoilé l'intégralité de sa programmation en salle le 6 juillet dernier, l’organisation revient avec les dernières nouveautés et le retour des projets à succès de son édition. Le Hub Desjardins, un carrefour de points d’intérêt au FME À chaque édition, l’équipe du FME aménage un lieu au centre de son site principal, le Hub Desjardins. Cette année, grâce au soutien de Desjardins, les festivaliers pourront s’y retrouver pour profiter des nombreuses installations utiles et des points d’intérêt divertissants. Bien évidemment, des nouveautés y feront leur apparition, dont deux spectacles en formule 5 à 7. On y retrouvera des kiosques de commerçants locaux, les articles promotionnels du FME ainsi qu’un bar de produits régionaux. Vous y trouverez d’ailleurs le kombucha à saveur de fruits rouges et d’épinette noire à l’image du FME, un produit de la compagnie Ékorce de Val-d'Or. Safe Space Cette année, le FME aménage un nouveau lieu : le Safe Space. Cet espace est un lieu sécuritaire où on pourra retrouver des travailleurs sociaux et travailleuses sociales du Point d’appui et de la Coalition d’aide à la diversité sexuelle de l’Abitibi-Témiscamingue. La radio CFME  Du 26 août au 4 septembre prochain, que ce soit en musique, en balados ou sous forme de chroniques, la radio CFME diffusera du contenu original des grands noms d’ici que vous ne voulez pas manquer! Il sera possible d’enrichir l’expérience de votre festival en venant assister à la diffusion en direct des émissions de la radio qui se déroulera à partir du Hub Desjardins du 1er au 4 septembre. Découvrez le podcast l’Autre Atlantique, une collaboration entre les festivals Avec Le Temps de Marseille, La Noce au Saguenay et le FME. Le duo Sèxe Illégal, ainsi que Jean-François Provençal, seront de la partie et présenteront leur podcast visuel Tu me niaises tous les soirs à 22h en direct du studio. C’est ouvert au public gratuitement! Par ailleurs, les radios internationales Ferarock seront au rendez-vous dès 11h tous les jours du festival. La radio sera disponible sur les ondes du 100,5 FM et en ligne à partir du 26 août prochain. Jardin XR Newmont Éléonore En ce qui concerne la sphère plus technologique du Hub Desjardins, on peut compter sur le Jardin XR Newmont Éléonore pour se divertir. XR signifie ‘’Réalité étendue’’ et regroupe tant les expériences de réalité virtuelle que celles de réalité augmentée ou mixte.  Cette zone propose une vaste sélection d’activités immersives grâce aux technologies de réalité augmentée. Pour cette 20e édition, on vous y accueillera avec des projets innovants des entreprises MUTEK, Sporobole et de la SAT où les participants sont au centre de l’expérience. Le vendredi 2 septembre dès 23h00, le projet LENTEUR, NAUFRAGE ET AUTRES STRATÉGIES POÉTIQUE, né d'une résidence de création de 20 jours entre 4 artistes marseillais et québécois Calamine, Kethe Magané, Pina Woods et Gaëtan Parseihian, vous submergera dans une expérience ralliant poème, slam, visuels et musique. Des projets et des collaborations en pleine éclosion BIÈRE DE STYLE PÂLE ALE POUR LE FME Spécialement pour la 20 e édition du FME, la Brasserie du Bas-Canada, située en Outaouais, a élaboré une bière de style Pale Ale pour le festival. Baptisée Ultime, elle sera disponible en quantité limitée sur le site du festival et vendue uniquement au bar du Hub Desjardins durant les quatre jours de l’événement.  20 ANS DE SON Pour ses 20 ans, le FME participe au projet de création d’une œuvre participative citoyenne, initié par la Ville de Rouyn-Noranda. Alex Pic, un artiste  énergique et charismatique de la région, ira à la rencontre des citoyen.ne.s pendant le festival et s’inspirera de leurs témoignages pour composer une œuvre musicale originale et propre à cette édition-anniversaire. Il interprétera ensuite celle-ci dans le cadre du spectacle de clôture présenté par SiriusXM, soit le dimanche 4 septembre à 20h. Ce projet est réalisé grâce au soutien financier du gouvernement du Québec et de la Ville de Rouyn-Noranda dans le cadre de l’Entente de développement culturel.  Camping Cette année, un camping à la plage Kiwanis de Rouyn-Noranda sera aménagé pour les festivaliers. Il est possible de faire l’achat en ligne d’une passe de camping pour les 4 jours de festivals. C’est donc à une courte distance de 2,0 km du site du festival que 35 espaces pouvant accueillir des tentes seront disponibles à la location. Pour plus de détails, nous vous invitons à consulter notre site internet : https://www.fmeat.org/camping/ . Twitch Suite au succès de cette activité l’année dernière, le FME revient sur la plateforme Twitch via des streamers invité.e.s, et ce, grâce au soutien de l’Université du Québec en Abitibi-Témiscamingue, de l’Unité d'enseignement et de recherche en création et nouveaux médias et le Socioculturel de l’UQAT. Dans la programmation Twitch, nous retrouverons d’abord Charlène , qui sera des nôtres pour faire du contenu IRL (in real life), c’est-à-dire du contenu en direct, en mouvement sur différents sites de festival. Bien connue pour nous faire découvrir les décors, l’ambiance et les meilleurs spots du FME, Charlène sera de retour pour une 2e année consécutive. Elle ne sera cependant pas seule, puisque l’humoriste Jean-François Provençal , et le streamer Kharliito seront également présents sur le site du festival et partageront en direct leurs découvertes à leurs communautés Twitch. Par ailleurs, nous accueillerons Julien Belhumeur et Andy The Frenchy , deux streamers québécois.e.s aux grands talents musicaux qui performeront au FME lors de spectacles gratuits et hybrides, c'est-à-dire sur Twitch et devant public. Julien, un artiste multi- instrumentiste, lancera le bal à l’UQAT le jeudi 1er septembre à 17h00. Quant à Andy, chanteuse et pianiste, elle vous épatera avec son spectacle au Hub Desjardins le vendredi 2 septembre à 13h00. Surveillez nos plateformes pour connaître l’horaire de streaming. Parcours scénographique Du mois d’août à octobre, un parcours grandiose et féérique à repérer au centre-ville de Rouyn- Noranda sera disponible au public qui désire revisiter l’histoire du FME. Ce parcours scénographique comprendra des éléments et artéfacts qui ont fait partie de la scénographie des éditions passées du FME, et seront installés dans des lieux clés, où les adeptes du festival y reconnaîtront l’évolution du FME à travers les années. Une page est également disponible sur notre site Web afin de situer le parcours dans la ville et d’en apprendre plus sur les différentes éditions qui y sont représentées. Vous pourrez y voir un trajet qui forme les lettres ‘’F’’,’’M’’ et ‘’E’’ réparties dans la ville de Rouyn-Noranda. La réalisation de ce parcours est possible grâce à nos partenaires : Fonderie Horne, Desjardins et le Gouvernement du Québec. Crédit photo : Christian Leduc | Scénographie FME 2015 Scène Principale C’est donc un rendez-vous du 1 er au 4 septembre! Le rendez-vous annuel reconnu parmi les professionnels du Québec, du Canada et de l’International, mais aussi des adeptes de musique. Plus de 175 représentants professionnels des quatre coins du monde se déplacent vers Rouyn- Noranda pour assister aux performances des différents artistes. Restez à l’affût via l’application FME pour être aux faits des surprises tout au long de cette 20e édition! Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Anne-Marie Nadeau: 819-277-0764 / rp-region@fmeat.org National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com International | Danny Payne &amp; Tom Avis / dannypayne@videotron.ca / tom@hivemindpr.com Europe | Clara Dhilly / clara@kuratedby.eu"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-12-08T15:46:54-05:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-05-22T20:50:35-04:00"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fmeat.org/#website"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#breadcrumblist"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#readaction"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#thumbnail"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#thumbnail"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-CA"
-      },
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@language": "fr",
-        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS &#8211; FME en Abitibi-Témiscamingue"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une prog"
-      },
-      {
-        "@language": "fr",
-        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une prog"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#readaction",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
-      },
-      {
-        "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#thumbnail",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2048"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1365"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "Une géante licorne rouge illuminé se dresse à l'entrée du site principal du festival de musique émergente en Abitibi-Témiscamingue. L'événement à eu lieu dans la ville de Rouyn-Noranda pendant la fin de semaine de la fête du travail en septembre 2022."
-      },
-      {
-        "@language": "fr",
-        "@value": "Une géante licorne rouge illuminé se dresse à l'entrée du site principal du festival de musique émergente en Abitibi-Témiscamingue. L'événement à eu lieu dans la ville de Rouyn-Noranda pendant la fin de semaine de la fête du travail en septembre 2022."
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#article",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2022-12-08T20:46:54+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-05-23T00:50:35+00:00"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@value": "culture"
-      },
-      {
-        "@value": "événement"
-      },
-      {
-        "@value": "Rouyn-Noranda"
-      },
-      {
-        "@value": "Région"
-      },
-      {
-        "@value": "Festival de musique"
-      },
-      {
-        "@value": "Art"
-      },
-      {
-        "@value": "Scène"
-      },
-      {
-        "@value": "Été"
-      },
-      {
-        "@value": "FME22"
-      },
-      {
-        "@value": "Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "Festival"
-      },
-      {
-        "@value": "Musique"
-      },
-      {
-        "@value": "Bilan"
-      },
-      {
-        "@language": "fr",
-        "@value": "culture"
-      },
-      {
-        "@language": "fr",
-        "@value": "événement"
-      },
-      {
-        "@language": "fr",
-        "@value": "Rouyn-Noranda"
-      },
-      {
-        "@language": "fr",
-        "@value": "Région"
-      },
-      {
-        "@language": "fr",
-        "@value": "Festival de musique"
-      },
-      {
-        "@language": "fr",
-        "@value": "Art"
-      },
-      {
-        "@language": "fr",
-        "@value": "Scène"
-      },
-      {
-        "@language": "fr",
-        "@value": "Été"
-      },
-      {
-        "@language": "fr",
-        "@value": "FME22"
-      },
-      {
-        "@language": "fr",
-        "@value": "Abitibi-Témiscamingue"
-      },
-      {
-        "@language": "fr",
-        "@value": "Festival"
-      },
-      {
-        "@language": "fr",
-        "@value": "Musique"
-      },
-      {
-        "@language": "fr",
-        "@value": "Bilan"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#webpage"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#webpage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#respond"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans%ef%bf%bc/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS"
-      },
-      {
-        "@language": "fr",
-        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS"
-      }
-    ],
-    "http://schema.org/wordCount": [
-      {
-        "@value": "500"
-      },
-      {
-        "@language": "fr",
-        "@value": "500"
-      }
-    ],
-    "http://schema.org/articleSection": [
-      {
-        "@value": "Nouvelle"
-      },
-      {
-        "@language": "fr",
-        "@value": "Nouvelle"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@value": "[object Object]"
-      },
-      {
-        "@language": "fr",
-        "@value": "[object Object]"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@value": "[object Object]"
-      },
-      {
-        "@language": "fr",
-        "@value": "[object Object]"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une programmation éclectique axée sur la découverte et une vingtaine de shows cachés à toute heure du jour et de la nuit! Une édition digne d’un grand festival qui demeure bien ancré à ses racines : dénicher les talents de demain. Après 20 ans, le FME demeure à l’avant-garde et continue d’attirer des mélomanes de tout âge et de tout acabit. Faire un choix parmi les 104 artistes à l’affiche relevait parfois du supplice. Entre Lydia Képinski, les Hôtesses d’Hilaire et Animal Collective (ce n’est qu’un exemple), les cœurs ont balancé. Tout le week-end, aux quatre coins du centre-ville de Rouyn-Noranda, des notes électro, hip-hop, alternative, psychédélique, pop résonnaient. Un événement à grand déploiement attendu depuis longtemps. Parmi les moments forts de cette édition anniversaire, impossible de passer sous silence la prestation des artistes israéliens Tamar Aphek, la performance déchaînée qu’a offert Les Louanges sur la scène du Petit Théâtre du Vieux Noranda ainsi que l’artiste électro Sheenah Ko qui a fait sensation lors d’une soirée chaude à la Guinguette chez Edmund. Une centaine de curieux se sont entassés dans la ruelle de la 7e Rue pour entendre le spectacle saisissant du premier et unique chœur de chanteurs métal au monde, Growlers Choir. Le Cabaret de la Dernière Chance était plein à craquer pour la formation Gros Mené. Ceux qui ont pu attraper le show caché de Ping Pong Go au Le QG ont vécu un moment inoubliable tout comme ceux qui ont réussi à trouver Koriass qui jouait, bien caché, dans un parc. Les Hay Babies sur la scène Vidéotron au FME 2022. Crédit photo: Christian Leduc La clôture du FME 2022 aura été marquée au fer rouge avec Lou-Adriane Cassidy, Rich Aucoin et Hubert Lenoir, enfant terrible du FME, sur la scène extérieure.&nbsp; Les festivaliers ont aussi pu souffler les bougies dans un grand moment de nostalgie lors du dévoilement de la vidéo 20 ans de son, un projet collaboratif élaboré par l’artiste Alex Pic. Une clôture qui nous permet déjà de rêver au prochain FME! Faits saillants 32 500 festivaliers 107 artistes, dont une quinzaine de l’international 122 spectacles incluant 17 shows cachés 217 professionnels, dont 47 de l’international 464 bénévoles indispensables et engagés Et une quantité phénoménale de plaisir! Scénographie à l'entrée du site principale du FME 2022. Crédit photo: Louis Jalbert Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Anne-Marie Nadeau: 819-277-0764 / rp-region@fmeat.org National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com International | Danny Payne &amp; Tom Avis / dannypayne@videotron.ca / tom@hivemindpr.com Europe | Clara Dhilly / clara@kuratedby.eu"
-      },
-      {
-        "@language": "fr",
-        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une programmation éclectique axée sur la découverte et une vingtaine de shows cachés à toute heure du jour et de la nuit! Une édition digne d’un grand festival qui demeure bien ancré à ses racines : dénicher les talents de demain. Après 20 ans, le FME demeure à l’avant-garde et continue d’attirer des mélomanes de tout âge et de tout acabit. Faire un choix parmi les 104 artistes à l’affiche relevait parfois du supplice. Entre Lydia Képinski, les Hôtesses d’Hilaire et Animal Collective (ce n’est qu’un exemple), les cœurs ont balancé. Tout le week-end, aux quatre coins du centre-ville de Rouyn-Noranda, des notes électro, hip-hop, alternative, psychédélique, pop résonnaient. Un événement à grand déploiement attendu depuis longtemps. Parmi les moments forts de cette édition anniversaire, impossible de passer sous silence la prestation des artistes israéliens Tamar Aphek, la performance déchaînée qu’a offert Les Louanges sur la scène du Petit Théâtre du Vieux Noranda ainsi que l’artiste électro Sheenah Ko qui a fait sensation lors d’une soirée chaude à la Guinguette chez Edmund. Une centaine de curieux se sont entassés dans la ruelle de la 7e Rue pour entendre le spectacle saisissant du premier et unique chœur de chanteurs métal au monde, Growlers Choir. Le Cabaret de la Dernière Chance était plein à craquer pour la formation Gros Mené. Ceux qui ont pu attraper le show caché de Ping Pong Go au Le QG ont vécu un moment inoubliable tout comme ceux qui ont réussi à trouver Koriass qui jouait, bien caché, dans un parc. Les Hay Babies sur la scène Vidéotron au FME 2022. Crédit photo: Christian Leduc La clôture du FME 2022 aura été marquée au fer rouge avec Lou-Adriane Cassidy, Rich Aucoin et Hubert Lenoir, enfant terrible du FME, sur la scène extérieure.&nbsp; Les festivaliers ont aussi pu souffler les bougies dans un grand moment de nostalgie lors du dévoilement de la vidéo 20 ans de son, un projet collaboratif élaboré par l’artiste Alex Pic. Une clôture qui nous permet déjà de rêver au prochain FME! Faits saillants 32 500 festivaliers 107 artistes, dont une quinzaine de l’international 122 spectacles incluant 17 shows cachés 217 professionnels, dont 47 de l’international 464 bénévoles indispensables et engagés Et une quantité phénoménale de plaisir! Scénographie à l'entrée du site principale du FME 2022. Crédit photo: Louis Jalbert Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Anne-Marie Nadeau: 819-277-0764 / rp-region@fmeat.org National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com International | Danny Payne &amp; Tom Avis / dannypayne@videotron.ca / tom@hivemindpr.com Europe | Clara Dhilly / clara@kuratedby.eu"
       }
     ]
   },
@@ -9513,26 +8234,17 @@
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "Unveiling of the 2025 outdoor program &#8211; FME in Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "Unveiling of the 2025 outdoor program &#8211; FME in Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Festival de musique émergente en Abitibi-Témiscamingue (FME) and SiriusXM , its official presenter, invite you to the 23rd edition of the unique event offering"
-      },
-      {
         "@value": "Festival de musique émergente en Abitibi-Témiscamingue (FME) and SiriusXM , its official presenter, invite you to the 23rd edition of the unique event offering"
       }
     ]
@@ -9545,9 +8257,6 @@
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://www.fmeat.org/en/news/fme-unveils-the-artists-taking-to-the-festivals-main-stage/"
-      },
-      {
         "@value": "https://www.fmeat.org/en/news/fme-unveils-the-artists-taking-to-the-festivals-main-stage/"
       }
     ]
@@ -9636,26 +8345,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/en/news/fme-unveils-the-artists-taking-to-the-festivals-main-stage/"
-      },
-      {
-        "@id": "https://www.fmeat.org/en/news/fme-unveils-the-artists-taking-to-the-festivals-main-stage/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
         "@value": "Unveiling of the 2025 outdoor program"
-      },
-      {
-        "@value": "Unveiling of the 2025 outdoor program"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "en",
-        "@value": "News"
-      },
-      {
         "@value": "News"
       }
     ]
@@ -9678,9 +8378,6 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "francis"
-      },
-      {
         "@value": "francis"
       }
     ]
@@ -9828,26 +8525,17 @@
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "THE PROJECTS SECRETS OF THIS 20TH EDITION! &#8211; FME in Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "THE PROJECTS SECRETS OF THIS 20TH EDITION! &#8211; FME in Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "After revealing the entirety of the program, the organization comes back with the latest news and the return of their successful projects of their edition."
-      },
-      {
         "@value": "After revealing the entirety of the program, the organization comes back with the latest news and the return of their successful projects of their edition."
       }
     ]
@@ -9860,9 +8548,6 @@
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://www.fmeat.org/en/news/the-projects-secrets-of-this-20th-edition/"
-      },
-      {
         "@value": "https://www.fmeat.org/en/news/the-projects-secrets-of-this-20th-edition/"
       }
     ]
@@ -9951,26 +8636,17 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/en/news/the-projects-secrets-of-this-20th-edition/"
-      },
-      {
-        "@id": "https://www.fmeat.org/en/news/the-projects-secrets-of-this-20th-edition/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
         "@value": "THE PROJECTS SECRETS OF THIS 20TH EDITION!"
-      },
-      {
-        "@value": "THE PROJECTS SECRETS OF THIS 20TH EDITION!"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "en",
-        "@value": "News"
-      },
-      {
         "@value": "News"
       }
     ]
@@ -11200,6 +9876,627 @@
     ]
   },
   {
+    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-16T09:52:10-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-16T09:52:13-04:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fmeat.org/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#readaction"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#thumbnail"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#thumbnail"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "LES PROJETS & SECRETS DE CETTE 20e ÉDITION!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "À peine deux semaines avant la 20 e édition du FME, qui se déroulera du 1er au 4 septembre prochain et qui sera, un rendez-vous musical incontournable!"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#readaction",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#thumbnail",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/2015_Christian-Leduc_LED4913-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/2015_Christian-Leduc_LED4913-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1709"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-16T13:52:10+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-16T13:52:13+00:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/#webpage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/2015_Christian-Leduc_LED4913-1-scaled.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/les-projets-secrets-de-cette-20e-edition/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "LES PROJETS & SECRETS DE CETTE 20e ÉDITION!"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@language": "fr",
+        "@value": "1377"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelle"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@language": "fr",
+        "@value": "[object Object]"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "fr",
+        "@value": "[object Object]"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le sprint final est amorcé! À peine deux semaines avant la 20 e édition du FME, qui se déroulera du 1er au 4 septembre prochain et qui sera, cette année encore, un rendez-vous musical incontournable! Après avoir dévoilé l'intégralité de sa programmation en salle le 6 juillet dernier, l’organisation revient avec les dernières nouveautés et le retour des projets à succès de son édition. Le Hub Desjardins, un carrefour de points d’intérêt au FME À chaque édition, l’équipe du FME aménage un lieu au centre de son site principal, le Hub Desjardins. Cette année, grâce au soutien de Desjardins, les festivaliers pourront s’y retrouver pour profiter des nombreuses installations utiles et des points d’intérêt divertissants. Bien évidemment, des nouveautés y feront leur apparition, dont deux spectacles en formule 5 à 7. On y retrouvera des kiosques de commerçants locaux, les articles promotionnels du FME ainsi qu’un bar de produits régionaux. Vous y trouverez d’ailleurs le kombucha à saveur de fruits rouges et d’épinette noire à l’image du FME, un produit de la compagnie Ékorce de Val-d'Or. Safe Space Cette année, le FME aménage un nouveau lieu : le Safe Space. Cet espace est un lieu sécuritaire où on pourra retrouver des travailleurs sociaux et travailleuses sociales du Point d’appui et de la Coalition d’aide à la diversité sexuelle de l’Abitibi-Témiscamingue. La radio CFME  Du 26 août au 4 septembre prochain, que ce soit en musique, en balados ou sous forme de chroniques, la radio CFME diffusera du contenu original des grands noms d’ici que vous ne voulez pas manquer! Il sera possible d’enrichir l’expérience de votre festival en venant assister à la diffusion en direct des émissions de la radio qui se déroulera à partir du Hub Desjardins du 1er au 4 septembre. Découvrez le podcast l’Autre Atlantique, une collaboration entre les festivals Avec Le Temps de Marseille, La Noce au Saguenay et le FME. Le duo Sèxe Illégal, ainsi que Jean-François Provençal, seront de la partie et présenteront leur podcast visuel Tu me niaises tous les soirs à 22h en direct du studio. C’est ouvert au public gratuitement! Par ailleurs, les radios internationales Ferarock seront au rendez-vous dès 11h tous les jours du festival. La radio sera disponible sur les ondes du 100,5 FM et en ligne à partir du 26 août prochain. Jardin XR Newmont Éléonore En ce qui concerne la sphère plus technologique du Hub Desjardins, on peut compter sur le Jardin XR Newmont Éléonore pour se divertir. XR signifie ‘’Réalité étendue’’ et regroupe tant les expériences de réalité virtuelle que celles de réalité augmentée ou mixte.  Cette zone propose une vaste sélection d’activités immersives grâce aux technologies de réalité augmentée. Pour cette 20e édition, on vous y accueillera avec des projets innovants des entreprises MUTEK, Sporobole et de la SAT où les participants sont au centre de l’expérience. Le vendredi 2 septembre dès 23h00, le projet LENTEUR, NAUFRAGE ET AUTRES STRATÉGIES POÉTIQUE, né d'une résidence de création de 20 jours entre 4 artistes marseillais et québécois Calamine, Kethe Magané, Pina Woods et Gaëtan Parseihian, vous submergera dans une expérience ralliant poème, slam, visuels et musique. Des projets et des collaborations en pleine éclosion BIÈRE DE STYLE PÂLE ALE POUR LE FME Spécialement pour la 20 e édition du FME, la Brasserie du Bas-Canada, située en Outaouais, a élaboré une bière de style Pale Ale pour le festival. Baptisée Ultime, elle sera disponible en quantité limitée sur le site du festival et vendue uniquement au bar du Hub Desjardins durant les quatre jours de l’événement.  20 ANS DE SON Pour ses 20 ans, le FME participe au projet de création d’une œuvre participative citoyenne, initié par la Ville de Rouyn-Noranda. Alex Pic, un artiste  énergique et charismatique de la région, ira à la rencontre des citoyen.ne.s pendant le festival et s’inspirera de leurs témoignages pour composer une œuvre musicale originale et propre à cette édition-anniversaire. Il interprétera ensuite celle-ci dans le cadre du spectacle de clôture présenté par SiriusXM, soit le dimanche 4 septembre à 20h. Ce projet est réalisé grâce au soutien financier du gouvernement du Québec et de la Ville de Rouyn-Noranda dans le cadre de l’Entente de développement culturel.  Camping Cette année, un camping à la plage Kiwanis de Rouyn-Noranda sera aménagé pour les festivaliers. Il est possible de faire l’achat en ligne d’une passe de camping pour les 4 jours de festivals. C’est donc à une courte distance de 2,0 km du site du festival que 35 espaces pouvant accueillir des tentes seront disponibles à la location. Pour plus de détails, nous vous invitons à consulter notre site internet : https://www.fmeat.org/camping/ . Twitch Suite au succès de cette activité l’année dernière, le FME revient sur la plateforme Twitch via des streamers invité.e.s, et ce, grâce au soutien de l’Université du Québec en Abitibi-Témiscamingue, de l’Unité d'enseignement et de recherche en création et nouveaux médias et le Socioculturel de l’UQAT. Dans la programmation Twitch, nous retrouverons d’abord Charlène , qui sera des nôtres pour faire du contenu IRL (in real life), c’est-à-dire du contenu en direct, en mouvement sur différents sites de festival. Bien connue pour nous faire découvrir les décors, l’ambiance et les meilleurs spots du FME, Charlène sera de retour pour une 2e année consécutive. Elle ne sera cependant pas seule, puisque l’humoriste Jean-François Provençal , et le streamer Kharliito seront également présents sur le site du festival et partageront en direct leurs découvertes à leurs communautés Twitch. Par ailleurs, nous accueillerons Julien Belhumeur et Andy The Frenchy , deux streamers québécois.e.s aux grands talents musicaux qui performeront au FME lors de spectacles gratuits et hybrides, c'est-à-dire sur Twitch et devant public. Julien, un artiste multi- instrumentiste, lancera le bal à l’UQAT le jeudi 1er septembre à 17h00. Quant à Andy, chanteuse et pianiste, elle vous épatera avec son spectacle au Hub Desjardins le vendredi 2 septembre à 13h00. Surveillez nos plateformes pour connaître l’horaire de streaming. Parcours scénographique Du mois d’août à octobre, un parcours grandiose et féérique à repérer au centre-ville de Rouyn- Noranda sera disponible au public qui désire revisiter l’histoire du FME. Ce parcours scénographique comprendra des éléments et artéfacts qui ont fait partie de la scénographie des éditions passées du FME, et seront installés dans des lieux clés, où les adeptes du festival y reconnaîtront l’évolution du FME à travers les années. Une page est également disponible sur notre site Web afin de situer le parcours dans la ville et d’en apprendre plus sur les différentes éditions qui y sont représentées. Vous pourrez y voir un trajet qui forme les lettres ‘’F’’,’’M’’ et ‘’E’’ réparties dans la ville de Rouyn-Noranda. La réalisation de ce parcours est possible grâce à nos partenaires : Fonderie Horne, Desjardins et le Gouvernement du Québec. Crédit photo : Christian Leduc | Scénographie FME 2015 Scène Principale C’est donc un rendez-vous du 1 er au 4 septembre! Le rendez-vous annuel reconnu parmi les professionnels du Québec, du Canada et de l’International, mais aussi des adeptes de musique. Plus de 175 représentants professionnels des quatre coins du monde se déplacent vers Rouyn- Noranda pour assister aux performances des différents artistes. Restez à l’affût via l’application FME pour être aux faits des surprises tout au long de cette 20e édition! Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Anne-Marie Nadeau: 819-277-0764 / rp-region@fmeat.org National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com International | Danny Payne &amp; Tom Avis / dannypayne@videotron.ca / tom@hivemindpr.com Europe | Clara Dhilly / clara@kuratedby.eu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-25T16:36:56-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-25T16:37:00-04:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fmeat.org/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#readaction"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#thumbnail"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#thumbnail"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Offre d&#8217;emploi &#8211; FME en Abitibi-Témiscamingue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Offre d'emploi : Direction Générale  Rouyn-Noranda -  Temps plein Le Collectif&nbsp;08 (FME), organisme culturel implanté à Rouyn-Noranda depuis un peu plus de"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#readaction",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.fmeat.org/nouvelle/offre-demploi/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#thumbnail",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/EMBAUCHE_DG_FACEBOOK.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/EMBAUCHE_DG_FACEBOOK.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Poste à la direction générale du FME"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-25T20:36:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-25T20:37:00+00:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/#webpage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/EMBAUCHE_DG_FACEBOOK.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/offre-demploi/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "Offre d'emploi"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@language": "fr",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelle"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@language": "fr",
+        "@value": "[object Object]"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "fr",
+        "@value": "[object Object]"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Offre d'emploi : Direction Générale  Rouyn-Noranda -  Temps plein Le Collectif&nbsp;08 (FME), organisme culturel implanté à Rouyn-Noranda depuis un peu plus de 20 ans, dynamise la région de l’Abitibi-Témiscamingue. Il participe au rayonnement de la musique originale et émergente. Nos activités contribuent au développement économique de la région. Notre objectif premier Le réseautage entre les artistes et artisans de l’industrie musicale nationale et internationale ! Nos principales initiatives Festival de musique émergente en Abitibi-Témiscamingue La Guinguette chez Edmund Spectacle-bénéfice annuel Sous la responsabilité du conseil d’administration du Collectif&nbsp;08 (FME), la personne titulaire de ce poste voit au développement des événements et des activités de l’organisme.&nbsp; La planification, l’organisation, la gestion et le contrôle des différentes initiatives du Collectif&nbsp;08 constituent les mandats prioritaires de la direction générale.&nbsp; Elle administre le budget, assure une saine gouvernance des ressources humaines et financières et fait les suivis appropriés auprès du conseil d’administration. Elle fait preuve de leadership dans l’élaboration des stratégies permettant à l’organisme la poursuite de sa mission. Elle est polyvalente et a de l’intérêt pour la gestion de projets. Elle a une vision d’ensemble des différentes sphères de nos opérations dans un objectif d’amélioration continue. Elle assure une synergie dans les secteurs tels la billetterie, les bénévoles, les communications, l’aménagement, la programmation musicale, l’accueil des invités, etc.&nbsp; Elle soutient les activités du conseil d’administration et les divers comités qui en découlent. Le poste est basé à Rouyn-Noranda. Sommaire des tâches&nbsp;: Création de l’équipe et recrutement ; Supervision des employés et des collaborateurs saisonniers ; Planification stratégique et développement à court, moyen et long terme de l’organisme ; Gestion organisationnelle et coordination de la logistique ; Supervision des dépôts et demandes de subventions ; Conception de la prévision budgétaire annuelle et par projets ; Gestion des budgets ; Structuration des commandites et des partenariats financiers ; Représentation auprès des partenaires. Profil La personne recherchée possède une solide expérience en gestion administrative et de projets. Elle connaît bien les défis reliés aux ressources humaines, aux relations interpersonnelles et politiques. Leadership et débrouillardise sont au rendez-vous. Le travail sous pression est source de motivation. Elle détient un excellent jugement et de bonnes capacités d’analyse. Les communications écrites et verbales sont au cœur de toutes les actions. Bonne connaissance du secteur culturel est un atout. Qualifications requises Diplôme universitaire dans une discipline pertinente aux fonctions ; Plus de 5 années d’expérience dans un poste de gestion. Les conditions salariales seront évaluées selon l’expérience de travail.&nbsp;&nbsp; Les personnes intéressées sont invitées à faire parvenir leur candidature d’ici le 4 novembre 2022 en remplissant le formulaire sur le site Grenier : https://www.grenier.qc.ca/emplois/66076/direction-generale"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T15:46:54-05:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-22T20:50:35-04:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fmeat.org/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#readaction"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#thumbnail"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#thumbnail"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS &#8211; FME en Abitibi-Témiscamingue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une prog"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#readaction",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#thumbnail",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Une géante licorne rouge illuminé se dresse à l'entrée du site principal du festival de musique émergente en Abitibi-Témiscamingue. L'événement à eu lieu dans la ville de Rouyn-Noranda pendant la fin de semaine de la fête du travail en septembre 2022."
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#article",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T20:46:54+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-23T00:50:35+00:00"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "culture"
+      },
+      {
+        "@language": "fr",
+        "@value": "événement"
+      },
+      {
+        "@language": "fr",
+        "@value": "Rouyn-Noranda"
+      },
+      {
+        "@language": "fr",
+        "@value": "Région"
+      },
+      {
+        "@language": "fr",
+        "@value": "Festival de musique"
+      },
+      {
+        "@language": "fr",
+        "@value": "Art"
+      },
+      {
+        "@language": "fr",
+        "@value": "Scène"
+      },
+      {
+        "@language": "fr",
+        "@value": "Été"
+      },
+      {
+        "@language": "fr",
+        "@value": "FME22"
+      },
+      {
+        "@language": "fr",
+        "@value": "Abitibi-Témiscamingue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Festival"
+      },
+      {
+        "@language": "fr",
+        "@value": "Musique"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bilan"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/#webpage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.fmeat.org/content/uploads/Entrée-du-site-FME-2022-Crédit-à-Louis-Jalbert.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fmeat.org/nouvelle/fme-en-mode-decouverte-depuis-20-ans/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "fr",
+        "@value": "FME : EN MODE DÉCOUVERTE DEPUIS 20 ANS"
+      }
+    ],
+    "http://schema.org/wordCount": [
+      {
+        "@language": "fr",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/articleSection": [
+      {
+        "@language": "fr",
+        "@value": "Nouvelle"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@language": "fr",
+        "@value": "[object Object]"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@language": "fr",
+        "@value": "[object Object]"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Lundi 5 septembre 2022. Après deux éditions en formule réduite, le FME a pu célébrer ses 20 ans dans l’ambiance festive qui le caractérise si bien avec une programmation éclectique axée sur la découverte et une vingtaine de shows cachés à toute heure du jour et de la nuit! Une édition digne d’un grand festival qui demeure bien ancré à ses racines : dénicher les talents de demain. Après 20 ans, le FME demeure à l’avant-garde et continue d’attirer des mélomanes de tout âge et de tout acabit. Faire un choix parmi les 104 artistes à l’affiche relevait parfois du supplice. Entre Lydia Képinski, les Hôtesses d’Hilaire et Animal Collective (ce n’est qu’un exemple), les cœurs ont balancé. Tout le week-end, aux quatre coins du centre-ville de Rouyn-Noranda, des notes électro, hip-hop, alternative, psychédélique, pop résonnaient. Un événement à grand déploiement attendu depuis longtemps. Parmi les moments forts de cette édition anniversaire, impossible de passer sous silence la prestation des artistes israéliens Tamar Aphek, la performance déchaînée qu’a offert Les Louanges sur la scène du Petit Théâtre du Vieux Noranda ainsi que l’artiste électro Sheenah Ko qui a fait sensation lors d’une soirée chaude à la Guinguette chez Edmund. Une centaine de curieux se sont entassés dans la ruelle de la 7e Rue pour entendre le spectacle saisissant du premier et unique chœur de chanteurs métal au monde, Growlers Choir. Le Cabaret de la Dernière Chance était plein à craquer pour la formation Gros Mené. Ceux qui ont pu attraper le show caché de Ping Pong Go au Le QG ont vécu un moment inoubliable tout comme ceux qui ont réussi à trouver Koriass qui jouait, bien caché, dans un parc. Les Hay Babies sur la scène Vidéotron au FME 2022. Crédit photo: Christian Leduc La clôture du FME 2022 aura été marquée au fer rouge avec Lou-Adriane Cassidy, Rich Aucoin et Hubert Lenoir, enfant terrible du FME, sur la scène extérieure.&nbsp; Les festivaliers ont aussi pu souffler les bougies dans un grand moment de nostalgie lors du dévoilement de la vidéo 20 ans de son, un projet collaboratif élaboré par l’artiste Alex Pic. Une clôture qui nous permet déjà de rêver au prochain FME! Faits saillants 32 500 festivaliers 107 artistes, dont une quinzaine de l’international 122 spectacles incluant 17 shows cachés 217 professionnels, dont 47 de l’international 464 bénévoles indispensables et engagés Et une quantité phénoménale de plaisir! Scénographie à l'entrée du site principale du FME 2022. Crédit photo: Louis Jalbert Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Anne-Marie Nadeau: 819-277-0764 / rp-region@fmeat.org National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com International | Danny Payne &amp; Tom Avis / dannypayne@videotron.ca / tom@hivemindpr.com Europe | Clara Dhilly / clara@kuratedby.eu"
+      }
+    ]
+  },
+  {
     "@id": "https://www.fmeat.org/nouvelle/nouvelle-directrice-generale-au-fme/#webpage",
     "@type": [
       "http://schema.org/WebPage"
@@ -11250,26 +10547,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Nouvelle directrice générale au FME"
-      },
-      {
-        "@value": "Nouvelle directrice générale au FME"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le conseil d’administration du FME est heureux d’annoncer la nomination de Marie-Luce Doré à titre de directrice générale du Collectif 08."
-      },
-      {
         "@value": "Le conseil d’administration du FME est heureux d’annoncer la nomination de Marie-Luce Doré à titre de directrice générale du Collectif 08."
       }
     ]
@@ -11282,9 +10570,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/nouvelle-directrice-generale-au-fme/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/nouvelle-directrice-generale-au-fme/"
       }
     ]
@@ -11357,17 +10642,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/nouvelle-directrice-generale-au-fme/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/nouvelle-directrice-generale-au-fme/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "NOUVELLE DIRECTRICE GÉNÉRALE AU FME"
-      },
-      {
         "@value": "NOUVELLE DIRECTRICE GÉNÉRALE AU FME"
       }
     ],
@@ -11375,17 +10654,11 @@
       {
         "@language": "fr",
         "@value": "257"
-      },
-      {
-        "@value": "257"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -11393,26 +10666,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mardi 23 mai 2023. Le conseil d’administration du FME est heureux d’annoncer la nomination de Marie-Luce Doré à titre de directrice générale du Collectif 08. Originaire de l’Abitibi-Témiscamingue, la nouvelle directrice générale du FME en Abitibi-Témiscamingue entrera officiellement en poste le 5 juin prochain. Après ses études à Rouyn-Noranda en création en multimédia interactif et mineure en gestion et celles à Montréal en tourisme, Marie-Luce Doré veut s’établir et faire une différence pour sa région. C’est à La Sarre qu’elle dépose ses pénates. D’abord agente de développement culturel de la Commission des loisirs de La Sarre, elle devient responsable diffusion, spectacles et festivités à la Ville de La Sarre. Présidente du réseau Spectour Abitibi-Témiscamingue depuis 2020, membre fondatrice du Festival des Langues sales et membre fondatrice de la SLI (Sale ligue d’improvisation), Marie-Luce Doré saura mettre à profit tout son bagage dans le déroulement du FME. À quelques mois de sa 21e édition, le FME maintient le cap vers la découverte musicale et la propulsion de nouveaux talents. Notre mission de dynamiser la région de l’Abitibi-Témiscamingue, particulièrement la Ville de Rouyn-Noranda, demeure. Marie-Luce saura relever les nombreux défis de stabilité, de croissance et développement. Prochain rendez-vous pour nos activités estivales et le dévoilement complet de notre programmation! Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Sonia Demontigny : 819-763-9141 National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com"
-      },
-      {
         "@value": "Mardi 23 mai 2023. Le conseil d’administration du FME est heureux d’annoncer la nomination de Marie-Luce Doré à titre de directrice générale du Collectif 08. Originaire de l’Abitibi-Témiscamingue, la nouvelle directrice générale du FME en Abitibi-Témiscamingue entrera officiellement en poste le 5 juin prochain. Après ses études à Rouyn-Noranda en création en multimédia interactif et mineure en gestion et celles à Montréal en tourisme, Marie-Luce Doré veut s’établir et faire une différence pour sa région. C’est à La Sarre qu’elle dépose ses pénates. D’abord agente de développement culturel de la Commission des loisirs de La Sarre, elle devient responsable diffusion, spectacles et festivités à la Ville de La Sarre. Présidente du réseau Spectour Abitibi-Témiscamingue depuis 2020, membre fondatrice du Festival des Langues sales et membre fondatrice de la SLI (Sale ligue d’improvisation), Marie-Luce Doré saura mettre à profit tout son bagage dans le déroulement du FME. À quelques mois de sa 21e édition, le FME maintient le cap vers la découverte musicale et la propulsion de nouveaux talents. Notre mission de dynamiser la région de l’Abitibi-Témiscamingue, particulièrement la Ville de Rouyn-Noranda, demeure. Marie-Luce saura relever les nombreux défis de stabilité, de croissance et développement. Prochain rendez-vous pour nos activités estivales et le dévoilement complet de notre programmation! Relations média et demandes d’entrevues Régional et Nord Est Ontarien | Sonia Demontigny : 819-763-9141 National | Sonia Cesaratto: 514-206-4886 / sonia@cesaratto.com"
       }
     ]
@@ -11468,26 +10732,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Emploi d&rsquo;été &#8211; Adjoint.e à la communication &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "Emploi d&rsquo;été &#8211; Adjoint.e à la communication &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "C'est ta chance! Le FME a besoin d'un nouveau / d'une nouvelle adjoint.e à la communication pour renforcer son équipe cet été."
-      },
-      {
         "@value": "C'est ta chance! Le FME a besoin d'un nouveau / d'une nouvelle adjoint.e à la communication pour renforcer son équipe cet été."
       }
     ]
@@ -11500,9 +10755,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/emploi-dete-adjoint-e-a-la-communication/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/emploi-dete-adjoint-e-a-la-communication/"
       }
     ]
@@ -11575,17 +10827,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/emploi-dete-adjoint-e-a-la-communication/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/emploi-dete-adjoint-e-a-la-communication/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "Emploi d'été - Adjoint.e à la communication"
-      },
-      {
         "@value": "Emploi d'été - Adjoint.e à la communication"
       }
     ],
@@ -11593,17 +10839,11 @@
       {
         "@language": "fr",
         "@value": "54"
-      },
-      {
-        "@value": "54"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -11611,26 +10851,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "C'est ta chance! Le FME a besoin d'un nouveau / d'une nouvelle adjoint.e à la communication pour renforcer son équipe cet été. On cherche quelqu'un qui est fort en communication, autonome et qui apprend vite. Tu peux envoyer ton CV directement à l'adresse courriel : dg@fmeat.org Tu as jusqu'au 3 juillet 2023 pour déposer ta candidature."
-      },
-      {
         "@value": "C'est ta chance! Le FME a besoin d'un nouveau / d'une nouvelle adjoint.e à la communication pour renforcer son équipe cet été. On cherche quelqu'un qui est fort en communication, autonome et qui apprend vite. Tu peux envoyer ton CV directement à l'adresse courriel : dg@fmeat.org Tu as jusqu'au 3 juillet 2023 pour déposer ta candidature."
       }
     ]
@@ -11686,26 +10917,17 @@
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "TUKAN lance le single Noranda &#8211; FME en Abitibi-Témiscamingue"
-      },
-      {
-        "@value": "TUKAN lance le single Noranda &#8211; FME en Abitibi-Témiscamingue"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le groupe belge TUKAN lance aujourd’hui un tout nouveau single Noranda."
-      },
-      {
         "@value": "Le groupe belge TUKAN lance aujourd’hui un tout nouveau single Noranda."
       }
     ]
@@ -11718,9 +10940,6 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://www.fmeat.org/nouvelle/tukan-lance-le-single-noranda/"
-      },
-      {
         "@value": "https://www.fmeat.org/nouvelle/tukan-lance-le-single-noranda/"
       }
     ]
@@ -11793,17 +11012,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.fmeat.org/nouvelle/tukan-lance-le-single-noranda/"
-      },
-      {
-        "@id": "https://www.fmeat.org/nouvelle/tukan-lance-le-single-noranda/#respond"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "TUKAN lance le single Noranda"
-      },
-      {
         "@value": "TUKAN lance le single Noranda"
       }
     ],
@@ -11811,17 +11024,11 @@
       {
         "@language": "fr",
         "@value": "159"
-      },
-      {
-        "@value": "159"
       }
     ],
     "http://schema.org/articleSection": [
       {
         "@language": "fr",
-        "@value": "Nouvelle"
-      },
-      {
         "@value": "Nouvelle"
       }
     ],
@@ -11829,26 +11036,17 @@
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/author": [
       {
         "@language": "fr",
         "@value": "[object Object]"
-      },
-      {
-        "@value": "[object Object]"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le groupe belge TUKAN, chouchou de la dernière édition du FME, lance aujourd’hui un tout nouveau single qui chassera la grisaille automnale et vous réchauffera le cœur. Le nouveau single, Noranda, disponible dès aujourd’hui, figure sur une réédition de l’album Atoll, premier album de TUKAN sorti en 2022, sur lequel on retrouve également six remixes. « Noranda est un titre qui s’était fait une place importante dans le set live de TUKAN depuis de nombreux mois. Resté longtemps sans nom, c’est lors du FME, dans la ville de Rouyn-Noranda au Québec (où TUKAN a joué trois jours de suite, un des highlights de la tournée), que le titre s’est imposé comme une évidence. » explique les membres du groupe. L’équipe du festival ADORE la chanson et vous confirme que vous ne pourrez pas vous limiter à une seule écoute ! À partager et à ajouter sur toutes vos « playlist »: TUKAN - Noranda"
-      },
-      {
         "@value": "Le groupe belge TUKAN, chouchou de la dernière édition du FME, lance aujourd’hui un tout nouveau single qui chassera la grisaille automnale et vous réchauffera le cœur. Le nouveau single, Noranda, disponible dès aujourd’hui, figure sur une réédition de l’album Atoll, premier album de TUKAN sorti en 2022, sur lequel on retrouve également six remixes. « Noranda est un titre qui s’était fait une place importante dans le set live de TUKAN depuis de nombreux mois. Resté longtemps sans nom, c’est lors du FME, dans la ville de Rouyn-Noranda au Québec (où TUKAN a joué trois jours de suite, un des highlights de la tournée), que le titre s’est imposé comme une évidence. » explique les membres du groupe. L’équipe du festival ADORE la chanson et vous confirme que vous ne pourrez pas vous limiter à une seule écoute ! À partager et à ajouter sur toutes vos « playlist »: TUKAN - Noranda"
       }
     ]
