@@ -1,6 +1,6 @@
 [
   {
-    "@id": "http://www.sonicunyon.com",
+    "@id": "https://sonicunyon.com/events",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en-ca",
@@ -10,13 +10,13 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-ca",
-        "@value": "Sonic Unyon"
+        "@value": "Events — Sonic Unyon"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-ca",
-        "@value": "https://sonicunyon.com"
+        "@value": "https://sonicunyon.com/events"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -25,38 +25,14 @@
         "@value": "website"
       }
     ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Independent record label founded in 1993 that has since evolved into an award-winning event production company and venue manager in Hamilton, Ontario."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "http://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1608581416910/SU+Logo-horizonta-invertl.png?format=1500w"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "1500"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "240"
-      }
-    ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com"
+        "@id": "https://sonicunyon.com/events"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/3d7bea67-bdea-4dd3-bceb-22fb70dd6547",
+    "@id": "http://www.sonicunyon.com/temporary/cb49fb80-83dd-43c2-a59e-82d94c7ceb0b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -67,12 +43,12 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com"
+        "@id": "https://sonicunyon.com/events"
       }
     ],
     "http://schema.org/name": [
@@ -83,7 +59,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/bb94ddb6-484d-4906-812f-49e73dab6fa1",
+    "@id": "http://www.sonicunyon.com/temporary/7f1d8de5-6ac3-4229-adcb-f67ae37fea7b",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -109,7 +85,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com"
+        "@id": "https://sonicunyon.com/events"
       }
     ],
     "http://schema.org/legalName": [
@@ -138,7 +114,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/908ed8c5-03f2-4e6b-89c0-7ec4520b91c1",
+    "@id": "http://www.sonicunyon.com/temporary/b4e6dbee-a045-4d87-a656-d3692e0a36f6",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -149,7 +125,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com"
+        "@id": "https://sonicunyon.com/events"
       }
     ],
     "http://schema.org/address": [
@@ -204,7 +180,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/108f12f4-5f8f-4a63-bffb-2bc040edb087",
+    "@id": "http://www.sonicunyon.com/temporary/5153d839-24a8-414a-a3f1-1d34ba0d1260",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -231,7 +207,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/75323894-c287-4840-ae75-c0baa5de459d",
+    "@id": "http://www.sonicunyon.com/temporary/0f614dcd-6837-4817-8e32-f3aeaeb995a0",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -286,7 +262,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/a85ed669-eb15-41cf-a3e5-56108db92be5",
+    "@id": "http://www.sonicunyon.com/temporary/17172d0a-0a84-4b7e-a60b-639b6582d0f9",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -298,6 +274,450 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "http://www.sonicunyon.com/cart"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/news",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "News — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/news"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/fc9620ab-b1d1-45df-a267-ec160d6c8f21",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/news"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/0144145f-82e4-4af2-bb17-181b3ed117a7",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/news"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/d3973b61-1e7a-434b-b58a-a06e435fd9ae",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/news"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/video",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Video — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/video"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/video"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/729b4a39-420d-42f5-8df3-455034dd4882",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/video"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/8cf422e0-e65d-4e7d-a36f-13a79a64fe93",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/video"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/6d497838-4309-4281-8c13-fbbab5a9d7bd",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/video"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/about",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "About — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/about"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/about"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/48002bb4-859c-4956-b74c-3cef51272524",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/about"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/15379954-68af-4aad-997a-8005731ca675",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/about"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/6d1f98c9-671c-48ef-a0d4-0d826e4fa805",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com/about"
       }
     ],
     "http://schema.org/address": [
@@ -371,15 +791,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/#page"
-      },
-      {
         "@id": "http://www.sonicunyon.com/"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/2b366c28-076f-4cdb-8341-88b62f5a4a18",
+    "@id": "http://www.sonicunyon.com/temporary/d105995d-fa29-4930-a68f-7a200cd44493",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -395,17 +812,18 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/#page"
+        "@id": "http://www.sonicunyon.com/"
       }
     ],
     "http://schema.org/name": [
       {
+        "@language": "en",
         "@value": "Sonic Unyon"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/023c34ce-2479-4b43-9f2b-618a57497f95",
+    "@id": "http://www.sonicunyon.com/temporary/9ded4ad6-53af-4b18-95a0-6dae4b64299b",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -431,32 +849,36 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/#page"
+        "@id": "http://www.sonicunyon.com/"
       }
     ],
     "http://schema.org/legalName": [
       {
+        "@language": "en",
         "@value": "Sonic Unyon"
       }
     ],
     "http://schema.org/address": [
       {
+        "@language": "en",
         "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
       }
     ],
     "http://schema.org/email": [
       {
+        "@language": "en",
         "@value": "office@sonicunyon.com"
       }
     ],
     "http://schema.org/telephone": [
       {
+        "@language": "en",
         "@value": "905-777-1223"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/c08bc433-2ee9-4ec9-91ac-2919a6f2225b",
+    "@id": "http://www.sonicunyon.com/temporary/6b543389-6562-4441-a225-8494f0fc6948",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -467,27 +889,30 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/#page"
+        "@id": "http://www.sonicunyon.com/"
       }
     ],
     "http://schema.org/address": [
       {
+        "@language": "en",
         "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
       }
     ],
     "http://schema.org/name": [
       {
+        "@language": "en",
         "@value": "Sonic Unyon"
       }
     ],
     "http://schema.org/openingHours": [
       {
+        "@language": "en",
         "@value": ", , , , , , "
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/news",
+    "@id": "https://www.sonicunyon.com/events",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en-ca",
@@ -497,13 +922,13 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-ca",
-        "@value": "News — Sonic Unyon"
+        "@value": "Events — Sonic Unyon"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-ca",
-        "@value": "https://sonicunyon.com/news"
+        "@value": "https://sonicunyon.com/events"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -514,12 +939,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/news"
+        "@id": "https://www.sonicunyon.com/events"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/aa5249f0-a7e3-4824-8ff8-9d04a10d34ca",
+    "@id": "http://www.sonicunyon.com/temporary/b6b2754e-68ce-41e7-8214-e85e923c1347",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -530,12 +955,12 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/news"
+        "@id": "https://www.sonicunyon.com/events"
       }
     ],
     "http://schema.org/name": [
@@ -546,7 +971,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/3465b17b-c029-414f-9423-77a8d6eefdf2",
+    "@id": "http://www.sonicunyon.com/temporary/63e84ba6-e58e-45e8-b9f6-dd70b2e8a56d",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -572,7 +997,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/news"
+        "@id": "https://www.sonicunyon.com/events"
       }
     ],
     "http://schema.org/legalName": [
@@ -601,7 +1026,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/29c7205e-aa44-4615-880f-7c25fee4d657",
+    "@id": "http://www.sonicunyon.com/temporary/e5704e22-dbab-466a-a6d4-da42260af90e",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -612,7 +1037,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/news"
+        "@id": "https://www.sonicunyon.com/events"
       }
     ],
     "http://schema.org/address": [
@@ -635,7 +1060,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/video",
+    "@id": "https://www.sonicunyon.com/whynotwine",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en-ca",
@@ -645,13 +1070,167 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-ca",
-        "@value": "Video — Sonic Unyon"
+        "@value": "Why Not Wine — Sonic Unyon"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-ca",
-        "@value": "https://sonicunyon.com/video"
+        "@value": "https://sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Hamilton's Wine Tasting Festival"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/whynotwine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/3a0e4b29-3981-4ee6-94cd-fe931518e037",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/5b450a83-2245-4bac-b9a4-d405fbed52da",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/ae502fe5-337f-4b5e-8c2b-2a16228ea41c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/freshup",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Fresh Up — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/freshup"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -662,12 +1241,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/video"
+        "@id": "http://www.sonicunyon.com/freshup"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/5f1f1e2f-7071-4193-8d1f-4d7e3fc6ae3a",
+    "@id": "http://www.sonicunyon.com/temporary/13f95fae-f903-453b-a6b5-08d05cf95b9f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -683,7 +1262,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/video"
+        "@id": "http://www.sonicunyon.com/freshup"
       }
     ],
     "http://schema.org/name": [
@@ -694,7 +1273,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/6383b41b-8039-4cef-970b-d76ccb7a57a7",
+    "@id": "http://www.sonicunyon.com/temporary/320caf78-867f-44a7-8f89-3aaee7fedc67",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -720,7 +1299,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/video"
+        "@id": "http://www.sonicunyon.com/freshup"
       }
     ],
     "http://schema.org/legalName": [
@@ -749,7 +1328,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/681d8065-3c8a-4499-97cc-6095c10ac661",
+    "@id": "http://www.sonicunyon.com/temporary/8a8a3302-6f58-49b8-8d89-da04b0cda2a4",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -760,7 +1339,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/video"
+        "@id": "http://www.sonicunyon.com/freshup"
       }
     ],
     "http://schema.org/address": [
@@ -783,7 +1362,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/about",
+    "@id": "http://www.sonicunyon.com/smokestack",
     "http://ogp.me/ns#site_name": [
       {
         "@language": "en-ca",
@@ -793,13 +1372,13 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-ca",
-        "@value": "About — Sonic Unyon"
+        "@value": "Smokestack — Sonic Unyon"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-ca",
-        "@value": "https://sonicunyon.com/about"
+        "@value": "https://sonicunyon.com/smokestack"
       }
     ],
     "http://ogp.me/ns#type": [
@@ -810,12 +1389,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/about"
+        "@id": "http://www.sonicunyon.com/smokestack"
       }
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/5a49e5b8-8e36-43b4-9598-0f33cc3602f1",
+    "@id": "http://www.sonicunyon.com/temporary/1e87e718-42e2-48c2-95fa-fc0583b8b9ad",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -831,7 +1410,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/about"
+        "@id": "http://www.sonicunyon.com/smokestack"
       }
     ],
     "http://schema.org/name": [
@@ -842,7 +1421,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/c0ab8e4b-05e2-44b0-98e4-ece65a3ca8e1",
+    "@id": "http://www.sonicunyon.com/temporary/bcaf42dc-44fe-4e2e-b2ed-a3fdfce63a33",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -868,7 +1447,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/about"
+        "@id": "http://www.sonicunyon.com/smokestack"
       }
     ],
     "http://schema.org/legalName": [
@@ -897,7 +1476,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/0ccedaf7-4692-441e-82ab-81e80ec5fb51",
+    "@id": "http://www.sonicunyon.com/temporary/034e4dd8-837b-4044-b809-40a2c7ebb129",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -908,123 +1487,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.sonicunyon.com/about"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "en",
-        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Sonic Unyon"
-      }
-    ],
-    "http://schema.org/openingHours": [
-      {
-        "@language": "en",
-        "@value": ", , , , , , "
-      }
-    ]
-  },
-  {
-    "@id": "http://www.sonicunyon.com/temporary/b0e0c299-a62d-4c61-8131-b76606816365",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://sonicunyon.com"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "http://www.sonicunyon.com/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Sonic Unyon"
-      }
-    ]
-  },
-  {
-    "@id": "http://www.sonicunyon.com/temporary/129dbc3d-8b1f-4283-921c-149a1cab7b5a",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/sonicunyonrecords"
-      },
-      {
-        "@id": "https://www.facebook.com/sonicunyonrecords"
-      },
-      {
-        "@id": "https://bsky.app/profile/sonicunyon.com"
-      },
-      {
-        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
-      },
-      {
-        "@id": "http://youtube.com/sonicunyon"
-      },
-      {
-        "@id": "mailto:office@sonicunyon.com"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "http://www.sonicunyon.com/"
-      }
-    ],
-    "http://schema.org/legalName": [
-      {
-        "@language": "en",
-        "@value": "Sonic Unyon"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "en",
-        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "office@sonicunyon.com"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "905-777-1223"
-      }
-    ]
-  },
-  {
-    "@id": "http://www.sonicunyon.com/temporary/55194451-da23-48de-8eea-09c5b190b5dc",
-    "@type": [
-      "http://schema.org/LocalBusiness"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "http://www.sonicunyon.com/"
+        "@id": "http://www.sonicunyon.com/smokestack"
       }
     ],
     "http://schema.org/address": [
@@ -1079,7 +1542,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/eff1778d-0117-454c-b0b3-2508b0c8a853",
+    "@id": "http://www.sonicunyon.com/temporary/e9f99549-8a82-44c2-91cd-546ccc03dcc9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1106,7 +1569,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/fa814293-e009-43a9-8b3c-be318e232f17",
+    "@id": "http://www.sonicunyon.com/temporary/6da14d83-7dfa-4d83-81bc-cbfa5161c358",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1161,7 +1624,7 @@
     ]
   },
   {
-    "@id": "http://www.sonicunyon.com/temporary/66266f9c-645c-435b-8dc2-94a0abf3dc9b",
+    "@id": "http://www.sonicunyon.com/temporary/b7d6c63c-2b1d-4fd0-9292-82dec31faa7a",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -1173,6 +1636,3192 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "http://www.sonicunyon.com/management"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.sonicunyon.com/news-2023-08-01",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2023.08.01 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2023-08-01"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/18fcbe9e-9ad9-4f30-a29a-bcc6ee1fc319",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/eb511670-955f-4da3-b393-9a88c4128aa6",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/d2a97d75-6359-433a-899a-43db989684d3",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.sonicunyon.com/news-2021-11-22",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2021.11.22 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2021-11-22"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/1c2cb780-c47e-4df7-a2b4-fc59223dcbc1",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/d6e72206-1b21-4646-8faa-a0085cbd9760",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/bbd47b2b-0ff9-436f-bf78-d707efbb6f39",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "http://sonicunyon.com/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Independent record label founded in 1993 that has since evolved into an award-winning event production company and venue manager in Hamilton, Ontario."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1608581416910/SU+Logo-horizonta-invertl.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://sonicunyon.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/c6787151-3d5c-4b47-a0be-c793c2f84b74",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://sonicunyon.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/569abf3d-f906-4623-a205-b27a69a25bd0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://sonicunyon.com/"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/e8324aa4-7cd5-4218-99e3-a5ebfbe0bdf9",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://sonicunyon.com/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.sonicunyon.com/artists",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Artists — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/artists"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/artists"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/84cd084d-7556-4dfb-87c3-89f7b5849aff",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/artists"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/2bd78d13-0cb8-417c-a275-08aee5988d82",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/artists"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/0355135b-89f4-425d-a203-1d57cdea4c88",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/artists"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.sonicunyon.com/venues",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Venues — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/venues"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/venues"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/fdf084a8-1df8-4241-9b19-11709ed31159",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/venues"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/def63df3-147e-4174-b9d3-52d40f3cbf66",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/venues"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/b5688611-3dc1-4364-a6a2-8b66429a3f29",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.sonicunyon.com/venues"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/video",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Video — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/video"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/video"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/16da6266-c103-4e05-a254-3f91f0501937",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/video"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/19e9febf-342e-4a45-b0fb-ae440c04cee6",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/video"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/8a009a8f-3e3f-4567-be7e-bc0c3093f47c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/video"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/about",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "About — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/about"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/about"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/4b364718-d4fa-401d-bbb2-ea354d004937",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/about"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/748f7f06-d555-4dd3-b551-fb24f4a7e83b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/about"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/9a2ebf67-4e53-4f42-8678-8d4037807b6f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/about"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/news-2021-10-03",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2021.10.03 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2021-10-03"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-10-03"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/5bb93fc2-8f63-4578-9165-d6d787497868",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-10-03"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/92b2d0fc-2ff5-4a4a-a1d7-892ef9ca5e4a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-10-03"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/febfbf2b-c579-45d4-96bd-5b0a7288a38f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-10-03"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/artists",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Artists — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/artists"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/artists"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/a499be52-234f-45c1-b322-e7f9453f3173",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/artists"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/fed5a962-00c1-48c2-ae7a-2ddc5300b4cb",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/artists"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/458f2329-d2d2-4623-854c-b1fd2193a893",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/artists"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/home",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Independent record label founded in 1993 that has since evolved into an award-winning event production company and venue manager in Hamilton, Ontario."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1608581416910/SU+Logo-horizonta-invertl.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/home"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/8d58b8bc-ffae-4f78-b497-f441e8b47269",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/home"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/09dd780e-31b1-4a39-ab6f-68496a7763db",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/home"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/5417f4c4-c236-4e1d-9a48-8dac161f3209",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/home"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/venues",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Venues — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/venues"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/venues"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/31ad3aa7-9bdc-40b1-ac3c-c7a0c4f38168",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/venues"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/c6e7e064-8afc-4fbf-af34-f0e80882351c",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/venues"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/9e443513-ef24-4db8-9b4f-a620b36145fd",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/venues"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/news",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "News — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/48c9e1f7-da1a-423f-9c14-726dc8f97d64",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/2a48bfea-1375-4877-8b17-358e41f0483e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/5445be2f-531f-4fa5-b6b3-2ad465d06a27",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/news-2021-11-22",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2021.11.22 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-11-22"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/a8b5a71f-8c10-4abb-a1bf-36afbe7c3fde",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/19af45fc-4885-42c8-a395-6b9237359d53",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/6fe88032-83ec-472c-8ac8-951bae7effb8",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2021-11-22"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/news-2023-08-01",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2023.08.01 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-08-01"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/731c40d3-846c-45c3-9ab9-aeed7d39e9c4",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/655f4c46-31a2-4da7-8c96-3c955ef250a7",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/aadb4148-2718-44d3-886f-f651b6e8cdad",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-08-01"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/news-2023-11-10",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2023.11.10 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2023-11-10"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-11-10"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/b2ac1d24-9876-4199-a172-b592396a7e87",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-11-10"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/44c0ff75-0224-4e32-90cf-0798bb5e165b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-11-10"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/4bf5cbed-32c7-4f53-b346-dc74b7535bfc",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2023-11-10"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/whynotwine",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Why Not Wine — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Hamilton's Wine Tasting Festival"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/whynotwine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/13d9d790-c1a1-4201-b3ed-112d2ba5c52c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/8c935664-08e9-4e36-9535-6e78f45b8616",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/4f190e9c-66a7-44b6-ad43-74e8dd176611",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/whynotwine"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/freshup",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Fresh Up — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/freshup"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/freshup"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/cca97df7-f81f-4d55-89fb-f3d6dbf69756",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/freshup"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/50a76409-2d55-4877-b8b9-06c1dc06c5b4",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/freshup"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/52dcc887-afa4-49aa-92f0-3066d46c140c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/freshup"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/management",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Artists — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/management"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/management"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/4b6808b8-8e8e-444a-80fb-d296be65dd6f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/management"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/f239122b-de14-425a-81db-2aeaab7fb433",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/management"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/2a7a04bf-89fb-413f-b62c-77e5af5fa3be",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/management"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/news-2025-04-15",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "NEWS 2025.04.15 — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/news-2025-04-15"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2025-04-15"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/2ed3c645-4bf9-494e-b2e3-2045b8718620",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2025-04-15"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/4b88fa3a-f0d2-49fe-9d6b-ee374cf43d68",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2025-04-15"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/8d7c3da6-9420-466e-a88b-9fc92b14b2e5",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/news-2025-04-15"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "https://sonicunyon.com/smokestack",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Smokestack — Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com/smokestack"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/smokestack"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/ed5d9a62-e1ba-4041-bcce-8bfa293e95c1",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/smokestack"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/80d8847e-3482-4274-8949-6408cc0211b0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/smokestack"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/79432706-3b1c-4c4d-af86-ab95fe71c443",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sonicunyon.com/smokestack"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": ", , , , , , "
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://sonicunyon.com"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Independent record label founded in 1993 that has since evolved into an award-winning event production company and venue manager in Hamilton, Ontario."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "http://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1608581416910/SU+Logo-horizonta-invertl.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/13c3bd25-9a0f-44c6-91b2-2d6b3c22cc08",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sonicunyon.com"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://images.squarespace-cdn.com/content/v1/5fd6695409beee0f3b2022ba/1608581415085-3NJVEA06DES4SWWXJYOM/SU+Logo-horizonta-invertl.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/96ea454c-ac0c-449f-9f4d-28451d3c162b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://www.facebook.com/sonicunyonrecords"
+      },
+      {
+        "@id": "https://bsky.app/profile/sonicunyon.com"
+      },
+      {
+        "@id": "https://open.spotify.com/user/ni07hrobo8pm9142lc2f1g98p"
+      },
+      {
+        "@id": "http://youtube.com/sonicunyon"
+      },
+      {
+        "@id": "mailto:office@sonicunyon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com"
+      }
+    ],
+    "http://schema.org/legalName": [
+      {
+        "@language": "en",
+        "@value": "Sonic Unyon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "PO Box 57347 Jackson Station\nHamilton, Ontario L8P 4X2\nCanada"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "office@sonicunyon.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "905-777-1223"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.sonicunyon.com/temporary/3b08018b-0a12-4f6c-8b43-3053c140cda3",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/5fd6695409beee0f3b2022ba/t/5fe101270795995578f8aa7a/1763399245051/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.sonicunyon.com"
       }
     ],
     "http://schema.org/address": [
