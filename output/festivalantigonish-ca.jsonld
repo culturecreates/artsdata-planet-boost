@@ -57,17 +57,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.festivalantigonish.ca/"
-      },
-      {
-        "@id": "https://www.festivalantigonish.ca/#"
-      },
-      {
-        "@id": "https://www.festivalantigonish.ca/#workshop"
       }
     ]
   },
   {
-    "@id": "_:g468220",
+    "@id": "_:g468520",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -85,7 +79,7 @@
     ]
   },
   {
-    "@id": "https://www.festivalantigonish.ca/temporary/f591a35a-f3bf-45fc-b8f4-b7d7ae03bd3a",
+    "@id": "https://www.festivalantigonish.ca/temporary/04afed02-8b05-4d92-81f1-13d5f472de1d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -119,7 +113,7 @@
     ]
   },
   {
-    "@id": "https://www.festivalantigonish.ca/temporary/e8d00ea4-f9a7-43a8-8a00-3938164d64e6",
+    "@id": "https://www.festivalantigonish.ca/temporary/45ba2e32-d9f6-42cd-8da4-e5e465ac6dff",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -158,95 +152,7 @@
     ],
     "http://schema.org/contactPoint": [
       {
-        "@id": "_:g468220"
-      }
-    ]
-  },
-  {
-    "@id": "_:g484060",
-    "@type": [
-      "http://schema.org/ContactPoint"
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "+1902-867-3333"
-      }
-    ],
-    "http://schema.org/contactType": [
-      {
-        "@value": "customer support"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.festivalantigonish.ca/temporary/6ada8da4-d018-4f8f-8c94-a61d6528267f",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.festivalantigonish.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.festivalantigonish.ca/#"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A Premier Summer Repertory Theatre in Atlantic Canada"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.festivalantigonish.ca/temporary/333bc3e1-8f90-4c7a-9dd0-382b31067cfa",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.festivalantigonish.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://www.festivalantigonish.ca/wp-content/uploads/2021/10/fast_logo_andrea_400px_white.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.festivalantigonish.ca/#"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g484060"
+        "@id": "_:g468520"
       }
     ]
   },
@@ -306,7 +212,7 @@
     ]
   },
   {
-    "@id": "https://www.festivalantigonish.ca/temporary/e2222b69-30a3-4831-8917-db3529cf5b6c",
+    "@id": "https://www.festivalantigonish.ca/temporary/b553ccf5-c1b9-4191-aeef-d9f77962277f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -329,7 +235,7 @@
     ]
   },
   {
-    "@id": "https://www.festivalantigonish.ca/temporary/f6232210-5f27-4e97-b508-2111a3d6d09a",
+    "@id": "https://www.festivalantigonish.ca/temporary/a6c1941c-8168-4a58-a06b-31cb9fb05b7a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -352,7 +258,7 @@
     ]
   },
   {
-    "@id": "https://www.festivalantigonish.ca/temporary/b7dd2360-74b9-4a5f-9027-1f1eb7c8812c",
+    "@id": "https://www.festivalantigonish.ca/temporary/3ba89580-9797-47cb-a261-03cd6abd6bfd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -375,7 +281,7 @@
     ]
   },
   {
-    "@id": "https://www.festivalantigonish.ca/temporary/ab598327-7718-4aab-875c-6e2e2ef9166d",
+    "@id": "https://www.festivalantigonish.ca/temporary/f9e3612e-3544-4ffb-8cb8-215c0c985d67",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -394,94 +300,6 @@
       {
         "@language": "en",
         "@value": "2025-11-27T19:30:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g699900",
-    "@type": [
-      "http://schema.org/ContactPoint"
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "+1902-867-3333"
-      }
-    ],
-    "http://schema.org/contactType": [
-      {
-        "@value": "customer support"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.festivalantigonish.ca/temporary/e29f337d-ec37-4ca3-9c56-7712cc55e5f5",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.festivalantigonish.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.festivalantigonish.ca/#workshop"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A Premier Summer Repertory Theatre in Atlantic Canada"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.festivalantigonish.ca/temporary/5a7e93ad-4999-4911-a479-650bda2436d3",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.festivalantigonish.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://www.festivalantigonish.ca/wp-content/uploads/2021/10/fast_logo_andrea_400px_white.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.festivalantigonish.ca/#workshop"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Festival Antigonish Summer Theatre"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g699900"
       }
     ]
   }
