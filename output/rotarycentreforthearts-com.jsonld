@@ -1,12 +1,12 @@
 [
   {
-    "@id": "_:g494900",
+    "@id": "_:g495360",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g494920"
+        "@id": "_:g495380"
       }
     ],
     "http://schema.org/name": [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "@id": "_:g494920",
+    "@id": "_:g495380",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/9498f089-f4e4-42a9-9317-32b4042cab17",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/40438f12-328f-4fae-b56d-47ac131e2772",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -56,12 +56,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-26T10:30:00-08:00"
+        "@value": "2025-11-27T19:00:00-08:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g494900"
+        "@id": "_:g495360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -91,13 +91,13 @@
     ]
   },
   {
-    "@id": "_:g545540",
+    "@id": "_:g545780",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g545560"
+        "@id": "_:g545800"
       }
     ],
     "http://schema.org/name": [
@@ -107,7 +107,7 @@
     ]
   },
   {
-    "@id": "_:g545560",
+    "@id": "_:g545800",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/8343c5f2-28e1-4bd5-bac6-366307e609e4",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/2d11b033-66d3-4daa-a465-d0a626bf6615",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -152,7 +152,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g545540"
+        "@id": "_:g545780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -182,13 +182,13 @@
     ]
   },
   {
-    "@id": "_:g555780",
+    "@id": "_:g555680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g555800"
+        "@id": "_:g555700"
       }
     ],
     "http://schema.org/name": [
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "@id": "_:g555800",
+    "@id": "_:g555700",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -226,7 +226,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/8e88901a-3bb4-4777-9327-43fda0bce6fc",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/12e68999-4f6a-405b-befb-23f39589e4d8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -243,7 +243,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g555780"
+        "@id": "_:g555680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -273,13 +273,13 @@
     ]
   },
   {
-    "@id": "_:g570360",
+    "@id": "_:g570100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g570380"
+        "@id": "_:g570120"
       }
     ],
     "http://schema.org/name": [
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "@id": "_:g570380",
+    "@id": "_:g570120",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -317,7 +317,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/2ba04442-8fc0-4d75-9ef5-c366cea17730",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/aa41ab1a-4b35-4599-abc0-724f8c4f9d8c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -334,7 +334,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g570360"
+        "@id": "_:g570100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -364,13 +364,13 @@
     ]
   },
   {
-    "@id": "_:g579520",
+    "@id": "_:g579800",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g579540"
+        "@id": "_:g579820"
       }
     ],
     "http://schema.org/name": [
@@ -380,7 +380,7 @@
     ]
   },
   {
-    "@id": "_:g579540",
+    "@id": "_:g579820",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/b8c37435-5740-425d-82dc-d7b64283f2d8",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/efc2cb1b-7f89-460f-a872-eb135f4e4c4c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -425,7 +425,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g579520"
+        "@id": "_:g579800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -455,13 +455,13 @@
     ]
   },
   {
-    "@id": "_:g590120",
+    "@id": "_:g590320",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g590140"
+        "@id": "_:g590340"
       }
     ],
     "http://schema.org/name": [
@@ -471,7 +471,7 @@
     ]
   },
   {
-    "@id": "_:g590140",
+    "@id": "_:g590340",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -499,7 +499,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/0425b5d8-fa8f-43be-9ecc-88fc83e829fb",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/07624d0c-1888-48d8-9a7d-083bb9b1c4a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -516,7 +516,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g590120"
+        "@id": "_:g590320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -546,13 +546,13 @@
     ]
   },
   {
-    "@id": "_:g599700",
+    "@id": "_:g599900",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g599720"
+        "@id": "_:g599920"
       }
     ],
     "http://schema.org/name": [
@@ -562,7 +562,7 @@
     ]
   },
   {
-    "@id": "_:g599720",
+    "@id": "_:g599920",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -590,7 +590,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/8584aa0d-1495-4fc2-a0ce-623f27e67d5b",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/2691456b-5cb0-4e2d-bab1-f9565bb016c9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -607,7 +607,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g599700"
+        "@id": "_:g599900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -637,13 +637,13 @@
     ]
   },
   {
-    "@id": "_:g613980",
+    "@id": "_:g614940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g614000"
+        "@id": "_:g614960"
       }
     ],
     "http://schema.org/name": [
@@ -653,7 +653,7 @@
     ]
   },
   {
-    "@id": "_:g614000",
+    "@id": "_:g614960",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -681,7 +681,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/702c3a4b-c0a6-42aa-a1a1-a4147215ef98",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/6ec8a452-02c3-434d-ba06-6fed0289b677",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -698,7 +698,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g613980"
+        "@id": "_:g614940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -728,13 +728,13 @@
     ]
   },
   {
-    "@id": "_:g624400",
+    "@id": "_:g625360",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g624420"
+        "@id": "_:g625380"
       }
     ],
     "http://schema.org/name": [
@@ -744,7 +744,7 @@
     ]
   },
   {
-    "@id": "_:g624420",
+    "@id": "_:g625380",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -772,7 +772,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/47e9fbf1-19cb-440a-878d-795b2f0bd43f",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/726d3f70-1936-4a26-94fe-29aba5f76219",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -789,7 +789,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g624400"
+        "@id": "_:g625360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -819,13 +819,13 @@
     ]
   },
   {
-    "@id": "_:g635460",
+    "@id": "_:g636460",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g635480"
+        "@id": "_:g636480"
       }
     ],
     "http://schema.org/name": [
@@ -835,7 +835,7 @@
     ]
   },
   {
-    "@id": "_:g635480",
+    "@id": "_:g636480",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -863,7 +863,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/ad85d5b1-9126-44e0-8c1f-a50782d48f5d",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/935c828c-fa90-4825-b910-e046fa7e1f4f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -880,7 +880,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g635460"
+        "@id": "_:g636460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -910,13 +910,13 @@
     ]
   },
   {
-    "@id": "_:g649060",
+    "@id": "_:g651620",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g649080"
+        "@id": "_:g651640"
       }
     ],
     "http://schema.org/name": [
@@ -926,7 +926,7 @@
     ]
   },
   {
-    "@id": "_:g649080",
+    "@id": "_:g651640",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -954,7 +954,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/cbc25a31-82f9-4a30-8b83-485f2d9120cf",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/29fe90db-8c2a-407d-8e38-2d537d5a3087",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -971,7 +971,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g649060"
+        "@id": "_:g651620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1001,13 +1001,13 @@
     ]
   },
   {
-    "@id": "_:g659500",
+    "@id": "_:g661360",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g659520"
+        "@id": "_:g661380"
       }
     ],
     "http://schema.org/name": [
@@ -1017,7 +1017,7 @@
     ]
   },
   {
-    "@id": "_:g659520",
+    "@id": "_:g661380",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1045,7 +1045,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/e45dd93c-4a25-4bc5-9750-22c1be5c1fdf",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/a3a9bf84-f1ba-4f62-8240-6521c6066478",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1062,7 +1062,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g659500"
+        "@id": "_:g661360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1092,13 +1092,13 @@
     ]
   },
   {
-    "@id": "_:g670660",
+    "@id": "_:g672620",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g670680"
+        "@id": "_:g672640"
       }
     ],
     "http://schema.org/name": [
@@ -1108,7 +1108,7 @@
     ]
   },
   {
-    "@id": "_:g670680",
+    "@id": "_:g672640",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1136,7 +1136,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/d8184ed8-eda2-49ef-a5f2-a496f3a23945",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/0afbfc42-0949-46ca-99f8-09efb413a25b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1153,7 +1153,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g670660"
+        "@id": "_:g672620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1183,13 +1183,13 @@
     ]
   },
   {
-    "@id": "_:g680960",
+    "@id": "_:g681560",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g680980"
+        "@id": "_:g681580"
       }
     ],
     "http://schema.org/name": [
@@ -1199,7 +1199,7 @@
     ]
   },
   {
-    "@id": "_:g680980",
+    "@id": "_:g681580",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1227,7 +1227,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/641e302d-bf2d-48a4-b59b-709eea6180b7",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/df32e382-edc1-47eb-912e-1e45701a54c2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1244,7 +1244,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g680960"
+        "@id": "_:g681560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1274,13 +1274,13 @@
     ]
   },
   {
-    "@id": "_:g694780",
+    "@id": "_:g696120",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g694800"
+        "@id": "_:g696140"
       }
     ],
     "http://schema.org/name": [
@@ -1290,7 +1290,7 @@
     ]
   },
   {
-    "@id": "_:g694800",
+    "@id": "_:g696140",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1318,7 +1318,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/d89f923b-a4d7-44e0-b72b-9fe2a1fb2f15",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/866a1ae1-f1b3-4b51-aa31-cad427541f9c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1335,7 +1335,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g694780"
+        "@id": "_:g696120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1365,13 +1365,13 @@
     ]
   },
   {
-    "@id": "_:g710060",
+    "@id": "_:g710660",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g710080"
+        "@id": "_:g710680"
       }
     ],
     "http://schema.org/name": [
@@ -1381,7 +1381,7 @@
     ]
   },
   {
-    "@id": "_:g710080",
+    "@id": "_:g710680",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1409,7 +1409,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/14c36ac9-d872-4a0a-81f7-0f201c13a19a",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/07ad6faa-4e64-4299-a00a-1b3ce66a747b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1426,7 +1426,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g710060"
+        "@id": "_:g710660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1456,13 +1456,13 @@
     ]
   },
   {
-    "@id": "_:g724900",
+    "@id": "_:g726380",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g724920"
+        "@id": "_:g726400"
       }
     ],
     "http://schema.org/name": [
@@ -1472,7 +1472,7 @@
     ]
   },
   {
-    "@id": "_:g724920",
+    "@id": "_:g726400",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1500,7 +1500,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/1213fee2-e1d5-43e2-98da-9186b345556d",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/246cfed2-08a9-4234-81f4-46b43dab915f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1517,7 +1517,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g724900"
+        "@id": "_:g726380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1547,13 +1547,13 @@
     ]
   },
   {
-    "@id": "_:g734540",
+    "@id": "_:g735820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g734560"
+        "@id": "_:g735840"
       }
     ],
     "http://schema.org/name": [
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "@id": "_:g734560",
+    "@id": "_:g735840",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1591,7 +1591,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/29790515-1b84-4d20-999f-a84c70311065",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/6f9d73f0-ff33-405b-89e7-aa4f2ec002cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1608,7 +1608,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g734540"
+        "@id": "_:g735820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1638,13 +1638,13 @@
     ]
   },
   {
-    "@id": "_:g749680",
+    "@id": "_:g750140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g749700"
+        "@id": "_:g750160"
       }
     ],
     "http://schema.org/name": [
@@ -1654,7 +1654,7 @@
     ]
   },
   {
-    "@id": "_:g749700",
+    "@id": "_:g750160",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1682,7 +1682,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/468b2a85-4387-4fb3-a9d7-d9e893acc540",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/cfe3c3bb-9bbd-483b-b0f9-8b4e3f320565",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1699,7 +1699,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g749680"
+        "@id": "_:g750140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1729,13 +1729,13 @@
     ]
   },
   {
-    "@id": "_:g764280",
+    "@id": "_:g765320",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g764300"
+        "@id": "_:g765340"
       }
     ],
     "http://schema.org/name": [
@@ -1745,7 +1745,7 @@
     ]
   },
   {
-    "@id": "_:g764300",
+    "@id": "_:g765340",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1773,7 +1773,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/9cc732d4-fe37-4cfb-9365-c9fcd1854c9b",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/1d8b62bb-0548-47c5-b151-8b76b21cb4ab",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1790,7 +1790,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g764280"
+        "@id": "_:g765320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1820,13 +1820,13 @@
     ]
   },
   {
-    "@id": "_:g773840",
+    "@id": "_:g774940",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g773860"
+        "@id": "_:g774960"
       }
     ],
     "http://schema.org/name": [
@@ -1836,7 +1836,7 @@
     ]
   },
   {
-    "@id": "_:g773860",
+    "@id": "_:g774960",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1864,7 +1864,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/0bf86d01-8bf0-4f07-b03d-c6fdd0d574db",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/491498c0-58e3-41d0-98b3-bfdbfdace904",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1881,7 +1881,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g773840"
+        "@id": "_:g774940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1911,13 +1911,13 @@
     ]
   },
   {
-    "@id": "_:g790240",
+    "@id": "_:g785340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g790260"
+        "@id": "_:g785360"
       }
     ],
     "http://schema.org/name": [
@@ -1927,7 +1927,7 @@
     ]
   },
   {
-    "@id": "_:g790260",
+    "@id": "_:g785360",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -1955,7 +1955,553 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/8036486f-bece-4df2-8d22-788968b6a5ee",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/ebf4db2d-71ad-4208-a3eb-584f472aafb0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/99c0fda5-0927-4f91-b526-e08eefd43d4e.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-27T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g785340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/rudolph25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rudolph the Red-Nosed Reindeer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join New Vintage Theatre in celebrating Rudolph’s 50 years on television and see all of your favorite characters from the TV special live onstage in this colorful musical. This wonderful holiday tradition is a story that teaches that what makes you different might just be what makes you special."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g795160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g795180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g795180",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/c1e85f70-d4f6-4b82-817c-f143cbd1756e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/d7ffc0ab-ba92-4d11-8cb6-325ea8ba3086.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g795160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/gingerbreadmen25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "An Evening with The Gingerbread Men"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Step into a nostalgic winter wonderland with The Gingerbread Men, a charming quartet performing holiday classics in vintage style. Enjoy timeless tunes like “White Christmas” and “Carol of the Bells,” paired with award-winning wines from Iconic Wineries of British Columbia. A heartwarming celebration destined to become your Christmas tradition."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g805440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g805460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g805460",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/db58e152-bb30-4035-a702-710205476376",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/ae92cc99-10a9-4f31-9e45-eac2679c4fed.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g805440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/moswinter25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mountains on Stage"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Mountains on Stage aims to bring the mountains to the city, to share the beauty of mountain sports! A selection of the best documentaries on mountain activities are presented."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g814920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g814940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g814940",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/8534b8e0-dcae-456f-af13-99a17ca44c34",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/5e589666-012a-4fd0-b2ce-b0a039aba0db.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g814920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/cmk-amarcord25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "amarcord, a capella ensemble"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Founded in 1992 by former members of St Thomas’s Boys\r\nChoir in Leipzig, amarcord is one of the world’s leading vocal\r\nensembles. This concert is a special holiday program of vocal works across the centuries from Europe, North America, and beyond."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g825040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g825060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g825060",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/34fda4d7-f439-4ef1-81b3-765c69fd8e59",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/ade20c8e-4c53-4195-9346-7f5a84433343.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-15T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g825040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/RCAMGT25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Montreal Guitar Trio"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "The Montreal Guitar Trio (MG3) surprises, amazes, exalts, and ignites audiences with their dynamic and breathtaking stage presence. They have brought together some of the best music to celebrate Christmas in their own ingenious, unique, and unbeatable way."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g839480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g839500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g839500",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/81d2ab75-4e7f-43c4-9b9e-1561c076da85",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/999e6502-f7b6-4aab-b29d-ccb86e21d07d.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-18T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g839480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/mdcnutcracker25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Artistic Director/Producer, Tanya Vadurova is pleased to announce: MISSION DANCE COMPANY will be bringing their annual enchanting and beautiful production of  “THE NUTCRACKER” to the stage this December 2025. Featuring guesting dancers of the OKANAGAN BALLET THEATRE along with special guests."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g857280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g857300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g857300",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/ecf0073d-7ca6-49cc-b529-83526e60a236",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1967,12 +2513,194 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-21T19:30:00-08:00"
+        "@value": ""
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g790240"
+        "@id": "_:g857280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/RCAChloeDavidson25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Chloe Davidson "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join Chloe Davidson and her band of beloved local musicians for an unforgettable evening celebrating the release of her second full-length record, This is Our Garden. The album ranges from orchestral-pop, piano ballads, and alt-rock to Pete Seeger-esque inspired folk songs that are written for people to sing together."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g867740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867740",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/8ae8544f-7a32-4bd9-a080-d2303d939c13",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/c70fedf4-8c0d-4e31-8e8c-66458d24ad51.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g867720"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://rotarycentreforthearts.com/events/event/RCAVCC25/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vancouver Chamber Choir "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Canada’s longest-running professional choir, the Vancouver Chamber Choir performs True North, a selection of choral works by composers from Canada, Estonia, Denmark, Latvia, and other northern countries. Each work, conducted by Kari Turunen, is inspired by the unique landscapes of northern regions."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g881380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g881400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rotary Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g881400",
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "421 Cawston Ave"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kelowna"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V1Y 6Z1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotarycentreforthearts.com/temporary/72a83727-1955-44e2-9fc1-a302b16be007",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://sysfilessacbe149174fee.blob.core.windows.net/public-container/clients/kelownacommunitytheatre/files/9b949e92-074a-4f13-a063-2173efbf81b8.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g881380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2002,13 +2730,13 @@
     ]
   },
   {
-    "@id": "_:g800760",
+    "@id": "_:g890440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g800780"
+        "@id": "_:g890460"
       }
     ],
     "http://schema.org/name": [
@@ -2018,7 +2746,7 @@
     ]
   },
   {
-    "@id": "_:g800780",
+    "@id": "_:g890460",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2046,7 +2774,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/0629d161-a700-4d93-9046-2d30f9119e0a",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/74fda9cf-1656-4a57-a539-78170b568ce5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2063,7 +2791,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g800760"
+        "@id": "_:g890440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2093,13 +2821,13 @@
     ]
   },
   {
-    "@id": "_:g815960",
+    "@id": "_:g900060",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g815980"
+        "@id": "_:g900080"
       }
     ],
     "http://schema.org/name": [
@@ -2109,7 +2837,7 @@
     ]
   },
   {
-    "@id": "_:g815980",
+    "@id": "_:g900080",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2137,7 +2865,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/1081b57f-8dd5-4378-8aaf-c5272165eec3",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/ef63c5f9-99e1-4488-9217-b1e7e20ec632",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2154,7 +2882,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g815960"
+        "@id": "_:g900060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2184,13 +2912,13 @@
     ]
   },
   {
-    "@id": "_:g832100",
+    "@id": "_:g910500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g832120"
+        "@id": "_:g910520"
       }
     ],
     "http://schema.org/name": [
@@ -2200,7 +2928,7 @@
     ]
   },
   {
-    "@id": "_:g832120",
+    "@id": "_:g910520",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2228,7 +2956,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/d934045d-e5a3-45af-83bf-55f5e09bc747",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/cd216305-fb85-4d67-b429-1506907e0fe3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2245,7 +2973,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g832100"
+        "@id": "_:g910500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2275,13 +3003,13 @@
     ]
   },
   {
-    "@id": "_:g841640",
+    "@id": "_:g919420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g841660"
+        "@id": "_:g919440"
       }
     ],
     "http://schema.org/name": [
@@ -2291,7 +3019,7 @@
     ]
   },
   {
-    "@id": "_:g841660",
+    "@id": "_:g919440",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2319,7 +3047,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/061e0d6a-7359-482c-b019-4a846e66a587",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/dcd017bc-a7c1-422f-86e4-5803d54c6c83",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2336,7 +3064,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g841640"
+        "@id": "_:g919420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2366,13 +3094,13 @@
     ]
   },
   {
-    "@id": "_:g851280",
+    "@id": "_:g929140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g851300"
+        "@id": "_:g929160"
       }
     ],
     "http://schema.org/name": [
@@ -2382,7 +3110,7 @@
     ]
   },
   {
-    "@id": "_:g851300",
+    "@id": "_:g929160",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2410,7 +3138,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/001a6a81-eb0e-4c42-b46b-ae85c2f00d68",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/8b87328e-ac30-4ab9-af9a-fb75a25dc2bf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2427,7 +3155,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g851280"
+        "@id": "_:g929140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2457,13 +3185,13 @@
     ]
   },
   {
-    "@id": "_:g860960",
+    "@id": "_:g938100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g860980"
+        "@id": "_:g938120"
       }
     ],
     "http://schema.org/name": [
@@ -2473,7 +3201,7 @@
     ]
   },
   {
-    "@id": "_:g860980",
+    "@id": "_:g938120",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2501,7 +3229,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/4976b48a-fa76-4f3b-b3d4-a46b9329bd51",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/0311ae3e-9b2c-4ce2-a9c3-f13fa4cd1a08",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2518,7 +3246,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g860960"
+        "@id": "_:g938100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2548,13 +3276,13 @@
     ]
   },
   {
-    "@id": "_:g876220",
+    "@id": "_:g952500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g876240"
+        "@id": "_:g952520"
       }
     ],
     "http://schema.org/name": [
@@ -2564,7 +3292,7 @@
     ]
   },
   {
-    "@id": "_:g876240",
+    "@id": "_:g952520",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2592,7 +3320,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/15a4c639-4ba4-4315-b303-7861e5418afb",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/514a5910-f7a1-4fee-9faf-2893001257ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2609,7 +3337,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g876220"
+        "@id": "_:g952500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2639,13 +3367,13 @@
     ]
   },
   {
-    "@id": "_:g885880",
+    "@id": "_:g961880",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g885900"
+        "@id": "_:g961900"
       }
     ],
     "http://schema.org/name": [
@@ -2655,7 +3383,7 @@
     ]
   },
   {
-    "@id": "_:g885900",
+    "@id": "_:g961900",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2683,7 +3411,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/8b56f5d2-9461-4f3a-9b47-0344d040843a",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/ec419205-da99-490d-b7a3-5eaa70e59f70",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2700,7 +3428,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g885880"
+        "@id": "_:g961880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2730,13 +3458,13 @@
     ]
   },
   {
-    "@id": "_:g896520",
+    "@id": "_:g971580",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g896540"
+        "@id": "_:g971600"
       }
     ],
     "http://schema.org/name": [
@@ -2746,7 +3474,7 @@
     ]
   },
   {
-    "@id": "_:g896540",
+    "@id": "_:g971600",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2774,7 +3502,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/9d59a1f7-e6b1-4332-8767-1fe4f9c9a58d",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/f23162a9-21b6-4052-83dd-071c1a55a516",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2791,7 +3519,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g896520"
+        "@id": "_:g971580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2821,13 +3549,13 @@
     ]
   },
   {
-    "@id": "_:g907780",
+    "@id": "_:g982720",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g907800"
+        "@id": "_:g982740"
       }
     ],
     "http://schema.org/name": [
@@ -2837,7 +3565,7 @@
     ]
   },
   {
-    "@id": "_:g907800",
+    "@id": "_:g982740",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2865,7 +3593,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/0e6f7bc6-2fd0-4aa5-855d-4e0acdaec439",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/f7acfeef-be9a-4345-80d2-374edd8d0804",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2882,7 +3610,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g907780"
+        "@id": "_:g982720"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2912,13 +3640,13 @@
     ]
   },
   {
-    "@id": "_:g922540",
+    "@id": "_:g996920",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g922560"
+        "@id": "_:g996940"
       }
     ],
     "http://schema.org/name": [
@@ -2928,7 +3656,7 @@
     ]
   },
   {
-    "@id": "_:g922560",
+    "@id": "_:g996940",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -2956,7 +3684,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/dc17499c-5028-4d24-b20f-98dc40bad49d",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/d47d32c9-197c-403d-b5fa-0d0e9f73ab64",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2973,7 +3701,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g922540"
+        "@id": "_:g996920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3003,13 +3731,13 @@
     ]
   },
   {
-    "@id": "_:g932060",
+    "@id": "_:g1007140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g932080"
+        "@id": "_:g1007160"
       }
     ],
     "http://schema.org/name": [
@@ -3019,7 +3747,7 @@
     ]
   },
   {
-    "@id": "_:g932080",
+    "@id": "_:g1007160",
     "http://schema.org/streetAddress": [
       {
         "@value": "421 Cawston Ave"
@@ -3047,7 +3775,7 @@
     ]
   },
   {
-    "@id": "https://www.rotarycentreforthearts.com/temporary/9438fb25-e3bd-453a-a409-463fcb09e807",
+    "@id": "https://www.rotarycentreforthearts.com/temporary/94123041-ba13-4997-bda8-f2c23769d0de",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3064,7 +3792,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g932060"
+        "@id": "_:g1007140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
