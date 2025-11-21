@@ -1,0 +1,409 @@
+[
+  {
+    "@id": "https://harbourfrontcentre.com/event/dragons-tale/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Tapestry Opera -"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Dragon’s Tale - Tapestry Opera"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Performed on Toronto’s waterfront, Dragon's Tale celebrates the origin of Dragon Boat racing. Dragon’s Tale dives into the rich and sometimes tense dynamics of first and second-generation immigrants, exploring the fable of Chinese poet Qu Yuan as a foil to the journey of a young Chinese-Canadian woman Xiao Liang and her ailing father. Undeniably, Dragon’s"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://tapestryopera.com/performances/dragons-tale/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://tapestryopera.com/wp-content/uploads/2023/06/Dragon_SocialCards_Sep2022-e1670254510403.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://tapestryopera.com/wp-content/uploads/2023/06/Dragon_SocialCards_Sep2022-e1670254510403.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "501"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "499"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2022-09-26T13:08:28+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2023-06-21T14:33:47+00:00"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/TapestryOpera/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://tapestryopera.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://harbourfrontcentre.com/event/dragons-tale/"
+      }
+    ]
+  },
+  {
+    "@id": "https://tapestryopera.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tapestryopera.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://tapestryopera.com/performances/dragons-tale/#organizationLogo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://tapestryopera.com/performances/dragons-tale/#organizationLogo"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/TapestryOpera/"
+      },
+      {
+        "@id": "https://twitter.com/TapestryOpera"
+      },
+      {
+        "@id": "https://www.instagram.com/tapestryopera/"
+      },
+      {
+        "@id": "https://www.tiktok.com/@tapestryopera"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/tapestry-opera"
+      },
+      {
+        "@id": "https://en.wikipedia.org/wiki/Tapestry_Opera"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Tapestry Opera"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "info@tapestryopera.com"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+14165376066"
+      }
+    ]
+  },
+  {
+    "@id": "https://tapestryopera.com/performances/dragons-tale/#organizationLogo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tapestryopera.com/wp-content/uploads/2019/09/logo-tapestry-teal.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2180"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1046"
+      }
+    ]
+  },
+  {
+    "@id": "https://tapestryopera.com/performances/dragons-tale/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tapestryopera.com/performances/dragons-tale/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://tapestryopera.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://tapestryopera.com/performances/dragons-tale/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://tapestryopera.com/performances/dragons-tale/#mainImage"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://tapestryopera.com/performances/dragons-tale/#mainImage"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-15T00:00:00-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-21T10:33:47-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://harbourfrontcentre.com/event/dragons-tale/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dragon’s Tale - Tapestry Opera"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Performed on Toronto’s waterfront, Dragon's Tale celebrates the origin of Dragon Boat racing. Dragon’s Tale dives into the rich and sometimes tense dynamics of first and second-generation immigrants, exploring the fable of Chinese poet Qu Yuan as a foil to the journey of a young Chinese-Canadian woman Xiao Liang and her ailing father. Undeniably, Dragon’s"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://tapestryopera.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tapestryopera.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://tapestryopera.com/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Tapestry Opera"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://tapestryopera.com/performances/dragons-tale/#mainImage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tapestryopera.com/wp-content/uploads/2023/06/Dragon_SocialCards_Sep2022-e1670254510403.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "501"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "499"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Dragon's Tale Final Landscape"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2826420",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sandra Brewster"
+      }
+    ]
+  },
+  {
+    "@id": "https://harbourfrontcentre.com/event/a-place-to-put-your-things/",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "By Way of Communion - The Power Plant"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Click here to explore By Way Of Communion exhibition at The Power Plant. Sandra Brewster transforms The Fleck Clerestory into a world made out of memories."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://strapi-uploads-the-power-plant-live.s3.ca-central-1.amazonaws.com/HAF_2206_9e31a407ca.jpg"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "By Way of Communion - The Power Plant"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://harbourfrontcentre.com/event/a-place-to-put-your-things/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.harbourfrontcentre.com/temporary/30d08ce0-0a1d-4f93-b88b-f3f99a8235bd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://strapi-uploads-the-power-plant-live.s3.ca-central-1.amazonaws.com/HAF_2206_9e31a407ca.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-02-05T05:00:00.000Z"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-01-01T05:00:00.000Z"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g2826420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://harbourfrontcentre.com/event/a-place-to-put-your-things/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "By Way of Communion"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Click here to explore By Way Of Communion exhibition at The Power Plant. Sandra Brewster transforms The Fleck Clerestory into a world made out of memories."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
