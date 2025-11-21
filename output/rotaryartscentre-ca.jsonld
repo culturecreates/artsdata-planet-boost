@@ -1,0 +1,4544 @@
+[
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/mad-house-sandy-devine",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Mad House, Sandy Devine | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_c046a6be99364ded8d2bcbf2b4751f0f~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_c046a6be99364ded8d2bcbf2b4751f0f~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/mad-house-sandy-devine"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/mad-house-sandy-devine"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "500 Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460900",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.234Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/mad-house-sandy-devine"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460920"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460920",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.234Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/mad-house-sandy-devine"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g460940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_c046a6be99364ded8d2bcbf2b4751f0f~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_c046a6be99364ded8d2bcbf2b4751f0f~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/bcc4b05d-c862-4b81-bdb2-40c74a02fb1e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-11T21:00:33-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460900"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g460940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/mad-house-sandy-devine"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mad House, Sandy Devine"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/craig-handey-jen-cannon",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Craig Handey, Jen Cannon | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_48ab8ea0a2764bbbb827d5a6895dffc7~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_48ab8ea0a2764bbbb827d5a6895dffc7~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/craig-handey-jen-cannon"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/craig-handey-jen-cannon"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "500 Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469140",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.212Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/craig-handey-jen-cannon"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g469160"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469160",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.212Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/craig-handey-jen-cannon"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g469180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_48ab8ea0a2764bbbb827d5a6895dffc7~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_48ab8ea0a2764bbbb827d5a6895dffc7~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/c68fb37a-85a0-4766-abe5-8f90cc930981",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-05T21:00:21-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469120"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g469140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g469180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/craig-handey-jen-cannon"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Craig Handey, Jen Cannon"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/jose-broxton-suzy-snell",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Jose Broxton, Suzy Snell | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_24f063e605e94a0da29f9150ec711af1~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_24f063e605e94a0da29f9150ec711af1~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/jose-broxton-suzy-snell"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/jose-broxton-suzy-snell"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "500 Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.336Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/jose-broxton-suzy-snell"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477300"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477300",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.336Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/jose-broxton-suzy-snell"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g477320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_24f063e605e94a0da29f9150ec711af1~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_24f063e605e94a0da29f9150ec711af1~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/90582ffd-fa93-4316-9504-ced225a0272a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-11T22:00:13-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g477260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g477320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/jose-broxton-suzy-snell"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jose Broxton, Suzy Snell"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/folkit-shirley-montague-charlie-payne-and-wayne-parson",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Folkit - Shirley Montague, Charlie Payne, and Wayne Parson | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "FOLKIT is bound to light up the stage with some familiar and uplifting music."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/a7cb62_e2c506fb6c2f4c91ac8f2fb979d99279~mv2.jpg/v1/fill/w_3000,h_1661,al_c,q_90/a7cb62_e2c506fb6c2f4c91ac8f2fb979d99279~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "3000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1661"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/folkit-shirley-montague-charlie-payne-and-wayne-parson"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/folkit-shirley-montague-charlie-payne-and-wayne-parson"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Corner Brook"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "5 Park St, Corner Brook, NL A2H 2W9, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485400",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.192Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/folkit-shirley-montague-charlie-payne-and-wayne-parson"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485420"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485420",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.192Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/folkit-shirley-montague-charlie-payne-and-wayne-parson"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g485440",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/a7cb62_e2c506fb6c2f4c91ac8f2fb979d99279~mv2.jpg/v1/fill/w_3000,h_1661,al_c,q_90/a7cb62_e2c506fb6c2f4c91ac8f2fb979d99279~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "3000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1661"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/a915936b-a9a7-48bb-bf64-a85fbd38c26f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-11-16T20:00:13-03:30"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-11-16T22:00:13-03:30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g485380"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485400"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g485440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/folkit-shirley-montague-charlie-payne-and-wayne-parson"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folkit - Shirley Montague, Charlie Payne, and Wayne Parson"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "FOLKIT is bound to light up the stage with some familiar and uplifting music."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/open-mic-night",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Open Mic Night | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_03bf5e7420ef449484454fc68f255599~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_03bf5e7420ef449484454fc68f255599~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/open-mic-night"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/open-mic-night"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493640",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.275Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/open-mic-night"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g493660"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493660",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.275Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/open-mic-night"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g493680",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_03bf5e7420ef449484454fc68f255599~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_03bf5e7420ef449484454fc68f255599~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/ee88dae5-f074-4d47-815f-8ec58173eb1b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-26T21:00:11-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g493620"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g493640"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g493680"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/open-mic-night"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Open Mic Night"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/karla-pilgrim",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Karla Pilgrim | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Three time MusicNL award winner and two time ECMA nominee, Karla Pilgrim has spent the last 15 years winning over audiences from coast to coast. From performing for troops in The Middle East to opening multiple sold out shows for country music superstar Tim McGraw at the Mile One Stadium in St. John"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/a7cb62_8ab4e10a8da940d58f7cfcf1486fe951~mv2.webp/v1/fill/w_940,h_470,al_c/a7cb62_8ab4e10a8da940d58f7cfcf1486fe951~mv2.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "470"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/karla-pilgrim"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/karla-pilgrim"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Corner Brook"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "5 Park St, Corner Brook, NL A2H 2W9, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501960",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.155Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/karla-pilgrim"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g501980"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501980",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.155Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/karla-pilgrim"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g502000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/a7cb62_8ab4e10a8da940d58f7cfcf1486fe951~mv2.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "470"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/a0c71067-67f3-48e2-9895-90fb6e57eacb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-11-10T20:00:13-03:30"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-11-10T22:00:13-03:30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g501940"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g501960"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g502000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/karla-pilgrim"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Karla Pilgrim"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Three time MusicNL award winner and two time ECMA nominee, Karla Pilgrim has spent the last 15 years winning over audiences from coast to coast. From performing for troops in The Middle East to opening multiple sold out shows for country music superstar Tim McGraw at the Mile One Stadium in St. John"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/kiki-sisters-mcqueen",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Kiki, Sisters McQueen | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_881b82f18f8d4573b849f28521456371~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_881b82f18f8d4573b849f28521456371~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/kiki-sisters-mcqueen"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/kiki-sisters-mcqueen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "500 Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510460",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.315Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/kiki-sisters-mcqueen"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g510480"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510480",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.315Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/kiki-sisters-mcqueen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g510500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_881b82f18f8d4573b849f28521456371~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_881b82f18f8d4573b849f28521456371~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/8b60a009-c051-4fb4-ae8f-c1e529240554",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-09T21:00:16-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510440"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g510460"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g510500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/kiki-sisters-mcqueen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kiki, Sisters McQueen"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/adalberto-crow-leah-haas",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Adalberto Crow, Leah Haas | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_11af7c259e244a569073e05f53eb8476~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_11af7c259e244a569073e05f53eb8476~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/adalberto-crow-leah-haas"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/adalberto-crow-leah-haas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "500 Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518600",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.254Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/adalberto-crow-leah-haas"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g518620"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518620",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.254Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/adalberto-crow-leah-haas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g518640",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_11af7c259e244a569073e05f53eb8476~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_11af7c259e244a569073e05f53eb8476~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/26227a5e-7e12-4d31-b658-9904f3374c2c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-13T21:00:28-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g518580"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g518600"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g518640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/adalberto-crow-leah-haas"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Adalberto Crow, Leah Haas"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/events/fraggie-gabe-jingles",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fraggie, Gabe Jingles | Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event.</p>"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c22c23_174cfcaf1e8043b99732aa7ac28e5161~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_174cfcaf1e8043b99732aa7ac28e5161~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/events/fraggie-gabe-jingles"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/fraggie-gabe-jingles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chuckle"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "500 Terry A Francois Blvd, San Francisco, CA 94158, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526740",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.295Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/fraggie-gabe-jingles"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g526760"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526760",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-17T13:59:16.295Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/fraggie-gabe-jingles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": " General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30.75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g526780",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c22c23_174cfcaf1e8043b99732aa7ac28e5161~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_90/c22c23_174cfcaf1e8043b99732aa7ac28e5161~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/19614adb-d282-42cc-9b17-1ddf2ce6ed3d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-06-01T22:00:26-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g526720"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g526740"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g526780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/events/fraggie-gabe-jingles"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fraggie, Gabe Jingles"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/inspiration-of-many-forms",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Inspiration of many forms"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Esther Oosterbaan’s journey to Newfoundland is as rich and textured as the landscape that now fuels her creativity. Born and raised in Amsterdam, she trained as a classical musician before life brought her to British Columbia—where falling in love with a Newfoundlander changed her course for good. Today, she calls Stephenville home, and her artistic practice continues to evolve in dialogue with the place she now loves.Esther’s latest exhibition, INSPIRATION, currently on display in the OPEN Gall"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_3f838bd7bcf143888ce5ccff05e49733~mv2.jpeg/v1/fill/w_1000,h_491,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_3f838bd7bcf143888ce5ccff05e49733~mv2.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1800"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "884"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/inspiration-of-many-forms"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/inspiration-of-many-forms"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2025-05-07T12:44:58.256Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-05-07T12:44:58.256Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g553280",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_3f838bd7bcf143888ce5ccff05e49733~mv2.jpeg/v1/fill/w_1000,h_491,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_3f838bd7bcf143888ce5ccff05e49733~mv2.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "884"
+      }
+    ]
+  },
+  {
+    "@id": "_:g553320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/a74fdf07-5602-4af7-b003-a710d791143e",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g553280"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-07T12:44:58.256Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-07T12:44:58.256Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/inspiration-of-many-forms"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/inspiration-of-many-forms"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g553300"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g553320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/inspiration-of-many-forms"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Inspiration of many forms"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Esther Oosterbaan’s journey to Newfoundland is as rich and textured as the landscape that now fuels her creativity. Born and raised in Amsterdam, she trained as a classical musician before life brought her to British Columbia—where falling in love with a Newfoundlander changed her course for good. Today, she calls Stephenville home, and her artistic practice continues to evolve in dialogue with the place she now loves.Esther’s latest exhibition, INSPIRATION, currently on display in the OPEN Gall"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/produce-printing-with-hannah-langille",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Produce Printing With Hannah Langille"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Vocabulary:Printmaking - an art-making process where an image or a patternis copied onto another surface, essentially a stamp!Scraps - a small part of an item that’s a larger majority hasalready been used.On March 12th from 4:00 - 6:00 pm at the Rotary Arts Centre, my workshop titled “Produce Printing” opens up a new dialogue on the issue of food waste, overconsumption, and environmental sustainability. I’ve come up with guiding questions for those participating in the workshop, \"How can we make"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_16d6c78040174eef99ec6b46fc809c7d~mv2.png/v1/fill/w_562,h_1000,al_c,q_90,usm_0.66_1.00_0.01/6f84ab_16d6c78040174eef99ec6b46fc809c7d~mv2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "952"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1694"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/produce-printing-with-hannah-langille"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/produce-printing-with-hannah-langille"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-03T16:05:22.491Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-03T16:05:22.491Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g562100",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_16d6c78040174eef99ec6b46fc809c7d~mv2.png/v1/fill/w_562,h_1000,al_c,q_90,usm_0.66_1.00_0.01/6f84ab_16d6c78040174eef99ec6b46fc809c7d~mv2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "952"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1694"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562140",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/83a39fa1-d799-4cf1-853b-fd6f20679712",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g562100"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-03T16:05:22.491Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-03T16:05:22.491Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/produce-printing-with-hannah-langille"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/produce-printing-with-hannah-langille"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g562120"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g562140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/produce-printing-with-hannah-langille"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Produce Printing With Hannah Langille"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Vocabulary:Printmaking - an art-making process where an image or a patternis copied onto another surface, essentially a stamp!Scraps - a small part of an item that’s a larger majority hasalready been used.On March 12th from 4:00 - 6:00 pm at the Rotary Arts Centre, my workshop titled “Produce Printing” opens up a new dialogue on the issue of food waste, overconsumption, and environmental sustainability. I’ve come up with guiding questions for those participating in the workshop, &quot;How can we make"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/mary-spins",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "MARY SPINS"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Robert started his classical training at MUN. “I trained in Tuba but never was so good at it,” he says. “I always just wanted to be a composer.”Robert uses the name R Sheaves as his stage name for his alternative folk/rock music. This is in order to differentiate it from his experimental classical music. “I do like having these two sides of my creative practice; they really feed into each other,” he says. The slow down of the pandemic gave Robert the opportunity he needed to explore his songwrit"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_c07956e1535b4b50b728dd9235f957e2~mv2.jpg/v1/fill/w_647,h_1000,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_c07956e1535b4b50b728dd9235f957e2~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1838"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "2843"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/mary-spins"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/mary-spins"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2025-02-25T19:55:03.829Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-02-26T13:58:06.305Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g571260",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571280",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_c07956e1535b4b50b728dd9235f957e2~mv2.jpg/v1/fill/w_647,h_1000,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_c07956e1535b4b50b728dd9235f957e2~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1838"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "2843"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/17eee3a5-3154-4298-aa28-5bf57b219b6e",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g571260"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-26T13:58:06.305Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-25T19:55:03.829Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/mary-spins"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/mary-spins"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g571280"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g571300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/mary-spins"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "MARY SPINS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Robert started his classical training at MUN. “I trained in Tuba but never was so good at it,” he says. “I always just wanted to be a composer.”Robert uses the name R Sheaves as his stage name for his alternative folk/rock music. This is in order to differentiate it from his experimental classical music. “I do like having these two sides of my creative practice; they really feed into each other,” he says. The slow down of the pandemic gave Robert the opportunity he needed to explore his songwrit"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/the-land-of-the-frozen-mountains",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Land of the Frozen Mountains"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "We are honored to have Oluwakemi David-Anaikot (Kemi) give her personal insight to the expreiance of coming to our comminty and starting a new chapter of her personal journey. Kemi, along side a panel of wonderful readers, writers and preformers will be taking our stage for The Black History Month Celebration , in collaberation with The Black Student Cacus on Friday, February 28th starting at 7:30pm\"The three-hour flight to Deer Lake Airport felt like an eternity. As the plane soared through the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_5f9f5eb8955f45f0bc96ac714a01d038~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_5f9f5eb8955f45f0bc96ac714a01d038~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "4608"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "3456"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/the-land-of-the-frozen-mountains"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/the-land-of-the-frozen-mountains"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2025-02-19T14:31:15.363Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-02-19T14:31:15.363Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g580600",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580620",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_5f9f5eb8955f45f0bc96ac714a01d038~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_5f9f5eb8955f45f0bc96ac714a01d038~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "4608"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "3456"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580640",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/6da631ba-d25d-4444-829f-6841579be937",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g580600"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-19T14:31:15.363Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-19T14:31:15.363Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/the-land-of-the-frozen-mountains"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/the-land-of-the-frozen-mountains"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g580620"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g580640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/the-land-of-the-frozen-mountains"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "The Land of the Frozen Mountains"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "We are honored to have Oluwakemi David-Anaikot (Kemi) give her personal insight to the expreiance of coming to our comminty and starting a new chapter of her personal journey. Kemi, along side a panel of wonderful readers, writers and preformers will be taking our stage for The Black History Month Celebration , in collaberation with The Black Student Cacus on Friday, February 28th starting at 7:30pm&quot;The three-hour flight to Deer Lake Airport felt like an eternity. As the plane soared through the"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/bethany-mackenzie-de-composing-identity-heritage-and-place",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Bethany MacKenzie: (DE)COMPOSING Identity, Heritage, and Place"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Bethany MacKenzie (she/they) is a Queer Settler, emerging artist, and arts administrator whose practice navigates the intersections of identity, history, and land-based relationships. Currently based in eastern Ktaqmkuk, on the unceded homelands of the Beothuk and the Mi’kmaq (colonially known as Newfoundland), MacKenzie’s work seeks to unravel inherited narratives and reconstruct them through a lens of vulnerability, critique, and reclamation.A graduate of Memorial University of Newfoundland an"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_c4c3d208471645038f28d51d0f041748~mv2.gif/v1/fill/w_1677,h_1471,al_c/6f84ab_c4c3d208471645038f28d51d0f041748~mv2.gif"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1677"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1471"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/bethany-mackenzie-de-composing-identity-heritage-and-place"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/bethany-mackenzie-de-composing-identity-heritage-and-place"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2025-01-09T17:03:50.773Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-01-09T17:05:43.166Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g589680",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g589700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_c4c3d208471645038f28d51d0f041748~mv2.gif"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1677"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1471"
+      }
+    ]
+  },
+  {
+    "@id": "_:g589720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/f0428d4c-28b8-4ddc-a8f9-2d80a98c89be",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g589680"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-09T17:05:43.166Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-09T17:03:50.773Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/bethany-mackenzie-de-composing-identity-heritage-and-place"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/bethany-mackenzie-de-composing-identity-heritage-and-place"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g589700"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g589720"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/bethany-mackenzie-de-composing-identity-heritage-and-place"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Bethany MacKenzie: (DE)COMPOSING Identity, Heritage, and Place"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Bethany MacKenzie (she/they) is a Queer Settler, emerging artist, and arts administrator whose practice navigates the intersections of identity, history, and land-based relationships. Currently based in eastern Ktaqmkuk, on the unceded homelands of the Beothuk and the Mi’kmaq (colonially known as Newfoundland), MacKenzie’s work seeks to unravel inherited narratives and reconstruct them through a lens of vulnerability, critique, and reclamation.A graduate of Memorial University of Newfoundland an"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/stitching-together-keeps-us-young",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Stitching Together Keeps Us Young"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "“We are not governed by age. It is only a number. We are governed by how much we can and are willing to do,” says Joanne Peddle, a member of the Smile, Stitch and Stay art group. “I think a lot of people in the generation before us, they stopped living when they were sixty-five or seventy, whereas our generation is striving to go forward.”Being creative, being together, and staying active into their senior years are some of the driving forces behind this group of artists whose work is now in the"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_45e987bc2790406586d0887b780311ca~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_45e987bc2790406586d0887b780311ca~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1365"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/stitching-together-keeps-us-young"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/stitching-together-keeps-us-young"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2025-01-27T17:13:40.141Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-01-27T17:13:40.141Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g599900",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g599920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_45e987bc2790406586d0887b780311ca~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_45e987bc2790406586d0887b780311ca~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1365"
+      }
+    ]
+  },
+  {
+    "@id": "_:g599940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/c8ef6253-97a0-4e40-9b03-ccb6e1668c1e",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g599900"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T17:13:40.141Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T17:13:40.141Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/stitching-together-keeps-us-young"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/stitching-together-keeps-us-young"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g599920"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g599940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/stitching-together-keeps-us-young"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Stitching Together Keeps Us Young "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“We are not governed by age. It is only a number. We are governed by how much we can and are willing to do,” says Joanne Peddle, a member of the Smile, Stitch and Stay art group. “I think a lot of people in the generation before us, they stopped living when they were sixty-five or seventy, whereas our generation is striving to go forward.”Being creative, being together, and staying active into their senior years are some of the driving forces behind this group of artists whose work is now in the"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/echinoderms-cephalopods-and-whales-oh-my",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Echinoderms, Cephalopods, and Whales, Oh My!"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "“I really wanted to incorporate a lot of my background growing up in Newfoundland into my artwork,” says Brittney Stuckless, “but I also wanted to incorporate my marine biology education.” Brittney’s studies influenced her artistic interest in sea creatures. “I worked specifically with echinoderms, like deep-sea sea-stars, and gastropods, like marine snails,” says Brittney. “so I like the weird animals. I like cephalopods like squids too!\" This is reflected in the animals that Brittany chooses t"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_761ad0d7a0f044c8abe061032b5c7508~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_761ad0d7a0f044c8abe061032b5c7508~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1365"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/echinoderms-cephalopods-and-whales-oh-my"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/echinoderms-cephalopods-and-whales-oh-my"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-12-18T20:24:02.959Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-12-19T16:27:38.205Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g609900",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g609920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_761ad0d7a0f044c8abe061032b5c7508~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_761ad0d7a0f044c8abe061032b5c7508~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2048"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1365"
+      }
+    ]
+  },
+  {
+    "@id": "_:g609940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/bce4a8bc-b2d2-4c29-8551-c8e8490c71aa",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g609900"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-19T16:27:38.205Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-18T20:24:02.959Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/echinoderms-cephalopods-and-whales-oh-my"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/echinoderms-cephalopods-and-whales-oh-my"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g609920"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g609940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/echinoderms-cephalopods-and-whales-oh-my"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Echinoderms, Cephalopods, and Whales, Oh My!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“I really wanted to incorporate a lot of my background growing up in Newfoundland into my artwork,” says Brittney Stuckless, “but I also wanted to incorporate my marine biology education.” Brittney’s studies influenced her artistic interest in sea creatures. “I worked specifically with echinoderms, like deep-sea sea-stars, and gastropods, like marine snails,” says Brittney. “so I like the weird animals. I like cephalopods like squids too!&quot; This is reflected in the animals that Brittany chooses t"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/community-pottery-class",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Community Pottery Class"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "In the fall of 2024, Rotary Arts Centre entered into a partnership with the Association of New Canadians to offer a free Community Pottery class. “We wanted to bring together longer term community members with new community members to build relationships,” said RAC Executive Director Nicole Fougère. “We also knew that the cost of art classes can be a barrier for some community members and we wanted to make sure that arts and creativity can be accessed by everyone.”Over three weeks the students g"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_6d3cf0cdb6574d41be53d35f126d96df~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_6d3cf0cdb6574d41be53d35f126d96df~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "5380"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "3587"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/community-pottery-class"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/community-pottery-class"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-11-27T18:48:45.705Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-11-27T18:55:16.827Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g618700",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618720",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_6d3cf0cdb6574d41be53d35f126d96df~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_6d3cf0cdb6574d41be53d35f126d96df~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "5380"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "3587"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618740",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/dc798928-8bb5-4524-81fa-d76e48a747f1",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g618700"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-27T18:55:16.827Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-27T18:48:45.705Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/community-pottery-class"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/community-pottery-class"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g618720"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g618740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/community-pottery-class"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Community Pottery Class"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In the fall of 2024, Rotary Arts Centre entered into a partnership with the Association of New Canadians to offer a free Community Pottery class. “We wanted to bring together longer term community members with new community members to build relationships,” said RAC Executive Director Nicole Fougère. “We also knew that the cost of art classes can be a barrier for some community members and we wanted to make sure that arts and creativity can be accessed by everyone.”Over three weeks the students g"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/emerging-artists-share-their-music",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Emerging Artists Share their Music"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "“I wrote my first song when I was 12 and I am 16 now,” says singer/songwriter Deah-Lee Robertson. “I like songwriting because I feel like I can get my thoughts out and express myself through music.”She is part of the Rotary Arts Centre new Emerging Artist Program. She, along with several other up-and-coming young musicians have had many opportunities to perform on the RAC stage this year. “I have really been enjoying collaborating with other young artists,” says Kyah Goold. “All of the artists w"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_444ebf4aee02492792f7e0c9722d7efd~mv2.jpg/v1/fill/w_916,h_685,al_c,q_85/6f84ab_444ebf4aee02492792f7e0c9722d7efd~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "916"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "685"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/emerging-artists-share-their-music"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/emerging-artists-share-their-music"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-12-10T19:45:52.933Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-12-16T20:25:24.064Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g627940",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g627960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_444ebf4aee02492792f7e0c9722d7efd~mv2.jpg/v1/fill/w_916,h_685,al_c,q_85/6f84ab_444ebf4aee02492792f7e0c9722d7efd~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "916"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "685"
+      }
+    ]
+  },
+  {
+    "@id": "_:g627980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/03eda324-256b-4fdc-86ca-06c9b5313391",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g627940"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-16T20:25:24.064Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-10T19:45:52.933Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/emerging-artists-share-their-music"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/emerging-artists-share-their-music"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g627960"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g627980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/emerging-artists-share-their-music"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Emerging Artists Share their Music"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“I wrote my first song when I was 12 and I am 16 now,” says singer/songwriter Deah-Lee Robertson. “I like songwriting because I feel like I can get my thoughts out and express myself through music.”She is part of the Rotary Arts Centre new Emerging Artist Program. She, along with several other up-and-coming young musicians have had many opportunities to perform on the RAC stage this year. “I have really been enjoying collaborating with other young artists,” says Kyah Goold. “All of the artists w"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/have-met-shannyn-reid",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Have you met Shannyn Reid?"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Shannyn Reid is a visual artist who is currently working out of one of the studio spaces at the Rotary Arts Centre.She has recently completed her Master of Fine Arts, and is continuing with a series that started during that time, creating embroidered grocery bags with organza fabric. Reid has made a variety of bags, including a 1:1 scale Sobeys bag that took 300 hours to complete, and an oversized Walmart bag (embroidered with wool) that completely covers the wall in her studio. A precursor to t"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_6233bad32f95478f99f82269949edb67~mv2.jpg/v1/fill/w_750,h_1000,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_6233bad32f95478f99f82269949edb67~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "3292"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "4389"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/have-met-shannyn-reid"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/have-met-shannyn-reid"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-12-12T19:26:58.914Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-12-12T19:46:24.069Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g637180",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g637200",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_6233bad32f95478f99f82269949edb67~mv2.jpg/v1/fill/w_750,h_1000,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_6233bad32f95478f99f82269949edb67~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "3292"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "4389"
+      }
+    ]
+  },
+  {
+    "@id": "_:g637220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/7eb1c35a-36c9-482e-b660-681972036957",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g637180"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-12T19:46:24.069Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-12T19:26:58.914Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/have-met-shannyn-reid"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/have-met-shannyn-reid"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g637200"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g637220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/have-met-shannyn-reid"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Have you met Shannyn Reid?"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Shannyn Reid is a visual artist who is currently working out of one of the studio spaces at the Rotary Arts Centre.She has recently completed her Master of Fine Arts, and is continuing with a series that started during that time, creating embroidered grocery bags with organza fabric. Reid has made a variety of bags, including a 1:1 scale Sobeys bag that took 300 hours to complete, and an oversized Walmart bag (embroidered with wool) that completely covers the wall in her studio. A precursor to t"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/big-congratulations-to-david-smallwood",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Big Congratulations to David Smallwood"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Big congratulations to David Smallwood on receiving the award for his incredible dedication to the arts in Newfoundland! Dave, your tireless work over the years has brought so much joy and inspiration to our entire community.Everyone here at the RAC is beyond proud of you and everything you’ve done for the arts across the whole of Newfoundland."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_858f28c58f6240d4ba247cd4c66b49b5~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_858f28c58f6240d4ba247cd4c66b49b5~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "5390"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "3593"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/big-congratulations-to-david-smallwood"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/big-congratulations-to-david-smallwood"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-01T13:07:03.079Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-01T13:07:03.079Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g646320",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g646340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_858f28c58f6240d4ba247cd4c66b49b5~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_858f28c58f6240d4ba247cd4c66b49b5~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "5390"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "3593"
+      }
+    ]
+  },
+  {
+    "@id": "_:g646360",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/afebd4b9-4a61-4deb-8073-d5fa814e141c",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g646320"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:07:03.079Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-01T13:07:03.079Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/big-congratulations-to-david-smallwood"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/big-congratulations-to-david-smallwood"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g646340"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g646360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/big-congratulations-to-david-smallwood"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Big Congratulations to David Smallwood"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Big congratulations to David Smallwood on receiving the award for his incredible dedication to the arts in Newfoundland! Dave, your tireless work over the years has brought so much joy and inspiration to our entire community.Everyone here at the RAC is beyond proud of you and everything you’ve done for the arts across the whole of Newfoundland."
+      }
+    ]
+  },
+  {
+    "@id": "https://www.rotaryartscentre.ca/post/an-artistic-collaboration-through-time",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "An Artistic Collaboration through time"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "“It is through our material makings that we can touch time. We can reach forward and also backward in time with our ‘things’,” says Megan Samms, the creator of the body of work called, this is how we can visit, currently exhibiting at the Rotary Arts Centre in the Tina Dolter Gallery. “I feel that I can communicate across time more effectively through making than with my words and body as it is now, especially with textiles, which can last hundreds of years.” Megan Samms found her great-great-Gr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/6f84ab_1246515c131d4a9288c355806ebb1e72~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_1246515c131d4a9288c355806ebb1e72~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "6000"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "4000"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.rotaryartscentre.ca/post/an-artistic-collaboration-through-time"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/an-artistic-collaboration-through-time"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "en",
+        "@value": "rotaryartscentre"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-09T17:56:09.777Z"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-10T13:12:32.559Z"
+      }
+    ],
+    "@type": [
+      "http://schema.org/ItemPage"
+    ]
+  },
+  {
+    "@id": "_:g654840",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nicole Fougere"
+      }
+    ]
+  },
+  {
+    "@id": "_:g654860",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/6f84ab_1246515c131d4a9288c355806ebb1e72~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/6f84ab_1246515c131d4a9288c355806ebb1e72~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "6000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "4000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g654880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rotary Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "http://rotaryartscentre.ca/temporary/ddd0dd01-ecb7-4ba2-9289-b7e51b99f36d",
+    "@type": [
+      "http://schema.org/BlogPosting"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g654840"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-10T13:12:32.559Z"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-09T17:56:09.777Z"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/an-artistic-collaboration-through-time"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/an-artistic-collaboration-through-time"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g654860"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g654880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.rotaryartscentre.ca/post/an-artistic-collaboration-through-time"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "An Artistic Collaboration through time"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "“It is through our material makings that we can touch time. We can reach forward and also backward in time with our ‘things’,” says Megan Samms, the creator of the body of work called, this is how we can visit, currently exhibiting at the Rotary Arts Centre in the Tina Dolter Gallery. “I feel that I can communicate across time more effectively through making than with my words and body as it is now, especially with textiles, which can last hundreds of years.” Megan Samms found her great-great-Gr"
+      }
+    ]
+  }
+]
