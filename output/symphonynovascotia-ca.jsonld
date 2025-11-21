@@ -43,13 +43,13 @@
     ]
   },
   {
-    "@id": "_:g696040",
+    "@id": "_:g700080",
     "@type": [
       "http://schema.org/Offer"
     ]
   },
   {
-    "@id": "_:g696080",
+    "@id": "_:g700120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "@id": "_:g696100",
+    "@id": "_:g700140",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71,21 +71,21 @@
     ]
   },
   {
-    "@id": "https://symphonynovascotia.ca/temporary/6c2e0f2a-d8d2-4544-90b6-92d61dd112cb",
+    "@id": "https://symphonynovascotia.ca/temporary/61e0de7d-b544-40ff-a97c-8271a53dd135",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g696040"
+        "@id": "_:g700080"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g696080"
+        "@id": "_:g700120"
       },
       {
-        "@id": "_:g696100"
+        "@id": "_:g700140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -156,13 +156,13 @@
     ]
   },
   {
-    "@id": "_:g714000",
+    "@id": "_:g710980",
     "@type": [
       "http://schema.org/Offer"
     ]
   },
   {
-    "@id": "_:g714040",
+    "@id": "_:g711020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "@id": "_:g714060",
+    "@id": "_:g711060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -184,21 +184,21 @@
     ]
   },
   {
-    "@id": "https://symphonynovascotia.ca/temporary/20290ca7-dd1b-49e1-8ddb-4c7ff9b2bec4",
+    "@id": "https://symphonynovascotia.ca/temporary/0baedc84-126d-4142-a6c4-db11b1c31adb",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g714000"
+        "@id": "_:g710980"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g714040"
+        "@id": "_:g711020"
       },
       {
-        "@id": "_:g714060"
+        "@id": "_:g711060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -269,13 +269,13 @@
     ]
   },
   {
-    "@id": "_:g2105460",
+    "@id": "_:g2077800",
     "@type": [
       "http://schema.org/Offer"
     ]
   },
   {
-    "@id": "_:g2105500",
+    "@id": "_:g2077840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "@id": "_:g2105520",
+    "@id": "_:g2077860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -297,21 +297,21 @@
     ]
   },
   {
-    "@id": "https://symphonynovascotia.ca/temporary/72c354ce-6d58-402f-8b9b-e5213fabab0c",
+    "@id": "https://symphonynovascotia.ca/temporary/07f32fb9-6853-4bdb-b045-675c30295433",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g2105460"
+        "@id": "_:g2077800"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g2105500"
+        "@id": "_:g2077840"
       },
       {
-        "@id": "_:g2105520"
+        "@id": "_:g2077860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
