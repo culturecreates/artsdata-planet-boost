@@ -1,0 +1,1732 @@
+[
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006627",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe - 18 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006627"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006627"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maison symphonique de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465140",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465160",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/P6S0618"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/006c2c00-b2e9-4839-a954-7d490dce14f0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-19T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4QZmIPeHA7ANfqboEoWQ8T/5a9c21c539f15c46aff2f542aef1ff27/ff26_pierre_lapointe.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465120"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g465140"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006627"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/coeur-de-pirate-e006626",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Cœur de Pirate - 19 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/coeur-de-pirate-e006626"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/coeur-de-pirate-e006626"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salle Wilfrid-Pelletier — Place des Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473480",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cœur de Pirate"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473500",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/P6W0619"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/d6413aa9-9f9f-40a4-91d4-2e505a3c1308",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/7b90723740d48d7a00fa2a480ef937ad/coeur_de_pirate_2025.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g473460"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g473480"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g473500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/coeur-de-pirate-e006626"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cœur de Pirate"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006711",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe - 19 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006711"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006711"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maison symphonique de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479160",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479180",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/P6S0619"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/bf44ddf1-a07c-4413-818d-d922a8bfa3ca",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/3nuKI8hZHiU7mxa0izogn0/0d74831d7583e063d390b10f17438772/ff26_pierre_lapointe.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479140"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g479160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006711"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/maude-audet-e006746",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Maude Audet - 18 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/maude-audet-e006746"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/maude-audet-e006746"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cinquième Salle — Place des Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485680",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maude Audet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485700",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/buy/virtual-venue/P6C0618"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/0202124d-a30f-44c3-b69e-b1988c5e8b26",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T23:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4zpdozlDdf2r6OyJ2RQUSR/8b2b5baeb41cdf513b9fb0aeb7c4e3d1/ff26_maude_audet.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g485660"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g485680"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/maude-audet-e006746"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maude Audet"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/malaime-soleil-e006519",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Malaimé Soleil - 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/malaime-soleil-e006519"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/malaime-soleil-e006519"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Club Soda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491400",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Malaimé Soleil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491420",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/clb260620001"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-17T14:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/e5c0d9e6-3c97-4143-b5b0-085c39dcc250",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-21T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/38IhICGrK5zRZirt0pcj91/0eaf53c70b9198a80a534f99545c91d9/ff26_malaime_soleil.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g491380"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g491400"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g491420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/malaime-soleil-e006519"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Malaimé Soleil"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/pierre-lapointe-e006627",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe - June 18, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/pierre-lapointe-e006627"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/pierre-lapointe-e006627"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maison symphonique de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510500",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510520",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/en/virtual-venue/P6S0618"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/61e25d15-22b4-4b84-bfa8-a170c0982d2a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-19T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4QZmIPeHA7ANfqboEoWQ8T/906acd917d858f5eb774be404c462dea/ff26_pierre_lapointe.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510480"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g510500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g510520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/pierre-lapointe-e006627"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/coeur-de-pirate-e006626",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Cœur de Pirate - June 19, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/coeur-de-pirate-e006626"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/coeur-de-pirate-e006626"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salle Wilfrid-Pelletier — Place des Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518600",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cœur de Pirate"
+      }
+    ]
+  },
+  {
+    "@id": "_:g518620",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/en/virtual-venue/P6W0619"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-07T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/41011d45-2546-4a9f-b69e-62b1716624da",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/73423ca86399e9969e6c899ccdc7b290/coeur_de_pirate_2025.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g518580"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g518600"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g518620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/coeur-de-pirate-e006626"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cœur de Pirate"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/pierre-lapointe-e006711",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe - June 19, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/pierre-lapointe-e006711"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/pierre-lapointe-e006711"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maison symphonique de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525060",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525080",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/en/virtual-venue/P6S0619"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/9998b0f7-3c15-406c-9471-fd2a35c66e60",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/3nuKI8hZHiU7mxa0izogn0/c9ab4cf27ef8ec602f3c7e7766c5368c/ff26_pierre_lapointe.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g525040"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g525060"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g525080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/pierre-lapointe-e006711"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pierre Lapointe"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/maude-audet-e006746",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Maude Audet - June 18, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/maude-audet-e006746"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/maude-audet-e006746"
+      }
+    ]
+  },
+  {
+    "@id": "_:g531440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cinquième Salle — Place des Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g531460",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maude Audet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g531480",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/en/buy/virtual-venue/P6C0618"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/54589814-3653-4bfb-bc47-fc72237fadd2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T23:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4zpdozlDdf2r6OyJ2RQUSR/a64357b76a7d760df02db5773786bd7a/ff26_maude_audet.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g531440"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g531460"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g531480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/maude-audet-e006746"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maude Audet"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/malaime-soleil-e006519",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Malaimé Soleil - June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/malaime-soleil-e006519"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/malaime-soleil-e006519"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Club Soda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537960",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Malaimé Soleil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thepointofsale.com/tickets/clb260620001"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-17T14:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/35acca0d-7479-4858-902a-829370d38b73",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-21T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/38IhICGrK5zRZirt0pcj91/6c5d81c5da25cf319190e7547de77503/ff26_malaime_soleil.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g537940"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g537960"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g537980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/malaime-soleil-e006519"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Malaimé Soleil"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
