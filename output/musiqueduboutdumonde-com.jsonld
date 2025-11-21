@@ -123,7 +123,7 @@
         "@id": "_:g460860"
       },
       {
-        "@id": "_:g477020"
+        "@id": "_:g476700"
       }
     ],
     "http://schema.org/name": [
@@ -180,9 +180,6 @@
       {
         "@language": "en",
         "@value": "Festival Musique du Bout du Monde"
-      },
-      {
-        "@value": "Festival Musique du Bout du Monde"
       }
     ],
     "http://schema.org/description": [
@@ -193,9 +190,6 @@
       {
         "@language": "en",
         "@value": "FMBM"
-      },
-      {
-        "@value": "FMBM"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -205,9 +199,6 @@
       },
       {
         "@language": "en",
-        "@value": "fr-FR"
-      },
-      {
         "@value": "fr-FR"
       }
     ]
@@ -263,7 +254,7 @@
     ]
   },
   {
-    "@id": "_:g477020",
+    "@id": "_:g476700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -276,78 +267,6 @@
   },
   {
     "@id": "https://musiqueduboutdumonde.com/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "Musique du Bout du Monde"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "La 21e édition du Festival de Musique du Bout du Monde sera présentée du 7 au 10 août 2025. Cet événement est un incontournable de la programmation culturelle estivale, il accueille près de 15 000 festivaliers et près de 250 artistes et artisans."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Festival Musique du Bout du Monde"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/festivalmusiqueduboutdumonde"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-10-23T20:00:31+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://musiqueduboutdumonde.com/wp-content/uploads/pastille.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "4565"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "4565"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/png"
-      }
-    ],
     "@type": [
       "http://schema.org/WebPage"
     ],
@@ -375,7 +294,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-10-23T20:00:31+00:00"
+        "@value": "2025-11-20T14:25:56+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -385,91 +304,16 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g778660"
+        "@id": "_:g1100780"
       },
       {
-        "@id": "_:g790740"
+        "@id": "_:g2023380"
       },
       {
-        "@id": "_:g802020"
-      },
-      {
-        "@id": "_:g814200"
-      },
-      {
-        "@id": "_:g826380"
-      },
-      {
-        "@id": "_:g1145060"
-      },
-      {
-        "@id": "_:g1181080"
-      },
-      {
-        "@id": "_:g1673820"
-      },
-      {
-        "@id": "_:g1686000"
-      },
-      {
-        "@id": "_:g1698340"
-      },
-      {
-        "@id": "_:g1710760"
-      },
-      {
-        "@id": "_:g1723180"
-      },
-      {
-        "@id": "_:g1735520"
-      },
-      {
-        "@id": "_:g1747740"
-      },
-      {
-        "@id": "_:g1759960"
-      },
-      {
-        "@id": "_:g1772240"
-      },
-      {
-        "@id": "_:g1784600"
-      },
-      {
-        "@id": "_:g1796960"
-      },
-      {
-        "@id": "_:g1809360"
-      },
-      {
-        "@id": "_:g1821720"
-      },
-      {
-        "@id": "_:g1834000"
-      },
-      {
-        "@id": "_:g1846260"
-      },
-      {
-        "@id": "_:g1858660"
-      },
-      {
-        "@id": "_:g1871060"
-      },
-      {
-        "@id": "_:g1883440"
-      },
-      {
-        "@id": "_:g2288640"
-      },
-      {
-        "@id": "_:g2862560"
+        "@id": "_:g2603360"
       }
     ],
     "http://schema.org/name": [
-      {
-        "@value": "Accueil - Festival Musique du Bout du Monde"
-      },
       {
         "@language": "en",
         "@value": "Home - Festival Musique du Bout du Monde"
@@ -481,28 +325,94 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "La 21e édition du Festival de Musique du Bout du Monde sera présentée du 7 au 10 août 2025. Cet événement est un incontournable de la programmation culturelle estivale, il accueille près de 15 000 festivaliers et près de 250 artistes et artisans."
-      },
-      {
         "@language": "en",
-        "@value": "The 21st edition of the Festival de Musique du Bout du Monde will take place from August 7 to 10, 2025. A must-see event in the summer cultural program, it welcomes nearly 15,000 festival-goers and some 250 artists and craftspeople."
+        "@value": "The 22nd edition of the Festival de Musique du Bout du Monde will be presented from August 6 to 9, 2026. This event is an essential part of Gaspésie's summer cultural program, where nature and the arts come together for the pleasure of young and old alike."
       },
       {
         "@language": "fr",
-        "@value": "La 21e édition du Festival de Musique du Bout du Monde sera présentée du 7 au 10 août 2025. Cet événement est un incontournable de la programmation culturelle estivale, il accueille près de 15 000 festivaliers et près de 250 artistes et artisans."
+        "@value": "La 22e édition du Festival de Musique du Bout du Monde sera présentée du 6 au 9 août 2026. Cet événement est un incontournable de la programmation culturelle estivale de la Gaspésie, où la nature et les arts se donnent en spectacle, pour le plaisir des petits et des grands"
       }
     ],
     "http://schema.org/inLanguage": [
       {
-        "@value": "fr-FR"
-      },
-      {
         "@language": "en",
         "@value": "fr-FR"
       },
       {
         "@language": "fr",
         "@value": "fr-FR"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Musique du Bout du Monde"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La 22e édition du Festival de Musique du Bout du Monde sera présentée du 6 au 9 août 2026. Cet événement est un incontournable de la programmation culturelle estivale de la Gaspésie, où la nature et les arts se donnent en spectacle, pour le plaisir des petits et des grands"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://musiqueduboutdumonde.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Festival Musique du Bout du Monde"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/festivalmusiqueduboutdumonde"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-20T14:25:56+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://musiqueduboutdumonde.com/wp-content/uploads/pastille.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "4565"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "4565"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
       }
     ]
   },
@@ -548,9 +458,6 @@
       {
         "@language": "en",
         "@value": "Musique du Bout du Monde"
-      },
-      {
-        "@value": "Musique du Bout du Monde"
       }
     ]
   },
@@ -589,9 +496,6 @@
       {
         "@language": "en",
         "@value": "fr-FR"
-      },
-      {
-        "@value": "fr-FR"
       }
     ],
     "http://schema.org/caption": [
@@ -601,9 +505,6 @@
       },
       {
         "@language": "en",
-        "@value": "Musique du Bout du Monde"
-      },
-      {
         "@value": "Musique du Bout du Monde"
       }
     ]
@@ -788,16 +689,16 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g492700"
+        "@id": "_:g492720"
       },
       {
-        "@id": "_:g502820"
+        "@id": "_:g502880"
       },
       {
-        "@id": "_:g1242480"
+        "@id": "_:g1187640"
       },
       {
-        "@id": "_:g2536200"
+        "@id": "_:g2273740"
       }
     ],
     "http://schema.org/name": [
@@ -822,7 +723,7 @@
     ]
   },
   {
-    "@id": "_:g492700",
+    "@id": "_:g492720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -834,7 +735,7 @@
     ]
   },
   {
-    "@id": "_:g502820",
+    "@id": "_:g502880",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -846,7 +747,7 @@
     ]
   },
   {
-    "@id": "_:g1242480",
+    "@id": "_:g1187640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -858,7 +759,7 @@
     ]
   },
   {
-    "@id": "_:g2536200",
+    "@id": "_:g2273740",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1072,13 +973,16 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g512940"
+        "@id": "_:g513240"
       },
       {
-        "@id": "_:g523360"
+        "@id": "_:g523780"
       },
       {
-        "@id": "_:g624840"
+        "@id": "_:g589040"
+      },
+      {
+        "@id": "_:g636460"
       }
     ],
     "http://schema.org/name": [
@@ -1223,7 +1127,7 @@
     ]
   },
   {
-    "@id": "_:g512940",
+    "@id": "_:g513240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1235,7 +1139,7 @@
     ]
   },
   {
-    "@id": "_:g523360",
+    "@id": "_:g523780",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1247,7 +1151,19 @@
     ]
   },
   {
-    "@id": "_:g624840",
+    "@id": "_:g589040",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://musiqueduboutdumonde.com/billetterie/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1438,10 +1354,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g533940"
+        "@id": "_:g534440"
       },
       {
-        "@id": "_:g543400"
+        "@id": "_:g544040"
       }
     ],
     "http://schema.org/name": [
@@ -1466,7 +1382,7 @@
     ]
   },
   {
-    "@id": "_:g533940",
+    "@id": "_:g534440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1478,7 +1394,7 @@
     ]
   },
   {
-    "@id": "_:g543400",
+    "@id": "_:g544040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1683,10 +1599,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g553060"
+        "@id": "_:g553820"
       },
       {
-        "@id": "_:g564540"
+        "@id": "_:g565260"
       }
     ],
     "http://schema.org/name": [
@@ -1711,7 +1627,7 @@
     ]
   },
   {
-    "@id": "_:g553060",
+    "@id": "_:g553820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1723,7 +1639,7 @@
     ]
   },
   {
-    "@id": "_:g564540",
+    "@id": "_:g565260",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2238,10 +2154,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g575920"
+        "@id": "_:g576680"
       },
       {
-        "@id": "_:g612640"
+        "@id": "_:g624220"
       }
     ],
     "http://schema.org/name": [
@@ -2404,7 +2320,7 @@
     ]
   },
   {
-    "@id": "_:g575920",
+    "@id": "_:g576680",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2416,7 +2332,7 @@
     ]
   },
   {
-    "@id": "_:g612640",
+    "@id": "_:g624220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2424,6 +2340,86 @@
       {
         "@language": "fr",
         "@value": "https://musiqueduboutdumonde.com/devoilement-de-la-programmation-fmbm-2025/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.musiqueduboutdumonde.com/billetterie",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La billetterie du FMBM 2025 est maintenant ouverte!"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La billetterie pour la 21e édition du Festival Musique du Bout du Monde est ouverte! Soyez des nôtres du 7 au 10 août 2025."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://musiqueduboutdumonde.com/billetterie/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Festival Musique du Bout du Monde"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/festivalmusiqueduboutdumonde"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-10-20T19:45:42+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://musiqueduboutdumonde.com/wp-content/uploads/pastille.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "4565"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "4565"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.musiqueduboutdumonde.com/billetterie"
       }
     ]
   },
@@ -2666,10 +2662,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g588180"
+        "@id": "_:g599700"
       },
       {
-        "@id": "_:g600420"
+        "@id": "_:g612000"
       }
     ],
     "http://schema.org/name": [
@@ -2868,7 +2864,7 @@
     ]
   },
   {
-    "@id": "_:g588180",
+    "@id": "_:g599700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2880,7 +2876,7 @@
     ]
   },
   {
-    "@id": "_:g600420",
+    "@id": "_:g612000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3312,10 +3308,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g646260"
+        "@id": "_:g657900"
       },
       {
-        "@id": "_:g2276960"
+        "@id": "_:g2011580"
       }
     ],
     "http://schema.org/name": [
@@ -3483,7 +3479,7 @@
     ]
   },
   {
-    "@id": "_:g646260",
+    "@id": "_:g657900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3495,7 +3491,7 @@
     ]
   },
   {
-    "@id": "_:g2276960",
+    "@id": "_:g2011580",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3741,10 +3737,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g668920"
+        "@id": "_:g680680"
       },
       {
-        "@id": "_:g2204820"
+        "@id": "_:g1939040"
       }
     ],
     "http://schema.org/name": [
@@ -3903,7 +3899,7 @@
     ]
   },
   {
-    "@id": "_:g668920",
+    "@id": "_:g680680",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3915,7 +3911,7 @@
     ]
   },
   {
-    "@id": "_:g2204820",
+    "@id": "_:g1939040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4165,10 +4161,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g680920"
+        "@id": "_:g692760"
       },
       {
-        "@id": "_:g2228900"
+        "@id": "_:g1963340"
       }
     ],
     "http://schema.org/name": [
@@ -4321,7 +4317,7 @@
     ]
   },
   {
-    "@id": "_:g680920",
+    "@id": "_:g692760",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4333,7 +4329,7 @@
     ]
   },
   {
-    "@id": "_:g2228900",
+    "@id": "_:g1963340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4583,10 +4579,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g693060"
+        "@id": "_:g704980"
       },
       {
-        "@id": "_:g2216820"
+        "@id": "_:g1951120"
       }
     ],
     "http://schema.org/name": [
@@ -4739,7 +4735,7 @@
     ]
   },
   {
-    "@id": "_:g693060",
+    "@id": "_:g704980",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4751,7 +4747,7 @@
     ]
   },
   {
-    "@id": "_:g2216820",
+    "@id": "_:g1951120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4997,10 +4993,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g705280"
+        "@id": "_:g717280"
       },
       {
-        "@id": "_:g2253200"
+        "@id": "_:g1987640"
       }
     ],
     "http://schema.org/name": [
@@ -5170,7 +5166,7 @@
     ]
   },
   {
-    "@id": "_:g705280",
+    "@id": "_:g717280",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5182,7 +5178,7 @@
     ]
   },
   {
-    "@id": "_:g2253200",
+    "@id": "_:g1987640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5638,10 +5634,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g730360"
+        "@id": "_:g742520"
       },
       {
-        "@id": "_:g2265000"
+        "@id": "_:g1999520"
       }
     ],
     "http://schema.org/name": [
@@ -5790,7 +5786,7 @@
     ]
   },
   {
-    "@id": "_:g730360",
+    "@id": "_:g742520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5802,7 +5798,7 @@
     ]
   },
   {
-    "@id": "_:g2265000",
+    "@id": "_:g1999520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6048,10 +6044,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g742460"
+        "@id": "_:g754720"
       },
       {
-        "@id": "_:g2241160"
+        "@id": "_:g1975560"
       }
     ],
     "http://schema.org/name": [
@@ -6200,7 +6196,7 @@
     ]
   },
   {
-    "@id": "_:g742460",
+    "@id": "_:g754720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6212,7 +6208,7 @@
     ]
   },
   {
-    "@id": "_:g2241160",
+    "@id": "_:g1975560",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6382,306 +6378,6 @@
     ]
   },
   {
-    "@id": "_:g778660",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g790740",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g802020",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g814200",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g826380",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1145060",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1181080",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1673820",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1686000",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1698340",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1710760",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1723180",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1735520",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1747740",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1759960",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1772240",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1784600",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1796960",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1809360",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1821720",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1834000",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1846260",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1858660",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1871060",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1883440",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g2288640",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g2862560",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://musiqueduboutdumonde.com/"
-      }
-    ]
-  },
-  {
     "@id": "https://musiqueduboutdumonde.com/artists/dan-livingstone/",
     "http://ogp.me/ns#locale": [
       {
@@ -6769,10 +6465,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g838640"
+        "@id": "_:g791180"
       },
       {
-        "@id": "_:g1367540"
+        "@id": "_:g1314280"
       }
     ],
     "http://schema.org/name": [
@@ -6797,7 +6493,7 @@
     ]
   },
   {
-    "@id": "_:g838640",
+    "@id": "_:g791180",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6809,7 +6505,7 @@
     ]
   },
   {
-    "@id": "_:g1367540",
+    "@id": "_:g1314280",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6908,10 +6604,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g848080"
+        "@id": "_:g801000"
       },
       {
-        "@id": "_:g1376640"
+        "@id": "_:g1323480"
       }
     ],
     "http://schema.org/name": [
@@ -6936,7 +6632,7 @@
     ]
   },
   {
-    "@id": "_:g848080",
+    "@id": "_:g801000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6948,7 +6644,7 @@
     ]
   },
   {
-    "@id": "_:g1376640",
+    "@id": "_:g1323480",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7047,10 +6743,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g857640"
+        "@id": "_:g810660"
       },
       {
-        "@id": "_:g1385900"
+        "@id": "_:g1332820"
       }
     ],
     "http://schema.org/name": [
@@ -7075,7 +6771,7 @@
     ]
   },
   {
-    "@id": "_:g857640",
+    "@id": "_:g810660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7087,7 +6783,7 @@
     ]
   },
   {
-    "@id": "_:g1385900",
+    "@id": "_:g1332820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7186,10 +6882,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g867200"
+        "@id": "_:g820300"
       },
       {
-        "@id": "_:g1395160"
+        "@id": "_:g1342240"
       }
     ],
     "http://schema.org/name": [
@@ -7214,7 +6910,7 @@
     ]
   },
   {
-    "@id": "_:g867200",
+    "@id": "_:g820300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7226,7 +6922,7 @@
     ]
   },
   {
-    "@id": "_:g1395160",
+    "@id": "_:g1342240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7325,10 +7021,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g876760"
+        "@id": "_:g829940"
       },
       {
-        "@id": "_:g1404420"
+        "@id": "_:g1351620"
       }
     ],
     "http://schema.org/name": [
@@ -7353,7 +7049,7 @@
     ]
   },
   {
-    "@id": "_:g876760",
+    "@id": "_:g829940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7365,7 +7061,7 @@
     ]
   },
   {
-    "@id": "_:g1404420",
+    "@id": "_:g1351620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7476,10 +7172,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g886140"
+        "@id": "_:g839420"
       },
       {
-        "@id": "_:g1413540"
+        "@id": "_:g1360840"
       }
     ],
     "http://schema.org/name": [
@@ -7504,7 +7200,7 @@
     ]
   },
   {
-    "@id": "_:g886140",
+    "@id": "_:g839420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7516,7 +7212,7 @@
     ]
   },
   {
-    "@id": "_:g1413540",
+    "@id": "_:g1360840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7615,10 +7311,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g895760"
+        "@id": "_:g849140"
       },
       {
-        "@id": "_:g1422880"
+        "@id": "_:g1370300"
       }
     ],
     "http://schema.org/name": [
@@ -7643,7 +7339,7 @@
     ]
   },
   {
-    "@id": "_:g895760",
+    "@id": "_:g849140",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7655,7 +7351,7 @@
     ]
   },
   {
-    "@id": "_:g1422880",
+    "@id": "_:g1370300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7754,10 +7450,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g905240"
+        "@id": "_:g858740"
       },
       {
-        "@id": "_:g1432100"
+        "@id": "_:g1379600"
       }
     ],
     "http://schema.org/name": [
@@ -7782,7 +7478,7 @@
     ]
   },
   {
-    "@id": "_:g905240",
+    "@id": "_:g858740",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7794,7 +7490,7 @@
     ]
   },
   {
-    "@id": "_:g1432100",
+    "@id": "_:g1379600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7905,10 +7601,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g914860"
+        "@id": "_:g868480"
       },
       {
-        "@id": "_:g1441400"
+        "@id": "_:g1389000"
       }
     ],
     "http://schema.org/name": [
@@ -7933,7 +7629,7 @@
     ]
   },
   {
-    "@id": "_:g914860",
+    "@id": "_:g868480",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7945,7 +7641,7 @@
     ]
   },
   {
-    "@id": "_:g1441400",
+    "@id": "_:g1389000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8044,10 +7740,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g924520"
+        "@id": "_:g878260"
       },
       {
-        "@id": "_:g1450740"
+        "@id": "_:g1398420"
       }
     ],
     "http://schema.org/name": [
@@ -8072,7 +7768,7 @@
     ]
   },
   {
-    "@id": "_:g924520",
+    "@id": "_:g878260",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8084,7 +7780,7 @@
     ]
   },
   {
-    "@id": "_:g1450740",
+    "@id": "_:g1398420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8195,10 +7891,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g934080"
+        "@id": "_:g887900"
       },
       {
-        "@id": "_:g1459980"
+        "@id": "_:g1407720"
       }
     ],
     "http://schema.org/name": [
@@ -8223,7 +7919,7 @@
     ]
   },
   {
-    "@id": "_:g934080",
+    "@id": "_:g887900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8235,7 +7931,7 @@
     ]
   },
   {
-    "@id": "_:g1459980",
+    "@id": "_:g1407720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8334,10 +8030,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g943800"
+        "@id": "_:g897700"
       },
       {
-        "@id": "_:g1469380"
+        "@id": "_:g1417240"
       }
     ],
     "http://schema.org/name": [
@@ -8362,7 +8058,7 @@
     ]
   },
   {
-    "@id": "_:g943800",
+    "@id": "_:g897700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8374,7 +8070,7 @@
     ]
   },
   {
-    "@id": "_:g1469380",
+    "@id": "_:g1417240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8473,10 +8169,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g953460"
+        "@id": "_:g907380"
       },
       {
-        "@id": "_:g1478580"
+        "@id": "_:g1426600"
       }
     ],
     "http://schema.org/name": [
@@ -8501,7 +8197,7 @@
     ]
   },
   {
-    "@id": "_:g953460",
+    "@id": "_:g907380",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8513,7 +8209,7 @@
     ]
   },
   {
-    "@id": "_:g1478580",
+    "@id": "_:g1426600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8612,10 +8308,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g962960"
+        "@id": "_:g917000"
       },
       {
-        "@id": "_:g1487760"
+        "@id": "_:g1435900"
       }
     ],
     "http://schema.org/name": [
@@ -8640,7 +8336,7 @@
     ]
   },
   {
-    "@id": "_:g962960",
+    "@id": "_:g917000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8652,7 +8348,7 @@
     ]
   },
   {
-    "@id": "_:g1487760",
+    "@id": "_:g1435900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8763,10 +8459,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g972340"
+        "@id": "_:g926480"
       },
       {
-        "@id": "_:g1496780"
+        "@id": "_:g1445120"
       }
     ],
     "http://schema.org/name": [
@@ -8791,7 +8487,7 @@
     ]
   },
   {
-    "@id": "_:g972340",
+    "@id": "_:g926480",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8803,7 +8499,7 @@
     ]
   },
   {
-    "@id": "_:g1496780",
+    "@id": "_:g1445120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8902,10 +8598,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g982000"
+        "@id": "_:g936240"
       },
       {
-        "@id": "_:g1506140"
+        "@id": "_:g1454600"
       }
     ],
     "http://schema.org/name": [
@@ -8930,7 +8626,7 @@
     ]
   },
   {
-    "@id": "_:g982000",
+    "@id": "_:g936240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8942,7 +8638,7 @@
     ]
   },
   {
-    "@id": "_:g1506140",
+    "@id": "_:g1454600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9041,10 +8737,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g991460"
+        "@id": "_:g945800"
       },
       {
-        "@id": "_:g1515320"
+        "@id": "_:g1463860"
       }
     ],
     "http://schema.org/name": [
@@ -9069,7 +8765,7 @@
     ]
   },
   {
-    "@id": "_:g991460",
+    "@id": "_:g945800",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9081,7 +8777,7 @@
     ]
   },
   {
-    "@id": "_:g1515320",
+    "@id": "_:g1463860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9180,10 +8876,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1001020"
+        "@id": "_:g955460"
       },
       {
-        "@id": "_:g1524560"
+        "@id": "_:g1473200"
       }
     ],
     "http://schema.org/name": [
@@ -9208,7 +8904,7 @@
     ]
   },
   {
-    "@id": "_:g1001020",
+    "@id": "_:g955460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9220,7 +8916,7 @@
     ]
   },
   {
-    "@id": "_:g1524560",
+    "@id": "_:g1473200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9319,10 +9015,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1010500"
+        "@id": "_:g965020"
       },
       {
-        "@id": "_:g1533640"
+        "@id": "_:g1482400"
       }
     ],
     "http://schema.org/name": [
@@ -9347,7 +9043,7 @@
     ]
   },
   {
-    "@id": "_:g1010500",
+    "@id": "_:g965020",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9359,7 +9055,7 @@
     ]
   },
   {
-    "@id": "_:g1533640",
+    "@id": "_:g1482400",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9470,10 +9166,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1019840"
+        "@id": "_:g974460"
       },
       {
-        "@id": "_:g1542620"
+        "@id": "_:g1491500"
       }
     ],
     "http://schema.org/name": [
@@ -9498,7 +9194,7 @@
     ]
   },
   {
-    "@id": "_:g1019840",
+    "@id": "_:g974460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9510,7 +9206,7 @@
     ]
   },
   {
-    "@id": "_:g1542620",
+    "@id": "_:g1491500",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9621,10 +9317,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1029520"
+        "@id": "_:g984240"
       },
       {
-        "@id": "_:g1551920"
+        "@id": "_:g1500940"
       }
     ],
     "http://schema.org/name": [
@@ -9649,7 +9345,7 @@
     ]
   },
   {
-    "@id": "_:g1029520",
+    "@id": "_:g984240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9661,7 +9357,7 @@
     ]
   },
   {
-    "@id": "_:g1551920",
+    "@id": "_:g1500940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9772,10 +9468,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1039200"
+        "@id": "_:g994000"
       },
       {
-        "@id": "_:g1561240"
+        "@id": "_:g1510440"
       }
     ],
     "http://schema.org/name": [
@@ -9800,7 +9496,7 @@
     ]
   },
   {
-    "@id": "_:g1039200",
+    "@id": "_:g994000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9812,7 +9508,7 @@
     ]
   },
   {
-    "@id": "_:g1561240",
+    "@id": "_:g1510440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9923,10 +9619,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1048800"
+        "@id": "_:g1003660"
       },
       {
-        "@id": "_:g1570540"
+        "@id": "_:g1519860"
       }
     ],
     "http://schema.org/name": [
@@ -9951,7 +9647,7 @@
     ]
   },
   {
-    "@id": "_:g1048800",
+    "@id": "_:g1003660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9963,7 +9659,7 @@
     ]
   },
   {
-    "@id": "_:g1570540",
+    "@id": "_:g1519860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10062,10 +9758,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1058520"
+        "@id": "_:g1013420"
       },
       {
-        "@id": "_:g1579900"
+        "@id": "_:g1529320"
       }
     ],
     "http://schema.org/name": [
@@ -10090,7 +9786,7 @@
     ]
   },
   {
-    "@id": "_:g1058520",
+    "@id": "_:g1013420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10102,7 +9798,7 @@
     ]
   },
   {
-    "@id": "_:g1579900",
+    "@id": "_:g1529320",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10201,10 +9897,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1068040"
+        "@id": "_:g1023040"
       },
       {
-        "@id": "_:g1589100"
+        "@id": "_:g1538620"
       }
     ],
     "http://schema.org/name": [
@@ -10229,7 +9925,7 @@
     ]
   },
   {
-    "@id": "_:g1068040",
+    "@id": "_:g1023040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10241,7 +9937,7 @@
     ]
   },
   {
-    "@id": "_:g1589100",
+    "@id": "_:g1538620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10340,10 +10036,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1077640"
+        "@id": "_:g1032740"
       },
       {
-        "@id": "_:g1598360"
+        "@id": "_:g1547980"
       }
     ],
     "http://schema.org/name": [
@@ -10368,7 +10064,7 @@
     ]
   },
   {
-    "@id": "_:g1077640",
+    "@id": "_:g1032740",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10380,7 +10076,7 @@
     ]
   },
   {
-    "@id": "_:g1598360",
+    "@id": "_:g1547980",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10479,10 +10175,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1087200"
+        "@id": "_:g1042400"
       },
       {
-        "@id": "_:g1607560"
+        "@id": "_:g1557300"
       }
     ],
     "http://schema.org/name": [
@@ -10507,7 +10203,7 @@
     ]
   },
   {
-    "@id": "_:g1087200",
+    "@id": "_:g1042400",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10519,7 +10215,7 @@
     ]
   },
   {
-    "@id": "_:g1607560",
+    "@id": "_:g1557300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10618,10 +10314,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1096620"
+        "@id": "_:g1051940"
       },
       {
-        "@id": "_:g1616640"
+        "@id": "_:g1566580"
       }
     ],
     "http://schema.org/name": [
@@ -10646,7 +10342,7 @@
     ]
   },
   {
-    "@id": "_:g1096620",
+    "@id": "_:g1051940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10658,7 +10354,7 @@
     ]
   },
   {
-    "@id": "_:g1616640",
+    "@id": "_:g1566580",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10757,10 +10453,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1105980"
+        "@id": "_:g1061460"
       },
       {
-        "@id": "_:g1625680"
+        "@id": "_:g1575800"
       }
     ],
     "http://schema.org/name": [
@@ -10785,7 +10481,7 @@
     ]
   },
   {
-    "@id": "_:g1105980",
+    "@id": "_:g1061460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10797,7 +10493,7 @@
     ]
   },
   {
-    "@id": "_:g1625680",
+    "@id": "_:g1575800",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10896,10 +10592,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1115700"
+        "@id": "_:g1071080"
       },
       {
-        "@id": "_:g1634880"
+        "@id": "_:g1585160"
       }
     ],
     "http://schema.org/name": [
@@ -10924,7 +10620,7 @@
     ]
   },
   {
-    "@id": "_:g1115700",
+    "@id": "_:g1071080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10936,7 +10632,7 @@
     ]
   },
   {
-    "@id": "_:g1634880",
+    "@id": "_:g1585160",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11035,10 +10731,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1125140"
+        "@id": "_:g1080640"
       },
       {
-        "@id": "_:g1644000"
+        "@id": "_:g1594420"
       }
     ],
     "http://schema.org/name": [
@@ -11063,7 +10759,7 @@
     ]
   },
   {
-    "@id": "_:g1125140",
+    "@id": "_:g1080640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11075,7 +10771,7 @@
     ]
   },
   {
-    "@id": "_:g1644000",
+    "@id": "_:g1594420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11174,10 +10870,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1134480"
+        "@id": "_:g1090100"
       },
       {
-        "@id": "_:g1653060"
+        "@id": "_:g1603600"
       }
     ],
     "http://schema.org/name": [
@@ -11202,7 +10898,7 @@
     ]
   },
   {
-    "@id": "_:g1134480",
+    "@id": "_:g1090100",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11214,7 +10910,7 @@
     ]
   },
   {
-    "@id": "_:g1653060",
+    "@id": "_:g1603600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11248,7 +10944,7 @@
     "http://ogp.me/ns#description": [
       {
         "@language": "en",
-        "@value": "The 21st edition of the Festival de Musique du Bout du Monde will take place from August 7 to 10, 2025. A must-see event in the summer cultural program, it welcomes nearly 15,000 festival-goers and some 250 artists and craftspeople."
+        "@value": "The 22nd edition of the Festival de Musique du Bout du Monde will be presented from August 6 to 9, 2026. This event is an essential part of Gaspésie's summer cultural program, where nature and the arts come together for the pleasure of young and old alike."
       }
     ],
     "http://ogp.me/ns#url": [
@@ -11272,7 +10968,7 @@
     "article:modified_time": [
       {
         "@language": "en",
-        "@value": "2025-10-23T20:00:31+00:00"
+        "@value": "2025-11-20T14:25:56+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -11302,6 +10998,42 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://musiqueduboutdumonde.com/en/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1100780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://musiqueduboutdumonde.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2023380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://musiqueduboutdumonde.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2603360",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://musiqueduboutdumonde.com/"
       }
     ]
   },
@@ -11413,10 +11145,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1157180"
+        "@id": "_:g1113220"
       },
       {
-        "@id": "_:g2340760"
+        "@id": "_:g2076200"
       }
     ],
     "http://schema.org/name": [
@@ -11507,7 +11239,7 @@
     ]
   },
   {
-    "@id": "_:g1157180",
+    "@id": "_:g1113220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11519,7 +11251,7 @@
     ]
   },
   {
-    "@id": "_:g2340760",
+    "@id": "_:g2076200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11638,10 +11370,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1170700"
+        "@id": "_:g1126840"
       },
       {
-        "@id": "_:g2545900"
+        "@id": "_:g2283560"
       }
     ],
     "http://schema.org/name": [
@@ -11732,7 +11464,7 @@
     ]
   },
   {
-    "@id": "_:g1170700",
+    "@id": "_:g1126840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11744,7 +11476,7 @@
     ]
   },
   {
-    "@id": "_:g2545900",
+    "@id": "_:g2283560",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11869,10 +11601,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1193260"
+        "@id": "_:g1137360"
       },
       {
-        "@id": "_:g2507320"
+        "@id": "_:g2244560"
       }
     ],
     "http://schema.org/name": [
@@ -11979,7 +11711,7 @@
     ]
   },
   {
-    "@id": "_:g1193260",
+    "@id": "_:g1137360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11991,7 +11723,7 @@
     ]
   },
   {
-    "@id": "_:g2507320",
+    "@id": "_:g2244560",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12110,10 +11842,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1202620"
+        "@id": "_:g1147380"
       },
       {
-        "@id": "_:g2412600"
+        "@id": "_:g2148860"
       }
     ],
     "http://schema.org/name": [
@@ -12204,7 +11936,7 @@
     ]
   },
   {
-    "@id": "_:g1202620",
+    "@id": "_:g1147380",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12216,7 +11948,7 @@
     ]
   },
   {
-    "@id": "_:g2412600",
+    "@id": "_:g2148860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12338,10 +12070,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1212300"
+        "@id": "_:g1157100"
       },
       {
-        "@id": "_:g2320540"
+        "@id": "_:g2055900"
       }
     ],
     "http://schema.org/name": [
@@ -12456,7 +12188,7 @@
     ]
   },
   {
-    "@id": "_:g1212300",
+    "@id": "_:g1157100",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12468,7 +12200,7 @@
     ]
   },
   {
-    "@id": "_:g2320540",
+    "@id": "_:g2055900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12593,10 +12325,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1222580"
+        "@id": "_:g1167480"
       },
       {
-        "@id": "_:g2516820"
+        "@id": "_:g2254160"
       }
     ],
     "http://schema.org/name": [
@@ -12703,7 +12435,7 @@
     ]
   },
   {
-    "@id": "_:g1222580",
+    "@id": "_:g1167480",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12715,7 +12447,7 @@
     ]
   },
   {
-    "@id": "_:g2516820",
+    "@id": "_:g2254160",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12840,10 +12572,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1232600"
+        "@id": "_:g1177600"
       },
       {
-        "@id": "_:g2526600"
+        "@id": "_:g2264020"
       }
     ],
     "http://schema.org/name": [
@@ -12950,7 +12682,7 @@
     ]
   },
   {
-    "@id": "_:g1232600",
+    "@id": "_:g1177600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12962,7 +12694,7 @@
     ]
   },
   {
-    "@id": "_:g2526600",
+    "@id": "_:g2264020",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13155,10 +12887,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1252660"
+        "@id": "_:g1197840"
       },
       {
-        "@id": "_:g2441960"
+        "@id": "_:g2178540"
       }
     ],
     "http://schema.org/name": [
@@ -13249,7 +12981,7 @@
     ]
   },
   {
-    "@id": "_:g1252660",
+    "@id": "_:g1197840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13261,7 +12993,7 @@
     ]
   },
   {
-    "@id": "_:g2441960",
+    "@id": "_:g2178540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13386,10 +13118,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1262840"
+        "@id": "_:g1208220"
       },
       {
-        "@id": "_:g2465340"
+        "@id": "_:g2202060"
       }
     ],
     "http://schema.org/name": [
@@ -13496,7 +13228,7 @@
     ]
   },
   {
-    "@id": "_:g1262840",
+    "@id": "_:g1208220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13508,7 +13240,7 @@
     ]
   },
   {
-    "@id": "_:g2465340",
+    "@id": "_:g2202060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13633,10 +13365,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1272540"
+        "@id": "_:g1218080"
       },
       {
-        "@id": "_:g2330920"
+        "@id": "_:g2066260"
       }
     ],
     "http://schema.org/name": [
@@ -13743,7 +13475,7 @@
     ]
   },
   {
-    "@id": "_:g1272540",
+    "@id": "_:g1218080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13755,7 +13487,7 @@
     ]
   },
   {
-    "@id": "_:g2330920",
+    "@id": "_:g2066260",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13880,10 +13612,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1282300"
+        "@id": "_:g1227960"
       },
       {
-        "@id": "_:g2392560"
+        "@id": "_:g2128620"
       }
     ],
     "http://schema.org/name": [
@@ -13990,7 +13722,7 @@
     ]
   },
   {
-    "@id": "_:g1282300",
+    "@id": "_:g1227960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14002,7 +13734,7 @@
     ]
   },
   {
-    "@id": "_:g2392560",
+    "@id": "_:g2128620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14142,10 +13874,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1292640"
+        "@id": "_:g1238380"
       },
       {
-        "@id": "_:g2495980"
+        "@id": "_:g2233080"
       }
     ],
     "http://schema.org/name": [
@@ -14278,7 +14010,7 @@
     ]
   },
   {
-    "@id": "_:g1292640",
+    "@id": "_:g1238380",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14290,7 +14022,7 @@
     ]
   },
   {
-    "@id": "_:g2495980",
+    "@id": "_:g2233080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14412,10 +14144,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1304000"
+        "@id": "_:g1249900"
       },
       {
-        "@id": "_:g2485960"
+        "@id": "_:g2222860"
       }
     ],
     "http://schema.org/name": [
@@ -14530,7 +14262,7 @@
     ]
   },
   {
-    "@id": "_:g1304000",
+    "@id": "_:g1249900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14542,7 +14274,7 @@
     ]
   },
   {
-    "@id": "_:g2485960",
+    "@id": "_:g2222860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14661,10 +14393,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1314120"
+        "@id": "_:g1260160"
       },
       {
-        "@id": "_:g2402900"
+        "@id": "_:g2139080"
       }
     ],
     "http://schema.org/name": [
@@ -14755,7 +14487,7 @@
     ]
   },
   {
-    "@id": "_:g1314120",
+    "@id": "_:g1260160",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14767,7 +14499,7 @@
     ]
   },
   {
-    "@id": "_:g2402900",
+    "@id": "_:g2139080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14886,10 +14618,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1323740"
+        "@id": "_:g1269940"
       },
       {
-        "@id": "_:g2431740"
+        "@id": "_:g2168240"
       }
     ],
     "http://schema.org/name": [
@@ -14980,7 +14712,7 @@
     ]
   },
   {
-    "@id": "_:g1323740",
+    "@id": "_:g1269940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14992,7 +14724,7 @@
     ]
   },
   {
-    "@id": "_:g2431740",
+    "@id": "_:g2168240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15111,10 +14843,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1333840"
+        "@id": "_:g1280200"
       },
       {
-        "@id": "_:g2422120"
+        "@id": "_:g2158440"
       }
     ],
     "http://schema.org/name": [
@@ -15205,7 +14937,7 @@
     ]
   },
   {
-    "@id": "_:g1333840",
+    "@id": "_:g1280200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15217,7 +14949,7 @@
     ]
   },
   {
-    "@id": "_:g2422120",
+    "@id": "_:g2158440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15357,10 +15089,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1343300"
+        "@id": "_:g1289820"
       },
       {
-        "@id": "_:g2474920"
+        "@id": "_:g2211760"
       }
     ],
     "http://schema.org/name": [
@@ -15515,7 +15247,7 @@
     ]
   },
   {
-    "@id": "_:g1343300",
+    "@id": "_:g1289820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15527,7 +15259,7 @@
     ]
   },
   {
-    "@id": "_:g2474920",
+    "@id": "_:g2211760",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15646,10 +15378,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1354320"
+        "@id": "_:g1301000"
       },
       {
-        "@id": "_:g2452040"
+        "@id": "_:g2188700"
       }
     ],
     "http://schema.org/name": [
@@ -15740,7 +15472,7 @@
     ]
   },
   {
-    "@id": "_:g1354320",
+    "@id": "_:g1301000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15752,7 +15484,7 @@
     ]
   },
   {
-    "@id": "_:g2452040",
+    "@id": "_:g2188700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18157,10 +17889,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1895860"
+        "@id": "_:g1625180"
       },
       {
-        "@id": "_:g2573680"
+        "@id": "_:g2311740"
       }
     ],
     "http://schema.org/name": [
@@ -18251,7 +17983,7 @@
     ]
   },
   {
-    "@id": "_:g1895860",
+    "@id": "_:g1625180",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18263,7 +17995,7 @@
     ]
   },
   {
-    "@id": "_:g2573680",
+    "@id": "_:g2311740",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18382,10 +18114,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1904960"
+        "@id": "_:g1635700"
       },
       {
-        "@id": "_:g2663020"
+        "@id": "_:g2402020"
       }
     ],
     "http://schema.org/name": [
@@ -18476,7 +18208,7 @@
     ]
   },
   {
-    "@id": "_:g1904960",
+    "@id": "_:g1635700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18488,7 +18220,7 @@
     ]
   },
   {
-    "@id": "_:g2663020",
+    "@id": "_:g2402020",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18607,10 +18339,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1914140"
+        "@id": "_:g1644860"
       },
       {
-        "@id": "_:g2716980"
+        "@id": "_:g2456420"
       }
     ],
     "http://schema.org/name": [
@@ -18701,7 +18433,7 @@
     ]
   },
   {
-    "@id": "_:g1914140",
+    "@id": "_:g1644860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18713,7 +18445,7 @@
     ]
   },
   {
-    "@id": "_:g2716980",
+    "@id": "_:g2456420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18832,10 +18564,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1923240"
+        "@id": "_:g1654060"
       },
       {
-        "@id": "_:g2725960"
+        "@id": "_:g2465500"
       }
     ],
     "http://schema.org/name": [
@@ -18926,7 +18658,7 @@
     ]
   },
   {
-    "@id": "_:g1923240",
+    "@id": "_:g1654060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -18938,7 +18670,7 @@
     ]
   },
   {
-    "@id": "_:g2725960",
+    "@id": "_:g2465500",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19057,10 +18789,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1932300"
+        "@id": "_:g1663240"
       },
       {
-        "@id": "_:g2798340"
+        "@id": "_:g2538300"
       }
     ],
     "http://schema.org/name": [
@@ -19151,7 +18883,7 @@
     ]
   },
   {
-    "@id": "_:g1932300",
+    "@id": "_:g1663240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19163,7 +18895,7 @@
     ]
   },
   {
-    "@id": "_:g2798340",
+    "@id": "_:g2538300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19282,10 +19014,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1941400"
+        "@id": "_:g1672400"
       },
       {
-        "@id": "_:g2807320"
+        "@id": "_:g2547420"
       }
     ],
     "http://schema.org/name": [
@@ -19376,7 +19108,7 @@
     ]
   },
   {
-    "@id": "_:g1941400",
+    "@id": "_:g1672400",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19388,7 +19120,7 @@
     ]
   },
   {
-    "@id": "_:g2807320",
+    "@id": "_:g2547420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19507,10 +19239,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1950480"
+        "@id": "_:g1681600"
       },
       {
-        "@id": "_:g2771200"
+        "@id": "_:g2510960"
       }
     ],
     "http://schema.org/name": [
@@ -19601,7 +19333,7 @@
     ]
   },
   {
-    "@id": "_:g1950480",
+    "@id": "_:g1681600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19613,7 +19345,7 @@
     ]
   },
   {
-    "@id": "_:g2771200",
+    "@id": "_:g2510960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19732,10 +19464,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1959660"
+        "@id": "_:g1690840"
       },
       {
-        "@id": "_:g2672000"
+        "@id": "_:g2411080"
       }
     ],
     "http://schema.org/name": [
@@ -19826,7 +19558,7 @@
     ]
   },
   {
-    "@id": "_:g1959660",
+    "@id": "_:g1690840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19838,7 +19570,7 @@
     ]
   },
   {
-    "@id": "_:g2672000",
+    "@id": "_:g2411080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -19957,10 +19689,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1968760"
+        "@id": "_:g1700080"
       },
       {
-        "@id": "_:g2735000"
+        "@id": "_:g2474580"
       }
     ],
     "http://schema.org/name": [
@@ -20051,7 +19783,7 @@
     ]
   },
   {
-    "@id": "_:g1968760",
+    "@id": "_:g1700080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20063,7 +19795,7 @@
     ]
   },
   {
-    "@id": "_:g2735000",
+    "@id": "_:g2474580",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20182,10 +19914,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1977880"
+        "@id": "_:g1709340"
       },
       {
-        "@id": "_:g2744040"
+        "@id": "_:g2483700"
       }
     ],
     "http://schema.org/name": [
@@ -20276,7 +20008,7 @@
     ]
   },
   {
-    "@id": "_:g1977880",
+    "@id": "_:g1709340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20288,7 +20020,7 @@
     ]
   },
   {
-    "@id": "_:g2744040",
+    "@id": "_:g2483700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20395,10 +20127,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1986980"
+        "@id": "_:g1718560"
       },
       {
-        "@id": "_:g2555860"
+        "@id": "_:g2293720"
       }
     ],
     "http://schema.org/name": [
@@ -20483,7 +20215,7 @@
     ]
   },
   {
-    "@id": "_:g1986980",
+    "@id": "_:g1718560",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20495,7 +20227,7 @@
     ]
   },
   {
-    "@id": "_:g2555860",
+    "@id": "_:g2293720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20614,10 +20346,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1995940"
+        "@id": "_:g1727640"
       },
       {
-        "@id": "_:g2762160"
+        "@id": "_:g2501900"
       }
     ],
     "http://schema.org/name": [
@@ -20708,7 +20440,7 @@
     ]
   },
   {
-    "@id": "_:g1995940",
+    "@id": "_:g1727640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20720,7 +20452,7 @@
     ]
   },
   {
-    "@id": "_:g2762160",
+    "@id": "_:g2501900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20839,10 +20571,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2005000"
+        "@id": "_:g1736900"
       },
       {
-        "@id": "_:g2816320"
+        "@id": "_:g2556520"
       }
     ],
     "http://schema.org/name": [
@@ -20933,7 +20665,7 @@
     ]
   },
   {
-    "@id": "_:g2005000",
+    "@id": "_:g1736900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -20945,7 +20677,7 @@
     ]
   },
   {
-    "@id": "_:g2816320",
+    "@id": "_:g2556520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21064,10 +20796,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2014160"
+        "@id": "_:g1746120"
       },
       {
-        "@id": "_:g2680960"
+        "@id": "_:g2420120"
       }
     ],
     "http://schema.org/name": [
@@ -21158,7 +20890,7 @@
     ]
   },
   {
-    "@id": "_:g2014160",
+    "@id": "_:g1746120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21170,7 +20902,7 @@
     ]
   },
   {
-    "@id": "_:g2680960",
+    "@id": "_:g2420120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21289,10 +21021,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2023260"
+        "@id": "_:g1755360"
       },
       {
-        "@id": "_:g2825320"
+        "@id": "_:g2565620"
       }
     ],
     "http://schema.org/name": [
@@ -21383,7 +21115,7 @@
     ]
   },
   {
-    "@id": "_:g2023260",
+    "@id": "_:g1755360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21395,7 +21127,7 @@
     ]
   },
   {
-    "@id": "_:g2825320",
+    "@id": "_:g2565620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21514,10 +21246,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2032360"
+        "@id": "_:g1764600"
       },
       {
-        "@id": "_:g2780240"
+        "@id": "_:g2520060"
       }
     ],
     "http://schema.org/name": [
@@ -21608,7 +21340,7 @@
     ]
   },
   {
-    "@id": "_:g2032360",
+    "@id": "_:g1764600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21620,7 +21352,7 @@
     ]
   },
   {
-    "@id": "_:g2780240",
+    "@id": "_:g2520060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21739,10 +21471,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2041480"
+        "@id": "_:g1773820"
       },
       {
-        "@id": "_:g2689940"
+        "@id": "_:g2429220"
       }
     ],
     "http://schema.org/name": [
@@ -21833,7 +21565,7 @@
     ]
   },
   {
-    "@id": "_:g2041480",
+    "@id": "_:g1773820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21845,7 +21577,7 @@
     ]
   },
   {
-    "@id": "_:g2689940",
+    "@id": "_:g2429220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -21964,10 +21696,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2050560"
+        "@id": "_:g1783000"
       },
       {
-        "@id": "_:g2753080"
+        "@id": "_:g2492820"
       }
     ],
     "http://schema.org/name": [
@@ -22058,7 +21790,7 @@
     ]
   },
   {
-    "@id": "_:g2050560",
+    "@id": "_:g1783000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22070,7 +21802,7 @@
     ]
   },
   {
-    "@id": "_:g2753080",
+    "@id": "_:g2492820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22189,10 +21921,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2059640"
+        "@id": "_:g1792280"
       },
       {
-        "@id": "_:g2834320"
+        "@id": "_:g2574720"
       }
     ],
     "http://schema.org/name": [
@@ -22283,7 +22015,7 @@
     ]
   },
   {
-    "@id": "_:g2059640",
+    "@id": "_:g1792280",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22295,7 +22027,7 @@
     ]
   },
   {
-    "@id": "_:g2834320",
+    "@id": "_:g2574720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22414,10 +22146,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2068760"
+        "@id": "_:g1801520"
       },
       {
-        "@id": "_:g2843300"
+        "@id": "_:g2583820"
       }
     ],
     "http://schema.org/name": [
@@ -22508,7 +22240,7 @@
     ]
   },
   {
-    "@id": "_:g2068760",
+    "@id": "_:g1801520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22520,7 +22252,7 @@
     ]
   },
   {
-    "@id": "_:g2843300",
+    "@id": "_:g2583820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22639,10 +22371,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2077880"
+        "@id": "_:g1810760"
       },
       {
-        "@id": "_:g2654000"
+        "@id": "_:g2392920"
       }
     ],
     "http://schema.org/name": [
@@ -22733,7 +22465,7 @@
     ]
   },
   {
-    "@id": "_:g2077880",
+    "@id": "_:g1810760",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22745,7 +22477,7 @@
     ]
   },
   {
-    "@id": "_:g2654000",
+    "@id": "_:g2392920",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22864,10 +22596,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2086960"
+        "@id": "_:g1819960"
       },
       {
-        "@id": "_:g2564720"
+        "@id": "_:g2302660"
       }
     ],
     "http://schema.org/name": [
@@ -22958,7 +22690,7 @@
     ]
   },
   {
-    "@id": "_:g2086960",
+    "@id": "_:g1819960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -22970,7 +22702,7 @@
     ]
   },
   {
-    "@id": "_:g2564720",
+    "@id": "_:g2302660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23089,10 +22821,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2096060"
+        "@id": "_:g1829120"
       },
       {
-        "@id": "_:g2698980"
+        "@id": "_:g2438280"
       }
     ],
     "http://schema.org/name": [
@@ -23183,7 +22915,7 @@
     ]
   },
   {
-    "@id": "_:g2096060",
+    "@id": "_:g1829120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23195,7 +22927,7 @@
     ]
   },
   {
-    "@id": "_:g2698980",
+    "@id": "_:g2438280",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23314,10 +23046,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2105140"
+        "@id": "_:g1838280"
       },
       {
-        "@id": "_:g2789280"
+        "@id": "_:g2529180"
       }
     ],
     "http://schema.org/name": [
@@ -23408,7 +23140,7 @@
     ]
   },
   {
-    "@id": "_:g2105140",
+    "@id": "_:g1838280",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23420,7 +23152,7 @@
     ]
   },
   {
-    "@id": "_:g2789280",
+    "@id": "_:g2529180",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23539,10 +23271,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2114320"
+        "@id": "_:g1847500"
       },
       {
-        "@id": "_:g2852340"
+        "@id": "_:g2592880"
       }
     ],
     "http://schema.org/name": [
@@ -23633,7 +23365,7 @@
     ]
   },
   {
-    "@id": "_:g2114320",
+    "@id": "_:g1847500",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23645,7 +23377,7 @@
     ]
   },
   {
-    "@id": "_:g2852340",
+    "@id": "_:g2592880",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23764,10 +23496,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2123420"
+        "@id": "_:g1856680"
       },
       {
-        "@id": "_:g2708000"
+        "@id": "_:g2447340"
       }
     ],
     "http://schema.org/name": [
@@ -23858,7 +23590,7 @@
     ]
   },
   {
-    "@id": "_:g2123420",
+    "@id": "_:g1856680",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23870,7 +23602,7 @@
     ]
   },
   {
-    "@id": "_:g2708000",
+    "@id": "_:g2447340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -23977,10 +23709,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2132500"
+        "@id": "_:g1865860"
       },
       {
-        "@id": "_:g2636240"
+        "@id": "_:g2375000"
       }
     ],
     "http://schema.org/name": [
@@ -24065,7 +23797,7 @@
     ]
   },
   {
-    "@id": "_:g2132500",
+    "@id": "_:g1865860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24077,7 +23809,7 @@
     ]
   },
   {
-    "@id": "_:g2636240",
+    "@id": "_:g2375000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24184,10 +23916,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2141460"
+        "@id": "_:g1874920"
       },
       {
-        "@id": "_:g2627380"
+        "@id": "_:g2366060"
       }
     ],
     "http://schema.org/name": [
@@ -24272,7 +24004,7 @@
     ]
   },
   {
-    "@id": "_:g2141460",
+    "@id": "_:g1874920",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24284,7 +24016,7 @@
     ]
   },
   {
-    "@id": "_:g2627380",
+    "@id": "_:g2366060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24403,10 +24135,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2150420"
+        "@id": "_:g1883960"
       },
       {
-        "@id": "_:g2582640"
+        "@id": "_:g2320820"
       }
     ],
     "http://schema.org/name": [
@@ -24497,7 +24229,7 @@
     ]
   },
   {
-    "@id": "_:g2150420",
+    "@id": "_:g1883960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24509,7 +24241,7 @@
     ]
   },
   {
-    "@id": "_:g2582640",
+    "@id": "_:g2320820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24616,10 +24348,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2159460"
+        "@id": "_:g1893220"
       },
       {
-        "@id": "_:g2645120"
+        "@id": "_:g2383940"
       }
     ],
     "http://schema.org/name": [
@@ -24704,7 +24436,7 @@
     ]
   },
   {
-    "@id": "_:g2159460",
+    "@id": "_:g1893220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24716,7 +24448,7 @@
     ]
   },
   {
-    "@id": "_:g2645120",
+    "@id": "_:g2383940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24835,10 +24567,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2168460"
+        "@id": "_:g1902300"
       },
       {
-        "@id": "_:g2609560"
+        "@id": "_:g2348020"
       }
     ],
     "http://schema.org/name": [
@@ -24929,7 +24661,7 @@
     ]
   },
   {
-    "@id": "_:g2168460",
+    "@id": "_:g1902300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -24941,7 +24673,7 @@
     ]
   },
   {
-    "@id": "_:g2609560",
+    "@id": "_:g2348020",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25048,10 +24780,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2177580"
+        "@id": "_:g1911500"
       },
       {
-        "@id": "_:g2618520"
+        "@id": "_:g2357120"
       }
     ],
     "http://schema.org/name": [
@@ -25136,7 +24868,7 @@
     ]
   },
   {
-    "@id": "_:g2177580",
+    "@id": "_:g1911500",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25148,7 +24880,7 @@
     ]
   },
   {
-    "@id": "_:g2618520",
+    "@id": "_:g2357120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25267,10 +24999,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2186560"
+        "@id": "_:g1920620"
       },
       {
-        "@id": "_:g2600600"
+        "@id": "_:g2338980"
       }
     ],
     "http://schema.org/name": [
@@ -25361,7 +25093,7 @@
     ]
   },
   {
-    "@id": "_:g2186560",
+    "@id": "_:g1920620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25373,7 +25105,7 @@
     ]
   },
   {
-    "@id": "_:g2600600",
+    "@id": "_:g2338980",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25492,10 +25224,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2195680"
+        "@id": "_:g1929840"
       },
       {
-        "@id": "_:g2591600"
+        "@id": "_:g2329920"
       }
     ],
     "http://schema.org/name": [
@@ -25586,7 +25318,7 @@
     ]
   },
   {
-    "@id": "_:g2195680",
+    "@id": "_:g1929840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25598,7 +25330,7 @@
     ]
   },
   {
-    "@id": "_:g2591600",
+    "@id": "_:g2329920",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25703,10 +25435,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2300740"
+        "@id": "_:g2035780"
       },
       {
-        "@id": "_:g2310800"
+        "@id": "_:g2045960"
       }
     ],
     "http://schema.org/name": [
@@ -25731,7 +25463,7 @@
     ]
   },
   {
-    "@id": "_:g2300740",
+    "@id": "_:g2035780",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25743,7 +25475,7 @@
     ]
   },
   {
-    "@id": "_:g2310800",
+    "@id": "_:g2045960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25928,10 +25660,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2354200"
+        "@id": "_:g2089700"
       },
       {
-        "@id": "_:g2363900"
+        "@id": "_:g2099540"
       }
     ],
     "http://schema.org/name": [
@@ -25956,7 +25688,7 @@
     ]
   },
   {
-    "@id": "_:g2354200",
+    "@id": "_:g2089700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -25968,7 +25700,7 @@
     ]
   },
   {
-    "@id": "_:g2363900",
+    "@id": "_:g2099540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -26153,10 +25885,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2373360"
+        "@id": "_:g2109240"
       },
       {
-        "@id": "_:g2383180"
+        "@id": "_:g2119060"
       }
     ],
     "http://schema.org/name": [
@@ -26181,7 +25913,7 @@
     ]
   },
   {
-    "@id": "_:g2373360",
+    "@id": "_:g2109240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -26193,7 +25925,7 @@
     ]
   },
   {
-    "@id": "_:g2383180",
+    "@id": "_:g2119060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -26375,7 +26107,7 @@
     "http://ogp.me/ns#description": [
       {
         "@language": "fr-fr",
-        "@value": "La 21e édition du Festival de Musique du Bout du Monde sera présentée du 7 au 10 août 2025. Cet événement est un incontournable de la programmation culturelle estivale, il accueille près de 15 000 festivaliers et près de 250 artistes et artisans."
+        "@value": "La 22e édition du Festival de Musique du Bout du Monde sera présentée du 6 au 9 août 2026. Cet événement est un incontournable de la programmation culturelle estivale de la Gaspésie, où la nature et les arts se donnent en spectacle, pour le plaisir des petits et des grands"
       }
     ],
     "http://ogp.me/ns#url": [
@@ -26399,7 +26131,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-10-23T20:00:31+00:00"
+        "@value": "2025-11-20T14:25:56+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
