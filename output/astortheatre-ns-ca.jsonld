@@ -13,7 +13,7 @@
     ]
   },
   {
-    "@id": "_:g481780",
+    "@id": "_:g482380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24,7 +24,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g481800"
+        "@id": "_:g482400"
       }
     ],
     "http://schema.org/sameAs": [
@@ -49,7 +49,7 @@
     ]
   },
   {
-    "@id": "_:g481800",
+    "@id": "_:g482400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "@id": "_:g481840",
+    "@id": "_:g482440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -91,7 +91,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g481860"
+        "@id": "_:g482460"
       }
     ],
     "http://schema.org/sameAs": [
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "@id": "_:g481860",
+    "@id": "_:g482460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "@id": "_:g481900",
+    "@id": "_:g482500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -158,7 +158,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g481920"
+        "@id": "_:g482520"
       }
     ],
     "http://schema.org/sameAs": [
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "@id": "_:g481920",
+    "@id": "_:g482520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "@id": "_:g481960",
+    "@id": "_:g482560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -225,7 +225,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g481980"
+        "@id": "_:g482580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -250,7 +250,74 @@
     ]
   },
   {
-    "@id": "_:g481980",
+    "@id": "_:g482580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g482640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g482640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -303,7 +370,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/abcec7ee-a007-4a2f-9194-0991e02d7dc9",
+    "@id": "http://astortheatre.ns.ca/temporary/591c3f54-fd81-4a07-a757-d46dd6d8b58c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -331,7 +398,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g481780"
+        "@id": "_:g482380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -366,7 +433,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/fcbb0815-d0fb-439e-867d-3169242aa57d",
+    "@id": "http://astortheatre.ns.ca/temporary/0ac741e8-f5d8-4563-a0ca-ce1bafb3372e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -394,7 +461,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g481840"
+        "@id": "_:g482440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -429,7 +496,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c7343028-8606-4b65-bbce-f7283b116200",
+    "@id": "http://astortheatre.ns.ca/temporary/41ca16bc-ad52-46a8-bb0e-cd0a47100d0e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -457,7 +524,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g481900"
+        "@id": "_:g482500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -492,7 +559,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c725f8b9-1a25-4ace-aca0-22ad0b226896",
+    "@id": "http://astortheatre.ns.ca/temporary/35e51667-2c66-4391-a8e3-08d407fe0b36",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -520,7 +587,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g481960"
+        "@id": "_:g482560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -555,7 +622,70 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/65d184dd-9130-4e44-9831-96af308c4bf4",
+    "@id": "http://astortheatre.ns.ca/temporary/059aa726-3d20-4aed-89c0-54acbd0281eb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/11/royalwood-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/royal-wood/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T22:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g482620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/category/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Royal Wood"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Royal Wood is a beloved Canadian singer-songwriter and multi-instrumentalist. A two-time JUNO and five-time Canadian Folk Music Award nominee.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/acf86efa-663e-467e-8777-8e3bd5f5430b",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -566,7 +696,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/62b89af8-562e-43e8-b459-e5ba4afc81c6",
+    "@id": "http://astortheatre.ns.ca/temporary/89a54bb2-e4fa-4800-b3f0-2ca08c03a11f",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -577,7 +707,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/6ad8bca3-09ef-4622-8437-0d1c6e3db057",
+    "@id": "http://astortheatre.ns.ca/temporary/6442987c-2369-4673-b5f9-927f1c137a49",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -601,7 +731,7 @@
     ]
   },
   {
-    "@id": "_:g951900",
+    "@id": "_:g939040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -612,7 +742,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g951920"
+        "@id": "_:g939060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -637,7 +767,7 @@
     ]
   },
   {
-    "@id": "_:g951920",
+    "@id": "_:g939060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -668,7 +798,7 @@
     ]
   },
   {
-    "@id": "_:g951960",
+    "@id": "_:g939100",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -679,7 +809,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g951980"
+        "@id": "_:g939120"
       }
     ],
     "http://schema.org/sameAs": [
@@ -704,7 +834,7 @@
     ]
   },
   {
-    "@id": "_:g951980",
+    "@id": "_:g939120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -735,7 +865,7 @@
     ]
   },
   {
-    "@id": "_:g952020",
+    "@id": "_:g939160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -746,7 +876,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952040"
+        "@id": "_:g939180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -771,7 +901,7 @@
     ]
   },
   {
-    "@id": "_:g952040",
+    "@id": "_:g939180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -802,7 +932,7 @@
     ]
   },
   {
-    "@id": "_:g952080",
+    "@id": "_:g939220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -813,7 +943,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952100"
+        "@id": "_:g939240"
       }
     ],
     "http://schema.org/sameAs": [
@@ -838,7 +968,7 @@
     ]
   },
   {
-    "@id": "_:g952100",
+    "@id": "_:g939240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -869,7 +999,7 @@
     ]
   },
   {
-    "@id": "_:g952140",
+    "@id": "_:g939280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -880,7 +1010,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952160"
+        "@id": "_:g939300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -905,7 +1035,7 @@
     ]
   },
   {
-    "@id": "_:g952160",
+    "@id": "_:g939300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -936,7 +1066,7 @@
     ]
   },
   {
-    "@id": "_:g952200",
+    "@id": "_:g939340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -947,7 +1077,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952220"
+        "@id": "_:g939360"
       }
     ],
     "http://schema.org/sameAs": [
@@ -972,7 +1102,7 @@
     ]
   },
   {
-    "@id": "_:g952220",
+    "@id": "_:g939360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1003,7 +1133,7 @@
     ]
   },
   {
-    "@id": "_:g952260",
+    "@id": "_:g939400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1014,7 +1144,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952280"
+        "@id": "_:g939420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1039,7 +1169,7 @@
     ]
   },
   {
-    "@id": "_:g952280",
+    "@id": "_:g939420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1070,7 +1200,7 @@
     ]
   },
   {
-    "@id": "_:g952320",
+    "@id": "_:g939460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1081,7 +1211,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952340"
+        "@id": "_:g939480"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1106,7 +1236,7 @@
     ]
   },
   {
-    "@id": "_:g952340",
+    "@id": "_:g939480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1137,7 +1267,7 @@
     ]
   },
   {
-    "@id": "_:g952380",
+    "@id": "_:g939520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1148,7 +1278,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952400"
+        "@id": "_:g939540"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1173,7 +1303,7 @@
     ]
   },
   {
-    "@id": "_:g952400",
+    "@id": "_:g939540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1204,7 +1334,7 @@
     ]
   },
   {
-    "@id": "_:g952440",
+    "@id": "_:g939580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1215,7 +1345,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952460"
+        "@id": "_:g939600"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1240,7 +1370,7 @@
     ]
   },
   {
-    "@id": "_:g952460",
+    "@id": "_:g939600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1271,7 +1401,7 @@
     ]
   },
   {
-    "@id": "_:g952500",
+    "@id": "_:g939640",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1282,7 +1412,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952520"
+        "@id": "_:g939660"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1307,7 +1437,7 @@
     ]
   },
   {
-    "@id": "_:g952520",
+    "@id": "_:g939660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1338,7 +1468,7 @@
     ]
   },
   {
-    "@id": "_:g952560",
+    "@id": "_:g939700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1349,7 +1479,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952580"
+        "@id": "_:g939720"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1374,7 +1504,7 @@
     ]
   },
   {
-    "@id": "_:g952580",
+    "@id": "_:g939720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1405,7 +1535,7 @@
     ]
   },
   {
-    "@id": "_:g952620",
+    "@id": "_:g939760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1416,7 +1546,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952640"
+        "@id": "_:g939780"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1441,7 +1571,7 @@
     ]
   },
   {
-    "@id": "_:g952640",
+    "@id": "_:g939780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1472,7 +1602,7 @@
     ]
   },
   {
-    "@id": "_:g952680",
+    "@id": "_:g939820",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1483,7 +1613,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952700"
+        "@id": "_:g939840"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1508,7 +1638,7 @@
     ]
   },
   {
-    "@id": "_:g952700",
+    "@id": "_:g939840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1539,7 +1669,7 @@
     ]
   },
   {
-    "@id": "_:g952740",
+    "@id": "_:g939880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1550,7 +1680,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952760"
+        "@id": "_:g939900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1575,7 +1705,7 @@
     ]
   },
   {
-    "@id": "_:g952760",
+    "@id": "_:g939900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1606,7 +1736,7 @@
     ]
   },
   {
-    "@id": "_:g952800",
+    "@id": "_:g939940",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1617,7 +1747,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952820"
+        "@id": "_:g939960"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1642,7 +1772,7 @@
     ]
   },
   {
-    "@id": "_:g952820",
+    "@id": "_:g939960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1673,7 +1803,7 @@
     ]
   },
   {
-    "@id": "_:g952860",
+    "@id": "_:g940000",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1684,7 +1814,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952880"
+        "@id": "_:g940020"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1709,7 +1839,7 @@
     ]
   },
   {
-    "@id": "_:g952880",
+    "@id": "_:g940020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1740,7 +1870,7 @@
     ]
   },
   {
-    "@id": "_:g952920",
+    "@id": "_:g940060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1751,7 +1881,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952940"
+        "@id": "_:g940080"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1776,7 +1906,7 @@
     ]
   },
   {
-    "@id": "_:g952940",
+    "@id": "_:g940080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1807,7 +1937,7 @@
     ]
   },
   {
-    "@id": "_:g952980",
+    "@id": "_:g940120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1818,7 +1948,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g953000"
+        "@id": "_:g940140"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1843,7 +1973,7 @@
     ]
   },
   {
-    "@id": "_:g953000",
+    "@id": "_:g940140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1874,7 +2004,7 @@
     ]
   },
   {
-    "@id": "_:g953040",
+    "@id": "_:g940180",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1885,7 +2015,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g953060"
+        "@id": "_:g940200"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1910,7 +2040,7 @@
     ]
   },
   {
-    "@id": "_:g953060",
+    "@id": "_:g940200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1941,7 +2071,7 @@
     ]
   },
   {
-    "@id": "_:g953100",
+    "@id": "_:g940240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1952,7 +2082,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g953120"
+        "@id": "_:g940260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1977,7 +2107,7 @@
     ]
   },
   {
-    "@id": "_:g953120",
+    "@id": "_:g940260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2030,7 +2160,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/8a41373e-6bd0-4fd0-91a1-14c18f2e2b78",
+    "@id": "http://astortheatre.ns.ca/temporary/88ae942f-073a-4214-a843-0873b4d324aa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2058,7 +2188,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g951900"
+        "@id": "_:g939040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2093,7 +2223,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/ec74e0ff-2f6f-4542-93ad-40dd54443cd8",
+    "@id": "http://astortheatre.ns.ca/temporary/c9e4a1c8-3685-4c2d-a969-ca7f2bf0af42",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2121,7 +2251,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g951960"
+        "@id": "_:g939100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2156,7 +2286,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/dd3ab3eb-66a5-4a59-adeb-d51b3d43c38c",
+    "@id": "http://astortheatre.ns.ca/temporary/6779e4a6-aaf3-49f0-9e2d-801fb1a27c35",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2184,7 +2314,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952020"
+        "@id": "_:g939160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2219,7 +2349,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/1bdd96c5-44a6-4adf-871f-82d6273f6dad",
+    "@id": "http://astortheatre.ns.ca/temporary/0c242d3e-d7f8-4945-bb5f-1b2236dd5a21",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2247,7 +2377,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952080"
+        "@id": "_:g939220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2282,7 +2412,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a12b8988-8e3f-4c5f-89ab-0df3ef7fc09e",
+    "@id": "http://astortheatre.ns.ca/temporary/14d82964-eccc-4056-b6b6-bde294287093",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2310,7 +2440,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952140"
+        "@id": "_:g939280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2345,7 +2475,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/3555334f-1567-4188-9aa4-437c7509698a",
+    "@id": "http://astortheatre.ns.ca/temporary/3329f52c-8e93-4741-acd0-1cca92cc84d3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2373,7 +2503,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952200"
+        "@id": "_:g939340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2408,7 +2538,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/211f9020-f4b2-454f-a36e-56c373d11840",
+    "@id": "http://astortheatre.ns.ca/temporary/587c0e06-5b7f-4711-988f-80d95ed188fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2436,7 +2566,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952260"
+        "@id": "_:g939400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2471,7 +2601,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a3158614-6ea7-4c8d-9895-d9db034a2a93",
+    "@id": "http://astortheatre.ns.ca/temporary/29344ac4-fa3e-4d35-bd2e-e3f60bca9146",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2499,7 +2629,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952320"
+        "@id": "_:g939460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2534,7 +2664,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/731cce15-1241-471a-93eb-881b2a109cbe",
+    "@id": "http://astortheatre.ns.ca/temporary/b4347512-8630-474e-8676-f32c797da62a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2562,7 +2692,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952380"
+        "@id": "_:g939520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2597,7 +2727,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/04906e5d-51dd-4849-bee1-2d85cceca330",
+    "@id": "http://astortheatre.ns.ca/temporary/6d4c9e70-4d06-4087-a394-905bf4198479",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2625,7 +2755,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952440"
+        "@id": "_:g939580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2660,7 +2790,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/f829960c-6852-44b7-8ae9-e84e32b835c1",
+    "@id": "http://astortheatre.ns.ca/temporary/7ebcf9db-befa-4ffa-a5a9-bb8b8b194c5d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2688,7 +2818,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952500"
+        "@id": "_:g939640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2723,7 +2853,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a5c6ac09-9162-4740-8c51-490c3ab0c341",
+    "@id": "http://astortheatre.ns.ca/temporary/d59b5610-a0a0-4090-9c14-ac02a42cbdf3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2751,7 +2881,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952560"
+        "@id": "_:g939700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2786,7 +2916,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/b7d6be73-c34f-4e6d-9b72-9c3e6989f4e2",
+    "@id": "http://astortheatre.ns.ca/temporary/98bf4e8c-b339-4d96-a24a-b0df9049eb6e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2814,7 +2944,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952620"
+        "@id": "_:g939760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2849,7 +2979,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/6400403f-16b1-4ea3-8014-ebe695ca9b16",
+    "@id": "http://astortheatre.ns.ca/temporary/80c39166-dad2-4c14-8628-30a848b32d25",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2877,7 +3007,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952680"
+        "@id": "_:g939820"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2912,7 +3042,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/5760c66f-02c4-4209-bf37-1f831716f594",
+    "@id": "http://astortheatre.ns.ca/temporary/19f8cd5d-5c51-450a-be65-f2c4e82187fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2940,7 +3070,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952740"
+        "@id": "_:g939880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2975,7 +3105,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/937f378b-1f5c-4bb7-b41f-1eee9ff8d7ad",
+    "@id": "http://astortheatre.ns.ca/temporary/64306989-f28b-41a9-9aa5-676df3558d89",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3003,7 +3133,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952800"
+        "@id": "_:g939940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3038,7 +3168,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/607c1450-dbed-44dc-9aac-55e20afac31b",
+    "@id": "http://astortheatre.ns.ca/temporary/c81285a7-34e9-4e3e-9dc5-0da91cc5a5d0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3066,7 +3196,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952860"
+        "@id": "_:g940000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3101,7 +3231,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a18e815d-b5fe-4ea6-ac59-443ba249d37e",
+    "@id": "http://astortheatre.ns.ca/temporary/ac3a0794-f85e-43c6-8744-a3a6d84bfb27",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3129,7 +3259,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952920"
+        "@id": "_:g940060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3164,7 +3294,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/980746e3-deac-4479-a4bf-6b69da140ec6",
+    "@id": "http://astortheatre.ns.ca/temporary/baa7e116-3e08-4bdc-8f6c-0fd4c0679366",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3192,7 +3322,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952980"
+        "@id": "_:g940120"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3227,7 +3357,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/b3ec73e8-7040-441d-af70-8502df9fbe06",
+    "@id": "http://astortheatre.ns.ca/temporary/35caae01-7289-40dd-b190-25588b6a619c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3255,7 +3385,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g953040"
+        "@id": "_:g940180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3290,7 +3420,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/2768b60e-8773-48b7-aad5-bd548bbcce5f",
+    "@id": "http://astortheatre.ns.ca/temporary/6295be2f-da5d-4788-922c-c3a50a896ed0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3318,7 +3448,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g953100"
+        "@id": "_:g940240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3353,7 +3483,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/31ada1c8-82e4-4206-aff8-b4dab7f14055",
+    "@id": "http://astortheatre.ns.ca/temporary/a268add0-c9e5-4024-af28-8eba6d3c20b5",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -3364,7 +3494,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/171b8162-051c-4e1a-91d8-f2754338daec",
+    "@id": "http://astortheatre.ns.ca/temporary/863f6b79-1b6f-47e0-8d9a-fd56b09bc522",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -3375,7 +3505,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c3406faa-121e-44bd-bbac-a4c67718611f",
+    "@id": "http://astortheatre.ns.ca/temporary/db712c87-68ae-4ed9-81fa-826d88d8af25",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -3399,7 +3529,7 @@
     ]
   },
   {
-    "@id": "_:g1010020",
+    "@id": "_:g997500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3410,7 +3540,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010040"
+        "@id": "_:g997520"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3435,7 +3565,7 @@
     ]
   },
   {
-    "@id": "_:g1010040",
+    "@id": "_:g997520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3466,7 +3596,7 @@
     ]
   },
   {
-    "@id": "_:g1010080",
+    "@id": "_:g997560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3477,7 +3607,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010100"
+        "@id": "_:g997580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3502,7 +3632,7 @@
     ]
   },
   {
-    "@id": "_:g1010100",
+    "@id": "_:g997580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3533,7 +3663,7 @@
     ]
   },
   {
-    "@id": "_:g1010140",
+    "@id": "_:g997620",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3544,7 +3674,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010160"
+        "@id": "_:g997640"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3569,7 +3699,7 @@
     ]
   },
   {
-    "@id": "_:g1010160",
+    "@id": "_:g997640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3600,7 +3730,7 @@
     ]
   },
   {
-    "@id": "_:g1010200",
+    "@id": "_:g997680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3611,7 +3741,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010220"
+        "@id": "_:g997700"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3636,7 +3766,7 @@
     ]
   },
   {
-    "@id": "_:g1010220",
+    "@id": "_:g997700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3667,7 +3797,7 @@
     ]
   },
   {
-    "@id": "_:g1010260",
+    "@id": "_:g997740",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3678,7 +3808,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010280"
+        "@id": "_:g997760"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3703,7 +3833,7 @@
     ]
   },
   {
-    "@id": "_:g1010280",
+    "@id": "_:g997760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3734,7 +3864,7 @@
     ]
   },
   {
-    "@id": "_:g1010320",
+    "@id": "_:g997800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3745,7 +3875,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010340"
+        "@id": "_:g997820"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3770,7 +3900,7 @@
     ]
   },
   {
-    "@id": "_:g1010340",
+    "@id": "_:g997820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3801,7 +3931,7 @@
     ]
   },
   {
-    "@id": "_:g1010380",
+    "@id": "_:g997860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3812,7 +3942,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010400"
+        "@id": "_:g997880"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3837,7 +3967,7 @@
     ]
   },
   {
-    "@id": "_:g1010400",
+    "@id": "_:g997880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3868,7 +3998,7 @@
     ]
   },
   {
-    "@id": "_:g1010440",
+    "@id": "_:g997920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3879,7 +4009,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010460"
+        "@id": "_:g997940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3904,7 +4034,7 @@
     ]
   },
   {
-    "@id": "_:g1010460",
+    "@id": "_:g997940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3935,7 +4065,7 @@
     ]
   },
   {
-    "@id": "_:g1010500",
+    "@id": "_:g997980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3946,7 +4076,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010520"
+        "@id": "_:g998000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3971,7 +4101,7 @@
     ]
   },
   {
-    "@id": "_:g1010520",
+    "@id": "_:g998000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4002,7 +4132,7 @@
     ]
   },
   {
-    "@id": "_:g1010560",
+    "@id": "_:g998040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4013,7 +4143,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010580"
+        "@id": "_:g998060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4038,7 +4168,7 @@
     ]
   },
   {
-    "@id": "_:g1010580",
+    "@id": "_:g998060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4069,7 +4199,7 @@
     ]
   },
   {
-    "@id": "_:g1010620",
+    "@id": "_:g998100",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4080,7 +4210,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010640"
+        "@id": "_:g998120"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4105,7 +4235,7 @@
     ]
   },
   {
-    "@id": "_:g1010640",
+    "@id": "_:g998120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4136,7 +4266,7 @@
     ]
   },
   {
-    "@id": "_:g1010680",
+    "@id": "_:g998160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4147,7 +4277,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010700"
+        "@id": "_:g998180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4172,7 +4302,7 @@
     ]
   },
   {
-    "@id": "_:g1010700",
+    "@id": "_:g998180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4203,7 +4333,7 @@
     ]
   },
   {
-    "@id": "_:g1010740",
+    "@id": "_:g998220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4214,7 +4344,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010760"
+        "@id": "_:g998240"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4239,7 +4369,7 @@
     ]
   },
   {
-    "@id": "_:g1010760",
+    "@id": "_:g998240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4270,7 +4400,7 @@
     ]
   },
   {
-    "@id": "_:g1010800",
+    "@id": "_:g998280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4281,7 +4411,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010820"
+        "@id": "_:g998300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4306,7 +4436,7 @@
     ]
   },
   {
-    "@id": "_:g1010820",
+    "@id": "_:g998300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4337,7 +4467,7 @@
     ]
   },
   {
-    "@id": "_:g1010860",
+    "@id": "_:g998340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4348,7 +4478,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010880"
+        "@id": "_:g998360"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4373,7 +4503,7 @@
     ]
   },
   {
-    "@id": "_:g1010880",
+    "@id": "_:g998360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4404,7 +4534,7 @@
     ]
   },
   {
-    "@id": "_:g1010920",
+    "@id": "_:g998400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4415,7 +4545,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1010940"
+        "@id": "_:g998420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4440,7 +4570,7 @@
     ]
   },
   {
-    "@id": "_:g1010940",
+    "@id": "_:g998420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4471,7 +4601,7 @@
     ]
   },
   {
-    "@id": "_:g1010980",
+    "@id": "_:g998460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4482,7 +4612,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1011000"
+        "@id": "_:g998480"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4507,7 +4637,7 @@
     ]
   },
   {
-    "@id": "_:g1011000",
+    "@id": "_:g998480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4538,7 +4668,7 @@
     ]
   },
   {
-    "@id": "_:g1011040",
+    "@id": "_:g998520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4549,7 +4679,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1011060"
+        "@id": "_:g998540"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4574,7 +4704,7 @@
     ]
   },
   {
-    "@id": "_:g1011060",
+    "@id": "_:g998540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4605,7 +4735,7 @@
     ]
   },
   {
-    "@id": "_:g1011100",
+    "@id": "_:g998580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4616,7 +4746,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1011120"
+        "@id": "_:g998600"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4641,7 +4771,7 @@
     ]
   },
   {
-    "@id": "_:g1011120",
+    "@id": "_:g998600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4672,7 +4802,7 @@
     ]
   },
   {
-    "@id": "_:g1011160",
+    "@id": "_:g998640",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4683,7 +4813,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1011180"
+        "@id": "_:g998660"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4708,7 +4838,7 @@
     ]
   },
   {
-    "@id": "_:g1011180",
+    "@id": "_:g998660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4739,7 +4869,7 @@
     ]
   },
   {
-    "@id": "_:g1011220",
+    "@id": "_:g998700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4750,7 +4880,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1011240"
+        "@id": "_:g998720"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4775,7 +4905,7 @@
     ]
   },
   {
-    "@id": "_:g1011240",
+    "@id": "_:g998720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4828,7 +4958,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a1ab2732-f4bb-44eb-a37c-5119f82a8276",
+    "@id": "http://astortheatre.ns.ca/temporary/b4324306-4ed8-4fbd-8fa5-7581a03db71b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4856,7 +4986,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010020"
+        "@id": "_:g997500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4891,7 +5021,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/5d111d38-59f6-4f92-8cfc-702d2e74de62",
+    "@id": "http://astortheatre.ns.ca/temporary/475a2b95-8961-49f1-866e-0b52c49f707b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4919,7 +5049,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010080"
+        "@id": "_:g997560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4954,7 +5084,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/3e514f61-dfc1-4c03-b7ef-ee35ac459686",
+    "@id": "http://astortheatre.ns.ca/temporary/f7bdd53b-0092-4248-a5b2-357d6d857f77",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4982,7 +5112,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010140"
+        "@id": "_:g997620"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5017,7 +5147,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/04284131-7900-45a6-86d7-daf4968c316d",
+    "@id": "http://astortheatre.ns.ca/temporary/aaadcf37-16a5-4d19-b2c9-97e395746d52",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5045,7 +5175,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010200"
+        "@id": "_:g997680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5080,7 +5210,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a7907188-4971-4519-9814-62f1650d46b9",
+    "@id": "http://astortheatre.ns.ca/temporary/fac654cd-eba1-44e3-83d1-ff87e2fa0dc7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5108,7 +5238,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010260"
+        "@id": "_:g997740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5143,7 +5273,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/fdecac33-09e2-435d-a553-2e5dddbc25a0",
+    "@id": "http://astortheatre.ns.ca/temporary/20eca25a-3e19-4f5d-8273-f97dbd201a77",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5171,7 +5301,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010320"
+        "@id": "_:g997800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5206,7 +5336,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/62939556-1d0d-42b9-a84b-414cc7450ab7",
+    "@id": "http://astortheatre.ns.ca/temporary/4390c3ac-cd17-427c-987a-77fbfd2a1edc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5234,7 +5364,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010380"
+        "@id": "_:g997860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5269,7 +5399,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/e18af365-cc53-4af1-906f-919cf837bd2d",
+    "@id": "http://astortheatre.ns.ca/temporary/ab79d1a2-6774-4a3f-97ad-65a8a71d5216",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5297,7 +5427,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010440"
+        "@id": "_:g997920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5332,7 +5462,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/d28065ec-f349-4d73-aeb0-ba722bd7ea2a",
+    "@id": "http://astortheatre.ns.ca/temporary/1fbaa780-cd46-4d2e-a25f-dd1de5e69f71",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5360,7 +5490,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010500"
+        "@id": "_:g997980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5395,7 +5525,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/9f7d26a0-911e-4525-81c7-bda475ffc229",
+    "@id": "http://astortheatre.ns.ca/temporary/6258dc1c-4845-4938-81eb-44e4761b29f4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5423,7 +5553,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010560"
+        "@id": "_:g998040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5458,7 +5588,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/4f4e19c6-5e45-4621-87f7-e7630365a518",
+    "@id": "http://astortheatre.ns.ca/temporary/f8a8bb04-d401-4695-b0c0-d9d63da0d4a9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5486,7 +5616,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010620"
+        "@id": "_:g998100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5521,7 +5651,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/19a43aa8-cacd-42c1-a040-7930731d0eaa",
+    "@id": "http://astortheatre.ns.ca/temporary/eceed040-2589-4efe-b910-e5c8ddfe3c99",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5549,7 +5679,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010680"
+        "@id": "_:g998160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5584,7 +5714,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/523f14d9-920d-47ac-9487-0e8d06fd262d",
+    "@id": "http://astortheatre.ns.ca/temporary/b265abec-95db-4593-8a99-5afdd3f188f2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5612,7 +5742,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010740"
+        "@id": "_:g998220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5647,7 +5777,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/183c39b4-d639-47ad-875b-ff15d42007a6",
+    "@id": "http://astortheatre.ns.ca/temporary/b5802c5e-6749-46ce-8dbf-30b6a7634fcf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5675,7 +5805,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010800"
+        "@id": "_:g998280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5710,7 +5840,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/07c85a31-aa15-47d6-9335-fc8c29d4412b",
+    "@id": "http://astortheatre.ns.ca/temporary/31421478-8e9a-4a0e-8299-7542db44cb68",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5738,7 +5868,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010860"
+        "@id": "_:g998340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5773,7 +5903,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/fab071cf-e7de-4f5f-9e2f-27de9dcc5637",
+    "@id": "http://astortheatre.ns.ca/temporary/fd2d1c19-0480-4b31-a68d-ff6301cb1491",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5801,7 +5931,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010920"
+        "@id": "_:g998400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5836,7 +5966,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/3bebfc4d-21e6-4bb6-bf41-6c67e73db03e",
+    "@id": "http://astortheatre.ns.ca/temporary/549d39ef-13ad-4bfe-ab5c-ff36716a2c29",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5864,7 +5994,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1010980"
+        "@id": "_:g998460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5899,7 +6029,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c31375b7-af38-4a76-9f06-22d8bcea64d6",
+    "@id": "http://astortheatre.ns.ca/temporary/12b6690b-0ad9-4712-ada5-78181144278f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5927,7 +6057,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1011040"
+        "@id": "_:g998520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5962,7 +6092,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/4a8dfbb6-c25a-4e95-adeb-be2db582a03a",
+    "@id": "http://astortheatre.ns.ca/temporary/cefedf8b-b5c8-45d5-9fd9-52747afbd06f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5990,7 +6120,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1011100"
+        "@id": "_:g998580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6025,7 +6155,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/67580fc2-69d2-4465-8127-dfbef59038a5",
+    "@id": "http://astortheatre.ns.ca/temporary/027cf44c-b11e-4700-82a5-a4a17cc02d27",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6053,7 +6183,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1011160"
+        "@id": "_:g998640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6088,7 +6218,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/76735f14-76f0-461b-9904-53ec8099c207",
+    "@id": "http://astortheatre.ns.ca/temporary/7ed4de58-6488-400f-b761-fea8a9c7174a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6116,7 +6246,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1011220"
+        "@id": "_:g998700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6151,7 +6281,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/8d15ae0e-cc76-4db4-bd2d-245d961e4b51",
+    "@id": "http://astortheatre.ns.ca/temporary/923b4261-ad01-4c68-a67e-14883681404c",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -6162,7 +6292,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/f013c616-4ffc-4978-8c23-e4bc420288c9",
+    "@id": "http://astortheatre.ns.ca/temporary/f28af85d-3527-4cf0-85bd-bfad0d45e560",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -6173,7 +6303,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/03b6a713-8299-40b7-994f-c27793bbc893",
+    "@id": "http://astortheatre.ns.ca/temporary/ee2224ef-9879-429f-b767-ffd1cdd645d4",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -6197,7 +6327,7 @@
     ]
   },
   {
-    "@id": "_:g1059740",
+    "@id": "_:g1046980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6208,7 +6338,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1059760"
+        "@id": "_:g1047000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6233,7 +6363,7 @@
     ]
   },
   {
-    "@id": "_:g1059760",
+    "@id": "_:g1047000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6264,7 +6394,7 @@
     ]
   },
   {
-    "@id": "_:g1059800",
+    "@id": "_:g1047040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6275,7 +6405,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1059820"
+        "@id": "_:g1047060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6300,7 +6430,7 @@
     ]
   },
   {
-    "@id": "_:g1059820",
+    "@id": "_:g1047060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6331,7 +6461,7 @@
     ]
   },
   {
-    "@id": "_:g1059860",
+    "@id": "_:g1047100",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6342,7 +6472,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1059880"
+        "@id": "_:g1047120"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6367,7 +6497,7 @@
     ]
   },
   {
-    "@id": "_:g1059880",
+    "@id": "_:g1047120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6398,7 +6528,7 @@
     ]
   },
   {
-    "@id": "_:g1059920",
+    "@id": "_:g1047160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6409,7 +6539,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1059940"
+        "@id": "_:g1047180"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6434,7 +6564,7 @@
     ]
   },
   {
-    "@id": "_:g1059940",
+    "@id": "_:g1047180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6465,7 +6595,7 @@
     ]
   },
   {
-    "@id": "_:g1059980",
+    "@id": "_:g1047220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6476,7 +6606,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1060000"
+        "@id": "_:g1047240"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6501,7 +6631,7 @@
     ]
   },
   {
-    "@id": "_:g1060000",
+    "@id": "_:g1047240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6532,7 +6662,7 @@
     ]
   },
   {
-    "@id": "_:g1060040",
+    "@id": "_:g1047280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6543,7 +6673,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1060060"
+        "@id": "_:g1047300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6568,7 +6698,7 @@
     ]
   },
   {
-    "@id": "_:g1060060",
+    "@id": "_:g1047300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6599,7 +6729,7 @@
     ]
   },
   {
-    "@id": "_:g1060100",
+    "@id": "_:g1047340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6610,7 +6740,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1060120"
+        "@id": "_:g1047360"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6635,7 +6765,7 @@
     ]
   },
   {
-    "@id": "_:g1060120",
+    "@id": "_:g1047360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6666,7 +6796,7 @@
     ]
   },
   {
-    "@id": "_:g1060160",
+    "@id": "_:g1047400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6677,7 +6807,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1060180"
+        "@id": "_:g1047420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6702,7 +6832,7 @@
     ]
   },
   {
-    "@id": "_:g1060180",
+    "@id": "_:g1047420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6733,7 +6863,7 @@
     ]
   },
   {
-    "@id": "_:g1060220",
+    "@id": "_:g1047460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6744,7 +6874,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1060240"
+        "@id": "_:g1047480"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6769,7 +6899,7 @@
     ]
   },
   {
-    "@id": "_:g1060240",
+    "@id": "_:g1047480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6800,7 +6930,7 @@
     ]
   },
   {
-    "@id": "_:g1060280",
+    "@id": "_:g1047520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6811,7 +6941,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1060300"
+        "@id": "_:g1047540"
       }
     ],
     "http://schema.org/sameAs": [
@@ -6836,7 +6966,74 @@
     ]
   },
   {
-    "@id": "_:g1060300",
+    "@id": "_:g1047540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "219 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Liverpool"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "B0T 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/venue/astor-theatre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1047600"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://astortheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astor Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1047600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6889,7 +7086,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/7c86b46f-1e26-4831-9de2-d048ad4e1d21",
+    "@id": "http://astortheatre.ns.ca/temporary/9049f7ce-2c46-489d-8c5a-eb0163ea2ca7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6917,7 +7114,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1059740"
+        "@id": "_:g1046980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6952,7 +7149,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/4635a0d1-fd1e-4e33-bd0e-36e966f5afd2",
+    "@id": "http://astortheatre.ns.ca/temporary/f7be5df2-bdca-489e-aab6-5fee3e6ce1b9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6963,24 +7160,24 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/1/"
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-21/1/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T16:00:00-04:00"
+        "@value": "2025-11-21T16:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T18:00:00-04:00"
+        "@value": "2025-11-21T18:00:00-04:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1059800"
+        "@id": "_:g1047040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7015,7 +7212,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/13b67768-e760-4368-ae92-484a2c8da04c",
+    "@id": "http://astortheatre.ns.ca/temporary/805203a5-a1f0-46c7-9b3b-0c21a702bc8b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7043,7 +7240,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1059860"
+        "@id": "_:g1047100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7078,7 +7275,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/04962b88-4b98-44df-bea3-e7b6ec049d42",
+    "@id": "http://astortheatre.ns.ca/temporary/52659c31-7d24-499f-89f1-0cb7b280aa80",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7106,7 +7303,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1059920"
+        "@id": "_:g1047160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7141,7 +7338,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/2cf5c1aa-dcae-4847-8328-a21daab1db08",
+    "@id": "http://astortheatre.ns.ca/temporary/d3a4775a-8d1d-49c8-b692-1dd01eef6413",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7169,7 +7366,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1059980"
+        "@id": "_:g1047220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7204,7 +7401,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c54cd9cb-74c1-4b48-9803-800d6d947d35",
+    "@id": "http://astortheatre.ns.ca/temporary/6bbc7ee4-24ed-4c16-853f-8de5a2f92a9a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7232,7 +7429,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1060040"
+        "@id": "_:g1047280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7267,7 +7464,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/00f3de77-1390-4a24-91bb-c9400e017006",
+    "@id": "http://astortheatre.ns.ca/temporary/f31322b2-830b-4c4a-94ab-c3c729b67550",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7295,7 +7492,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1060100"
+        "@id": "_:g1047340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7330,7 +7527,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/ecd7707f-a7ea-44b7-931b-1791b3926875",
+    "@id": "http://astortheatre.ns.ca/temporary/2b086e16-ad99-4839-8022-0b18d25bd7bb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7358,7 +7555,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1060160"
+        "@id": "_:g1047400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7393,7 +7590,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/5018993f-762a-45aa-8296-62a4946cc016",
+    "@id": "http://astortheatre.ns.ca/temporary/df07c31c-b9af-455f-af57-4085698f4a84",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7421,7 +7618,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1060220"
+        "@id": "_:g1047460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7456,7 +7653,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c2e672ef-7893-456d-9538-8947c213cd20",
+    "@id": "http://astortheatre.ns.ca/temporary/decb6ab8-39fa-46be-845a-8924b8bd3829",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7484,7 +7681,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1060280"
+        "@id": "_:g1047520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7519,7 +7716,70 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/09979589-f951-4248-bdac-99190cca3b44",
+    "@id": "http://astortheatre.ns.ca/temporary/64bd84c1-ece9-435d-9ad7-01292cdc7d8f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://astortheatre.ca/wp-content/uploads/2025/11/royalwood-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://astortheatre.ca/event/royal-wood/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-11T22:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1047580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://astortheatre.ns.ca/events/list/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Royal Wood"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Royal Wood is a beloved Canadian singer-songwriter and multi-instrumentalist. A two-time JUNO and five-time Canadian Folk Music Award nominee.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://astortheatre.ns.ca/temporary/f510a5f4-1f5d-4de2-a212-e9bc940582d1",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -7530,7 +7790,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/322bcc03-97f4-41b4-bef9-71e0312351aa",
+    "@id": "http://astortheatre.ns.ca/temporary/b4b33393-9f65-413b-bf51-0cfb781920c7",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -7541,7 +7801,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/6e4bc646-a9b4-4f10-a8d3-1fd72bac121f",
+    "@id": "http://astortheatre.ns.ca/temporary/7c2e5894-1be6-428a-a067-995988f68b8d",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -7565,7 +7825,7 @@
     ]
   },
   {
-    "@id": "_:g1097080",
+    "@id": "_:g1085200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7576,7 +7836,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1097100"
+        "@id": "_:g1085220"
       }
     ],
     "http://schema.org/sameAs": [
@@ -7601,7 +7861,7 @@
     ]
   },
   {
-    "@id": "_:g1097100",
+    "@id": "_:g1085220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7632,7 +7892,7 @@
     ]
   },
   {
-    "@id": "_:g1097140",
+    "@id": "_:g1085260",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7643,7 +7903,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1097160"
+        "@id": "_:g1085280"
       }
     ],
     "http://schema.org/sameAs": [
@@ -7668,7 +7928,7 @@
     ]
   },
   {
-    "@id": "_:g1097160",
+    "@id": "_:g1085280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7721,7 +7981,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/7af9fc8f-441f-4bbc-85f2-64a21113e4eb",
+    "@id": "http://astortheatre.ns.ca/temporary/f95c6978-1293-40cd-a3a0-b9987975a653",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7732,24 +7992,24 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-20/1/"
+        "@id": "https://astortheatre.ca/event/tron-ares-2/2025-11-21/1/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T16:00:00-04:00"
+        "@value": "2025-11-21T16:00:00-04:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T18:00:00-04:00"
+        "@value": "2025-11-21T18:00:00-04:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1097080"
+        "@id": "_:g1085200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7784,7 +8044,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/78f5e4a5-f514-4809-aedf-4688a4afe4dd",
+    "@id": "http://astortheatre.ns.ca/temporary/56c41291-cae8-46ca-a6a5-d582976c7503",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7812,7 +8072,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1097140"
+        "@id": "_:g1085260"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7847,7 +8107,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/c63761aa-c243-4ebf-b40a-7649f77358fd",
+    "@id": "http://astortheatre.ns.ca/temporary/e7da6806-e017-4b83-97b3-3039f983e2b9",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -7858,7 +8118,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/01c9a440-e0c9-4475-adee-7880c1a98709",
+    "@id": "http://astortheatre.ns.ca/temporary/5b49956e-81e4-4187-9787-91812c3a64f4",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -7869,7 +8129,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/458ed16d-24b3-4d07-874f-713a48d5e193",
+    "@id": "http://astortheatre.ns.ca/temporary/1d7d6912-106f-4bd1-ba58-e9fdeed5c9a2",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -7893,7 +8153,7 @@
     ]
   },
   {
-    "@id": "_:g1120960",
+    "@id": "_:g1108600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7904,7 +8164,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1120980"
+        "@id": "_:g1108620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -7929,7 +8189,7 @@
     ]
   },
   {
-    "@id": "_:g1120980",
+    "@id": "_:g1108620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7982,7 +8242,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/fcd9c709-fc64-4821-935f-d55330c912da",
+    "@id": "http://astortheatre.ns.ca/temporary/b3c41c87-a61c-4805-8504-2ba398d3658e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8010,7 +8270,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1120960"
+        "@id": "_:g1108600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8045,7 +8305,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/a24226a5-9d1c-48fc-812e-aa1818081abe",
+    "@id": "http://astortheatre.ns.ca/temporary/1fcbf4ec-0351-4b54-bf4e-063bbd9e29f2",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -8056,7 +8316,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/8373bc33-99c5-4098-ab66-e87189a1ae19",
+    "@id": "http://astortheatre.ns.ca/temporary/d0607cea-1a2b-45cc-b35a-00553f5badfc",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -8067,7 +8327,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/5ce88955-32c7-418b-bfb5-91842af5f9b3",
+    "@id": "http://astortheatre.ns.ca/temporary/acab30b6-333c-4ecc-a629-647044df6317",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -8091,7 +8351,7 @@
     ]
   },
   {
-    "@id": "_:g1136040",
+    "@id": "_:g1124380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8102,7 +8362,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1136060"
+        "@id": "_:g1124400"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8127,7 +8387,7 @@
     ]
   },
   {
-    "@id": "_:g1136060",
+    "@id": "_:g1124400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8180,7 +8440,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/510caf3d-1f9b-46a0-8643-dd66a7a10c02",
+    "@id": "http://astortheatre.ns.ca/temporary/1e858118-64d8-4207-9fef-0bb884122bf2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8208,7 +8468,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1136040"
+        "@id": "_:g1124380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8243,7 +8503,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/cb67e28f-382e-43b0-b239-1e994ffd4660",
+    "@id": "http://astortheatre.ns.ca/temporary/382b5b64-4695-47c9-8aa8-6c27ec260203",
     "@type": [
       "https://schema.org/Blog"
     ],
@@ -8254,7 +8514,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/74099ece-e65f-4599-a1f9-ef5815cb0154",
+    "@id": "http://astortheatre.ns.ca/temporary/7d8ed527-cc75-4b70-b09d-26a68080645a",
     "@type": [
       "https://schema.org/Organization"
     ],
@@ -8265,7 +8525,7 @@
     ]
   },
   {
-    "@id": "http://astortheatre.ns.ca/temporary/34a0ed3f-8403-40e0-9497-18c1134ae84a",
+    "@id": "http://astortheatre.ns.ca/temporary/8ac7d45d-4afe-42f3-ba4d-a9eaae9c230a",
     "@type": [
       "https://schema.org/Organization"
     ],
