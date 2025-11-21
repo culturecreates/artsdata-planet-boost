@@ -111,49 +111,43 @@
         "@id": "_:g460880"
       },
       {
-        "@id": "_:g475140"
+        "@id": "_:g475400"
       },
       {
-        "@id": "_:g488380"
+        "@id": "_:g488940"
       },
       {
-        "@id": "_:g500120"
+        "@id": "_:g500880"
       },
       {
-        "@id": "_:g511600"
+        "@id": "_:g512660"
       },
       {
-        "@id": "_:g522400"
+        "@id": "_:g523820"
       },
       {
-        "@id": "_:g536420"
+        "@id": "_:g538120"
       },
       {
-        "@id": "_:g550600"
+        "@id": "_:g550040"
       },
       {
-        "@id": "_:g565100"
+        "@id": "_:g562060"
       },
       {
-        "@id": "_:g576940"
+        "@id": "_:g574480"
       },
       {
-        "@id": "_:g588760"
+        "@id": "_:g587520"
       },
       {
-        "@id": "_:g601240"
+        "@id": "_:g601860"
       },
       {
-        "@id": "_:g614120"
+        "@id": "_:g613680"
       },
       {
-        "@id": "_:g628320"
-      },
-      {
-        "@id": "_:g640180"
-      },
-      {
-        "@id": "_:g654800"
+        "@id": "_:g628400"
       }
     ],
     "http://schema.org/logo": [
@@ -267,17 +261,11 @@
       {
         "@language": "en",
         "@value": "The Heritage Centre by Mountain View Events Ltd."
-      },
-      {
-        "@value": "The Heritage Centre by Mountain View Events Ltd."
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "#A Stunning Venue for Weddings & Events Near Calgary The Heritage Centre. A Stunning Venue for Weddings &amp; Events Near Calgary"
-      },
-      {
         "@value": "#A Stunning Venue for Weddings & Events Near Calgary The Heritage Centre. A Stunning Venue for Weddings &amp; Events Near Calgary"
       }
     ],
@@ -285,17 +273,11 @@
       {
         "@language": "en",
         "@value": "info@mvetheheritagecentre.com"
-      },
-      {
-        "@value": "info@mvetheheritagecentre.com"
       }
     ],
     "http://schema.org/telephone": [
       {
         "@language": "en",
-        "@value": "+15875742600"
-      },
-      {
         "@value": "+15875742600"
       }
     ]
@@ -405,7 +387,7 @@
     ]
   },
   {
-    "@id": "_:g475140",
+    "@id": "_:g475400",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -423,7 +405,7 @@
     ]
   },
   {
-    "@id": "_:g488380",
+    "@id": "_:g488940",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -441,7 +423,7 @@
     ]
   },
   {
-    "@id": "_:g500120",
+    "@id": "_:g500880",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -459,7 +441,7 @@
     ]
   },
   {
-    "@id": "_:g511600",
+    "@id": "_:g512660",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -477,7 +459,7 @@
     ]
   },
   {
-    "@id": "_:g522400",
+    "@id": "_:g523820",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -495,7 +477,7 @@
     ]
   },
   {
-    "@id": "_:g536420",
+    "@id": "_:g538120",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -513,7 +495,7 @@
     ]
   },
   {
-    "@id": "_:g550600",
+    "@id": "_:g550040",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -531,7 +513,7 @@
     ]
   },
   {
-    "@id": "_:g565100",
+    "@id": "_:g562060",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -549,7 +531,7 @@
     ]
   },
   {
-    "@id": "_:g576940",
+    "@id": "_:g574480",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -567,7 +549,7 @@
     ]
   },
   {
-    "@id": "_:g588760",
+    "@id": "_:g587520",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -585,7 +567,7 @@
     ]
   },
   {
-    "@id": "_:g601240",
+    "@id": "_:g601860",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -603,7 +585,7 @@
     ]
   },
   {
-    "@id": "_:g614120",
+    "@id": "_:g613680",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -621,43 +603,7 @@
     ]
   },
   {
-    "@id": "_:g628320",
-    "@type": [
-      "http://schema.org/QuantitativeValue"
-    ],
-    "http://schema.org/minValue": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
-      }
-    ],
-    "http://schema.org/maxValue": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "20"
-      }
-    ]
-  },
-  {
-    "@id": "_:g640180",
-    "@type": [
-      "http://schema.org/QuantitativeValue"
-    ],
-    "http://schema.org/minValue": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
-      }
-    ],
-    "http://schema.org/maxValue": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "20"
-      }
-    ]
-  },
-  {
-    "@id": "_:g654800",
+    "@id": "_:g628400",
     "@type": [
       "http://schema.org/QuantitativeValue"
     ],
@@ -699,9 +645,6 @@
     "http://schema.org/caption": [
       {
         "@language": "en",
-        "@value": "An aerial view of a picturesque barn venue nestled in the countryside, surrounded by lush greenery, open fields, and a serene rural landscape, showcasing its rustic charm and natural beauty"
-      },
-      {
         "@value": "An aerial view of a picturesque barn venue nestled in the countryside, surrounded by lush greenery, open fields, and a serene rural landscape, showcasing its rustic charm and natural beauty"
       }
     ]
@@ -1063,17 +1006,11 @@
       {
         "@language": "en",
         "@value": "4148 - AB 580,"
-      },
-      {
-        "@value": "4148 - AB 580,"
       }
     ],
     "http://schema.org/postalCode": [
       {
         "@language": "en",
-        "@value": "T0M 0R0"
-      },
-      {
         "@value": "T0M 0R0"
       }
     ],
@@ -1081,26 +1018,17 @@
       {
         "@language": "en",
         "@value": "Cremona"
-      },
-      {
-        "@value": "Cremona"
       }
     ],
     "http://schema.org/addressRegion": [
       {
         "@language": "en",
         "@value": "Alberta"
-      },
-      {
-        "@value": "Alberta"
       }
     ],
     "http://schema.org/addressCountry": [
       {
         "@language": "en",
-        "@value": "CA"
-      },
-      {
         "@value": "CA"
       }
     ]
@@ -1158,67 +1086,25 @@
         "@id": "_:g461020"
       },
       {
-        "@id": "_:g522420"
+        "@id": "_:g523840"
       },
       {
-        "@id": "_:g522440"
+        "@id": "_:g523860"
       },
       {
-        "@id": "_:g522460"
+        "@id": "_:g523880"
       },
       {
-        "@id": "_:g522480"
+        "@id": "_:g523900"
       },
       {
-        "@id": "_:g522500"
+        "@id": "_:g523920"
       },
       {
-        "@id": "_:g522520"
+        "@id": "_:g523940"
       },
       {
-        "@id": "_:g522540"
-      },
-      {
-        "@id": "_:g536440"
-      },
-      {
-        "@id": "_:g536460"
-      },
-      {
-        "@id": "_:g536480"
-      },
-      {
-        "@id": "_:g536500"
-      },
-      {
-        "@id": "_:g536520"
-      },
-      {
-        "@id": "_:g536540"
-      },
-      {
-        "@id": "_:g536560"
-      },
-      {
-        "@id": "_:g550620"
-      },
-      {
-        "@id": "_:g550640"
-      },
-      {
-        "@id": "_:g550660"
-      },
-      {
-        "@id": "_:g550680"
-      },
-      {
-        "@id": "_:g550700"
-      },
-      {
-        "@id": "_:g550720"
-      },
-      {
-        "@id": "_:g550740"
+        "@id": "_:g523960"
       }
     ],
     "http://schema.org/location": [
@@ -1231,12 +1117,6 @@
         "@id": "https://mvetheheritagecentre.com/home/"
       },
       {
-        "@id": "https://mvetheheritagecentre.com/#content"
-      },
-      {
-        "@id": "https://mvetheheritagecentre.com/#"
-      },
-      {
         "@id": "https://mvetheheritagecentre.com/"
       }
     ],
@@ -1244,17 +1124,11 @@
       {
         "@language": "en",
         "@value": "The Heritage Centre by Mountain View Events Ltd."
-      },
-      {
-        "@value": "The Heritage Centre by Mountain View Events Ltd."
       }
     ],
     "http://schema.org/email": [
       {
         "@language": "en",
-        "@value": "info@mvetheheritagecentre.com"
-      },
-      {
         "@value": "info@mvetheheritagecentre.com"
       }
     ],
@@ -1262,17 +1136,11 @@
       {
         "@language": "en",
         "@value": "+15875742600"
-      },
-      {
-        "@value": "+15875742600"
       }
     ],
     "http://schema.org/currenciesAccepted": [
       {
         "@language": "en",
-        "@value": "CAD"
-      },
-      {
         "@value": "CAD"
       }
     ]
@@ -1439,301 +1307,7 @@
     ]
   },
   {
-    "@id": "_:g522420",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Monday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g522440",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Tuesday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g522460",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Wednesday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g522480",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Thursday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g522500",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Friday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g522520",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Saturday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g522540",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Sunday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536440",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Monday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536460",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Tuesday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536480",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Wednesday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536500",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Thursday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536520",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Friday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536540",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Saturday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g536560",
-    "@type": [
-      "http://schema.org/OpeningHoursSpecification"
-    ],
-    "http://schema.org/opens": [
-      {
-        "@value": "09:00"
-      }
-    ],
-    "http://schema.org/closes": [
-      {
-        "@value": "17:00"
-      }
-    ],
-    "http://schema.org/dayOfWeek": [
-      {
-        "@id": "http://schema.org/Sunday"
-      }
-    ]
-  },
-  {
-    "@id": "_:g550620",
+    "@id": "_:g523840",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1756,7 +1330,7 @@
     ]
   },
   {
-    "@id": "_:g550640",
+    "@id": "_:g523860",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1779,7 +1353,7 @@
     ]
   },
   {
-    "@id": "_:g550660",
+    "@id": "_:g523880",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1802,7 +1376,7 @@
     ]
   },
   {
-    "@id": "_:g550680",
+    "@id": "_:g523900",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1825,7 +1399,7 @@
     ]
   },
   {
-    "@id": "_:g550700",
+    "@id": "_:g523920",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1848,7 +1422,7 @@
     ]
   },
   {
-    "@id": "_:g550720",
+    "@id": "_:g523940",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1871,7 +1445,7 @@
     ]
   },
   {
-    "@id": "_:g550740",
+    "@id": "_:g523960",
     "@type": [
       "http://schema.org/OpeningHoursSpecification"
     ],
@@ -1930,12 +1504,6 @@
         "@id": "https://mvetheheritagecentre.com/home/"
       },
       {
-        "@id": "https://mvetheheritagecentre.com/#content"
-      },
-      {
-        "@id": "https://mvetheheritagecentre.com/#"
-      },
-      {
         "@id": "https://mvetheheritagecentre.com/"
       }
     ],
@@ -1943,26 +1511,17 @@
       {
         "@language": "en",
         "@value": "Alberta Country Wedding Venue Near Calgary | Heritage Centre"
-      },
-      {
-        "@value": "Alberta Country Wedding Venue Near Calgary | Heritage Centre"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "Elegant country wedding venue near Calgary, Alberta, The Heritage Centre offers indoor and outdoor ceremony spaces, chandeliers, gazebo and flexible packages."
-      },
-      {
-        "@value": "Elegant country wedding venue near Calgary, Alberta, The Heritage Centre offers indoor and outdoor ceremony spaces, chandeliers, gazebo and flexible packages."
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -1986,17 +1545,11 @@
       {
         "@language": "en",
         "@value": "The Heritage Centre by Mountain View Events Ltd."
-      },
-      {
-        "@value": "The Heritage Centre by Mountain View Events Ltd."
       }
     ],
     "http://schema.org/alternateName": [
       {
         "@language": "en",
-        "@value": "MVE The Heritage Centre"
-      },
-      {
         "@value": "MVE The Heritage Centre"
       }
     ],
@@ -2004,17 +1557,11 @@
       {
         "@language": "en",
         "@value": "A Stunning Venue for Weddings & Events Near Calgary"
-      },
-      {
-        "@value": "A Stunning Venue for Weddings & Events Near Calgary"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
