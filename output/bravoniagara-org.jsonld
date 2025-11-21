@@ -69,13 +69,13 @@
     ]
   },
   {
-    "@id": "_:g473700",
+    "@id": "_:g473420",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g473720"
+        "@id": "_:g473440"
       }
     ],
     "http://schema.org/name": [
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "@id": "_:g473720",
+    "@id": "_:g473440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/7ec4e74f-ed14-4a45-b9dc-8cab57a0381a",
+    "@id": "https://www.bravoniagara.org/temporary/09b0c076-fd56-4a5c-bf82-ffdccddd7ba1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/8bb63c82-f9dd-40e0-8fae-7a7e7d53cfff",
+    "@id": "https://www.bravoniagara.org/temporary/bde1f7d1-29dd-4abb-9727-8b5e4b4c93a7",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/14405644-9929-4e60-bf42-1ea5cee37639",
+    "@id": "https://www.bravoniagara.org/temporary/ff0f09ef-44f9-4441-9b94-d90ab1355849",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -169,7 +169,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g473700"
+        "@id": "_:g473420"
       }
     ],
     "http://schema.org/image": [
@@ -295,13 +295,13 @@
     ]
   },
   {
-    "@id": "_:g486200",
+    "@id": "_:g482240",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g486220"
+        "@id": "_:g482260"
       }
     ],
     "http://schema.org/name": [
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "@id": "_:g486220",
+    "@id": "_:g482260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/965e5b58-31fe-481c-8bb4-b1bd5bb71824",
+    "@id": "https://www.bravoniagara.org/temporary/34b2339b-e1e2-4e9a-a424-d3a4bc119b88",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -356,7 +356,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/c30496e9-9398-4cf9-8b98-3c3f58408498",
+    "@id": "https://www.bravoniagara.org/temporary/7ce872e9-8d1f-49da-ba85-e394c1e96c93",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/d7eee0bf-0fa7-4736-856b-678d4b22238e",
+    "@id": "https://www.bravoniagara.org/temporary/e6d657a7-4f65-4448-8d9c-33c614059132",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -395,7 +395,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g486200"
+        "@id": "_:g482240"
       }
     ],
     "http://schema.org/image": [
@@ -509,13 +509,13 @@
     ]
   },
   {
-    "@id": "_:g494380",
+    "@id": "_:g491480",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g494400"
+        "@id": "_:g491500"
       }
     ],
     "http://schema.org/name": [
@@ -526,7 +526,7 @@
     ]
   },
   {
-    "@id": "_:g494400",
+    "@id": "_:g491500",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -537,7 +537,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/187573d4-7d41-40e2-b03f-e056aeea2f55",
+    "@id": "https://www.bravoniagara.org/temporary/c195e454-2dc4-49dc-b339-31b3c303bb1b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/31cb9ab8-10df-4061-bcbb-5f65a1958351",
+    "@id": "https://www.bravoniagara.org/temporary/8cb6f414-4f9d-4545-a9aa-67a9f396940b",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/1d33dca8-f754-4ae1-8507-c226955a308f",
+    "@id": "https://www.bravoniagara.org/temporary/2d76bbcd-fd85-45da-a4cf-50f51146fb35",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -609,7 +609,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g494380"
+        "@id": "_:g491480"
       }
     ],
     "http://schema.org/image": [
@@ -723,13 +723,13 @@
     ]
   },
   {
-    "@id": "_:g503020",
+    "@id": "_:g500600",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g503040"
+        "@id": "_:g500620"
       }
     ],
     "http://schema.org/name": [
@@ -740,7 +740,7 @@
     ]
   },
   {
-    "@id": "_:g503040",
+    "@id": "_:g500620",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -751,7 +751,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/3838706b-2f23-4a6b-86eb-087d68cf1a28",
+    "@id": "https://www.bravoniagara.org/temporary/79c2d9d6-69b2-467f-bb1d-e0ee5b3c652a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -784,7 +784,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/f7f49283-9db9-45b6-864f-6af18ada6b28",
+    "@id": "https://www.bravoniagara.org/temporary/e7eab5f6-ee12-4e3d-82b7-1b98102c028f",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -812,7 +812,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/b80ada55-0592-4615-b780-260e32e997d8",
+    "@id": "https://www.bravoniagara.org/temporary/67bf749f-f671-4e7a-aabc-d0ab6decc588",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -823,7 +823,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g503020"
+        "@id": "_:g500600"
       }
     ],
     "http://schema.org/image": [
@@ -949,13 +949,13 @@
     ]
   },
   {
-    "@id": "_:g512480",
+    "@id": "_:g510200",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g512500"
+        "@id": "_:g510220"
       }
     ],
     "http://schema.org/name": [
@@ -966,7 +966,7 @@
     ]
   },
   {
-    "@id": "_:g512500",
+    "@id": "_:g510220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -977,7 +977,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/eca23aac-d8a8-4eb6-9783-c4a6c9ecec3e",
+    "@id": "https://www.bravoniagara.org/temporary/60f8d381-3949-4706-a119-76753f45d707",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1010,7 +1010,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/627298e5-eef6-4029-b4fc-ca28b5aac1e9",
+    "@id": "https://www.bravoniagara.org/temporary/55995118-26df-404a-8fdb-62b9f421bd19",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -1038,7 +1038,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/10c1cdc5-e43c-4bbd-b8a5-74bc6903f5b1",
+    "@id": "https://www.bravoniagara.org/temporary/a0bf2fc2-ed49-4580-9282-856d64bdd5c5",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1049,7 +1049,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g512480"
+        "@id": "_:g510200"
       }
     ],
     "http://schema.org/image": [
@@ -1163,13 +1163,13 @@
     ]
   },
   {
-    "@id": "_:g529300",
+    "@id": "_:g527240",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g529320"
+        "@id": "_:g527260"
       }
     ],
     "http://schema.org/name": [
@@ -1180,7 +1180,7 @@
     ]
   },
   {
-    "@id": "_:g529320",
+    "@id": "_:g527260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1191,7 +1191,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/d8c387ff-859b-49c1-a2b0-10fc9be0a0b2",
+    "@id": "https://www.bravoniagara.org/temporary/46c6f788-4dc1-425a-af42-10864ff2fa6b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1224,7 +1224,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/e10a85b1-b8c6-4cc5-ad0d-dc05b6b6f616",
+    "@id": "https://www.bravoniagara.org/temporary/4c822a48-fa17-4bf5-a639-a1ab886cd759",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -1252,7 +1252,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/4cf824b4-2251-47d1-ba41-39bd7cd479b3",
+    "@id": "https://www.bravoniagara.org/temporary/225ce504-2f4f-4210-871f-0c613317d1ba",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1263,7 +1263,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g529300"
+        "@id": "_:g527240"
       }
     ],
     "http://schema.org/image": [
@@ -1377,13 +1377,13 @@
     ]
   },
   {
-    "@id": "_:g537920",
+    "@id": "_:g535720",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g537940"
+        "@id": "_:g535740"
       }
     ],
     "http://schema.org/name": [
@@ -1394,7 +1394,7 @@
     ]
   },
   {
-    "@id": "_:g537940",
+    "@id": "_:g535740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1405,7 +1405,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/478d247b-fb9c-43ef-9bc2-9461a422581f",
+    "@id": "https://www.bravoniagara.org/temporary/4695b254-25ac-4855-9060-a46773e91410",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1438,7 +1438,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/73525603-dc64-4e5f-aabf-e4cd1b531c73",
+    "@id": "https://www.bravoniagara.org/temporary/5115548d-341b-404c-97ca-157f14b733d2",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -1466,7 +1466,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/649262d9-de5a-4cb4-a534-4590db75ac04",
+    "@id": "https://www.bravoniagara.org/temporary/20f23e3a-5938-42a9-a4ae-69c7a005b87c",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1477,7 +1477,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g537920"
+        "@id": "_:g535720"
       }
     ],
     "http://schema.org/image": [
@@ -1591,13 +1591,13 @@
     ]
   },
   {
-    "@id": "_:g547120",
+    "@id": "_:g544500",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g547140"
+        "@id": "_:g544520"
       }
     ],
     "http://schema.org/name": [
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "@id": "_:g547140",
+    "@id": "_:g544520",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1619,7 +1619,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/60508324-96d8-41d8-a79c-c74d53cb86e1",
+    "@id": "https://www.bravoniagara.org/temporary/80971fd9-6b37-4d75-bed5-4c10aa152b21",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1652,7 +1652,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/922cb046-57af-4663-8230-6f10a14798ee",
+    "@id": "https://www.bravoniagara.org/temporary/4f23290e-3548-4f9c-b8a6-2a5814b621ac",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -1680,7 +1680,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/77af21a4-4b5c-41bf-a281-957b4788cef7",
+    "@id": "https://www.bravoniagara.org/temporary/5f937752-e0d4-4761-b0fc-54ffd8ba0db5",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1691,7 +1691,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g547120"
+        "@id": "_:g544500"
       }
     ],
     "http://schema.org/image": [
@@ -1805,13 +1805,13 @@
     ]
   },
   {
-    "@id": "_:g555780",
+    "@id": "_:g553320",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g555800"
+        "@id": "_:g553340"
       }
     ],
     "http://schema.org/name": [
@@ -1822,7 +1822,7 @@
     ]
   },
   {
-    "@id": "_:g555800",
+    "@id": "_:g553340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1833,7 +1833,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/6935642e-3890-492a-8b08-48bc9edb2465",
+    "@id": "https://www.bravoniagara.org/temporary/6f5a7555-34af-4690-aa23-812b04420287",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1866,7 +1866,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/d7806b7c-e4c4-4211-8986-57f1f10fe90c",
+    "@id": "https://www.bravoniagara.org/temporary/363e5e64-15ba-4403-b419-28b914ba5108",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -1894,7 +1894,7 @@
     ]
   },
   {
-    "@id": "https://www.bravoniagara.org/temporary/f69aeba1-80c4-4356-86e1-ca09685f480f",
+    "@id": "https://www.bravoniagara.org/temporary/d226f45a-a90e-45fc-a636-ee6ad9b9f242",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -1905,7 +1905,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g555780"
+        "@id": "_:g553320"
       }
     ],
     "http://schema.org/image": [
