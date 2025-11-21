@@ -1,5 +1,2219 @@
 [
   {
+    "@id": "https://www.fireflytheatre.com/performances/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/performances/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Performances | Firefly Theatre & Circus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Performances MontageThe Great Great Spiegel SpectacularSpecial Events and GalasShow Archive Montage Montage STEP RIGHT UP INTO OURCINEMATIC WORLD OF CIRCUS. ..."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-09T02:13:05"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/#schema-publishing-organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/#schema-website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461100"
+      },
+      {
+        "@id": "_:g471800"
+      },
+      {
+        "@id": "_:g482120"
+      },
+      {
+        "@id": "_:g489140"
+      },
+      {
+        "@id": "_:g496380"
+      },
+      {
+        "@id": "_:g502980"
+      },
+      {
+        "@id": "_:g509560"
+      },
+      {
+        "@id": "_:g516180"
+      },
+      {
+        "@id": "_:g522080"
+      },
+      {
+        "@id": "_:g528580"
+      },
+      {
+        "@id": "_:g535040"
+      },
+      {
+        "@id": "_:g541620"
+      },
+      {
+        "@id": "_:g549460"
+      },
+      {
+        "@id": "_:g556260"
+      },
+      {
+        "@id": "_:g563180"
+      },
+      {
+        "@id": "_:g570200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Firefly Fresh and Clean"
+      }
+    ],
+    "http://schema.org/encoding": [
+      {
+        "@language": "en",
+        "@value": "UTF-8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482120",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502980",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509560",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g528580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535040",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g563180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g570200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/performances/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/performances/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/a7b79725-d115-41a9-b518-7de538969880",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/performances/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-31T01:05:13"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-09T02:13:05"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/performances/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Performances | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Performances MontageThe Great Great Spiegel SpectacularSpecial Events and GalasShow Archive Montage Montage STEP RIGHT UP INTO OURCINEMATIC WORLD OF CIRCUS. ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Performances"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/special-events/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/special-events/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Special Events"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Public and Private entertainment. Galas, parties, corporate entertainment."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-12T02:04:41"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/special-events/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/special-events/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/acda256f-8dc8-4323-94b3-c67a5b322696",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/special-events/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-31T01:06:12"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-12T02:04:41"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/special-events/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Special Events"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Public and Private entertainment. Galas, parties, corporate entertainment."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Special Events and Galas"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/Spiegeltent.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/958a7839-00df-4522-813c-24f88bd1b9df",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T12:28:35"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre & Circus - Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/cart/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/cart/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Cart | Firefly Theatre & Circus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/cart/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/cart/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/05c85de1-2147-49ba-8542-afc056ac2526",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/cart/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/cart/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Cart | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cart"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/checkout/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/checkout/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Checkout | Firefly Theatre & Circus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/checkout/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/checkout/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/f8cc9113-d4e9-49d2-8559-aed57a3e32e0",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/checkout/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/checkout/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Checkout | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Checkout"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/my-account/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/my-account/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "My account | Firefly Theatre & Circus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/my-account/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/my-account/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/e7999cf5-edf9-42ce-aaa1-0f55067d58e2",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/my-account/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/my-account/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "My account | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "My account"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/privacy-policy/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/privacy-policy/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Privacy Policy | Firefly Theatre & Circus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Who we areSuggested text: Our website address is: https://www.fireflytheatre.com.CommentsSuggested text: When visitors leave comments on the site we collect ..."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/privacy-policy/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/1ffe6383-a17b-463d-b658-03eea8117b81",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/privacy-policy/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:16:05"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/privacy-policy/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Who we areSuggested text: Our website address is: https://www.fireflytheatre.com.CommentsSuggested text: When visitors leave comments on the site we collect ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/refund_returns/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/refund_returns/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Refund and Returns Policy | Firefly Theatre & Circus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "This is a sample page. Overview Our refund and returns policy lasts 30 days. If 30 days have passed since your purchase, we can’t offer you a full refund or ..."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-08T20:16:33"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/refund_returns/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/refund_returns/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/a759c260-236a-41b0-b3d8-a916e2ee1c86",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/refund_returns/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:16:33"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:16:33"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/refund_returns/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Refund and Returns Policy | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "This is a sample page. Overview Our refund and returns policy lasts 30 days. If 30 days have passed since your purchase, we can’t offer you a full refund or ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Refund and Returns Policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/shop/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/shop/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Shop | Firefly Theatre & Circus"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/shop/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/shop/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/9e27976f-063a-49d7-8584-ff5a79d4d73e",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/shop/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-15T04:34:24"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T20:10:34"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/shop/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Shop | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Shop"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/news/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/news/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus - About the Company"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The story behind Edmonton's unique circus-theatre - beginnings and into the future"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/IMG_9387-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2160"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1440"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-03-31T00:35:15"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/news/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/news/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/9cfb1535-94c3-483d-bce7-009b0e98504a",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/news/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-31T00:59:03"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-31T00:35:15"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/news/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "What's New - Firefly Theatre & Circus Edmonton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "We are always up to something. Get it? Up to something? Keep up with what we've been doing, and find out what we are working on right now."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "News/Blog"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/request-a-quote/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/request-a-quote/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Request a Quote | Firefly Theatre & Circus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Request a Quote Provide us with a little information and we will get back to you as soon  as we can to help you create a fantastic event! facebook youtube i ..."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-12T20:32:29"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/request-a-quote/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/request-a-quote/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/57e9b9d4-2262-45e3-8992-7a5319bff210",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/request-a-quote/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-31T01:07:34"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-12T20:32:29"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/request-a-quote/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Request a Quote | Firefly Theatre &amp; Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Request a Quote Provide us with a little information and we will get back to you as soon  as we can to help you create a fantastic event! facebook youtube i ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Request a Quote"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/about/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/about/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus - About the Company"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The story behind Edmonton's unique circus-theatre - beginnings and into the future"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/IMG_9387-copy.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2160"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1440"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-09T02:11:28"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/about/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/about/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/611b75ef-668a-455a-936b-028762639ec0",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/about/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-07T23:11:11"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-09T02:11:28"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/about/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "About the Company - Firefly Theatre & Circus Edmonton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre & Circus was formed by Annie Dugan and John Ullyatt to create performances with the thrill of circus and the emotional impact of story telling."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "About"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/community/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/community/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Community Page of Firefly Theatre and Circus"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly is striving to create a strong circus community in Edmonton, providing opportunities for theatre and circus performers"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-11-09T02:12:09"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "johnnyrains"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/community/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.fireflytheatre.com/community/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/041d9474-731f-4890-a302-7c2987eb792a",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/community/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T12:22:59"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-09T02:12:09"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/community/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Community Page of Firefly Theatre and Circus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Firefly is striving to create a strong circus community in Edmonton, providing opportunities for theatre and circus performers"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Community"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/layout_category/elements/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/Spiegeltent.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/layout_category/elements/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/e93b89b2-7223-4afc-aabe-57a28197cc2d",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T12:28:35"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/layout_category/elements/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre & Circus - Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fireflytheatre.com/layout_category/section-layouts/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.fireflytheatre.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Firefly Theatre & Circus Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/Spiegeltent.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/layout_category/section-layouts/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.fireflytheatre.com/temporary/6fa20e42-ff50-4340-aece-0041c6af7193",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T12:28:35"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-08T18:44:17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fireflytheatre.com/layout_category/section-layouts/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Firefly Theatre & Circus - Edmonton's Home for Circus Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
     "@id": "http://www.fireflytheatre.com",
     "https://api.w.org/": [
       {
@@ -55,148 +2269,7 @@
     ]
   },
   {
-    "@id": "https://www.fireflytheatre.com/#schema-publishing-organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fireflytheatre.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Firefly Theatre &amp; Circus"
-      },
-      {
-        "@value": "Firefly Theatre &amp; Circus"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      },
-      {
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fireflytheatre.com/#schema-website",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fireflytheatre.com"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g461040"
-      },
-      {
-        "@id": "_:g467960"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Firefly Fresh and Clean"
-      },
-      {
-        "@value": "Firefly Fresh and Clean"
-      }
-    ],
-    "http://schema.org/encoding": [
-      {
-        "@language": "en",
-        "@value": "UTF-8"
-      },
-      {
-        "@value": "UTF-8"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461040",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@language": "en",
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467960",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://www.fireflytheatre.com/search/{search_term_string}/"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fireflytheatre.com/author/johnnyrains/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "johnnyrains"
-      },
-      {
-        "@value": "johnnyrains"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.fireflytheatre.com/#schema-webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.fireflytheatre.com/#schema-website"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.fireflytheatre.com/"
-      }
-    ]
-  },
-  {
-    "@id": "http://www.fireflytheatre.com/temporary/9547caf5-30ea-40c0-af7e-aa0539a7d029",
+    "@id": "http://www.fireflytheatre.com/temporary/5b341344-9b04-4a3f-827f-f0faf05c6f5f",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -247,114 +2320,6 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Home"
-      }
-    ]
-  },
-  {
-    "@id": "http://www.fireflytheatre.com/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.fireflytheatre.com/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.fireflytheatre.com/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Firefly Theatre & Circus Edmonton's Home for Circus Arts"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.fireflytheatre.com/wp-content/uploads/2023/11/Spiegeltent.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1200"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "800"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "http://www.fireflytheatre.com/#"
-      }
-    ]
-  },
-  {
-    "@id": "http://www.fireflytheatre.com/temporary/13d8f81e-566a-4e38-8e9f-76754abdabf2",
-    "@type": [
-      "http://schema.org/Article"
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://www.fireflytheatre.com/#schema-webpage"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://www.fireflytheatre.com/author/johnnyrains/#schema-author"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://www.fireflytheatre.com/#schema-publishing-organization"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-12T12:28:35"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-11-08T18:44:17"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "http://www.fireflytheatre.com/#"
-      }
-    ],
-    "http://schema.org/headline": [
-      {
-        "@value": "Firefly Theatre & Circus - Edmonton's Home for Circus Arts"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Edmonton's unique home for aerial and ground circus arts for over 20 years. Performances and entertainment in our community, here in Treaty 6 territory."
-      }
-    ],
-    "http://schema.org/name": [
-      {
         "@value": "Home"
       }
     ]
