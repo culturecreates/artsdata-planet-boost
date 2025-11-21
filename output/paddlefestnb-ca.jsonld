@@ -69,13 +69,13 @@
     ]
   },
   {
-    "@id": "_:g470040",
+    "@id": "_:g469860",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g470060"
+        "@id": "_:g469880"
       }
     ],
     "http://schema.org/name": [
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "@id": "_:g470060",
+    "@id": "_:g469880",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "@id": "https://www.paddlefestnb.ca/temporary/75425ade-b3a6-46df-8298-eda8551d890a",
+    "@id": "https://www.paddlefestnb.ca/temporary/0e68f38d-a06e-4b1f-9455-23eab25a0535",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "@id": "https://www.paddlefestnb.ca/temporary/bb58cfe6-ef25-414e-a2ce-a0beb7c3f19b",
+    "@id": "https://www.paddlefestnb.ca/temporary/eb8bb701-fde5-48a4-86a5-33e739b129c3",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "@id": "https://www.paddlefestnb.ca/temporary/24945421-d8e9-4e32-9d18-eb85bdc0480a",
+    "@id": "https://www.paddlefestnb.ca/temporary/7186932f-9d9b-4165-8e64-8bbb38444c7e",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -169,7 +169,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g470040"
+        "@id": "_:g469860"
       }
     ],
     "http://schema.org/image": [
@@ -283,13 +283,13 @@
     ]
   },
   {
-    "@id": "_:g480640",
+    "@id": "_:g478000",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/logo": [
       {
-        "@id": "_:g480660"
+        "@id": "_:g478020"
       }
     ],
     "http://schema.org/name": [
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "@id": "_:g480660",
+    "@id": "_:g478020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -311,7 +311,7 @@
     ]
   },
   {
-    "@id": "https://www.paddlefestnb.ca/temporary/52a34c9f-6249-4e78-b336-f3160e93c553",
+    "@id": "https://www.paddlefestnb.ca/temporary/749c2f10-63d3-4831-94a7-6ab9531f8d9a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "@id": "https://www.paddlefestnb.ca/temporary/f1f28d6b-b956-40d8-a6ae-e189a51f7c79",
+    "@id": "https://www.paddlefestnb.ca/temporary/5918d6f2-a871-4bd9-be48-9dcabbd3d404",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "@id": "https://www.paddlefestnb.ca/temporary/079c9dfc-59cc-4177-9e73-e85c004fc5b6",
+    "@id": "https://www.paddlefestnb.ca/temporary/28992cf2-4330-4f18-85da-cb8ea0c74feb",
     "@type": [
       "http://schema.org/Article"
     ],
@@ -383,7 +383,7 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "_:g480640"
+        "@id": "_:g478000"
       }
     ],
     "http://schema.org/image": [
