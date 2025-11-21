@@ -56,7 +56,7 @@
     ]
   },
   {
-    "@id": "https://www.dal.ca/temporary/607b3363-3ee5-44bb-a6c4-4d917c549606",
+    "@id": "https://www.dal.ca/temporary/1ef38ae4-fa4e-42e1-867d-566dae6b1656",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "@id": "https://www.dal.ca/temporary/0179ba7d-995a-4a81-adeb-72ff62df3e5a",
+    "@id": "https://www.dal.ca/temporary/7b0ac180-543e-401a-8e95-9e3f33c72b43",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -129,13 +129,13 @@
     ]
   },
   {
-    "@id": "https://www.dal.ca/temporary/f1275c17-f4e4-44df-a140-191d739efa0f",
+    "@id": "https://www.dal.ca/temporary/8b49ec5b-5644-443a-bd92-0d5ab4075a64",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/5b460941a9e0285288d59058/t/5ce401dfe83bdb00016f7672/1763585233549/"
+        "@id": "https://static1.squarespace.com/static/5b460941a9e0285288d59058/t/5ce401dfe83bdb00016f7672/1763661965457/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "@id": "https://www.dal.ca/temporary/a9f479e8-f7a9-4208-9a28-9804ef2662a8",
+    "@id": "https://www.dal.ca/temporary/04e2d259-ac31-4845-80d1-380fe2feb126",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "@id": "https://www.dal.ca/temporary/faa8709f-cba7-4865-aedb-93dd498330c4",
+    "@id": "https://www.dal.ca/temporary/5022fe54-ba5e-4bc7-bfa9-daa715c4cf5d",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -268,13 +268,13 @@
     ]
   },
   {
-    "@id": "https://www.dal.ca/temporary/44d7c056-8d79-414f-aebf-b1fcd201423c",
+    "@id": "https://www.dal.ca/temporary/71a0f4cc-6438-4d18-bfa9-0cc0648dd182",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/5b460941a9e0285288d59058/t/5ce401dfe83bdb00016f7672/1763585233549/"
+        "@id": "https://static1.squarespace.com/static/5b460941a9e0285288d59058/t/5ce401dfe83bdb00016f7672/1763661965457/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
