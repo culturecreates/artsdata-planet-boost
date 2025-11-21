@@ -109,7 +109,7 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/25850d46-4295-49f5-ae27-a305a30892e9",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/e4b95030-4674-439b-986d-3a6959c9d9c1",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -413,7 +413,7 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/2acbd596-50ee-4520-8a44-b89fc36bd854",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/6d5ba2a6-8eb6-4dd0-b8b0-3675c5147931",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -466,7 +466,7 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/299e5cff-68e3-48d2-a7de-84bb4e333c6b",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/98fed3b7-c7da-4ffb-a1d9-8bdeb7d43181",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -620,7 +620,7 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/01b82e33-ce1e-4fbd-8b76-13b7b308b9bd",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/07aa471b-6ce7-4f93-8904-4185c190d527",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -750,7 +750,7 @@
     ]
   },
   {
-    "@id": "_:g496580",
+    "@id": "_:g497000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -786,13 +786,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d595d694-e7b6-457c-83e1-10db2a844b4f",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/2d5f01c5-3d7c-49a8-bce0-7b06b03843b0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g496580"
+        "@id": "_:g497000"
       }
     ],
     "http://schema.org/url": [
@@ -916,7 +916,7 @@
     ]
   },
   {
-    "@id": "_:g506380",
+    "@id": "_:g506900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -952,13 +952,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/8f57ef8b-313d-45d5-b36a-2436fc727c4e",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/2241da77-acc2-4bce-8f83-bb993a31ec16",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g506380"
+        "@id": "_:g506900"
       }
     ],
     "http://schema.org/url": [
@@ -997,129 +997,49 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "Festival Carrefour | Festival de théâtre à Québec"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Le Festival Carrefour présente des pièces de théâtre et le spectacle déambulatoire Où tu vas quand tu dors en marchant...? à Québec"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://carrefourtheatre.qc.ca/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-10-09T13:37:02+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://carrefourtheatre.qc.ca/wp-content/uploads/2025/03/og_festival_carrefour.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1200"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/#content"
-      },
-      {
-        "@id": "https://carrefourtheatre.qc.ca/#conseildadministration"
-      },
-      {
-        "@id": "https://carrefourtheatre.qc.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g517100",
+    "@id": "_:g517660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/addressLocality": [
       {
+        "@language": "fr",
         "@value": "Québec"
       }
     ],
     "http://schema.org/addressRegion": [
       {
+        "@language": "fr",
         "@value": "QC"
       }
     ],
     "http://schema.org/addressCountry": [
       {
+        "@language": "fr",
         "@value": "CA"
       }
     ],
     "http://schema.org/postalCode": [
       {
+        "@language": "fr",
         "@value": "G1K 6E9"
       }
     ],
     "http://schema.org/streetAddress": [
       {
+        "@language": "fr",
         "@value": "369 de la Couronne"
       }
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/5d5ab23f-c8ce-4bf6-b5c4-69e3f618138a",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/03b9d6cc-a4a0-4531-8dc7-5a835df5ed48",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g517100"
+        "@id": "_:g517660"
       }
     ],
     "http://schema.org/url": [
@@ -1129,26 +1049,30 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://carrefourtheatre.qc.ca/#content"
+        "@id": "https://carrefourtheatre.qc.ca"
       }
     ],
     "http://schema.org/name": [
       {
+        "@language": "fr",
         "@value": "Festival Carrefour"
       }
     ],
     "http://schema.org/legalName": [
       {
+        "@language": "fr",
         "@value": "Festival Carrefour"
       }
     ],
     "http://schema.org/email": [
       {
+        "@language": "fr",
         "@value": "adm@carrefourtheatre.qc.ca"
       }
     ],
     "http://schema.org/telephone": [
       {
+        "@language": "fr",
         "@value": "418-692-3131"
       }
     ]
@@ -1227,7 +1151,7 @@
     ]
   },
   {
-    "@id": "_:g526760",
+    "@id": "_:g527660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1263,13 +1187,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/03b51a9e-5b7a-4582-83c5-24c931d8c1fc",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/0360dd8f-daaa-4b86-9487-d30e0808d5a0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g526760"
+        "@id": "_:g527660"
       }
     ],
     "http://schema.org/url": [
@@ -1381,7 +1305,7 @@
     ]
   },
   {
-    "@id": "_:g536480",
+    "@id": "_:g537420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1417,13 +1341,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/b87deec1-f371-4b6f-915e-614f4d63037c",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/b58b33f1-5917-490a-8748-2b4992d76d09",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g536480"
+        "@id": "_:g537420"
       }
     ],
     "http://schema.org/url": [
@@ -1609,7 +1533,7 @@
     ]
   },
   {
-    "@id": "_:g546120",
+    "@id": "_:g547060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1645,13 +1569,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d47b9e00-02ff-48b2-b918-7e01eb0cc8c4",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/fab4390e-53de-4c29-94c2-c6125f9aacdb",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g546120"
+        "@id": "_:g547060"
       }
     ],
     "http://schema.org/url": [
@@ -1662,87 +1586,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://carrefourtheatre.qc.ca/offres/evenements-festifs/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/legalName": [
-      {
-        "@language": "fr",
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "fr",
-        "@value": "adm@carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "fr",
-        "@value": "418-692-3131"
-      }
-    ]
-  },
-  {
-    "@id": "_:g556700",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "G1K 6E9"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "369 de la Couronne"
-      }
-    ]
-  },
-  {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/0f9de77b-acef-47fa-8875-be4888e868f6",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g556700"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca"
       }
     ],
     "http://schema.org/name": [
@@ -1850,7 +1693,7 @@
     ]
   },
   {
-    "@id": "_:g566720",
+    "@id": "_:g556600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1886,13 +1729,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/b2a3d3ab-fb50-4f02-8a30-34048ee1bc0d",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/4a9e426c-d3d2-4cd8-aa8b-e9fc52603ef4",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g566720"
+        "@id": "_:g556600"
       }
     ],
     "http://schema.org/url": [
@@ -2010,7 +1853,7 @@
     ]
   },
   {
-    "@id": "_:g576740",
+    "@id": "_:g566700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2046,13 +1889,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/b99723b1-c1a3-47c6-a83a-de998ed1313b",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/c795f4bc-5ef6-478a-9ecd-1068f4fb3c98",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g576740"
+        "@id": "_:g566700"
       }
     ],
     "http://schema.org/url": [
@@ -2170,7 +2013,7 @@
     ]
   },
   {
-    "@id": "_:g586520",
+    "@id": "_:g576220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2206,13 +2049,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/87b94b63-426a-42c2-96fe-5ea6c0960bb6",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/4cdaa0ea-b9ac-46be-bada-6232c26f35c9",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g586520"
+        "@id": "_:g576220"
       }
     ],
     "http://schema.org/url": [
@@ -2330,7 +2173,7 @@
     ]
   },
   {
-    "@id": "_:g596300",
+    "@id": "_:g585960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2366,13 +2209,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/cf0fdc85-7d6b-44d0-8c9a-097d7f8d908b",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/9eb7548f-fa05-4ac6-84b7-8f4c1b322876",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g596300"
+        "@id": "_:g585960"
       }
     ],
     "http://schema.org/url": [
@@ -2486,14 +2329,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://carrefourtheatre.qc.ca/soutenir-le-festival/"
-      },
-      {
-        "@id": "https://carrefourtheatre.qc.ca/soutenir-le-festival/#benevole"
       }
     ]
   },
   {
-    "@id": "_:g606200",
+    "@id": "_:g595760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2529,13 +2369,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/c8bb565d-5c07-436b-8144-c8df1201a7f2",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/fb2f1678-f927-4ff2-8e2d-94d88791317b",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g606200"
+        "@id": "_:g595760"
       }
     ],
     "http://schema.org/url": [
@@ -2653,7 +2493,7 @@
     ]
   },
   {
-    "@id": "_:g617920",
+    "@id": "_:g607460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2689,13 +2529,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d785a7b6-04e6-4bcd-852f-29db980426f5",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/2590042d-20f8-45f6-8fbb-525f7fe0f8b0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g617920"
+        "@id": "_:g607460"
       }
     ],
     "http://schema.org/url": [
@@ -2813,7 +2653,7 @@
     ]
   },
   {
-    "@id": "_:g627300",
+    "@id": "_:g617020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2849,13 +2689,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d4a2bd3e-26e0-43c7-ba1f-a4e05a9baa5e",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/3d467430-4ddb-474f-9445-5a6ffed3bb37",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g627300"
+        "@id": "_:g617020"
       }
     ],
     "http://schema.org/url": [
@@ -2961,7 +2801,7 @@
     ]
   },
   {
-    "@id": "_:g636860",
+    "@id": "_:g626560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2997,13 +2837,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/8182126b-c199-4e66-afbb-125b16e81f94",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/bdffe6b5-35ef-49b7-a2a5-4023c020447c",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g636860"
+        "@id": "_:g626560"
       }
     ],
     "http://schema.org/url": [
@@ -3121,7 +2961,7 @@
     ]
   },
   {
-    "@id": "_:g646660",
+    "@id": "_:g636380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3157,13 +2997,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/a05e92db-d327-4fb7-8a09-378929b33bd7",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/6af78c41-5b70-4d93-a464-fbd13c6ddfc0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g646660"
+        "@id": "_:g636380"
       }
     ],
     "http://schema.org/url": [
@@ -3281,7 +3121,7 @@
     ]
   },
   {
-    "@id": "_:g656620",
+    "@id": "_:g646400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3317,13 +3157,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/5b480b21-ea81-4b6a-b428-5c0d31872953",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/5791db3f-b4b8-4ccf-9c45-809b5446e018",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g656620"
+        "@id": "_:g646400"
       }
     ],
     "http://schema.org/url": [
@@ -3435,7 +3275,7 @@
     ]
   },
   {
-    "@id": "_:g666980",
+    "@id": "_:g656800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3471,13 +3311,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/9a4c9f94-8953-44e5-b3ae-2c36485bfd33",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/ba24fec2-2a2a-470a-8525-1e807dca0122",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g666980"
+        "@id": "_:g656800"
       }
     ],
     "http://schema.org/url": [
@@ -3589,7 +3429,7 @@
     ]
   },
   {
-    "@id": "_:g677040",
+    "@id": "_:g666940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3625,13 +3465,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/9976b0d7-702f-4879-9112-dc7fdf7bc745",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/6f31c968-764e-4bcf-bfbb-0d874804f6d4",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g677040"
+        "@id": "_:g666940"
       }
     ],
     "http://schema.org/url": [
@@ -3749,7 +3589,7 @@
     ]
   },
   {
-    "@id": "_:g686660",
+    "@id": "_:g676540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3785,13 +3625,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/259df05a-0f47-4ac9-bf5b-9ae1e1a05beb",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/c59ad296-b242-44e2-bc47-12861f1661d8",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g686660"
+        "@id": "_:g676540"
       }
     ],
     "http://schema.org/url": [
@@ -3909,7 +3749,7 @@
     ]
   },
   {
-    "@id": "_:g696240",
+    "@id": "_:g686180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3945,13 +3785,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d6bd6abc-e24b-4d63-9645-06f7036d3c7e",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/7efb9e24-ffd2-48e6-8edb-f0473fd5de7a",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g696240"
+        "@id": "_:g686180"
       }
     ],
     "http://schema.org/url": [
@@ -4069,7 +3909,7 @@
     ]
   },
   {
-    "@id": "_:g706220",
+    "@id": "_:g696200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4105,13 +3945,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/fbc46433-a603-4317-b0bf-f16ccf8a195f",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/a19596f4-e34c-418b-b112-10d24ceeaf30",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g706220"
+        "@id": "_:g696200"
       }
     ],
     "http://schema.org/url": [
@@ -4223,7 +4063,7 @@
     ]
   },
   {
-    "@id": "_:g715920",
+    "@id": "_:g705940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4259,13 +4099,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/313c8ecc-2c27-462d-a551-77aa171bed14",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/df0528f4-ea61-4d61-bb22-759445a195e0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g715920"
+        "@id": "_:g705940"
       }
     ],
     "http://schema.org/url": [
@@ -4377,7 +4217,7 @@
     ]
   },
   {
-    "@id": "_:g725480",
+    "@id": "_:g715500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4413,13 +4253,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/e0670dfe-4cec-47ad-83c1-18315fc6a99f",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/899638ac-e479-4297-857e-0033833f63bc",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g725480"
+        "@id": "_:g715500"
       }
     ],
     "http://schema.org/url": [
@@ -4458,7 +4298,7 @@
     ]
   },
   {
-    "@id": "_:g735780",
+    "@id": "_:g725880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4494,13 +4334,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/39648a4f-2521-4698-aabb-92acdda46fdd",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/cdc910db-df6d-45bd-bf10-b39ce726c726",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g735780"
+        "@id": "_:g725880"
       }
     ],
     "http://schema.org/url": [
@@ -4535,150 +4375,6 @@
       {
         "@language": "en",
         "@value": "418 692-3131"
-      }
-    ]
-  },
-  {
-    "@id": "_:g746520",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "G1K 6E9"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "369 de la Couronne"
-      }
-    ]
-  },
-  {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/83d20985-bd44-4480-a077-8a741a2f023e",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g746520"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/#conseildadministration"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/legalName": [
-      {
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "adm@carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "418-692-3131"
-      }
-    ]
-  },
-  {
-    "@id": "_:g756640",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "G1K 6E9"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "369 de la Couronne"
-      }
-    ]
-  },
-  {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/90fdeb52-71f2-4045-b901-53df34f7cfb0",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g756640"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/soutenir-le-festival/#benevole"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/legalName": [
-      {
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@value": "adm@carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@value": "418-692-3131"
       }
     ]
   },
@@ -4750,7 +4446,7 @@
     ]
   },
   {
-    "@id": "_:g766040",
+    "@id": "_:g736240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4786,13 +4482,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/f5effe1c-5021-42c2-ab70-6857284db7e4",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/e770e21c-3057-46c6-b513-d8b21b9adff1",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g766040"
+        "@id": "_:g736240"
       }
     ],
     "http://schema.org/url": [
@@ -4904,7 +4600,7 @@
     ]
   },
   {
-    "@id": "_:g775860",
+    "@id": "_:g746040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4940,13 +4636,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/1936ab00-5fca-4c3b-b724-001aebeacd9e",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/afa5562f-824e-44d7-acb1-29a7fddbf8b5",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g775860"
+        "@id": "_:g746040"
       }
     ],
     "http://schema.org/url": [
@@ -5058,7 +4754,7 @@
     ]
   },
   {
-    "@id": "_:g785500",
+    "@id": "_:g755780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5094,13 +4790,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/89eac4fc-de4e-466f-9db8-a32ff7678873",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/3bba4acf-d4d9-4736-a0e7-012430ffd580",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g785500"
+        "@id": "_:g755780"
       }
     ],
     "http://schema.org/url": [
@@ -5111,166 +4807,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://carrefourtheatre.qc.ca/en/offer/activities/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/legalName": [
-      {
-        "@language": "en",
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": "adm@carrefourtheatre.qc.ca"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": "418 692-3131"
-      }
-    ]
-  },
-  {
-    "@id": "https://carrefourtheatre.qc.ca/en/support-the-festival/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Support the Festival | Festival Carrefour"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Soutenez le théâtre d’ici en faisant un don de temps ou d'argent. Chaque geste compte pour faire rayonner la création à Québec."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://carrefourtheatre.qc.ca/en/support-the-festival/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Festival Carrefour"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-08-12T16:46:51+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://carrefourtheatre.qc.ca/wp-content/uploads/2025/03/og_festival_carrefour.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-us",
-        "@value": "1200"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-us",
-        "@value": "675"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-us",
-        "@value": "image/jpeg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/en/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/en/support-the-festival/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g795200",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Quebec City"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "G1K 6E9"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "369 de la Couronne St"
-      }
-    ]
-  },
-  {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/07017b99-355d-492a-b04a-c0a34520ba6f",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g795200"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/en/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://carrefourtheatre.qc.ca/en/support-the-festival/"
       }
     ],
     "http://schema.org/name": [
@@ -5384,7 +4920,7 @@
     ]
   },
   {
-    "@id": "_:g804980",
+    "@id": "_:g765600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5420,13 +4956,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/ef190d1d-242a-417e-95c6-d7bf62e2f519",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/3feae664-b076-45e3-9b11-f6b21716786b",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g804980"
+        "@id": "_:g765600"
       }
     ],
     "http://schema.org/url": [
@@ -5550,7 +5086,7 @@
     ]
   },
   {
-    "@id": "_:g814720",
+    "@id": "_:g775320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5586,13 +5122,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/72b08ff1-43c8-48a7-b5e0-a3f48ea0b25b",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/7424437b-97f8-4f7d-87e4-3647d7f15f9f",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g814720"
+        "@id": "_:g775320"
       }
     ],
     "http://schema.org/url": [
@@ -5716,7 +5252,7 @@
     ]
   },
   {
-    "@id": "_:g824500",
+    "@id": "_:g785040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5752,13 +5288,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/5a12de3d-e8a1-4b73-8d91-bdefd8a61d11",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/9b6d88a4-2ecd-4cd6-a6dc-c3d9cd6aab18",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g824500"
+        "@id": "_:g785040"
       }
     ],
     "http://schema.org/url": [
@@ -5882,7 +5418,7 @@
     ]
   },
   {
-    "@id": "_:g834260",
+    "@id": "_:g794800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5918,13 +5454,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/fe076da7-106d-4124-b2e2-6f10ad7cf187",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/1c63f86c-92eb-42c5-b1f9-9ff26eb794cc",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g834260"
+        "@id": "_:g794800"
       }
     ],
     "http://schema.org/url": [
@@ -6048,7 +5584,7 @@
     ]
   },
   {
-    "@id": "_:g844020",
+    "@id": "_:g804500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6084,13 +5620,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/15d4d7ee-5e83-4f65-b82a-9957756c1177",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/92bde39a-33a3-4a92-acca-6d52106f49a0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g844020"
+        "@id": "_:g804500"
       }
     ],
     "http://schema.org/url": [
@@ -6214,7 +5750,7 @@
     ]
   },
   {
-    "@id": "_:g853840",
+    "@id": "_:g814260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6250,13 +5786,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/12eedecf-426e-4864-9baa-1fa522912391",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/7e72f1d7-7ab6-4bfc-a83e-e0ee54c8c9d9",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g853840"
+        "@id": "_:g814260"
       }
     ],
     "http://schema.org/url": [
@@ -6380,7 +5916,7 @@
     ]
   },
   {
-    "@id": "_:g863640",
+    "@id": "_:g823980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6416,13 +5952,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/162b6f71-d216-43a9-a961-99675eaf3774",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/c77ee835-f8b1-4870-91d6-4e0c9c35b724",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g863640"
+        "@id": "_:g823980"
       }
     ],
     "http://schema.org/url": [
@@ -6546,7 +6082,7 @@
     ]
   },
   {
-    "@id": "_:g873460",
+    "@id": "_:g833660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6582,13 +6118,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/6c0a2f76-dd1a-4721-8187-e6eb9298fc73",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/11fd2d28-7938-449d-99aa-7e217079c618",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g873460"
+        "@id": "_:g833660"
       }
     ],
     "http://schema.org/url": [
@@ -6712,7 +6248,7 @@
     ]
   },
   {
-    "@id": "_:g883360",
+    "@id": "_:g843520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6748,13 +6284,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/94a130b0-2e86-4df6-bf0d-1f7b80588fab",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/bad14036-d7aa-4cf8-91b7-83a1fa1f7dd1",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g883360"
+        "@id": "_:g843520"
       }
     ],
     "http://schema.org/url": [
@@ -6860,7 +6396,7 @@
     ]
   },
   {
-    "@id": "_:g893760",
+    "@id": "_:g853800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6896,13 +6432,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/e244e7d2-7d57-4174-89e1-205df548d977",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/f5d8b925-5938-41bc-97a1-42e28b82232d",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g893760"
+        "@id": "_:g853800"
       }
     ],
     "http://schema.org/url": [
@@ -7026,7 +6562,7 @@
     ]
   },
   {
-    "@id": "_:g903540",
+    "@id": "_:g863480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7062,13 +6598,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/984216d4-ea65-4fe7-aa4f-621a686caa8d",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/92888522-137f-4199-9500-108e6390cb41",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g903540"
+        "@id": "_:g863480"
       }
     ],
     "http://schema.org/url": [
@@ -7192,7 +6728,7 @@
     ]
   },
   {
-    "@id": "_:g913420",
+    "@id": "_:g873260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7228,13 +6764,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/071e5c4b-7afc-483f-955b-3fba99a087cd",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/c44f9184-b829-4bc0-b969-632cf105a70d",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g913420"
+        "@id": "_:g873260"
       }
     ],
     "http://schema.org/url": [
@@ -7273,7 +6809,86 @@
     ]
   },
   {
-    "@id": "_:g923980",
+    "@id": "https://carrefourtheatre.qc.ca/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Festival Carrefour | Festival de théâtre à Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Festival Carrefour présente des pièces de théâtre et le spectacle déambulatoire Où tu vas quand tu dors en marchant...? à Québec"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://carrefourtheatre.qc.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Festival Carrefour"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-10-09T13:37:02+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://carrefourtheatre.qc.ca/wp-content/uploads/2025/03/og_festival_carrefour.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "675"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://carrefourtheatre.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://carrefourtheatre.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g883800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7309,13 +6924,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/2f484de9-7358-487a-a1e4-bd629381d377",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/8f274605-1cd8-4b7f-9069-1f3fbf37016b",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g923980"
+        "@id": "_:g883800"
       }
     ],
     "http://schema.org/url": [
@@ -7433,7 +7048,7 @@
     ]
   },
   {
-    "@id": "_:g934240",
+    "@id": "_:g894060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7469,13 +7084,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/4d04c8f5-8098-4607-b244-d02cdb4cc872",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/6ad46f22-26a9-48fd-a750-f4535c32024a",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g934240"
+        "@id": "_:g894060"
       }
     ],
     "http://schema.org/url": [
@@ -7593,7 +7208,7 @@
     ]
   },
   {
-    "@id": "_:g944100",
+    "@id": "_:g903900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7629,13 +7244,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/0d935abb-683d-4f61-8086-4fe506ebde1d",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/83a17e9e-0f72-4556-8c7c-55bfac7ba980",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g944100"
+        "@id": "_:g903900"
       }
     ],
     "http://schema.org/url": [
@@ -7753,7 +7368,7 @@
     ]
   },
   {
-    "@id": "_:g954080",
+    "@id": "_:g913940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7789,13 +7404,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d7f45424-b147-492f-97c9-3d3ef7a75233",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/6574dbef-87c2-495c-b2cd-655896387abe",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g954080"
+        "@id": "_:g913940"
       }
     ],
     "http://schema.org/url": [
@@ -7913,7 +7528,7 @@
     ]
   },
   {
-    "@id": "_:g964240",
+    "@id": "_:g924040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7949,13 +7564,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/9aef6c94-8d09-467d-bce9-e4548e71f122",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/84b7e86d-f11d-4c15-beec-b52ceae91d9a",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g964240"
+        "@id": "_:g924040"
       }
     ],
     "http://schema.org/url": [
@@ -8073,7 +7688,7 @@
     ]
   },
   {
-    "@id": "_:g974400",
+    "@id": "_:g934240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8109,13 +7724,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/25900db8-36c6-47f8-a003-02d0ebbbab9c",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/9398850b-8137-4871-a9fc-db62440724ef",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g974400"
+        "@id": "_:g934240"
       }
     ],
     "http://schema.org/url": [
@@ -8233,7 +7848,7 @@
     ]
   },
   {
-    "@id": "_:g984400",
+    "@id": "_:g944320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8269,13 +7884,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/3ac678f7-0598-4a8c-b1c0-e0e4a62ca91e",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/a04d4020-3ac6-4a9e-96c3-9fa18b6ef3a2",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g984400"
+        "@id": "_:g944320"
       }
     ],
     "http://schema.org/url": [
@@ -8393,7 +8008,7 @@
     ]
   },
   {
-    "@id": "_:g994480",
+    "@id": "_:g954440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8429,13 +8044,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/cc23aa00-8a8a-4718-a8b4-eca18a945029",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/3962435d-7f77-442f-8ac1-e57f88004c0b",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g994480"
+        "@id": "_:g954440"
       }
     ],
     "http://schema.org/url": [
@@ -8553,7 +8168,7 @@
     ]
   },
   {
-    "@id": "_:g1004540",
+    "@id": "_:g964440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8589,13 +8204,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/020edf4c-054f-4ee8-9495-d2041fd4480b",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/704b6243-7389-4f57-b765-f88ed0bb6834",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1004540"
+        "@id": "_:g964440"
       }
     ],
     "http://schema.org/url": [
@@ -8713,7 +8328,7 @@
     ]
   },
   {
-    "@id": "_:g1014460",
+    "@id": "_:g974140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8749,13 +8364,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/1944cb93-d970-4f49-b274-07629f130a05",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/54ebb247-8d2c-4a12-be4b-919e81008f0b",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1014460"
+        "@id": "_:g974140"
       }
     ],
     "http://schema.org/url": [
@@ -8873,7 +8488,7 @@
     ]
   },
   {
-    "@id": "_:g1024560",
+    "@id": "_:g984240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8909,13 +8524,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/27b86172-04e8-4f07-b349-73e89e1044ff",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/eb2da55b-edea-4aa6-acfd-644db8c5c825",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1024560"
+        "@id": "_:g984240"
       }
     ],
     "http://schema.org/url": [
@@ -9033,7 +8648,7 @@
     ]
   },
   {
-    "@id": "_:g1034660",
+    "@id": "_:g994340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9069,13 +8684,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/c39935e0-9753-437f-baba-d1c936d932d4",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/46905084-34ed-4a8a-85cd-2609d06ab8fa",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1034660"
+        "@id": "_:g994340"
       }
     ],
     "http://schema.org/url": [
@@ -9193,7 +8808,7 @@
     ]
   },
   {
-    "@id": "_:g1044720",
+    "@id": "_:g1004480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9229,13 +8844,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/9419d4fe-f57d-424a-b19d-09ab6d2ef8f1",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/350d99c6-62f6-43c7-8718-47db954eedf9",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1044720"
+        "@id": "_:g1004480"
       }
     ],
     "http://schema.org/url": [
@@ -9341,7 +8956,7 @@
     ]
   },
   {
-    "@id": "_:g1055020",
+    "@id": "_:g1014880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9377,13 +8992,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/f3b029c1-d666-405c-9457-4887f0b3d48a",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/053298e6-45f1-4de8-b427-cf805c5bfd01",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1055020"
+        "@id": "_:g1014880"
       }
     ],
     "http://schema.org/url": [
@@ -9501,7 +9116,7 @@
     ]
   },
   {
-    "@id": "_:g1064880",
+    "@id": "_:g1024860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9537,13 +9152,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/9491ad5b-6142-4315-bea1-5c190c38218d",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/59f59a19-a8fb-42ce-b500-81cfe8011f6d",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1064880"
+        "@id": "_:g1024860"
       }
     ],
     "http://schema.org/url": [
@@ -9661,7 +9276,7 @@
     ]
   },
   {
-    "@id": "_:g1074860",
+    "@id": "_:g1034960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9697,13 +9312,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/2e7d0b41-5968-4488-8ac8-3e22a73961c3",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/bb92dd43-13ed-4cb4-a787-8c855901db09",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1074860"
+        "@id": "_:g1034960"
       }
     ],
     "http://schema.org/url": [
@@ -9821,7 +9436,7 @@
     ]
   },
   {
-    "@id": "_:g1084960",
+    "@id": "_:g1045100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9857,13 +9472,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/129ff9c1-96ab-4afb-b1a4-bdaa31ee3644",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/38567630-536c-48cf-aa33-2d7d01597ba0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1084960"
+        "@id": "_:g1045100"
       }
     ],
     "http://schema.org/url": [
@@ -9981,7 +9596,7 @@
     ]
   },
   {
-    "@id": "_:g1095000",
+    "@id": "_:g1055240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10017,13 +9632,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/5f2f4b71-5e01-49d1-bcaf-1eee496c2cd0",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/1928cc11-d51c-4abc-b662-8ed92315d1b6",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1095000"
+        "@id": "_:g1055240"
       }
     ],
     "http://schema.org/url": [
@@ -10141,7 +9756,7 @@
     ]
   },
   {
-    "@id": "_:g1105020",
+    "@id": "_:g1065380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10177,13 +9792,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/eae924d5-fb43-485a-9b90-25cd5db3ec3e",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/9896c4e8-bcfd-4f5e-856d-71401cded771",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1105020"
+        "@id": "_:g1065380"
       }
     ],
     "http://schema.org/url": [
@@ -10301,7 +9916,7 @@
     ]
   },
   {
-    "@id": "_:g1115060",
+    "@id": "_:g1075520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10337,13 +9952,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/a114e197-db99-4d61-97bf-d21a47472384",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/d561ebcc-ec9a-409e-bf41-8517a37bf983",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1115060"
+        "@id": "_:g1075520"
       }
     ],
     "http://schema.org/url": [
@@ -10461,7 +10076,7 @@
     ]
   },
   {
-    "@id": "_:g1125080",
+    "@id": "_:g1085560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10497,13 +10112,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/c88d4948-4270-4b52-b68d-165e65672d98",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/b0f4fe42-63de-47ae-bd9b-0c81fc96b1aa",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1125080"
+        "@id": "_:g1085560"
       }
     ],
     "http://schema.org/url": [
@@ -10621,7 +10236,7 @@
     ]
   },
   {
-    "@id": "_:g1134980",
+    "@id": "_:g1095580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10657,13 +10272,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/a0b9ae96-654f-4bd0-bd70-20753afe8787",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/8cd6e806-e66a-4ca4-8f16-50b0b0938514",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1134980"
+        "@id": "_:g1095580"
       }
     ],
     "http://schema.org/url": [
@@ -10781,7 +10396,7 @@
     ]
   },
   {
-    "@id": "_:g1145100",
+    "@id": "_:g1105700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10817,13 +10432,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/c8f07241-210b-4423-bc89-493da87245a6",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/41a6553e-d01d-430d-905a-b4685e699c43",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1145100"
+        "@id": "_:g1105700"
       }
     ],
     "http://schema.org/url": [
@@ -10941,7 +10556,7 @@
     ]
   },
   {
-    "@id": "_:g1155100",
+    "@id": "_:g1115740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10977,13 +10592,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/4d9d02d6-79eb-4df8-95cb-730da20998ed",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/26c60365-628f-47f3-affe-1d1700c804e9",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1155100"
+        "@id": "_:g1115740"
       }
     ],
     "http://schema.org/url": [
@@ -11101,7 +10716,7 @@
     ]
   },
   {
-    "@id": "_:g1165060",
+    "@id": "_:g1125740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11137,13 +10752,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/e8d2b9a1-4e9c-4356-b980-5f0344b49d85",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/c654c1d3-f6c9-4d2b-943a-12bec2c138f4",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1165060"
+        "@id": "_:g1125740"
       }
     ],
     "http://schema.org/url": [
@@ -11261,7 +10876,7 @@
     ]
   },
   {
-    "@id": "_:g1174940",
+    "@id": "_:g1135560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11297,13 +10912,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/c759e47b-4624-488f-b9aa-ec4ac07b7a03",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/7f28adfa-a9f4-4684-8af6-e8d0986e417f",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1174940"
+        "@id": "_:g1135560"
       }
     ],
     "http://schema.org/url": [
@@ -11421,7 +11036,7 @@
     ]
   },
   {
-    "@id": "_:g1184640",
+    "@id": "_:g1145260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11457,13 +11072,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/74a5c1df-af79-469c-9e5b-30111f371844",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/b4b1bb17-0b5b-4810-b5a9-35428ff53a85",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1184640"
+        "@id": "_:g1145260"
       }
     ],
     "http://schema.org/url": [
@@ -11581,7 +11196,7 @@
     ]
   },
   {
-    "@id": "_:g1194460",
+    "@id": "_:g1155040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11617,13 +11232,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/2f640c07-ecb7-4d6f-a031-c90f89f0132d",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/504adf93-4081-47b9-b107-aa0629d8c072",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1194460"
+        "@id": "_:g1155040"
       }
     ],
     "http://schema.org/url": [
@@ -11741,7 +11356,7 @@
     ]
   },
   {
-    "@id": "_:g1204160",
+    "@id": "_:g1164760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11777,13 +11392,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/6a526422-aeed-4d41-a293-dc24823a05ff",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/97764ccc-7e0e-4961-aa31-4c5b09efa0cb",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1204160"
+        "@id": "_:g1164760"
       }
     ],
     "http://schema.org/url": [
@@ -11901,7 +11516,7 @@
     ]
   },
   {
-    "@id": "_:g1213920",
+    "@id": "_:g1174500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11937,13 +11552,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/626ebabc-566a-4e3c-836c-10e864070f75",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/67730ace-c50c-44ac-b8e3-3d985e8273e9",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1213920"
+        "@id": "_:g1174500"
       }
     ],
     "http://schema.org/url": [
@@ -12061,7 +11676,7 @@
     ]
   },
   {
-    "@id": "_:g1223760",
+    "@id": "_:g1184200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12097,13 +11712,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/c710e4d6-9542-4bef-9a53-c8970cd626cc",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/5566001c-5e2c-4c25-9307-f31cf9a49bd0",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1223760"
+        "@id": "_:g1184200"
       }
     ],
     "http://schema.org/url": [
@@ -12221,7 +11836,7 @@
     ]
   },
   {
-    "@id": "_:g1233520",
+    "@id": "_:g1193920",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12257,13 +11872,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/17e3af36-06b4-4f8f-998f-aa8148d52ab8",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/e99f777a-9bc5-476c-ac47-28462b630b17",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1233520"
+        "@id": "_:g1193920"
       }
     ],
     "http://schema.org/url": [
@@ -12381,7 +11996,7 @@
     ]
   },
   {
-    "@id": "_:g1243300",
+    "@id": "_:g1203660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12417,13 +12032,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/0fc9db4a-26dd-4575-b435-80c223e856d4",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/9ec17c86-bc6b-4d33-b43d-18f6f4fdf582",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1243300"
+        "@id": "_:g1203660"
       }
     ],
     "http://schema.org/url": [
@@ -12541,7 +12156,7 @@
     ]
   },
   {
-    "@id": "_:g1253060",
+    "@id": "_:g1213400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12577,13 +12192,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/4b0b9706-4301-4a38-8a6e-c7c873ffa974",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/1ca3f2dd-7000-4dc5-8f55-d70d9ce81c54",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1253060"
+        "@id": "_:g1213400"
       }
     ],
     "http://schema.org/url": [
@@ -12701,7 +12316,7 @@
     ]
   },
   {
-    "@id": "_:g1262840",
+    "@id": "_:g1223120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12737,13 +12352,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/b37eb637-5117-42c4-ae1e-c482ff317542",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/846348eb-d32c-44b2-bb69-419ed9598770",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1262840"
+        "@id": "_:g1223120"
       }
     ],
     "http://schema.org/url": [
@@ -12855,7 +12470,7 @@
     ]
   },
   {
-    "@id": "_:g1272580",
+    "@id": "_:g1232860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12891,13 +12506,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/6a9ac6dc-63d6-4a51-ae59-3781b7f5093f",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/de2ab4b7-76fc-4610-9e37-4ccc3655eda7",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1272580"
+        "@id": "_:g1232860"
       }
     ],
     "http://schema.org/url": [
@@ -12985,7 +12600,7 @@
     ]
   },
   {
-    "@id": "_:g1282760",
+    "@id": "_:g1243100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13021,13 +12636,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/d0fc92ac-b57c-41c5-9f0c-b389a2a34338",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/c74b5901-e70b-47f8-b43d-af9b74967e92",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1282760"
+        "@id": "_:g1243100"
       }
     ],
     "http://schema.org/url": [
@@ -13115,7 +12730,7 @@
     ]
   },
   {
-    "@id": "_:g1292800",
+    "@id": "_:g1253200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -13151,13 +12766,13 @@
     ]
   },
   {
-    "@id": "https://carrefourtheatre.qc.ca/temporary/4fc6b22f-d8be-44ae-a47e-ab055dcab1ab",
+    "@id": "https://carrefourtheatre.qc.ca/temporary/66136e3c-12f8-4d2d-b233-8a46053f28ca",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1292800"
+        "@id": "_:g1253200"
       }
     ],
     "http://schema.org/url": [
