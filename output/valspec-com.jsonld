@@ -73,223 +73,223 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g495260"
+        "@id": "_:g497180"
       },
       {
-        "@id": "_:g1804820"
+        "@id": "_:g1798340"
       },
       {
-        "@id": "_:g1815660"
+        "@id": "_:g1809660"
       },
       {
-        "@id": "_:g1826020"
+        "@id": "_:g1820140"
       },
       {
-        "@id": "_:g1836380"
+        "@id": "_:g1830520"
       },
       {
-        "@id": "_:g1847800"
+        "@id": "_:g1841920"
       },
       {
-        "@id": "_:g1863420"
+        "@id": "_:g1857580"
       },
       {
-        "@id": "_:g1872340"
+        "@id": "_:g1866500"
       },
       {
-        "@id": "_:g1883040"
+        "@id": "_:g1877220"
       },
       {
-        "@id": "_:g1894200"
+        "@id": "_:g1888320"
       },
       {
-        "@id": "_:g1905620"
+        "@id": "_:g1899920"
       },
       {
-        "@id": "_:g1917740"
+        "@id": "_:g1912020"
       },
       {
-        "@id": "_:g1930020"
+        "@id": "_:g1924160"
       },
       {
-        "@id": "_:g1968700"
+        "@id": "_:g1961900"
       },
       {
-        "@id": "_:g1979220"
+        "@id": "_:g1972380"
       },
       {
-        "@id": "_:g1989640"
+        "@id": "_:g1982880"
       },
       {
-        "@id": "_:g2000020"
+        "@id": "_:g1993320"
       },
       {
-        "@id": "_:g2016440"
+        "@id": "_:g2009460"
       },
       {
-        "@id": "_:g2026160"
+        "@id": "_:g2019520"
       },
       {
-        "@id": "_:g2038500"
+        "@id": "_:g2031720"
       },
       {
-        "@id": "_:g2204240"
+        "@id": "_:g2137980"
       },
       {
-        "@id": "_:g2214240"
+        "@id": "_:g2148300"
       },
       {
-        "@id": "_:g2225740"
+        "@id": "_:g2159740"
       },
       {
-        "@id": "_:g2236640"
+        "@id": "_:g2170620"
       },
       {
-        "@id": "_:g2246900"
+        "@id": "_:g2180820"
       },
       {
-        "@id": "_:g2257380"
+        "@id": "_:g2191280"
       },
       {
-        "@id": "_:g2267660"
+        "@id": "_:g2201580"
       },
       {
-        "@id": "_:g2278040"
+        "@id": "_:g2212320"
       },
       {
-        "@id": "_:g2294040"
+        "@id": "_:g2228060"
       },
       {
-        "@id": "_:g2302760"
+        "@id": "_:g2236340"
       },
       {
-        "@id": "_:g2313060"
+        "@id": "_:g2246620"
       },
       {
-        "@id": "_:g2323280"
+        "@id": "_:g2256960"
       },
       {
-        "@id": "_:g2333920"
+        "@id": "_:g2267520"
       },
       {
-        "@id": "_:g2344660"
+        "@id": "_:g2277920"
       },
       {
-        "@id": "_:g2355220"
+        "@id": "_:g2288300"
       },
       {
-        "@id": "_:g2365540"
+        "@id": "_:g2298620"
       },
       {
-        "@id": "_:g2375820"
+        "@id": "_:g2309020"
       },
       {
-        "@id": "_:g2386080"
+        "@id": "_:g2319340"
       },
       {
-        "@id": "_:g2396380"
+        "@id": "_:g2329660"
       },
       {
-        "@id": "_:g2406680"
+        "@id": "_:g2339920"
       },
       {
-        "@id": "_:g2417200"
+        "@id": "_:g2350440"
       },
       {
-        "@id": "_:g2427740"
+        "@id": "_:g2360980"
       },
       {
-        "@id": "_:g2438120"
+        "@id": "_:g2371580"
       },
       {
-        "@id": "_:g2448380"
+        "@id": "_:g2381860"
       },
       {
-        "@id": "_:g2458720"
+        "@id": "_:g2392240"
       },
       {
-        "@id": "_:g2469000"
+        "@id": "_:g2402620"
       },
       {
-        "@id": "_:g2479340"
+        "@id": "_:g2413000"
       },
       {
-        "@id": "_:g2489740"
+        "@id": "_:g2423380"
       },
       {
-        "@id": "_:g2500040"
+        "@id": "_:g2433680"
       },
       {
-        "@id": "_:g2510360"
+        "@id": "_:g2444020"
       },
       {
-        "@id": "_:g2520700"
+        "@id": "_:g2454440"
       },
       {
-        "@id": "_:g2530960"
+        "@id": "_:g2464820"
       },
       {
-        "@id": "_:g2541400"
+        "@id": "_:g2475320"
       },
       {
-        "@id": "_:g2551640"
+        "@id": "_:g2485620"
       },
       {
-        "@id": "_:g2567300"
+        "@id": "_:g2501300"
       },
       {
-        "@id": "_:g2575420"
+        "@id": "_:g2510500"
       },
       {
-        "@id": "_:g2585700"
+        "@id": "_:g2520840"
       },
       {
-        "@id": "_:g2596100"
+        "@id": "_:g2531280"
       },
       {
-        "@id": "_:g2606720"
+        "@id": "_:g2541640"
       },
       {
-        "@id": "_:g2617040"
+        "@id": "_:g2552020"
       },
       {
-        "@id": "_:g2627720"
+        "@id": "_:g2562680"
       },
       {
-        "@id": "_:g2638120"
+        "@id": "_:g2573060"
       },
       {
-        "@id": "_:g2896400"
+        "@id": "_:g2830480"
       },
       {
-        "@id": "_:g3243460"
+        "@id": "_:g3187840"
       },
       {
-        "@id": "_:g3259140"
+        "@id": "_:g3203200"
       },
       {
-        "@id": "_:g3278480"
+        "@id": "_:g3225040"
       },
       {
-        "@id": "_:g3290680"
+        "@id": "_:g3257300"
       },
       {
-        "@id": "_:g3300480"
+        "@id": "_:g3268100"
       },
       {
-        "@id": "_:g3311820"
+        "@id": "_:g3279600"
       },
       {
-        "@id": "_:g3323300"
+        "@id": "_:g3291520"
       },
       {
-        "@id": "_:g3334780"
+        "@id": "_:g3303340"
       },
       {
-        "@id": "_:g3346140"
+        "@id": "_:g3314800"
       },
       {
-        "@id": "_:g3357700"
+        "@id": "_:g3567600"
       }
     ],
     "http://schema.org/name": [
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "@id": "_:g495260",
+    "@id": "_:g497180",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "@id": "_:g1804820",
+    "@id": "_:g1798340",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "@id": "_:g1815660",
+    "@id": "_:g1809660",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -366,7 +366,7 @@
     ]
   },
   {
-    "@id": "_:g1826020",
+    "@id": "_:g1820140",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "@id": "_:g1836380",
+    "@id": "_:g1830520",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -402,7 +402,7 @@
     ]
   },
   {
-    "@id": "_:g1847800",
+    "@id": "_:g1841920",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "@id": "_:g1863420",
+    "@id": "_:g1857580",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -438,7 +438,7 @@
     ]
   },
   {
-    "@id": "_:g1872340",
+    "@id": "_:g1866500",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "@id": "_:g1883040",
+    "@id": "_:g1877220",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -474,7 +474,7 @@
     ]
   },
   {
-    "@id": "_:g1894200",
+    "@id": "_:g1888320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -492,7 +492,7 @@
     ]
   },
   {
-    "@id": "_:g1905620",
+    "@id": "_:g1899920",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -510,7 +510,7 @@
     ]
   },
   {
-    "@id": "_:g1917740",
+    "@id": "_:g1912020",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "@id": "_:g1930020",
+    "@id": "_:g1924160",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "@id": "_:g1968700",
+    "@id": "_:g1961900",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "@id": "_:g1979220",
+    "@id": "_:g1972380",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -582,7 +582,7 @@
     ]
   },
   {
-    "@id": "_:g1989640",
+    "@id": "_:g1982880",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "@id": "_:g2000020",
+    "@id": "_:g1993320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -618,7 +618,7 @@
     ]
   },
   {
-    "@id": "_:g2016440",
+    "@id": "_:g2009460",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -636,7 +636,7 @@
     ]
   },
   {
-    "@id": "_:g2026160",
+    "@id": "_:g2019520",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -654,7 +654,7 @@
     ]
   },
   {
-    "@id": "_:g2038500",
+    "@id": "_:g2031720",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "@id": "_:g2204240",
+    "@id": "_:g2137980",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "@id": "_:g2214240",
+    "@id": "_:g2148300",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "@id": "_:g2225740",
+    "@id": "_:g2159740",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "@id": "_:g2236640",
+    "@id": "_:g2170620",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -744,7 +744,7 @@
     ]
   },
   {
-    "@id": "_:g2246900",
+    "@id": "_:g2180820",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -762,7 +762,7 @@
     ]
   },
   {
-    "@id": "_:g2257380",
+    "@id": "_:g2191280",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -780,7 +780,7 @@
     ]
   },
   {
-    "@id": "_:g2267660",
+    "@id": "_:g2201580",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "@id": "_:g2278040",
+    "@id": "_:g2212320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "@id": "_:g2294040",
+    "@id": "_:g2228060",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -834,7 +834,7 @@
     ]
   },
   {
-    "@id": "_:g2302760",
+    "@id": "_:g2236340",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "@id": "_:g2313060",
+    "@id": "_:g2246620",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -870,7 +870,7 @@
     ]
   },
   {
-    "@id": "_:g2323280",
+    "@id": "_:g2256960",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -888,7 +888,7 @@
     ]
   },
   {
-    "@id": "_:g2333920",
+    "@id": "_:g2267520",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -906,7 +906,7 @@
     ]
   },
   {
-    "@id": "_:g2344660",
+    "@id": "_:g2277920",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "@id": "_:g2355220",
+    "@id": "_:g2288300",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -942,7 +942,7 @@
     ]
   },
   {
-    "@id": "_:g2365540",
+    "@id": "_:g2298620",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -960,7 +960,7 @@
     ]
   },
   {
-    "@id": "_:g2375820",
+    "@id": "_:g2309020",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -978,7 +978,7 @@
     ]
   },
   {
-    "@id": "_:g2386080",
+    "@id": "_:g2319340",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -996,7 +996,7 @@
     ]
   },
   {
-    "@id": "_:g2396380",
+    "@id": "_:g2329660",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1014,7 +1014,7 @@
     ]
   },
   {
-    "@id": "_:g2406680",
+    "@id": "_:g2339920",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1032,7 +1032,7 @@
     ]
   },
   {
-    "@id": "_:g2417200",
+    "@id": "_:g2350440",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1050,7 +1050,7 @@
     ]
   },
   {
-    "@id": "_:g2427740",
+    "@id": "_:g2360980",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "@id": "_:g2438120",
+    "@id": "_:g2371580",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1086,7 +1086,7 @@
     ]
   },
   {
-    "@id": "_:g2448380",
+    "@id": "_:g2381860",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1104,7 +1104,7 @@
     ]
   },
   {
-    "@id": "_:g2458720",
+    "@id": "_:g2392240",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1122,7 +1122,7 @@
     ]
   },
   {
-    "@id": "_:g2469000",
+    "@id": "_:g2402620",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1140,7 +1140,7 @@
     ]
   },
   {
-    "@id": "_:g2479340",
+    "@id": "_:g2413000",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1158,7 +1158,7 @@
     ]
   },
   {
-    "@id": "_:g2489740",
+    "@id": "_:g2423380",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "@id": "_:g2500040",
+    "@id": "_:g2433680",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1194,7 +1194,7 @@
     ]
   },
   {
-    "@id": "_:g2510360",
+    "@id": "_:g2444020",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1212,7 +1212,7 @@
     ]
   },
   {
-    "@id": "_:g2520700",
+    "@id": "_:g2454440",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1230,7 +1230,7 @@
     ]
   },
   {
-    "@id": "_:g2530960",
+    "@id": "_:g2464820",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "@id": "_:g2541400",
+    "@id": "_:g2475320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1266,7 +1266,7 @@
     ]
   },
   {
-    "@id": "_:g2551640",
+    "@id": "_:g2485620",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1284,7 +1284,7 @@
     ]
   },
   {
-    "@id": "_:g2567300",
+    "@id": "_:g2501300",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1302,7 +1302,7 @@
     ]
   },
   {
-    "@id": "_:g2575420",
+    "@id": "_:g2510500",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1320,7 +1320,7 @@
     ]
   },
   {
-    "@id": "_:g2585700",
+    "@id": "_:g2520840",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1338,7 +1338,7 @@
     ]
   },
   {
-    "@id": "_:g2596100",
+    "@id": "_:g2531280",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1356,7 +1356,7 @@
     ]
   },
   {
-    "@id": "_:g2606720",
+    "@id": "_:g2541640",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1374,7 +1374,7 @@
     ]
   },
   {
-    "@id": "_:g2617040",
+    "@id": "_:g2552020",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1392,7 +1392,7 @@
     ]
   },
   {
-    "@id": "_:g2627720",
+    "@id": "_:g2562680",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1410,7 +1410,7 @@
     ]
   },
   {
-    "@id": "_:g2638120",
+    "@id": "_:g2573060",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1428,7 +1428,7 @@
     ]
   },
   {
-    "@id": "_:g2896400",
+    "@id": "_:g2830480",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1446,7 +1446,7 @@
     ]
   },
   {
-    "@id": "_:g3243460",
+    "@id": "_:g3187840",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1464,7 +1464,7 @@
     ]
   },
   {
-    "@id": "_:g3259140",
+    "@id": "_:g3203200",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "@id": "_:g3278480",
+    "@id": "_:g3225040",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1500,7 +1500,7 @@
     ]
   },
   {
-    "@id": "_:g3290680",
+    "@id": "_:g3257300",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1518,7 +1518,7 @@
     ]
   },
   {
-    "@id": "_:g3300480",
+    "@id": "_:g3268100",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "@id": "_:g3311820",
+    "@id": "_:g3279600",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1554,7 +1554,7 @@
     ]
   },
   {
-    "@id": "_:g3323300",
+    "@id": "_:g3291520",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1572,7 +1572,7 @@
     ]
   },
   {
-    "@id": "_:g3334780",
+    "@id": "_:g3303340",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1590,7 +1590,7 @@
     ]
   },
   {
-    "@id": "_:g3346140",
+    "@id": "_:g3314800",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "@id": "_:g3357700",
+    "@id": "_:g3567600",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -1654,7 +1654,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g495280"
+        "@id": "_:g497200"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1676,7 +1676,7 @@
     ]
   },
   {
-    "@id": "_:g495280",
+    "@id": "_:g497200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1688,78 +1688,7 @@
     ]
   },
   {
-    "@id": "_:g498500",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.valspec.com/calendrier/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Soirées d'humour"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g498520",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.valspec.com/calendrier/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g498540",
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.valspec.com/spectacles/mike-ward-2/"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "USD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-21T00:00:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g498640",
+    "@id": "_:g500380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1782,7 +1711,7 @@
     ]
   },
   {
-    "@id": "_:g498660",
+    "@id": "_:g500400",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1799,7 +1728,7 @@
     ]
   },
   {
-    "@id": "_:g498680",
+    "@id": "_:g500420",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/la-geante/"
@@ -1830,7 +1759,7 @@
     ]
   },
   {
-    "@id": "_:g498780",
+    "@id": "_:g500520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1853,7 +1782,7 @@
     ]
   },
   {
-    "@id": "_:g498800",
+    "@id": "_:g500540",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1870,7 +1799,7 @@
     ]
   },
   {
-    "@id": "_:g498820",
+    "@id": "_:g500560",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/wooden-shapes/"
@@ -1901,7 +1830,7 @@
     ]
   },
   {
-    "@id": "_:g498920",
+    "@id": "_:g500660",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1924,7 +1853,7 @@
     ]
   },
   {
-    "@id": "_:g498940",
+    "@id": "_:g500680",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1941,7 +1870,7 @@
     ]
   },
   {
-    "@id": "_:g498960",
+    "@id": "_:g500700",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/sarah-bronsard/"
@@ -1972,7 +1901,7 @@
     ]
   },
   {
-    "@id": "_:g499060",
+    "@id": "_:g500800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1995,7 +1924,7 @@
     ]
   },
   {
-    "@id": "_:g499080",
+    "@id": "_:g500820",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2012,7 +1941,7 @@
     ]
   },
   {
-    "@id": "_:g499100",
+    "@id": "_:g500840",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/nathalie-simard-2/"
@@ -2043,7 +1972,7 @@
     ]
   },
   {
-    "@id": "_:g499200",
+    "@id": "_:g500940",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2066,7 +1995,7 @@
     ]
   },
   {
-    "@id": "_:g499220",
+    "@id": "_:g500960",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2083,7 +2012,7 @@
     ]
   },
   {
-    "@id": "_:g499240",
+    "@id": "_:g500980",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/la-chevre-de-monsieur-seguin/"
@@ -2114,7 +2043,7 @@
     ]
   },
   {
-    "@id": "_:g499340",
+    "@id": "_:g501080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2137,7 +2066,7 @@
     ]
   },
   {
-    "@id": "_:g499360",
+    "@id": "_:g501100",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2154,7 +2083,7 @@
     ]
   },
   {
-    "@id": "_:g499380",
+    "@id": "_:g501120",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/megan-brouillard-2/"
@@ -2185,7 +2114,7 @@
     ]
   },
   {
-    "@id": "_:g499480",
+    "@id": "_:g501240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2208,7 +2137,7 @@
     ]
   },
   {
-    "@id": "_:g499500",
+    "@id": "_:g501260",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2225,78 +2154,7 @@
     ]
   },
   {
-    "@id": "_:g499520",
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.valspec.com/spectacles/alexandre-forest/"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "USD"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-05T00:00:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g499620",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.valspec.com/calendrier/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Hors séries"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g499640",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.valspec.com/calendrier/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g499660",
+    "@id": "_:g501280",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/38e-finale-locale-de-cegeps-en-spectacle/"
@@ -2327,7 +2185,78 @@
     ]
   },
   {
-    "@id": "_:g499740",
+    "@id": "_:g501360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.valspec.com/calendrier/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Hors séries"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g501380",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.valspec.com/calendrier/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g501400",
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.valspec.com/spectacles/alexandre-forest/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2350,7 +2279,7 @@
     ]
   },
   {
-    "@id": "_:g499760",
+    "@id": "_:g501520",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2367,7 +2296,7 @@
     ]
   },
   {
-    "@id": "_:g499780",
+    "@id": "_:g501540",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/ensemble-den-directe-de-lunivers/"
@@ -2398,83 +2327,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/4ee9b349-f4f4-4749-ae3b-72df26335d7d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-21"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-21"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g498500"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g498520"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g498540"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.valspec.com/wp-content/uploads/Mike_Ward-TUX.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.valspec.com/spectacles/mike-ward-2/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.valspec.com/calendrier/"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Mike Ward"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.valspec.com/temporary/7bb65833-71a6-4d64-8db6-0a5621a84dde",
+    "@id": "https://www.valspec.com/temporary/648e29ad-554c-47c4-aae3-5001f10609d9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2492,17 +2345,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g498640"
+        "@id": "_:g500380"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g498660"
+        "@id": "_:g500400"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g498680"
+        "@id": "_:g500420"
       }
     ],
     "http://schema.org/image": [
@@ -2550,7 +2403,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/f365f1b9-46dc-4a8c-901c-0707bd3ab250",
+    "@id": "https://www.valspec.com/temporary/c3cf228e-9dfe-40d9-8a7b-c22eaeb76d68",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2568,17 +2421,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g498780"
+        "@id": "_:g500520"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g498800"
+        "@id": "_:g500540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g498820"
+        "@id": "_:g500560"
       }
     ],
     "http://schema.org/image": [
@@ -2626,7 +2479,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/597699e9-5c3a-4b48-aad7-83ab026c3267",
+    "@id": "https://www.valspec.com/temporary/e45b3ff3-2d42-4fe1-b8ed-85eb8a63886b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2644,17 +2497,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g498920"
+        "@id": "_:g500660"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g498940"
+        "@id": "_:g500680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g498960"
+        "@id": "_:g500700"
       }
     ],
     "http://schema.org/image": [
@@ -2702,7 +2555,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/d363710b-634b-4662-91be-5a51eebe877e",
+    "@id": "https://www.valspec.com/temporary/620634bc-b605-4649-8486-a429dbf113d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2720,17 +2573,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499060"
+        "@id": "_:g500800"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g499080"
+        "@id": "_:g500820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499100"
+        "@id": "_:g500840"
       }
     ],
     "http://schema.org/image": [
@@ -2778,7 +2631,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/7a99a6d1-0c81-43a4-baef-a9c046e62aad",
+    "@id": "https://www.valspec.com/temporary/8617b11b-d501-4a6d-b0a2-132de32e29a1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2796,17 +2649,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499200"
+        "@id": "_:g500940"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g499220"
+        "@id": "_:g500960"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499240"
+        "@id": "_:g500980"
       }
     ],
     "http://schema.org/image": [
@@ -2854,7 +2707,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/c54d1261-c329-43ce-aa26-881513d041d1",
+    "@id": "https://www.valspec.com/temporary/bbc74cc9-f8b7-40ea-950d-60d856b39e69",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2872,17 +2725,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499340"
+        "@id": "_:g501080"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g499360"
+        "@id": "_:g501100"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499380"
+        "@id": "_:g501120"
       }
     ],
     "http://schema.org/image": [
@@ -2930,7 +2783,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/7cb54eb0-dc17-4a2c-ae33-18538546ad3f",
+    "@id": "https://www.valspec.com/temporary/9acbfabb-6490-4721-8908-85bfca4e6e5d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2948,93 +2801,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499480"
+        "@id": "_:g501240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g499500"
+        "@id": "_:g501260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499520"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.valspec.com/wp-content/uploads/AlexandreForest_rodage_Sans-texte_1920x1080.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.valspec.com/spectacles/alexandre-forest/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.valspec.com/calendrier/"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Alexandre Forest"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.valspec.com/temporary/144aba5c-c137-4383-8178-9043eba43119",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-05"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-05"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g499620"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g499640"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g499660"
+        "@id": "_:g501280"
       }
     ],
     "http://schema.org/image": [
@@ -3082,7 +2859,83 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/ae22cb20-f12f-4af2-b917-2b2290e1fdbf",
+    "@id": "https://www.valspec.com/temporary/222afaae-1bf0-406b-b7c4-663e57a1ee96",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g501360"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g501380"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g501400"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.valspec.com/wp-content/uploads/AlexandreForest_rodage_Sans-texte_1920x1080.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.valspec.com/spectacles/alexandre-forest/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.valspec.com/calendrier/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Alexandre Forest"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.valspec.com/temporary/793d6cba-f96f-4c7d-9085-3742d53d5844",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3100,17 +2953,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499740"
+        "@id": "_:g501500"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g499760"
+        "@id": "_:g501520"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499780"
+        "@id": "_:g501540"
       }
     ],
     "http://schema.org/image": [
@@ -3293,7 +3146,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1804840"
+        "@id": "_:g1798360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3378,7 +3231,7 @@
     ]
   },
   {
-    "@id": "_:g1804840",
+    "@id": "_:g1798360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3443,7 +3296,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3290700"
+        "@id": "_:g3225060"
       }
     ],
     "http://schema.org/name": [
@@ -3476,7 +3329,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3300500"
+        "@id": "_:g3257320"
       }
     ],
     "http://schema.org/name": [
@@ -3509,7 +3362,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3311840"
+        "@id": "_:g3268120"
       }
     ],
     "http://schema.org/name": [
@@ -3542,7 +3395,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3323320"
+        "@id": "_:g3279620"
       }
     ],
     "http://schema.org/name": [
@@ -3575,7 +3428,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3334800"
+        "@id": "_:g3291540"
       }
     ],
     "http://schema.org/name": [
@@ -3608,7 +3461,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3346160"
+        "@id": "_:g3303360"
       }
     ],
     "http://schema.org/name": [
@@ -3641,7 +3494,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3357720"
+        "@id": "_:g3314820"
       }
     ],
     "http://schema.org/name": [
@@ -4101,7 +3954,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1815680"
+        "@id": "_:g1809680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4123,7 +3976,7 @@
     ]
   },
   {
-    "@id": "_:g1815680",
+    "@id": "_:g1809680",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4270,7 +4123,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1826040"
+        "@id": "_:g1820160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4292,7 +4145,7 @@
     ]
   },
   {
-    "@id": "_:g1826040",
+    "@id": "_:g1820160",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4439,7 +4292,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1836400"
+        "@id": "_:g1830540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4461,7 +4314,7 @@
     ]
   },
   {
-    "@id": "_:g1836400",
+    "@id": "_:g1830540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4608,7 +4461,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1847820"
+        "@id": "_:g1841940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4657,7 +4510,7 @@
     ]
   },
   {
-    "@id": "_:g1847820",
+    "@id": "_:g1841940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4685,7 +4538,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3278500"
+        "@id": "_:g3567620"
       }
     ],
     "http://schema.org/name": [
@@ -4875,7 +4728,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1863440"
+        "@id": "_:g1857600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4924,7 +4777,7 @@
     ]
   },
   {
-    "@id": "_:g1863440",
+    "@id": "_:g1857600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4952,7 +4805,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3259160"
+        "@id": "_:g3203220"
       }
     ],
     "http://schema.org/name": [
@@ -5148,7 +5001,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1872360"
+        "@id": "_:g1866520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5170,7 +5023,7 @@
     ]
   },
   {
-    "@id": "_:g1872360",
+    "@id": "_:g1866520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5317,7 +5170,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1883060"
+        "@id": "_:g1877240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5339,7 +5192,7 @@
     ]
   },
   {
-    "@id": "_:g1883060",
+    "@id": "_:g1877240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5486,7 +5339,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1894220"
+        "@id": "_:g1888340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5508,7 +5361,7 @@
     ]
   },
   {
-    "@id": "_:g1894220",
+    "@id": "_:g1888340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5655,7 +5508,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1905640"
+        "@id": "_:g1899940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5677,7 +5530,7 @@
     ]
   },
   {
-    "@id": "_:g1905640",
+    "@id": "_:g1899940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5824,7 +5677,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1917760"
+        "@id": "_:g1912040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5846,7 +5699,7 @@
     ]
   },
   {
-    "@id": "_:g1917760",
+    "@id": "_:g1912040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5993,7 +5846,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1930040"
+        "@id": "_:g1924180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6015,7 +5868,7 @@
     ]
   },
   {
-    "@id": "_:g1930040",
+    "@id": "_:g1924180",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6162,7 +6015,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1968720"
+        "@id": "_:g1961920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6184,7 +6037,7 @@
     ]
   },
   {
-    "@id": "_:g1968720",
+    "@id": "_:g1961920",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6331,7 +6184,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1979240"
+        "@id": "_:g1972400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6353,7 +6206,7 @@
     ]
   },
   {
-    "@id": "_:g1979240",
+    "@id": "_:g1972400",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6500,7 +6353,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1989660"
+        "@id": "_:g1982900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6522,7 +6375,7 @@
     ]
   },
   {
-    "@id": "_:g1989660",
+    "@id": "_:g1982900",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6669,7 +6522,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2000040"
+        "@id": "_:g1993340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6691,7 +6544,7 @@
     ]
   },
   {
-    "@id": "_:g2000040",
+    "@id": "_:g1993340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6838,7 +6691,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2016460"
+        "@id": "_:g2009480"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6860,7 +6713,7 @@
     ]
   },
   {
-    "@id": "_:g2016460",
+    "@id": "_:g2009480",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7007,7 +6860,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2026180"
+        "@id": "_:g2019540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7029,7 +6882,7 @@
     ]
   },
   {
-    "@id": "_:g2026180",
+    "@id": "_:g2019540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7176,7 +7029,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2038520"
+        "@id": "_:g2031740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7198,7 +7051,7 @@
     ]
   },
   {
-    "@id": "_:g2038520",
+    "@id": "_:g2031740",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7311,7 +7164,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2204260"
+        "@id": "_:g2138000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7333,7 +7186,7 @@
     ]
   },
   {
-    "@id": "_:g2204260",
+    "@id": "_:g2138000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7480,7 +7333,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2214260"
+        "@id": "_:g2148320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7502,7 +7355,7 @@
     ]
   },
   {
-    "@id": "_:g2214260",
+    "@id": "_:g2148320",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7649,7 +7502,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2225760"
+        "@id": "_:g2159760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7671,7 +7524,7 @@
     ]
   },
   {
-    "@id": "_:g2225760",
+    "@id": "_:g2159760",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7812,7 +7665,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2236660"
+        "@id": "_:g2170640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7834,7 +7687,7 @@
     ]
   },
   {
-    "@id": "_:g2236660",
+    "@id": "_:g2170640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7981,7 +7834,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2246920"
+        "@id": "_:g2180840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8003,7 +7856,7 @@
     ]
   },
   {
-    "@id": "_:g2246920",
+    "@id": "_:g2180840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8150,7 +8003,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2257400"
+        "@id": "_:g2191300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8172,7 +8025,7 @@
     ]
   },
   {
-    "@id": "_:g2257400",
+    "@id": "_:g2191300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8319,7 +8172,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2267680"
+        "@id": "_:g2201600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8341,7 +8194,7 @@
     ]
   },
   {
-    "@id": "_:g2267680",
+    "@id": "_:g2201600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8488,7 +8341,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2278060"
+        "@id": "_:g2212340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8510,7 +8363,7 @@
     ]
   },
   {
-    "@id": "_:g2278060",
+    "@id": "_:g2212340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8657,7 +8510,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2294060"
+        "@id": "_:g2228080"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8679,7 +8532,7 @@
     ]
   },
   {
-    "@id": "_:g2294060",
+    "@id": "_:g2228080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8826,7 +8679,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2302780"
+        "@id": "_:g2236360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8848,7 +8701,7 @@
     ]
   },
   {
-    "@id": "_:g2302780",
+    "@id": "_:g2236360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -8989,7 +8842,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2313080"
+        "@id": "_:g2246640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9011,7 +8864,7 @@
     ]
   },
   {
-    "@id": "_:g2313080",
+    "@id": "_:g2246640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9152,7 +9005,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2323300"
+        "@id": "_:g2256980"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9174,7 +9027,7 @@
     ]
   },
   {
-    "@id": "_:g2323300",
+    "@id": "_:g2256980",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9315,7 +9168,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2333940"
+        "@id": "_:g2267540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9337,7 +9190,7 @@
     ]
   },
   {
-    "@id": "_:g2333940",
+    "@id": "_:g2267540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9478,7 +9331,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2344680"
+        "@id": "_:g2277940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9500,7 +9353,7 @@
     ]
   },
   {
-    "@id": "_:g2344680",
+    "@id": "_:g2277940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9646,7 +9499,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2355240"
+        "@id": "_:g2288320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9668,7 +9521,7 @@
     ]
   },
   {
-    "@id": "_:g2355240",
+    "@id": "_:g2288320",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9815,7 +9668,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2365560"
+        "@id": "_:g2298640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9837,7 +9690,7 @@
     ]
   },
   {
-    "@id": "_:g2365560",
+    "@id": "_:g2298640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -9978,7 +9831,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2375840"
+        "@id": "_:g2309040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10000,7 +9853,7 @@
     ]
   },
   {
-    "@id": "_:g2375840",
+    "@id": "_:g2309040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10147,7 +10000,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2386100"
+        "@id": "_:g2319360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10169,7 +10022,7 @@
     ]
   },
   {
-    "@id": "_:g2386100",
+    "@id": "_:g2319360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10310,7 +10163,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2396400"
+        "@id": "_:g2329680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10332,7 +10185,7 @@
     ]
   },
   {
-    "@id": "_:g2396400",
+    "@id": "_:g2329680",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10479,7 +10332,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2406700"
+        "@id": "_:g2339940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10501,7 +10354,7 @@
     ]
   },
   {
-    "@id": "_:g2406700",
+    "@id": "_:g2339940",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10648,7 +10501,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2417220"
+        "@id": "_:g2350460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10670,7 +10523,7 @@
     ]
   },
   {
-    "@id": "_:g2417220",
+    "@id": "_:g2350460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10817,7 +10670,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2427760"
+        "@id": "_:g2361000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10839,7 +10692,7 @@
     ]
   },
   {
-    "@id": "_:g2427760",
+    "@id": "_:g2361000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10986,7 +10839,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2438140"
+        "@id": "_:g2371600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11008,7 +10861,7 @@
     ]
   },
   {
-    "@id": "_:g2438140",
+    "@id": "_:g2371600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11155,7 +11008,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2448400"
+        "@id": "_:g2381880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11177,7 +11030,7 @@
     ]
   },
   {
-    "@id": "_:g2448400",
+    "@id": "_:g2381880",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11324,7 +11177,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2458740"
+        "@id": "_:g2392260"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11346,7 +11199,7 @@
     ]
   },
   {
-    "@id": "_:g2458740",
+    "@id": "_:g2392260",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11487,7 +11340,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2469020"
+        "@id": "_:g2402640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11509,7 +11362,7 @@
     ]
   },
   {
-    "@id": "_:g2469020",
+    "@id": "_:g2402640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11650,7 +11503,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2479360"
+        "@id": "_:g2413020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11672,7 +11525,7 @@
     ]
   },
   {
-    "@id": "_:g2479360",
+    "@id": "_:g2413020",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11819,7 +11672,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2489760"
+        "@id": "_:g2423400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11841,7 +11694,7 @@
     ]
   },
   {
-    "@id": "_:g2489760",
+    "@id": "_:g2423400",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11988,7 +11841,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2500060"
+        "@id": "_:g2433700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12010,7 +11863,7 @@
     ]
   },
   {
-    "@id": "_:g2500060",
+    "@id": "_:g2433700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12157,7 +12010,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2510380"
+        "@id": "_:g2444040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12179,7 +12032,7 @@
     ]
   },
   {
-    "@id": "_:g2510380",
+    "@id": "_:g2444040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12326,7 +12179,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2520720"
+        "@id": "_:g2454460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12348,7 +12201,7 @@
     ]
   },
   {
-    "@id": "_:g2520720",
+    "@id": "_:g2454460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12495,7 +12348,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2530980"
+        "@id": "_:g2464840"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12517,7 +12370,7 @@
     ]
   },
   {
-    "@id": "_:g2530980",
+    "@id": "_:g2464840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12658,7 +12511,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2541420"
+        "@id": "_:g2475340"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12680,7 +12533,7 @@
     ]
   },
   {
-    "@id": "_:g2541420",
+    "@id": "_:g2475340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12827,7 +12680,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2551660"
+        "@id": "_:g2485640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12849,7 +12702,7 @@
     ]
   },
   {
-    "@id": "_:g2551660",
+    "@id": "_:g2485640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12996,7 +12849,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2567320"
+        "@id": "_:g2501320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13018,7 +12871,7 @@
     ]
   },
   {
-    "@id": "_:g2567320",
+    "@id": "_:g2501320",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13165,7 +13018,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2575440"
+        "@id": "_:g2510520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13187,7 +13040,7 @@
     ]
   },
   {
-    "@id": "_:g2575440",
+    "@id": "_:g2510520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13328,7 +13181,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2585720"
+        "@id": "_:g2520860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13350,7 +13203,7 @@
     ]
   },
   {
-    "@id": "_:g2585720",
+    "@id": "_:g2520860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13491,7 +13344,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2596120"
+        "@id": "_:g2531300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13513,7 +13366,7 @@
     ]
   },
   {
-    "@id": "_:g2596120",
+    "@id": "_:g2531300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13654,7 +13507,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2606740"
+        "@id": "_:g2541660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13676,7 +13529,7 @@
     ]
   },
   {
-    "@id": "_:g2606740",
+    "@id": "_:g2541660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13823,7 +13676,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2617060"
+        "@id": "_:g2552040"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -13845,7 +13698,7 @@
     ]
   },
   {
-    "@id": "_:g2617060",
+    "@id": "_:g2552040",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -13986,7 +13839,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2627740"
+        "@id": "_:g2562700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -14008,7 +13861,7 @@
     ]
   },
   {
-    "@id": "_:g2627740",
+    "@id": "_:g2562700",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14155,7 +14008,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2638140"
+        "@id": "_:g2573080"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -14177,7 +14030,7 @@
     ]
   },
   {
-    "@id": "_:g2638140",
+    "@id": "_:g2573080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14307,7 +14160,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g2896420"
+        "@id": "_:g2830500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -14329,7 +14182,7 @@
     ]
   },
   {
-    "@id": "_:g2896420",
+    "@id": "_:g2830500",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14341,7 +14194,7 @@
     ]
   },
   {
-    "@id": "_:g2899360",
+    "@id": "_:g2833300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14364,7 +14217,7 @@
     ]
   },
   {
-    "@id": "_:g2899380",
+    "@id": "_:g2833320",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -14381,7 +14234,7 @@
     ]
   },
   {
-    "@id": "_:g2899400",
+    "@id": "_:g2833340",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/souterrain/"
@@ -14412,7 +14265,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/f4ee35bf-9ff7-48e1-adb5-8a345a4a58f3",
+    "@id": "https://www.valspec.com/temporary/1fd740df-f9ad-45aa-936a-792353431c8b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14430,17 +14283,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g2899360"
+        "@id": "_:g2833300"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g2899380"
+        "@id": "_:g2833320"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g2899400"
+        "@id": "_:g2833340"
       }
     ],
     "http://schema.org/image": [
@@ -14560,7 +14413,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g3243480"
+        "@id": "_:g3187860"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -14582,7 +14435,7 @@
     ]
   },
   {
-    "@id": "_:g3243480",
+    "@id": "_:g3187860",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -14594,7 +14447,7 @@
     ]
   },
   {
-    "@id": "_:g3246980",
+    "@id": "_:g3191020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14617,7 +14470,7 @@
     ]
   },
   {
-    "@id": "_:g3247000",
+    "@id": "_:g3191040",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -14634,7 +14487,7 @@
     ]
   },
   {
-    "@id": "_:g3247020",
+    "@id": "_:g3191060",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/38e-finale-locale-de-cegeps-en-spectacle/"
@@ -14665,7 +14518,7 @@
     ]
   },
   {
-    "@id": "_:g3247100",
+    "@id": "_:g3191140",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14688,7 +14541,7 @@
     ]
   },
   {
-    "@id": "_:g3247120",
+    "@id": "_:g3191160",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -14705,7 +14558,7 @@
     ]
   },
   {
-    "@id": "_:g3247140",
+    "@id": "_:g3191180",
     "http://schema.org/price": [
       {
         "@language": "fr",
@@ -14731,7 +14584,7 @@
     ]
   },
   {
-    "@id": "_:g3247240",
+    "@id": "_:g3191280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14754,7 +14607,7 @@
     ]
   },
   {
-    "@id": "_:g3247260",
+    "@id": "_:g3191300",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -14771,7 +14624,7 @@
     ]
   },
   {
-    "@id": "_:g3247280",
+    "@id": "_:g3191320",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/festival-du-film-de-banff-50e-edition/"
@@ -14802,7 +14655,7 @@
     ]
   },
   {
-    "@id": "_:g3247360",
+    "@id": "_:g3191400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14825,7 +14678,7 @@
     ]
   },
   {
-    "@id": "_:g3247380",
+    "@id": "_:g3191420",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -14842,7 +14695,7 @@
     ]
   },
   {
-    "@id": "_:g3247400",
+    "@id": "_:g3191440",
     "http://schema.org/url": [
       {
         "@id": "https://www.valspec.com/spectacles/concert-sous-les-chandelles-groupe-izanto/"
@@ -14873,7 +14726,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/f055ec0b-ecf8-42d0-a82a-bc47f4133183",
+    "@id": "https://www.valspec.com/temporary/4fc2994d-1dbb-4c67-8616-995b4d48af98",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14891,17 +14744,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3246980"
+        "@id": "_:g3191020"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g3247000"
+        "@id": "_:g3191040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g3247020"
+        "@id": "_:g3191060"
       }
     ],
     "http://schema.org/image": [
@@ -14949,7 +14802,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/e8d95edb-eb0e-46d1-adc0-c9a2bb47d8b1",
+    "@id": "https://www.valspec.com/temporary/69fa0eef-1eea-44b5-a8f3-05d01cf71e8c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14967,17 +14820,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3247100"
+        "@id": "_:g3191140"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g3247120"
+        "@id": "_:g3191160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g3247140"
+        "@id": "_:g3191180"
       }
     ],
     "http://schema.org/image": [
@@ -15020,7 +14873,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/b9af3009-3fdc-4729-99d8-6bf9e2805437",
+    "@id": "https://www.valspec.com/temporary/6f2c62c9-9608-49be-845c-6db0da5c8d3a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15038,17 +14891,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3247240"
+        "@id": "_:g3191280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g3247260"
+        "@id": "_:g3191300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g3247280"
+        "@id": "_:g3191320"
       }
     ],
     "http://schema.org/image": [
@@ -15096,7 +14949,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/525c880c-b275-40be-a0b8-8c31f4761ef0",
+    "@id": "https://www.valspec.com/temporary/828c9d8f-de1b-40de-8208-70ab0894fef4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15114,17 +14967,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3247360"
+        "@id": "_:g3191400"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g3247380"
+        "@id": "_:g3191420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g3247400"
+        "@id": "_:g3191440"
       }
     ],
     "http://schema.org/image": [
@@ -15172,7 +15025,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/caa02d39-178b-4576-a9ac-41bb61464655",
+    "@id": "https://www.valspec.com/temporary/42677385-70ed-404a-b089-9cb3379da120",
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.valspec.com/mec-category/hors-series/"
@@ -15186,7 +15039,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/abaf5ba6-e0f9-4c9d-966a-0ee079a51e0d",
+    "@id": "https://www.valspec.com/temporary/1bccd7b3-add7-469a-aa32-b4f1a36536a6",
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.valspec.com/mec-category/hors-series/"
@@ -15200,7 +15053,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/913ce311-c031-4ec9-9ee9-a5505b6b2f94",
+    "@id": "https://www.valspec.com/temporary/7d90182d-0767-4681-91f4-22fb34f2d2a4",
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.valspec.com/mec-category/hors-series/"
@@ -15214,7 +15067,7 @@
     ]
   },
   {
-    "@id": "https://www.valspec.com/temporary/87fba112-5d16-404c-a95f-893bae13bb9d",
+    "@id": "https://www.valspec.com/temporary/de200ede-c438-4663-8018-073e778e4ddd",
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.valspec.com/mec-category/hors-series/"
@@ -15228,7 +15081,7 @@
     ]
   },
   {
-    "@id": "_:g3259160",
+    "@id": "_:g3203220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15240,19 +15093,7 @@
     ]
   },
   {
-    "@id": "_:g3278500",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://www.valspec.com/author/agencezel/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3290700",
+    "@id": "_:g3225060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15264,7 +15105,7 @@
     ]
   },
   {
-    "@id": "_:g3300500",
+    "@id": "_:g3257320",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15276,7 +15117,7 @@
     ]
   },
   {
-    "@id": "_:g3311840",
+    "@id": "_:g3268120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15288,7 +15129,7 @@
     ]
   },
   {
-    "@id": "_:g3323320",
+    "@id": "_:g3279620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15300,7 +15141,7 @@
     ]
   },
   {
-    "@id": "_:g3334800",
+    "@id": "_:g3291540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15312,7 +15153,7 @@
     ]
   },
   {
-    "@id": "_:g3346160",
+    "@id": "_:g3303360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15324,7 +15165,7 @@
     ]
   },
   {
-    "@id": "_:g3357720",
+    "@id": "_:g3314820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -15332,6 +15173,18 @@
       {
         "@language": "fr",
         "@value": "https://www.valspec.com/author/stafford/page/7/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3567620",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.valspec.com/author/agencezel/"
       }
     ]
   }
